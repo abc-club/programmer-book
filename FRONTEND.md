@@ -90,6 +90,8 @@
 * [vue / react的UI库都在用的几个DOM API🚀](https://juejin.im/post/5d808601f265da03ef7a469b)
 * [观众老爷们，来试试这个用 Vue 撸的数据可视化后台吧](https://juejin.im/post/5d08405a5188253049042d72)
 * [收下这波 vue 技巧，让开发效率翻倍](https://juejin.im/post/5d8f0475f265da5b9d1ee503)
+* [vue-router 源码：实现一个简单的 vue-router](https://juejin.im/post/5b35dcb5f265da59a117344d)
+
 
 ### 开源项目
 * [vue-sell](https://github.com/ustbhuangyi/vue-sell)
