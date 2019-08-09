@@ -21,6 +21,7 @@
 * [移动端](#移动端)
 * [微信公众号](#微信公众号)
 * [小程序](#小程序)
+* [webpack](#webpack)
 * [性能与监控](#性能与监控)
 * [高质文章](#高质文章)
 * [趋势](#趋势)
@@ -37,6 +38,8 @@
 ### 文章
  * [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
  * [VUE单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
+ * [一个Vue引发的性能问题](https://juejin.im/post/5c97691fe51d4522c55f9ead)
+ * [【2019 前端进阶之路】Vue 组件间通信方式完整版](https://juejin.im/post/5c776ee4f265da2da53edfad)
 
 
 
@@ -191,8 +194,9 @@
  * [2019 年常用 JavaScript 正则大全]( https://juejin.im/post/5d245d4151882555300feb77)
  * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
  * [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
+ * [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
 
-
+浅拷贝与深拷贝
 ## 移动端
 
 ### 常用库
@@ -206,6 +210,12 @@
 - wechatBot https://github.com/gengchen528/wechatBot
 
 ## 小程序
+
+## webpack
+### 文章
+ * [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
+
+
 
 
 ## 性能与监控
@@ -247,6 +257,8 @@
 ## 数据结构与算法
 
  * [数据结构与算法（三）—— 常见排序算法和swift实现](https://juejin.im/post/5c46b05d51882524a23f3a12)
+ * [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
+
 
 ## js-core
  * [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
@@ -262,5 +274,5 @@
 
 
 
- 
+
  
