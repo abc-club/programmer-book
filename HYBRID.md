@@ -21,3 +21,12 @@
 
 
 ## flutter
+
+### 文章
+* [Flutter资源](https://github.com/nieyafei/flutter-resources)
+* [Flutter 完全手册](https://juejin.im/book/5c5423ef6fb9a049cd54a213)
+
+
+### demo
+
+* [demo集合](https://github.com/XXApple/AndroidLibs/tree/master/Flutter)
