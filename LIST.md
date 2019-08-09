@@ -9,6 +9,7 @@
 
 * [JavaScript是如何工作的系列](https://github.com/qq449245884/xiaozhi)
 * [ 前端性能优化 系列](https://github.com/qq449245884/xiaozhi)
+* [前端进阶必备，github 优质资源整理分享！](https://juejin.im/post/5d3edad9f265da03a652f133)
 
  
 
