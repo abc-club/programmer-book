@@ -15,6 +15,6 @@
 * [后端](BACKEND.md)
 * [常用工具](USEFULTOOLS.md)
 * [常用技巧](SKILLS.md)
-* [大神](FOLLOW.md)
 * [前端自检](CHECKLIST.md)
 * [精品系列](LIST.md)
+* [你需要关注的公众号、博客、大神等](FOLLOW.md)
