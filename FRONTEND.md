@@ -16,8 +16,8 @@
 * [nodejs](#nodejs)
 * [常用库](#常用库)
 * [css](#css)
-* [面试](#面试)
 * [js](#js)
+* [es6](#es6)
 * [移动端](#移动端)
 * [微信公众号](#微信公众号)
 * [小程序](#小程序)
@@ -29,6 +29,7 @@
 * [动效](#动效)
 * [数据结构与算法](#数据结构与算法)
 * [js core](#js-core)
+* [代码规范](#代码规范)
 * [工具](#工具)
 * [其他必备知识](#其他必备知识)
 
@@ -37,6 +38,7 @@
 
 
 ### 文章
+ * [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
  * [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
  * [VUE单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
  * [一个Vue引发的性能问题](https://juejin.im/post/5c97691fe51d4522c55f9ead)
@@ -64,6 +66,9 @@
 - 一文速览React全栈  https://juejin.im/post/5d0ee2906fb9a07ea33c1f8b
 - React同构与极致的性能优化 https://segmentfault.com/a/1190000012464033
 - 阿里开源项目 	https://segmentfault.com/a/1190000016773002
+* [一文速览React全栈](https://juejin.im/post/5d0ee2906fb9a07ea33c1f8b)
+* [掘金最污的 React16.x 图文视频教程(2万5千字长文-慎入)](https://juejin.im/post/5d085be0f265da1bac401937)
+
 
 ### 组件库
 - ant-design  https://ant.design/index-cn
@@ -124,7 +129,10 @@
 - taro-ui https://taro-ui.jd.com
 
 ### 文章
- * [dva+ts+taro 小程序构建-资料总汇](hhttps://juejin.im/post/5d1041436fb9a07eeb13b2fa)
+ * [dva+ts+taro 小程序构建-资料总汇](https://juejin.im/post/5d1041436fb9a07eeb13b2fa)
+ * [Taro撸一个简版的微信读书小程序](https://juejin.im/post/5d1e16676fb9a07ebd48f488)
+ * [Abraham - 用Taro写个垃圾分类微信小程序](https://juejin.im/post/5d2a0774518825290726fa7a)
+
 
 ### demo
 - https://github.com/huangzhuangjia/taro-music
@@ -185,20 +193,37 @@
 - javascript-mqtt-demo-wearingTip   https://github.com/coolnameismy/javascript-mqtt-demo-wearingTip
 - 面试官(7): 聊一聊 Babel? https://juejin.im/post/5c03b85ae51d450c740de19c
 
-## 面试
- * [前端 100 问：能搞懂 80% 的请把简历给我](https://juejin.im/post/5d23e750f265da1b855c7bbe)
- * [精读《最佳前端面试题》及面试官技巧](https://zhuanlan.zhihu.com/p/28333260)
- * [作为技术面试官，为什么把你pass了](https://juejin.im/post/5c1e7a086fb9a049b82a7310)
- * [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 
 ## js
+
+### 正则表达式
+
+ * [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
  * [2019 年常用 JavaScript 正则大全]( https://juejin.im/post/5d245d4151882555300feb77)
+ * [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
+ * [2019年JS正则大全(常用)](https://juejin.im/post/5d245d4151882555300feb77)
+
+
+### 其他
  * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
  * [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
  * [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
+ * [JS中轻松遍历对象属性的几种方式](https://juejin.im/post/5d48c275f265da03b12032a1)
 
-浅拷贝与深拷贝
+
+## es6
+
+ * [Promise源码详解](https://juejin.im/post/5b32f552f265da59991155f0)
+
+
+
 ## 移动端
+
+### 文章
+ * [移动端适配深度探究](https://juejin.im/post/5c9830e65188252d64583343)
+ * [第三代移动端布局方案](https://juejin.im/post/5cb078f05188251ace1fedb4)
+ * [移动端1px解决方案](https://juejin.im/post/5d19b729f265da1bb2774865)
+
 
 ### 常用库
 - lib-flexible  https://github.com/amfe/lib-flexible
@@ -246,13 +271,21 @@
  * [fullstack tutorial](https://github.com/frank-lam/fullstack-tutorial)
  * [五星推荐的系列文章清单](https://juejin.im/post/5c1f01fef265da61587723f4)
  * [端动态化方案详细设计](https://juejin.im/post/5c274d0151882504bd0e80b3)
+ * [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://juejin.im/post/5c8e5e4951882545c109ae9c)
 
 
 ## 趋势
-- 了解什么是微前端  https://juejin.im/post/5d1f19e3f265da1bab29ce5f?utm_source=gold_browser_extension
 - 微前端  https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html    https://github.com/neuland/micro-frontends
+ * [了解什么是微前端]( https://juejin.im/post/5d1f19e3f265da1bab29ce5f)
+ * [微前端实践](https://juejin.im/post/5cadd7835188251b2f3a4bb0)
+ * [无代码编程](https://juejin.im/post/5ca2e9dcf265da30c231a5c2)
+ * [基于 React & TypeScript & Webpack 的微前端应用模板](https://juejin.im/post/5c4f265e6fb9a049a97a199d)
 
 ## 动效
+
+### 工具库
+ * [可能是最全的前端动效库汇总](https://juejin.im/post/5cc089eae51d456e7d189f9d)
+
 
 ### demo
  * [2018 最佳前端动效集锦](https://tympanus.net/codrops/2018/12/27/awesome-demos-from-2018/)
@@ -266,15 +299,23 @@
 
 ## js-core
  * [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
+ * [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+ * [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
+
+
+## 代码规范
+ * [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 
 
 ## 工具
 
  * [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
+ * [21 个VSCode 快捷键，让代码更快，更有趣](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
 
 
  ## 其他必备知识
  * [前端开发者必备的Nginx知识](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
+ * [多站点单点登录实现方案](https://juejin.im/post/5d04d946f265da1b9163915a)
 
 
 
