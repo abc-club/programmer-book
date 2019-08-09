@@ -13,4 +13,6 @@
 * [电子书](电子书.md)
 * [常用技巧](SKILLS.md)
 * [面试题](INTERVIEW.md)
+* [自己动手](DIY.md)
+* [心路历程](INTERVIEW.md)
 

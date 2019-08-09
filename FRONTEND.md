@@ -28,6 +28,7 @@
 * [数据结构与算法](#数据结构与算法)
 * [js core](#js-core)
 * [工具](#工具)
+* [其他必备知识](#其他必备知识)
 
 
 ## vue
@@ -254,3 +255,12 @@
 ## 工具
 
  * [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
+
+
+ ## 其他必备知识
+ * [前端开发者必备的Nginx知识](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
+
+
+
+ 
+ 
