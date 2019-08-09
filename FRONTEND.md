@@ -7,13 +7,13 @@
 
 ## 目录
 
+* [nodejs](NODEJS.md)
 * [vue](#vue)
 * [react](#react)
 * [react-native](#react-native)
 * [Weex](#Weex)
 * [typescript](#typescript)
 * [Taro](#Taro)
-* [nodejs](#nodejs)
 * [常用库](#常用库)
 * [css](#css)
 * [js](#js)
@@ -145,18 +145,6 @@
 - https://juejin.im/post/5d2a0774518825290726fa7a
 
 
-## nodejs
-### 官网
-- 英文官网  https://nodejs.org/en/
-- 中文官网  http://nodejs.cn/
-
-### 参考资料
-- 七天学会NodeJS文档  http://nqdeng.github.io/7-days-nodejs/
-- node面试题  https://github.com/ElemeFE/node-interview
-- Node应用内存泄漏分析方法论与实战 https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/node-memory-leak.md
-
-
-
 ## 常用库
 
 ### 数据
@@ -180,9 +168,6 @@
 ### 文章
 - 移动端1px解决方案 https://juejin.im/post/5d19b729f265da1bb2774865?utm_source=gold_browser_extension
 
-## nodejs
-
-- nodejs最佳实践   https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md
 
 ## 物联网
 - mosca https://github.com/mcollina/mosca
@@ -214,7 +199,7 @@
 ## es6
 
  * [Promise源码详解](https://juejin.im/post/5b32f552f265da59991155f0)
-
+ * [最后一次搞懂 Event Loop](https://juejin.im/post/5cbc0a9cf265da03b11f3505)
 
 
 ## 移动端
@@ -280,6 +265,7 @@
  * [微前端实践](https://juejin.im/post/5cadd7835188251b2f3a4bb0)
  * [无代码编程](https://juejin.im/post/5ca2e9dcf265da30c231a5c2)
  * [基于 React & TypeScript & Webpack 的微前端应用模板](https://juejin.im/post/5c4f265e6fb9a049a97a199d)
+ * [哪些技术会决定前端开发者的未来发展？](https://juejin.im/post/5d1589c8e51d45776031b02e)
 
 ## 动效
 

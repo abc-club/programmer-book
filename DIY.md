@@ -24,6 +24,7 @@ Do it yourself!!!
  * [Promise原理讲解 && 实现一个Promise对象 (遵循Promise/A+规范)](https://juejin.im/post/5aa7868b6fb9a028dd4de672)
  
 ## 实战
+ * [从零实现Vue的组件库](https://juejin.im/post/5c0b8ece5188254f9e2809fe)
  * [DIY一个前端监控平台（上）](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
  * [一步一步搭建前端监控系统：如何记录用户行为？](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
 
