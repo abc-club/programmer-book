@@ -17,6 +17,27 @@
 
 ## 公众号
 
+- infoQ 
+
+![](ASSETS/IMAGES/FOLLOW/001.jpeg) 
+- 前端早读课
+![](ASSETS/IMAGES/FOLLOW/002.jpeg) 
+- 程序员那些事
+
+![](ASSETS/IMAGES/FOLLOW/003.jpeg)
+
+- javascript
+
+![](ASSETS/IMAGES/FOLLOW/004.jpeg)
+
+- 前端大学
+![](ASSETS/IMAGES/FOLLOW/005.jpeg)
+
+- 高级前端
+![](ASSETS/IMAGES/FOLLOW/006.jpeg)
+
+- 前端技术优选
+![](ASSETS/IMAGES/FOLLOW/007.jpeg)
 
 
 
