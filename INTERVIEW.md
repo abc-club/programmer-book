@@ -8,9 +8,11 @@
 ## 目录
 
 * [面试秘籍](#面试秘籍)
+* [面试题集](#面试题集)
 * [面试题](#面试题)
 * [面试技巧](#面试技巧)
 * [面试经验](#面试经验)
+* [github面试题仓库](#github面试题仓库)
 
 
 ## 面试秘籍
@@ -27,6 +29,7 @@
  * [【周刊-3】三年大厂面试官-十道前端面试题（欢迎挑战）](https://juejin.im/post/5cd82463518825692330d440)
  * [Flutter 面试知识点集锦](https://juejin.im/post/5cd9875ae51d453d022cb662)
  * [面试必备的13道可以举一反三的Vue面试题](https://juejin.im/post/5d41eec26fb9a06ae439d29f)
+ * [2018前端面试准备](https://segmentfault.com/a/1190000012428851)
 
 ## 面试题
  
@@ -57,5 +60,7 @@
  * [我的 web 前端面试经历 - 百度](https://juejin.im/post/5d1d52aff265da1bb2774de0)
 
 
-
+## github面试题仓库
+- https://github.com/yisainan/web-interview
+- https://github.com/woai3c/Front-end-basic-knowledge
 
