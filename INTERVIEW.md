@@ -47,7 +47,8 @@
  * [地表最强面试图谱](https://juejin.im/post/5b4a9136f265da0f990d49cb)
  * [前端面试中的常见的算法问题](https://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
  * [一篇文章搞定前端面试](https://juejin.im/post/5bbaa549e51d450e827b6b13)
-
+ * [【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
+ * [【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
 
 
 ## 面试题
@@ -76,6 +77,8 @@
  * [面试 -- 网络 TCP/IP](https://juejin.im/post/586cfcf8da2f600055ce8a8d)
  * [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
  * [面试：页面加载海量数据](https://juejin.im/post/5ae17a386fb9a07abc299cdd)
+ * [征服 JavaScript 面试：什么是闭包？](https://www.zcfy.cc/article/master-the-javascript-interview-what-is-a-closure-2127.html)
+ * [面试官问：JS的this指向](https://juejin.im/post/5c0c87b35188252e8966c78a)
 
 
 ## 面试技巧
@@ -113,6 +116,9 @@
  * [2018春招前端面试: 闯关记(精排精校) | 掘金技术征文](https://juejin.im/post/5a998991f265da237f1dbdf9)
  * [面试分享：2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)
  * [2018春节后前端面试小记](https://juejin.im/post/5a99108f51882555666f1bca)
+ * [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
+
+
 
 ## github面试题仓库
 - https://github.com/30-seconds/30-seconds-of-interviews

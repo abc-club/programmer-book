@@ -19,6 +19,7 @@
 ## 个人篇
  * [我在淘宝做前端的这三年 — 第一年](https://juejin.im/post/5c74d4b9e51d4512c37ea03b)
  * [我如何零基础转行成为一个自信的前端](https://juejin.im/post/5c75d34851882564965edb23)
+ * [写给初入门/半路出家的前端er](https://juejin.im/post/5cb4b881f265da0374186fd9)
 
 
 ## 团队篇
