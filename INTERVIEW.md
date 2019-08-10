@@ -30,6 +30,12 @@
  * [Flutter 面试知识点集锦](https://juejin.im/post/5cd9875ae51d453d022cb662)
  * [面试必备的13道可以举一反三的Vue面试题](https://juejin.im/post/5d41eec26fb9a06ae439d29f)
  * [2018前端面试准备](https://segmentfault.com/a/1190000012428851)
+ * [史上前端面试最全知识点（附答案）](https://segmentfault.com/a/1190000010869619)
+ * [以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
+ * [jsliang 的 2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0)
+ * [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
+
+
 
 ## 面试题
  
@@ -45,6 +51,9 @@
  * [一道常被人轻视的前端 JS 面试题](https://juejin.im/entry/580cdbeec4c9710058943151)
  * [面试官: 你对虚拟DOM原理的理解?](https://juejin.im/post/5d3f3bf36fb9a06af824b3e2)
  * [面试官：JavaScript的数组有什么特殊之处？](https://juejin.im/post/5d2832a5f265da1bc07e669e)
+ * [面试时，你被问到过 TCP/IP 协议吗?](https://juejin.im/post/58e36d35b123db15eb748856)
+ * [面试精选之Promise](https://juejin.im/post/5b31a4b7f265da595725f322)
+
 
 
 ## 面试技巧
@@ -58,9 +67,13 @@
 ## 面试经验
  * [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947)
  * [我的 web 前端面试经历 - 百度](https://juejin.im/post/5d1d52aff265da1bb2774de0)
+ * [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://juejin.im/post/5d4cd42a6fb9a06aea618155)
+ * [面试分享：专科半年经验面试阿里前端P6+总结(附面试真题及答案)](https://juejin.im/post/5a92c23b5188257a6b06110b)
+ * [1月前端面试记](https://juejin.im/post/587dab348d6d810058d87a0a)
+
 
 
 ## github面试题仓库
 - https://github.com/yisainan/web-interview
 - https://github.com/woai3c/Front-end-basic-knowledge
-
+* [阿里，腾讯，百度，美团，头条等技术面试题目，以及答案](https://github.com/yttsam/interview_internal_reference)
