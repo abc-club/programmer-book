@@ -13,6 +13,7 @@
 * [面试技巧](#面试技巧)
 * [面试经验](#面试经验)
 * [github面试题仓库](#github面试题仓库)
+* [如果你是面试官](#如果你是面试官)
 
 
 ## 面试秘籍
@@ -34,6 +35,12 @@
  * [以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
  * [jsliang 的 2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0)
  * [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
+ * [2019 前端面试 | “HTML + CSS + JS”专题](https://juejin.im/post/5ce4171ff265da1bd04eb4f3)
+ * [面试30秒(含答案)](https://juejin.im/post/5c9243f96fb9a070ce31ab46)
+ * [五年面试，三年模拟](https://juejin.im/post/5ca0425e51882567ce181037)
+ * [面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)
+ * [面试分享：2018阿里巴巴前端面试总结](https://juejin.im/post/5ab0da85f265da23866fb9b7)
+ * [20道JS原理题助你面试一臂之力](https://juejin.im/post/5d2ee123e51d4577614761f8)
 
 
 
@@ -53,6 +60,8 @@
  * [面试官：JavaScript的数组有什么特殊之处？](https://juejin.im/post/5d2832a5f265da1bc07e669e)
  * [面试时，你被问到过 TCP/IP 协议吗?](https://juejin.im/post/58e36d35b123db15eb748856)
  * [面试精选之Promise](https://juejin.im/post/5b31a4b7f265da595725f322)
+ * [Excuse me？这个前端面试在搞事！](https://zhuanlan.zhihu.com/p/25407758)
+ * [面试精选之http缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037)
 
 
 
@@ -63,6 +72,8 @@
  * [面试前如何准备才能提高成功率（含前端面试押题）](https://juejin.im/post/5c6d4789f265da2d8e70e164)
  * [作为技术面试官，为什么把你pass了](https://juejin.im/post/5c1e7a086fb9a049b82a7310)
  * [精读《最佳前端面试题》及面试官技巧](https://zhuanlan.zhihu.com/p/28333260)
+ * [写给初级前端的面试经验](https://juejin.im/post/5c8bb79e6fb9a04a006fe79a)
+
 
 ## 面试经验
  * [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947)
@@ -70,10 +81,20 @@
  * [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://juejin.im/post/5d4cd42a6fb9a06aea618155)
  * [面试分享：专科半年经验面试阿里前端P6+总结(附面试真题及答案)](https://juejin.im/post/5a92c23b5188257a6b06110b)
  * [1月前端面试记](https://juejin.im/post/587dab348d6d810058d87a0a)
-
+ * [腾讯前端面试篇（一）](https://juejin.im/post/5c19c1b6e51d451d1e06c163)
+ * [腾讯前端面试篇（二）](https://juejin.im/post/5c1869ab6fb9a049f154207a)
+ * [腾讯面试篇（三）——终章](https://juejin.im/post/5c1eec7bf265da61477034ae)
+ * [记一次凉凉的小米面试](https://juejin.im/post/5b4d543ce51d4519610dea67)
 
 
 ## github面试题仓库
+- https://github.com/30-seconds/30-seconds-of-interviews
 - https://github.com/yisainan/web-interview
 - https://github.com/woai3c/Front-end-basic-knowledge
+- https://github.com/qiu-deqing/FE-interview
+* [张云龙blog](https://github.com/fouber/blog)
 * [阿里，腾讯，百度，美团，头条等技术面试题目，以及答案](https://github.com/yttsam/interview_internal_reference)
+* [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
+
+## 如果你是面试官
+ * [谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)
