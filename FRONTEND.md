@@ -107,6 +107,10 @@
 - https://github.com/Lemoncode/react-typescript-samples
 - https://github.com/rokoroku/react-redux-typescript-boilerplate
 
+### 文章
+ * [三千字讲清TypeScript与React的实战技巧](https://juejin.im/post/5d3aad8b6fb9a07ecb0bef5e)
+
+
 
 ## 常用库
 
