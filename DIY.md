@@ -28,5 +28,6 @@ Do it yourself!!!
  * [DIY一个前端监控平台（上）](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
  * [一步一步搭建前端监控系统：如何记录用户行为？](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
  * [教你从零开始搭建一款前端脚手架工具](https://segmentfault.com/a/1190000006190814)
+ * [从0搭建的一个webpack脚手架，支持vue单文件书写](https://juejin.im/post/5cc55c336fb9a032086dd701)
 
 

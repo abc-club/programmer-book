@@ -19,8 +19,10 @@
 ## 面试秘籍
  * [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
  * [前端面试 - 收藏集 - 掘金](https://segmentfault.com/a/1190000009261526)
+ * [2万5千字大厂面经](https://juejin.im/post/5ba34e54e51d450e5162789b#heading-105)
 
 ## 面试题集
+
  * [前端开发面试题](https://juejin.im/entry/5781b8db0a2b58005765e628)
  * [前端 100 问：能搞懂 80% 的请把简历给我](https://juejin.im/post/5d23e750f265da1b855c7bbe)
  * [前端面试每日 3+1 —— 第61天](https://juejin.im/post/5d05576af265da1bba590291)
@@ -41,6 +43,10 @@
  * [面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)
  * [面试分享：2018阿里巴巴前端面试总结](https://juejin.im/post/5ab0da85f265da23866fb9b7)
  * [20道JS原理题助你面试一臂之力](https://juejin.im/post/5d2ee123e51d4577614761f8)
+ * [几道高级前端面试题解析](https://juejin.im/post/5aa8a07cf265da238a3022a4)
+ * [地表最强面试图谱](https://juejin.im/post/5b4a9136f265da0f990d49cb)
+ * [前端面试中的常见的算法问题](https://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
+ * [一篇文章搞定前端面试](https://juejin.im/post/5bbaa549e51d450e827b6b13)
 
 
 
@@ -62,7 +68,14 @@
  * [面试精选之Promise](https://juejin.im/post/5b31a4b7f265da595725f322)
  * [Excuse me？这个前端面试在搞事！](https://zhuanlan.zhihu.com/p/25407758)
  * [面试精选之http缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037)
-
+ * [面试官：自己搭建过vue开发环境吗？](https://juejin.im/post/5cc55c336fb9a032086dd701)
+ * [面试官眼中的Promise](https://juejin.im/post/5c233a8ee51d450d5a01b712)
+ * [2019 面试准备 - JS 防抖与节流](https://juejin.im/post/5c87b54ce51d455f7943dddb)
+ * [2019 面试准备 - JS 原型与原型链](https://juejin.im/post/5c72a1766fb9a049ea3993e6)
+ * [面试：页面加载海量数据](https://juejin.im/post/5ae17a386fb9a07abc299cdd)
+ * [面试 -- 网络 TCP/IP](https://juejin.im/post/586cfcf8da2f600055ce8a8d)
+ * [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
+ * [面试：页面加载海量数据](https://juejin.im/post/5ae17a386fb9a07abc299cdd)
 
 
 ## 面试技巧
@@ -73,9 +86,14 @@
  * [作为技术面试官，为什么把你pass了](https://juejin.im/post/5c1e7a086fb9a049b82a7310)
  * [精读《最佳前端面试题》及面试官技巧](https://zhuanlan.zhihu.com/p/28333260)
  * [写给初级前端的面试经验](https://juejin.im/post/5c8bb79e6fb9a04a006fe79a)
+ * [前端面试指南](https://zhuanlan.zhihu.com/p/25859524)
+ * [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
+ * [关于面试流程](https://juejin.im/post/59ec3d50f265da431c6f7339)
 
 
 ## 面试经验
+
+ * [关于裸辞，关于前端面试](https://juejin.im/post/5cf3365ff265da1b9612ec78)
  * [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947)
  * [我的 web 前端面试经历 - 百度](https://juejin.im/post/5d1d52aff265da1bb2774de0)
  * [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://juejin.im/post/5d4cd42a6fb9a06aea618155)
@@ -85,7 +103,16 @@
  * [腾讯前端面试篇（二）](https://juejin.im/post/5c1869ab6fb9a049f154207a)
  * [腾讯面试篇（三）——终章](https://juejin.im/post/5c1eec7bf265da61477034ae)
  * [记一次凉凉的小米面试](https://juejin.im/post/5b4d543ce51d4519610dea67)
-
+ * [前端面试经](https://juejin.im/post/59aa6be06fb9a0248e5cddf0)
+ * [【面试总结】记一次失败的 bilibili 面试总结(1)](https://juejin.im/post/5c878397f265da2dde07293b)
+ * [【面试总结】记一次失败的 bilibili 面试总结(2)](https://juejin.im/post/5c88d34fe51d4559d83381af)
+ * [【面试总结】记一次失败的 bilibili 面试总结(3)](https://juejin.im/post/5ca2ba0ee51d4524fd28778a)
+ * [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
+ * [2018年6月前端面试经历(上)](https://juejin.im/post/5b39bb696fb9a00e57630e27)
+ * [2019 面试实战 - 第一回合](https://juejin.im/post/5c7bc11d6fb9a04a0956c325)
+ * [2018春招前端面试: 闯关记(精排精校) | 掘金技术征文](https://juejin.im/post/5a998991f265da237f1dbdf9)
+ * [面试分享：2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)
+ * [2018春节后前端面试小记](https://juejin.im/post/5a99108f51882555666f1bca)
 
 ## github面试题仓库
 - https://github.com/30-seconds/30-seconds-of-interviews
@@ -95,6 +122,8 @@
 * [张云龙blog](https://github.com/fouber/blog)
 * [阿里，腾讯，百度，美团，头条等技术面试题目，以及答案](https://github.com/yttsam/interview_internal_reference)
 * [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
+* [面试的图谱](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 ## 如果你是面试官
  * [谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)
+ * [面试数十人有感](https://juejin.im/post/5bd2d92c6fb9a05d0f17218c)
