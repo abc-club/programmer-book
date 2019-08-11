@@ -20,6 +20,7 @@
  * [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
  * [前端面试 - 收藏集 - 掘金](https://segmentfault.com/a/1190000009261526)
  * [2万5千字大厂面经](https://juejin.im/post/5ba34e54e51d450e5162789b#heading-105)
+ * [前端面试之道](https://juejin.im/book/5bdc715fe51d454e755f75ef)
 
 ## 面试题集
 
@@ -49,6 +50,7 @@
  * [一篇文章搞定前端面试](https://juejin.im/post/5bbaa549e51d450e827b6b13)
  * [【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
  * [【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
+ * [【前端面试分享】- 寒冬求职上篇](https://juejin.im/post/5cdb7bc26fb9a0321557044d)
 
 
 ## 面试题

@@ -45,6 +45,8 @@
  * [VUE单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
  * [一个Vue引发的性能问题](https://juejin.im/post/5c97691fe51d4522c55f9ead)
  * [【2019 前端进阶之路】Vue 组件间通信方式完整版](https://juejin.im/post/5c776ee4f265da2da53edfad)
+ * [Vue.js 组件精讲](https://juejin.im/book/5bc844166fb9a05cd676ebca)
+ * [剖析 Vue.js 内部运行机制](https://juejin.im/book/5a36661851882538e2259c0f)
 
 
 
@@ -72,6 +74,7 @@
 * [掘金最污的 React16.x 图文视频教程(2万5千字长文-慎入)](https://juejin.im/post/5d085be0f265da1bac401937)
 * [你要的 React 面试知识点，都在这了](https://juejin.im/post/5cf0733de51d4510803ce34e)
 * [如何优化你的超大型React应用 【原创精读】](https://juejin.im/post/5d35d3ecf265da1bc23fb654)
+* [React 实战：设计模式和最佳实践](https://juejin.im/book/5ba42844f265da0a8a6aa5e9)
 
 
 ### 组件库
@@ -148,6 +151,9 @@
  * [2019年JS正则大全(常用)](https://juejin.im/post/5d245d4151882555300feb77)
 
 
+### this
+ * [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
+
 ### 其他
  * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
  * [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
@@ -202,6 +208,7 @@
 
 
 ### 文章
+ * [前端性能优化原理与实践](https://juejin.im/book/5b936540f265da0a9624b04b)
  * [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
 
 
