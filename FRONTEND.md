@@ -252,6 +252,7 @@
 
 ## 工具
 
+ * [vscode这篇就够了](https://juejin.im/post/5d37bd5551882503ea1c680e)
  * [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
  * [21 个VSCode 快捷键，让代码更快，更有趣](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
 
