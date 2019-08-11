@@ -32,7 +32,8 @@
 
 
 ### 个人
-* [微店前端](https://github.com/hoperyy/blog)
+- https://github.com/hoperyy/blog
+- https://github.com/biaochenxuying/blog
 
 
 ## 技术社区
@@ -49,6 +50,7 @@
 * [HTML5梦工厂](http://www.html5dw.com/)
 * [w3ctech](https://w3ctech.com/)
 * [大前端](http://www.daqianduan.com/)
+* [github趋势](https://trends.now.sh/)
 
 
 ## 公众号

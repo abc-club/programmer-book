@@ -276,6 +276,8 @@
  * [前端开发者必备的Nginx知识](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
  * [多站点单点登录实现方案](https://juejin.im/post/5d04d946f265da1b9163915a)
 
+### 常用技术
+ * [face++](https://www.faceplusplus.com.cn)(人脸识别)
 
 
 
