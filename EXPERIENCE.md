@@ -26,4 +26,5 @@
 
  * [技术栈：小菜前端的技术栈是如何规划和演进的](https://juejin.im/post/5c99c17df265da6129788ae2)
  * [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1)
+ * [微店前端工程化的迭代史](https://juejin.im/post/5d4cee556fb9a06b30702eda)
 
