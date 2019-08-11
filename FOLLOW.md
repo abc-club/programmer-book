@@ -12,6 +12,7 @@
 ## 目录
 
 * [博客](#博客)
+* [开发社区](#开发社区)
 * [公众号](#公众号)
 * [github大神](#github大神)
 * [掘金大神](#掘金大神)
@@ -19,13 +20,49 @@
 ## 博客
 
 ### 大厂
+* [腾讯alloyteam](http://www.alloyteam.com/)
+* [淘宝前端](https://fed.taobao.org/)
+* [京东凹凸实验室](https://aotu.io/)
+* [360奇舞团](https://75team.com/)
+* [奇舞周刊](https://weekly.75team.com/)
+* [百度前端](http://fex.baidu.com/articles/)
+* [美团](https://tech.meituan.com/)
+* [有赞](https://tech.youzan.com/)
 * [微店前端](https://github.com/weidian-inc/weidian-tech-blog)
+
 
 ### 个人
 * [微店前端](https://github.com/hoperyy/blog)
 
 
+## 技术社区
+* [掘金](https://juejin.im/timeline)
+* [stackoverflow](https://stackoverflow.com/)
+* [github](https://github.com/)
+* [segmentfault](https://segmentfault.com/)
+* [v2ex](https://www.v2ex.com/)
+* [smashingmagazine](https://www.smashingmagazine.com/)
+* [cnodejs](https://cnodejs.org/)
+* [jstips](http://www.jstips.co/)
+* [印记中文](https://www.docschina.org)
+* [w3cplus](https://www.w3cplus.com/)
+* [HTML5梦工厂](http://www.html5dw.com/)
+* [w3ctech](https://w3ctech.com/)
+* [大前端](http://www.daqianduan.com/)
+
+
 ## 公众号
+
+- 凹凸实验室 
+
+![](ASSETS/IMAGES/FOLLOW/009.jpeg) 
+- 美团技术团队 
+
+![](ASSETS/IMAGES/FOLLOW/008.jpeg) 
+
+- 奇舞周刊 
+
+![](ASSETS/IMAGES/FOLLOW/010.jpeg) 
 
 - infoQ 
 
@@ -56,6 +93,13 @@
 
 
 ## github大神
+
+### 组织
+* [阿里巴巴](https://github.com/alibaba)
+* [腾讯](https://github.com/Tencent)
+* [百度前端](https://github.com/fex-team/)
+
+### 个人
 * [tj](https://github.com/tj)
 * [阮一峰](https://github.com/ruanyf)
 * [尤雨溪](https://github.com/yyx990803)

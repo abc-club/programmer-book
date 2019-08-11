@@ -20,6 +20,7 @@
 * [js](#js)
 * [es6](#es6)
 * [移动端](#移动端)
+* [h5游戏](#h5游戏)
 * [微信公众号](#微信公众号)
 * [webpack](#webpack)
 * [GraphQL](#GraphQL)
@@ -31,6 +32,7 @@
 * [js core](#js-core)
 * [代码规范](#代码规范)
 * [工具](#工具)
+* [canvas](#canvas)
 * [其他必备知识](#其他必备知识)
 
 
@@ -170,6 +172,13 @@
 ### 常用库
 - lib-flexible  https://github.com/amfe/lib-flexible
 
+## h5游戏
+
+
+### 开源项目
+ * [Hilo - HTML5 互动游戏引擎](https://github.com/hiloteam/Hilo)
+
+
 ## 微信公众号
 
 
@@ -255,6 +264,12 @@
  * [vscode这篇就够了](https://juejin.im/post/5d37bd5551882503ea1c680e)
  * [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
  * [21 个VSCode 快捷键，让代码更快，更有趣](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
+
+## canvas
+
+### 开源项目
+ * [spritejs](https://github.com/spritejs/spritejs) (Draw graphics on a canvas through DOM-like APIs. Vue & React/Preact supported. )
+
 
 
  ## 其他必备知识

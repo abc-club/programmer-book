@@ -7,3 +7,29 @@
  * [gtmetrix](https://gtmetrix.com) (网站访问速度)
  * [zanePerfor](https://github.com/wangweianger/zanePerfor) (网站访问速度)
  * [pingdom](https://www.pingdom.com/) (网站状况监控)
+
+## IDE
+ * [vscode](https://code.visualstudio.com/)
+ * [sublime](https://www.sublimetext.com/)
+ * [webstorm](https://www.jetbrains.com/webstorm/)
+
+## 调试工具
+ * [fiddler](http://www.telerik.com/fiddler)
+ * [charles](https://www.charlesproxy.com/)
+
+## 在线工具
+ * [codepen](http://codepen.io/)
+ * [caniuse](https://caniuse.com/)
+
+## 字体图标
+ * [font-awesome](https://www.bootcss.com/p/font-awesome/)
+ * [iconfont](https://www.iconfont.cn/)
+ * [icomoon](https://icomoon.io/)
+
+## 设计资源
+ * [uigreat](https://www.uigreat.com/)
+ * [花瓣](https://huaban.com/)
+ * [dribbble](https://dribbble.com/)
+ * [behance](https://www.behance.net/)
+ * [站酷](https://www.zcool.com.cn/)
+ * [FWA](https://thefwa.com/)
