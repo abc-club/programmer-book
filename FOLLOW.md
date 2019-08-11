@@ -55,14 +55,14 @@
 
 - 凹凸实验室 
 
-![](ASSETS/IMAGES/FOLLOW/009.jpeg) 
+![](ASSETS/IMAGES/FOLLOW/009.jpg) 
 - 美团技术团队 
 
-![](ASSETS/IMAGES/FOLLOW/008.jpeg) 
+![](ASSETS/IMAGES/FOLLOW/008.png) 
 
 - 奇舞周刊 
 
-![](ASSETS/IMAGES/FOLLOW/010.jpeg) 
+![](ASSETS/IMAGES/FOLLOW/010.png) 
 
 - infoQ 
 
