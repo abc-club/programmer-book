@@ -47,7 +47,10 @@
  * [【2019 前端进阶之路】Vue 组件间通信方式完整版](https://juejin.im/post/5c776ee4f265da2da53edfad)
  * [Vue.js 组件精讲](https://juejin.im/book/5bc844166fb9a05cd676ebca)
  * [剖析 Vue.js 内部运行机制](https://juejin.im/book/5a36661851882538e2259c0f)
+ * [Vuejs建议和最佳实践](https://juejin.im/post/5d48f3b7e51d4561e224a2c8)
 
+### 组件库
+ * [overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)
 
 
 ## react
@@ -239,6 +242,9 @@
  * [无代码编程](https://juejin.im/post/5ca2e9dcf265da30c231a5c2)
  * [基于 React & TypeScript & Webpack 的微前端应用模板](https://juejin.im/post/5c4f265e6fb9a049a97a199d)
  * [哪些技术会决定前端开发者的未来发展？](https://juejin.im/post/5d1589c8e51d45776031b02e)
+ * [再看2019大前端技术趋势，Web OS概念正落地](https://developer.aliyun.com/article/711504)
+ * [Serverless For Frontend 前世今生](https://www.yuque.com/egg/nodejs/sff-history)
+
 
 ## 动效
 
