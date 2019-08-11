@@ -35,5 +35,6 @@ Do it yourself!!!
  * 从零到一，撸一个在线斗地主
     * [从零到一，撸一个在线斗地主上篇](http://www.alloyteam.com/2019/07/13829/)
     * [从零到一，撸一个在线斗地主下篇](http://www.alloyteam.com/2019/07/13834/)
+ * [用纯 JavaScript 撸一个 MVC 程序](https://segmentfault.com/a/1190000020007033)
 
 
