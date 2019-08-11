@@ -17,6 +17,7 @@
 * [常用技巧](SKILLS.md)
 * [前端自检](CHECKLIST.md)
 * [精品系列](LIST.md)
+* [源码解析](SOURCECODE.md)
 * [GITHUB优秀开源项目](GITHUB.md)
 * [你需要关注的公众号、博客、大神等](FOLLOW.md)
 * [解惑](GUIDE.md)
