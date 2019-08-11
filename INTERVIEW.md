@@ -79,6 +79,7 @@
  * [面试：页面加载海量数据](https://juejin.im/post/5ae17a386fb9a07abc299cdd)
  * [征服 JavaScript 面试：什么是闭包？](https://www.zcfy.cc/article/master-the-javascript-interview-what-is-a-closure-2127.html)
  * [面试官问：JS的this指向](https://juejin.im/post/5c0c87b35188252e8966c78a)
+ * [8道经典JavaScript面试题解析，你真的掌握JavaScript了吗？](https://segmentfault.com/a/1190000020026378)
 
 
 ## 面试技巧
