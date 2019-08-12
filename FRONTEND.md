@@ -248,6 +248,7 @@
  * [哪些技术会决定前端开发者的未来发展？](https://juejin.im/post/5d1589c8e51d45776031b02e)
  * [再看2019大前端技术趋势，Web OS概念正落地](https://developer.aliyun.com/article/711504)
  * [Serverless For Frontend 前世今生](https://www.yuque.com/egg/nodejs/sff-history)
+ * [2019 年大前端技术趋势分析](https://www.infoq.cn/article/uQjaf_dAHm6viAXsuxzI)
 
 
 ## 动效
