@@ -14,6 +14,9 @@
 
 ## react-native
 
+### 组件库
+* [beeshell](https://github.com/Meituan-Dianping/beeshell)
+
 ### 参考资料
 - react-native-awesome  https://github.com/crazycodeboy/react-native-awesome
 

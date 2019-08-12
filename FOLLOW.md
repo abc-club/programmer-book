@@ -101,6 +101,8 @@
 * [阿里巴巴](https://github.com/alibaba)
 * [腾讯](https://github.com/Tencent)
 * [百度前端](https://github.com/fex-team/)
+* [大众点评网](https://github.com/dianping)
+* [美团点评](https://github.com/Meituan-Dianping)
 
 ### 个人
 * [tj](https://github.com/tj)
