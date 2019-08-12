@@ -28,6 +28,7 @@
 * [高质文章](#高质文章)
 * [趋势](#趋势)
 * [动效](#动效)
+* [可视化](#可视化)
 * [数据结构与算法](#数据结构与算法)
 * [js core](#js-core)
 * [代码规范](#代码规范)
@@ -78,6 +79,7 @@
 * [你要的 React 面试知识点，都在这了](https://juejin.im/post/5cf0733de51d4510803ce34e)
 * [如何优化你的超大型React应用 【原创精读】](https://juejin.im/post/5d35d3ecf265da1bc23fb654)
 * [React 实战：设计模式和最佳实践](https://juejin.im/book/5ba42844f265da0a8a6aa5e9)
+* [21个让React 开发更高效更有趣的工具](https://segmentfault.com/a/1190000020038593#articleHeader2)
 
 
 ### 组件库
@@ -213,6 +215,7 @@
 ### 文章
  * [前端性能优化原理与实践](https://juejin.im/book/5b936540f265da0a9624b04b)
  * [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
+ * [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
 
 
 ### 常用工具
@@ -255,6 +258,9 @@
 ### demo
  * [2018 最佳前端动效集锦](https://tympanus.net/codrops/2018/12/27/awesome-demos-from-2018/)
 
+### 可视化
+ * [14个最好的 JavaScript 数据可视化库](https://segmentfault.com/a/1190000018646425)
+
 
 ## 数据结构与算法
 
@@ -266,6 +272,7 @@
  * [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
  * [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
  * [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
+ * [JavaScript引擎是如何工作的？从调用栈到Promise你需要知道的一切](https://segmentfault.com/a/1190000019205065)
 
 
 ## 代码规范
