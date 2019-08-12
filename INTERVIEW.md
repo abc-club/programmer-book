@@ -129,6 +129,7 @@
 - https://github.com/yisainan/web-interview
 - https://github.com/woai3c/Front-end-basic-knowledge
 - https://github.com/qiu-deqing/FE-interview
+- https://github.com/poetries/FE-Interview-Questions
 * [张云龙blog](https://github.com/fouber/blog)
 * [阿里，腾讯，百度，美团，头条等技术面试题目，以及答案](https://github.com/yttsam/interview_internal_reference)
 * [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)

@@ -19,6 +19,8 @@
 
 ## 博客
 
+- https://github.com/FrankFang/best-chinese-front-end-blogs (博客集合)
+
 ### 大厂
 * [腾讯alloyteam](http://www.alloyteam.com/)
 * [淘宝前端](https://fed.taobao.org/)
@@ -34,7 +36,6 @@
 ### 个人
 - https://github.com/hoperyy/blog
 - https://github.com/biaochenxuying/blog
-
 
 ## 技术社区
 * [掘金](https://juejin.im/timeline)

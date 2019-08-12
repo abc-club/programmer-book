@@ -6,3 +6,7 @@
 
 * [VSCode 是怎么运行起来的？](https://www.barretlee.com/blog/2019/08/03/vscode-source-code-reading-notes/)
 * [vue-cli 源码分析](https://github.com/KuangPF/vue-cli-analysis)
+* [逐行级别的vue源码分析](https://github.com/HcySunYang/vue-design)
+
+
+

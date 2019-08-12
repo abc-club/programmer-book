@@ -164,6 +164,7 @@
  * [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
  * [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
  * [JS中轻松遍历对象属性的几种方式](https://juejin.im/post/5d48c275f265da03b12032a1)
+ * [你不懂JS（系列丛书）](https://github.com/JoeHetfield/You-Dont-Know-JS)
 
 
 ## es6
