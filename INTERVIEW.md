@@ -14,6 +14,7 @@
 * [面试经验](#面试经验)
 * [github面试题仓库](#github面试题仓库)
 * [如果你是面试官](#如果你是面试官)
+* [题目](#题目)
 
 
 ## 面试秘籍
@@ -138,3 +139,22 @@
 ## 如果你是面试官
  * [谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)
  * [面试数十人有感](https://juejin.im/post/5bd2d92c6fb9a05d0f17218c)
+
+## 题目
+
+### js
+1. getcomputedstyle和style的区别
+```
+1.只读与可写
+  getComputedStyle方法是只读的，只能获取样式，不能设置；而element.style能读能写，能屈能伸。
+2.获取的对象范围
+  getComputedStyle方法获取的是最终应用在元素上的所有CSS属性对象（即使没有CSS代码，也会把默认的祖宗八代都显示出来）；
+  而element.style只能获取元素style属性中的CSS样式。
+  因此对于一个光秃秃的元素<p>，getComputedStyle方法返回对象中length属性值（如果有）就是190+(据我测试FF:192, IE9:195, Chrome:253, 不同环境结果可能有差异), 
+  而element.style就是0。
+3.作用
+  getComputedStyle方法有一个很重要的，类似css()方法没有的功能——获取伪类元素样式
+4.兼容性
+  getComputedStyle方法IE6~8是不支持的
+
+```
