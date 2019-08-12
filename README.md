@@ -21,5 +21,6 @@
 * [GITHUB优秀开源项目](GITHUB.md)
 * [你需要关注的公众号、博客、大神等](FOLLOW.md)
 * [解惑](GUIDE.md)
+* [行业新闻](NEWS.md)
 * [其他](OTHER.md)
 * [abc-club技术博客](BLOG/README.md)
