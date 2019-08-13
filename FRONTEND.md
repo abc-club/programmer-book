@@ -169,6 +169,7 @@
  * [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
  * [JS中轻松遍历对象属性的几种方式](https://juejin.im/post/5d48c275f265da03b12032a1)
  * [你不懂JS（系列丛书）](https://github.com/JoeHetfield/You-Dont-Know-JS)
+ * [前端开发变量命名系列 - JavaScript篇](https://segmentfault.com/a/1190000020039039)
 
 
 ## es6
