@@ -339,6 +339,12 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
   Chrome DevTools
 
 ### api测试
+#### 库
+ * [去哪儿yapi](https://github.com/ymfe/yapi)
+
+#### 文章
+
+ * [去哪儿 Api 自动化测试实践](https://juejin.im/post/5a388892f265da430e4f4681)
  * [Jenkins+postman+newman之API全自动化测试](https://blog.csdn.net/wanglin_lin/article/details/51959342)
  * [Postman调试技巧之接口签名](https://juejin.im/post/5b4579a0e51d4519133f7e28)
 
