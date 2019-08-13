@@ -53,6 +53,7 @@
  * [【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
  * [【前端面试分享】- 寒冬求职上篇](https://juejin.im/post/5cdb7bc26fb9a0321557044d)
  * [关于 Git 的 20 个面试题](https://segmentfault.com/a/1190000019315509)
+ * [22道高频JavaScript手写面试题及答案](https://juejin.im/post/5d51e16d6fb9a06ae17d6bbc)
 
 
 ## 面试题
