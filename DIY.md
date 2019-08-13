@@ -38,6 +38,7 @@ Do it yourself!!!
  * [用纯 JavaScript 撸一个 MVC 程序](https://segmentfault.com/a/1190000020007033)
  * [一步步教你用 WebVR 实现虚拟现实游戏](https://segmentfault.com/a/1190000019135847)
  * [轻松10步用es6写出俄罗斯方块](https://segmentfault.com/a/1190000008181905)
+ * [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 
 
 ## 开源项目

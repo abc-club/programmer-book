@@ -38,6 +38,7 @@
 - https://github.com/biaochenxuying/blog
 
 ## 技术社区
+* [bestofjs](https://bestofjs.org/)
 * [掘金](https://juejin.im/timeline)
 * [stackoverflow](https://stackoverflow.com/)
 * [github](https://github.com/)

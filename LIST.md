@@ -18,4 +18,6 @@
   * [JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
  
 * [JavaScript 数据结构与算法之美](https://github.com/biaochenxuying/blog)
+* [stateofjs](https://stateofjs.com/)
+* [2018js生态趋势](https://2018.stateofjs.com/cn/introduction/)
 

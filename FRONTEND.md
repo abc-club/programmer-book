@@ -88,6 +88,8 @@
 - ant-design-mobile  https://mobile.ant.design/index-cn
 - react-intl 
 - rc-form https://github.com/react-component/form
+* [nivo](https://github.com/plouc/nivo)(React 数据可视化库)
+
 
 ### 框架
 - umi   https://umijs.org/
@@ -96,6 +98,7 @@
 - beidou https://github.com/alibaba/beidou
 - egg-react-ssr  https://github.com/ykfe/egg-react-ssr
 - react-server https://github.com/redfin/react-server
+* [Vulcan.js](https://github.com/vulcanjs/vulcan)(The full-stack React+GraphQL framework)
 
 ### Demo
 
@@ -295,15 +298,21 @@
 
 
 ## 测试
+#### 文章
+ * [2018 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+ * [2019 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
+ * [测试你的前端代码（介绍篇）[英]](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
 
 ### 单元测试
 站在程序员的角度测试
 unit测试是把代码看成是一个个的组件。从而实现每一个组件的单独测试，测试内容主要是组件内每一个函数的返回结果是不是和期望值一样。
+#### 库
+
  * [jest](https://github.com/facebook/jest)
  * [karma](https://github.com/karma-runner/karma)(Spectacular Test Runner for JavaScript )
  * [mocha](https://github.com/mochajs/mocha)(simple, flexible, fun javascript test framework for node.js & the browser)
  * [enzyme](https://github.com/airbnb/enzyme/)(JavaScript Testing utilities for React )
-
+#### 文章
 
 
 ### e2e测试
@@ -314,11 +323,24 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  * [nightwatch](https://github.com/nightwatchjs/nightwatch)
  * [puppeteer](https://github.com/GoogleChrome/puppeteer)(Headless Chrome Node API )
  * [Macaca](https://github.com/alibaba/macaca)
-
 #### 文章
  * [端到端测试哪家强？不容错过的Cypress](https://segmentfault.com/a/1190000014907041)
  * [Puppeteer E2E测试入门](https://juejin.im/post/5bffb344e51d45378d0d39f4)
 
+
+### 视觉回归测试
+ 简单来说就是测试应用整体界面是否达到了UI设计图的要求。
+#### 库
+ * [hermione](https://github.com/gemini-testing/hermione)
+ * [PhantomCSS](https://github.com/HuddleEng/PhantomCSS)(archived)
+ * [gemini](https://github.com/gemini-testing/gemini)(DEPRECATED)
+
+### 性能测试
+  Chrome DevTools
+
+### api测试
+ * [Jenkins+postman+newman之API全自动化测试](https://blog.csdn.net/wanglin_lin/article/details/51959342)
+ * [Postman调试技巧之接口签名](https://juejin.im/post/5b4579a0e51d4519133f7e28)
 
 
  ## 其他必备知识

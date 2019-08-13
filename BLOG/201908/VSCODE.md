@@ -58,7 +58,12 @@ Windows: Ctrl + F2  Mac: command + F2
 Windows: Alt + 向上箭头  Mac: option+ 向上箭头
 ```
 
-#### 复制光标向上或者向上批量添加内容
+#### 复制行
+```
+Mac: alt+shift+方向键
+```
+
+#### 多光标
 ```
 Windows: Ctrl + Alt +向上箭头  Mac: command + Option +向上箭头
 ```
