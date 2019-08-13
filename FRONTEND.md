@@ -34,6 +34,7 @@
 * [代码规范](#代码规范)
 * [工具](#工具)
 * [canvas](#canvas)
+* [测试](#测试)
 * [其他必备知识](#其他必备知识)
 
 
@@ -291,6 +292,32 @@
 
 ### 开源项目
  * [spritejs](https://github.com/spritejs/spritejs) (Draw graphics on a canvas through DOM-like APIs. Vue & React/Preact supported. )
+
+
+## 测试
+
+### 单元测试
+站在程序员的角度测试
+unit测试是把代码看成是一个个的组件。从而实现每一个组件的单独测试，测试内容主要是组件内每一个函数的返回结果是不是和期望值一样。
+ * [jest](https://github.com/facebook/jest)
+ * [karma](https://github.com/karma-runner/karma)(Spectacular Test Runner for JavaScript )
+ * [mocha](https://github.com/mochajs/mocha)(simple, flexible, fun javascript test framework for node.js & the browser)
+ * [enzyme](https://github.com/airbnb/enzyme/)(JavaScript Testing utilities for React )
+
+
+
+### e2e测试
+站在用户角度的测试
+e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是怎么实现的，我只负责打开浏览器，把测试内容在页面上输入一遍，看是不是我想要得到的结果。
+#### 库
+ * [cypress](https://github.com/cypress-io/cypress)
+ * [nightwatch](https://github.com/nightwatchjs/nightwatch)
+ * [puppeteer](https://github.com/GoogleChrome/puppeteer)(Headless Chrome Node API )
+ * [Macaca](https://github.com/alibaba/macaca)
+
+#### 文章
+ * [端到端测试哪家强？不容错过的Cypress](https://segmentfault.com/a/1190000014907041)
+ * [Puppeteer E2E测试入门](https://juejin.im/post/5bffb344e51d45378d0d39f4)
 
 
 
