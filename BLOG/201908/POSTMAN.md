@@ -143,6 +143,8 @@ cmd+s保存这个请求到test文件夹，取名为userDetail
 
 ![](https://user-gold-cdn.xitu.io/2019/8/14/16c8c0244094be8a)
 ```
+// 注意这里的PATH要改成你的npm的路径，否则找不到newman命令
+
 export PATH=/Users/isaacho/.tnvm/versions/alinode/v3.11.4/bin:$PATH
 
 newman run  /Users/isaacho/Documents/test.postman_collection.json -e /Users/isaacho/Documents/test.postman_environment.json
@@ -158,3 +160,18 @@ newman run  /Users/isaacho/Documents/test.postman_collection.json -e /Users/isaa
 ![](https://user-gold-cdn.xitu.io/2019/8/14/16c8c05943f94b32)
 
 到这里已经大功告成了！！！
+
+## 可能遇到的问题
+* build失败，提示找不到命令
+那请注意你的PATH是否正确
+
+* build没有权限
+jenkins用户没有读写postman_collection.json和postman_environment.json的权限，可以给jenkins修改文件夹的权限
+
+
+## 参考资料
+* https://www.getpostman.com/docs
+* [Jenkins+postman+newman之API全自动化测试](https://blog.csdn.net/wanglin_lin/article/details/51959342)
+* [Mac | 使用postman+newman+Jenkins配置线上接口自动监控](https://zxning.github.io/2018/12/21/postman/)
+
+
