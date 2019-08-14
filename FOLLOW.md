@@ -104,6 +104,8 @@
 * [百度前端](https://github.com/fex-team/)
 * [大众点评网](https://github.com/dianping)
 * [美团点评](https://github.com/Meituan-Dianping)
+* [丁香园前端组](https://github.com/DXY-F2E)
+* [去哪儿网大前端技术中心](https://github.com/YMFE)
 
 ### 个人
 * [tj](https://github.com/tj)

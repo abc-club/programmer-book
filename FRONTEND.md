@@ -54,6 +54,13 @@
 ### 组件库
  * [overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)
 
+### 开源项目
+
+
+ * [vue-element-admin *38k+](https://github.com/PanJiaChen/vue-element-admin)
+ * [vue-data-board](https://github.com/dongsuo/vue-data-board)
+
+
 
 ## react
 
@@ -342,12 +349,18 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 ### api测试
 #### 库
  * [去哪儿yapi](https://github.com/ymfe/yapi)
+ * [rap2](http://rap2.taobao.org)
+ * [swagger](https://swagger.io/)
+ * [丁香园api-mocker *998](https://github.com/DXY-F2E/api-mocker)
+ * [大搜车Easy-Mock *6k+](https://github.com/easy-mock/easy-mock)
 
 #### 文章
 
  * [去哪儿 Api 自动化测试实践](https://juejin.im/post/5a388892f265da430e4f4681)
+ * [使用 YApi 管理 API 文档，测试， mock](https://juejin.im/post/5acc879f6fb9a028c42e8822#heading-0)
  * [Jenkins+postman+newman之API全自动化测试](https://blog.csdn.net/wanglin_lin/article/details/51959342)
  * [Postman调试技巧之接口签名](https://juejin.im/post/5b4579a0e51d4519133f7e28)
+ * [丁香园开源接口管理系统 - API Mocker](https://juejin.im/post/59bba3c0f265da067374bd1f)
 
 
  ## 其他必备知识
