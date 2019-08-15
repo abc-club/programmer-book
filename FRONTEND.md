@@ -350,17 +350,14 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 
 ### api测试
 #### 库
- * [去哪儿yapi](https://github.com/ymfe/yapi)
+ * [去哪儿yapi](https://github.com/ymfe/yapi):100:
  * [rap2](http://rap2.taobao.org)
  * [swagger](https://swagger.io/)(https://swagger.io/)(https://github.com/swagger-api)
  * [丁香园api-mocker *998](https://github.com/DXY-F2E/api-mocker)
  * [大搜车Easy-Mock *6k+](https://github.com/easy-mock/easy-mock)
  * [APIJSON](https://github.com/APIJSON/APIJSON)(后端接口和文档自动化)
 
-
-
 #### 文章
- * [Swagger从入门到精通](https://huangwenchao.gitbooks.io/swagger/content/)
  * [去哪儿 Api 自动化测试实践](https://juejin.im/post/5a388892f265da430e4f4681)
  * [使用 YApi 管理 API 文档，测试， mock](https://juejin.im/post/5acc879f6fb9a028c42e8822#heading-0)
  * [YApi 新版如何查看 http 请求数据](https://juejin.im/post/5c888a3e5188257dee0322af)
@@ -368,6 +365,9 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  * [Jenkins+postman+newman之API全自动化测试](https://blog.csdn.net/wanglin_lin/article/details/51959342)
  * [Postman调试技巧之接口签名](https://juejin.im/post/5b4579a0e51d4519133f7e28)
  * [丁香园开源接口管理系统 - API Mocker](https://juejin.im/post/59bba3c0f265da067374bd1f)
+ * [Swagger从入门到精通](https://huangwenchao.gitbooks.io/swagger/content/)
+ * [Swagger与其他API文档编写工具对比](https://haofly.net/swagger/)
+
 
 
  ## 其他必备知识
