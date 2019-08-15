@@ -177,6 +177,7 @@
  * [JS中轻松遍历对象属性的几种方式](https://juejin.im/post/5d48c275f265da03b12032a1)
  * [你不懂JS（系列丛书）](https://github.com/JoeHetfield/You-Dont-Know-JS)
  * [前端开发变量命名系列 - JavaScript篇](https://segmentfault.com/a/1190000020039039)
+ * [一文带你了解 JavaScript 函数式编程](https://mp.weixin.qq.com/s/AKYMse3cSyMhT95kdzdldw)
 
 
 ## es6
@@ -220,6 +221,7 @@
 
 ### 文章
  * [前端er了解GraphQL，看这篇就够了](https://juejin.im/post/5ca1b7be51882543ea4b7f27)
+ * [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
 
 
 ## 性能与监控
@@ -350,17 +352,19 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 #### 库
  * [去哪儿yapi](https://github.com/ymfe/yapi)
  * [rap2](http://rap2.taobao.org)
- * [swagger](https://swagger.io/)
+ * [swagger](https://swagger.io/)(https://swagger.io/)(https://github.com/swagger-api)
  * [丁香园api-mocker *998](https://github.com/DXY-F2E/api-mocker)
  * [大搜车Easy-Mock *6k+](https://github.com/easy-mock/easy-mock)
+ * [APIJSON](https://github.com/APIJSON/APIJSON)(后端接口和文档自动化)
+
+
 
 #### 文章
-
+ * [Swagger从入门到精通](https://huangwenchao.gitbooks.io/swagger/content/)
  * [去哪儿 Api 自动化测试实践](https://juejin.im/post/5a388892f265da430e4f4681)
  * [使用 YApi 管理 API 文档，测试， mock](https://juejin.im/post/5acc879f6fb9a028c42e8822#heading-0)
  * [YApi 新版如何查看 http 请求数据](https://juejin.im/post/5c888a3e5188257dee0322af)
-
- 
+ * [自动更新 Swagger 接口数据到 YApi 平台](https://juejin.im/post/5af500e251882567096140dd)
  * [Jenkins+postman+newman之API全自动化测试](https://blog.csdn.net/wanglin_lin/article/details/51959342)
  * [Postman调试技巧之接口签名](https://juejin.im/post/5b4579a0e51d4519133f7e28)
  * [丁香园开源接口管理系统 - API Mocker](https://juejin.im/post/59bba3c0f265da067374bd1f)

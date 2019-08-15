@@ -29,6 +29,7 @@
  * [技术栈：小菜前端的技术栈是如何规划和演进的](https://juejin.im/post/5c99c17df265da6129788ae2)
  * [微店前端工程化的迭代史](https://juejin.im/post/5d4cee556fb9a06b30702eda)
  * [那些技术选型背后的思考](https://www.infoq.cn/article/X5pY_PyBX1T5Vay0wOfJ)
+ * [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/C629e_uEWv9ZfxtYGvFxMg)
 
 
 ### 中后台方向
