@@ -352,6 +352,7 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 #### 库
  * [去哪儿yapi](https://github.com/ymfe/yapi)(支持接口文档、mock和api自动化测试):100:
     * [接口文档](https://hellosean1025.github.io/yapi/documents/index.html)
+    * [Json Schema 快速入门](https://www.jianshu.com/p/8278eb2458c4?winzoom=1)
  * [rap2](http://rap2.taobao.org)
  * [swagger](https://swagger.io/)(https://swagger.io/)(https://github.com/swagger-api)
  * [丁香园api-mocker *998](https://github.com/DXY-F2E/api-mocker)
