@@ -173,6 +173,8 @@
 
 ### 函数式编程
  * [「前端进阶」彻底弄懂函数组合](https://juejin.im/post/5d50bfebf265da03cb122b6f)
+ * [函数式编程，真香](https://juejin.im/post/5c19c3ffe51d45059b632eef)
+ * [深入学习javascript函数式编程](https://juejin.im/post/5c1a231de51d452ce364d945)
 
 
 ### 其他
@@ -186,7 +188,8 @@
 
 
 ## es6
-
+ * [前端模块化详解(完整版)](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
+ * [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6)
  * [Promise源码详解](https://juejin.im/post/5b32f552f265da59991155f0)
  * [最后一次搞懂 Event Loop](https://juejin.im/post/5cbc0a9cf265da03b11f3505)
 
@@ -219,6 +222,12 @@
 
 
 ## webpack
+### 官网
+ * [webpack](https://github.com/webpack/webpack)
+ * [webpack官方文档](https://webpack.js.org)
+ * [webpack 中文文档](https://github.com/docschina/webpack.js.org)(https://webpack.docschina.org/)
+
+
 ### 文章
  * [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
 

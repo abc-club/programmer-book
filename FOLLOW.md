@@ -34,8 +34,11 @@
 
 
 ### 个人
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+- [阮一峰的语雀](https://www.yuque.com/ruanyf)
 - https://github.com/hoperyy/blog
 - https://github.com/biaochenxuying/blog
+- [前端工匠](https://github.com/ljianshu/Blog)
 
 ## 技术社区
 * [bestofjs](https://bestofjs.org/)
@@ -94,6 +97,9 @@
 
 ![](ASSETS/IMAGES/FOLLOW/007.jpeg)
 
+- 阮一峰的网络日志
+
+![](ASSETS/IMAGES/FOLLOW/011.jpeg)
 
 
 ## github大神
