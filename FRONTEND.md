@@ -50,6 +50,7 @@
  * [Vue.js 组件精讲](https://juejin.im/book/5bc844166fb9a05cd676ebca)
  * [剖析 Vue.js 内部运行机制](https://juejin.im/book/5a36661851882538e2259c0f)
  * [Vuejs建议和最佳实践](https://juejin.im/post/5d48f3b7e51d4561e224a2c8)
+ * [Vue 项目性能优化 — 实践指南（网上最全 / 详细）](https://juejin.im/post/5d548b83f265da03ab42471d)
 
 ### 组件库
  * [overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)
@@ -169,6 +170,10 @@
 
 ### this
  * [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
+
+### 函数式编程
+ * [「前端进阶」彻底弄懂函数组合](https://juejin.im/post/5d50bfebf265da03cb122b6f)
+
 
 ### 其他
  * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)

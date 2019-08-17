@@ -12,7 +12,7 @@
 * [自己动手](DIY.md)
 * [前辈经验](EXPERIENCE.md)
 * [面试](INTERVIEW.md)
-* [后端](BACKEND.md)
+* [后端&运维](BACKEND.md)
 * [常用工具](USEFULTOOLS.md)
 * [常用技巧](SKILLS.md)
 * [前端自检](CHECKLIST.md)

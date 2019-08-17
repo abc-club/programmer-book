@@ -54,4 +54,5 @@ Do it yourself!!!
 
 ## 开源项目
  * [俄罗斯方块](https://github.com/timmyLan/tetris)
+ * [手写的Node.js静态资源服务器](https://segmentfault.com/a/1190000019936510)
 
