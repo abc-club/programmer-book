@@ -24,6 +24,8 @@
 ## Weex
 * [官网](https://weex.apache.org/zh/)
 
+### 文章
+* [WeexBox快速上手](https://juejin.im/post/5c1c627ae51d45778a5c6eb7)
 
 ## flutter
 
