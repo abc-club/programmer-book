@@ -231,6 +231,7 @@
  * [前端性能优化原理与实践](https://juejin.im/book/5b936540f265da0a9624b04b)
  * [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
  * [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
+ * [前端性能优化不完全手册](https://segmentfault.com/a/1190000018827395)
 
 
 ### 常用工具
@@ -251,6 +252,7 @@
  * [五星推荐的系列文章清单](https://juejin.im/post/5c1f01fef265da61587723f4)
  * [端动态化方案详细设计](https://juejin.im/post/5c274d0151882504bd0e80b3)
  * [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://juejin.im/post/5c8e5e4951882545c109ae9c)
+ * [彻底理清前端单页面应用（SPA）的实现原理 【精读源码】](https://segmentfault.com/a/1190000019936510)
 
 
 ## 趋势

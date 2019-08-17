@@ -85,6 +85,8 @@
  * [征服 JavaScript 面试：什么是闭包？](https://www.zcfy.cc/article/master-the-javascript-interview-what-is-a-closure-2127.html)
  * [面试官问：JS的this指向](https://juejin.im/post/5c0c87b35188252e8966c78a)
  * [8道经典JavaScript面试题解析，你真的掌握JavaScript了吗？](https://segmentfault.com/a/1190000020026378)
+ * [前端20个真正灵魂拷问，吃透这些你就是中级前端工程师 【上篇】](https://segmentfault.com/a/1190000020062444)
+
 
 
 ## 面试技巧
@@ -128,6 +130,7 @@
 
 ## github面试题仓库
 - https://github.com/30-seconds/30-seconds-of-interviews
+- https://github.com/xiaomuzhu/front-end-interview
 - https://github.com/yisainan/web-interview
 - https://github.com/woai3c/Front-end-basic-knowledge
 - https://github.com/qiu-deqing/FE-interview
