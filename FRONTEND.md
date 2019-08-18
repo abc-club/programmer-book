@@ -230,6 +230,7 @@
 
 ### 文章
  * [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
+ * [【Cute-Webpack】Webpack4 入门手册（共 18 章）](https://segmentfault.com/a/1190000020063707)
 
 ## GraphQL
 
@@ -290,8 +291,17 @@
 ### demo
  * [2018 最佳前端动效集锦](https://tympanus.net/codrops/2018/12/27/awesome-demos-from-2018/)
 
-### 可视化
+## 可视化
+### 库
+ * [Echart](https://github.com/apache/incubator-echarts)
+ * [D3](https://github.com/d3/d3)
+ * [Highchart](https://github.com/highcharts/highcharts)
+ * [Antv](https://github.com/antvis/)
+
+
+### 文章
  * [14个最好的 JavaScript 数据可视化库](https://segmentfault.com/a/1190000018646425)
+ * [前端必看的数据可视化入门指南](https://segmentfault.com/a/1190000019934874)
 
 
 ## 数据结构与算法
