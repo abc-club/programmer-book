@@ -48,13 +48,13 @@ Do it yourself!!!
  * [从0到1搭建和部署个人博客](https://juejin.im/post/5ae170e1f265da0b7527d0dc)
  * [如何从零开始定义一个类似websocket的即时通讯协议](https://segmentfault.com/a/1190000019560096)
  * [从0到1搭建和部署个人博客](https://juejin.im/post/5ae170e1f265da0b7527d0dc)
+ * [一行代码实现一个简单的模板字符串替换](https://github.com/jawil/blog/issues/32)
 
-
- 
 
 
 ## 开源项目
  * [俄罗斯方块](https://github.com/timmyLan/tetris)
  * [手写的Node.js静态资源服务器](https://segmentfault.com/a/1190000019936510)
  * [MVW-demos](https://github.com/livoras/MVW-demos)
+ * [前端开发常用工具](https://github.com/yimogit/metools-plugin)
 

@@ -403,6 +403,12 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  ## 其他必备知识
  * [前端开发者必备的Nginx知识](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
  * [多站点单点登录实现方案](https://juejin.im/post/5d04d946f265da1b9163915a)
+ * [【干货】Chrome插件(扩展)开发全攻略](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
+ * [如何发布一款Chrome App](https://segmentfault.com/a/1190000000354014)
+    * [GayHub](https://github.com/jawil/GayHub)
+    * [打开莆田系医院网站，发出警告提醒、显示医院信息](https://github.com/hustcc/PTHospital.chrome)
+ * [从开发 2 个 Chrome 插件中学到的（对新手的 4 个提示和 6 个技巧）](https://juejin.im/post/58e6e86eac502e006c2b1307)
+    
 
 ### 常用技术
  * [face++](https://www.faceplusplus.com.cn)(人脸识别)

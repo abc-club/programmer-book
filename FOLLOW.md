@@ -39,6 +39,8 @@
 - https://github.com/hoperyy/blog
 - https://github.com/biaochenxuying/blog
 - [前端工匠](https://github.com/ljianshu/Blog)
+- [前端小密圈](https://github.com/jawil/blog)
+
 
 ## 技术社区
 * [bestofjs](https://bestofjs.org/)
