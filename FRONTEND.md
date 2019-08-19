@@ -335,6 +335,7 @@
 
 ## 测试
 #### 文章
+ * [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
  * [2018 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
  * [2019 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
  * [测试你的前端代码（介绍篇）[英]](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)

@@ -129,6 +129,7 @@
 
 
 ## github面试题仓库
+- https://github.com/haizlin/fe-interview
 - https://github.com/30-seconds/30-seconds-of-interviews
 - https://github.com/xiaomuzhu/front-end-interview
 - https://github.com/yisainan/web-interview
