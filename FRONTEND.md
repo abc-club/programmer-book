@@ -247,6 +247,11 @@
  * [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
  * [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
  * [前端性能优化不完全手册](https://segmentfault.com/a/1190000018827395)
+ * [那些你不知道的meta标签](https://juejin.im/post/5c288546e51d451a6b51554a)
+ * [前端静态资源缓存最优解以及max-age的陷阱](https://blog.csdn.net/weixin_42817899/article/details/84553595)
+ * [node实战前端缓存总结](https://juejin.im/post/5ca083eaf265da30bd3e459b)
+ * [浏览器缓存](https://segmentfault.com/a/1190000008377508)
+ * [彻底理解浏览器的缓存机制](https://juejin.im/entry/5ad86c16f265da505a77dca4)
 
 
 ### 常用工具
@@ -410,6 +415,8 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
     * [GayHub](https://github.com/jawil/GayHub)
     * [打开莆田系医院网站，发出警告提醒、显示医院信息](https://github.com/hustcc/PTHospital.chrome)
  * [从开发 2 个 Chrome 插件中学到的（对新手的 4 个提示和 6 个技巧）](https://juejin.im/post/58e6e86eac502e006c2b1307)
+ * [chrome开发官方文档](https://developer.chrome.com/extensions)
+ * [github开发官方文档](https://developer.github.com/v3/)
     
 
 ### 常用技术
