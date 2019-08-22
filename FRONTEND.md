@@ -263,6 +263,10 @@
  * [zanePerfor](https://github.com/wangweianger/zanePerfor) (网站访问速度)
  * [pingdom](https://www.pingdom.com/) (网站状况监控)
 
+### 开源库
+ * [hiper *2k+](https://github.com/pod4g/hiper)
+
+
 ## 高质文章
  * [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-44)
  * [阿里大佬浅谈大型项目前端架构设计](https://mp.weixin.qq.com/s/8K4b2qLU3SWcADBlpAFtZg)
@@ -367,6 +371,9 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  * [nightwatch](https://github.com/nightwatchjs/nightwatch)
  * [puppeteer](https://github.com/GoogleChrome/puppeteer)(Headless Chrome Node API )
  * [Macaca](https://github.com/alibaba/macaca)
+ * [appium](http://appium.io/)(app测试)
+ * [Selenium](https://docs.seleniumhq.org/)
+
 #### 文章
  * [端到端测试哪家强？不容错过的Cypress](https://segmentfault.com/a/1190000014907041)
  * [Puppeteer E2E测试入门](https://juejin.im/post/5bffb344e51d45378d0d39f4)
