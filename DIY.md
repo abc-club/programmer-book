@@ -49,6 +49,8 @@ Do it yourself!!!
  * [一步一步搭建前端监控系统：如何记录用户行为？](https://juejin.im/post/5d44ec1cf265da039a2869c0)
  * [【数据可视化之采集】如何设计一个前端监控系统](https://juejin.im/entry/58834ecb1b69e60058d8f73a)
  * [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
+ * [zanePerfor一款完整、高性能、高可用的前端性能监控和统计平台](https://github.com/wangweianger/zanePerfor)
+ 
 ## 开源项目
 - https://github.com/justjavac/Programming-Alpha-To-Omega
  * [俄罗斯方块](https://github.com/timmyLan/tetris)
