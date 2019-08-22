@@ -360,6 +360,7 @@ unit测试是把代码看成是一个个的组件。从而实现每一个组件�
  * [karma](https://github.com/karma-runner/karma)(Spectacular Test Runner for JavaScript )
  * [mocha](https://github.com/mochajs/mocha)(simple, flexible, fun javascript test framework for node.js & the browser)
  * [enzyme](https://github.com/airbnb/enzyme/)(JavaScript Testing utilities for React )
+ * [vue-test-utils](https://vue-test-utils.vuejs.org/)(JavaScript Testing utilities for vue )
 #### 文章
 
 
