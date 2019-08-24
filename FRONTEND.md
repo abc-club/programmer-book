@@ -36,6 +36,8 @@
 * [canvas](#canvas)
 * [测试](#测试)
 * [其他必备知识](#其他必备知识)
+* [网络请求](#网络请求)
+* [pwa](#pwa)
 
 
 ## vue
@@ -123,6 +125,7 @@
 - awesome 	https://github.com/dzharii/awesome-typescript
 - 深入理解 TypeScript	 https://github.com/jkchao/typescript-book-chinese  https://jkchao.github.io/typescript-book-chinese/  https://github.com/basarat/typescript-book/
 - TypeScript入门指南（基础篇） https://juejin.im/post/5d3bb567f265da1b8f1b09c1
+- TypeScript 入门指南 https://mp.weixin.qq.com/s/Oyawvb5BD-OKvMuF2tQ0pw?
 
 ### react+typescript demo
 - React+redux+typescript   https://github.com/piotrwitek/react-redux-typescript-guide
@@ -277,6 +280,7 @@
  * [端动态化方案详细设计](https://juejin.im/post/5c274d0151882504bd0e80b3)
  * [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://juejin.im/post/5c8e5e4951882545c109ae9c)
  * [彻底理清前端单页面应用（SPA）的实现原理 【精读源码】](https://segmentfault.com/a/1190000019936510)
+ * [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://juejin.im/post/59c60691518825396f4f71a1)
 
 
 ## 趋势
@@ -434,6 +438,13 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
     * [飞冰](https://ice.work/)
     * [lugia](https://zhuanlan.zhihu.com/p/77255855)
     * [前端物料中台建设](https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0)
+
+## 网络请求
+ * [axios中文文档翻译](https://segmentfault.com/a/1190000008470355)
+
+
+## pwa
+ * [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
 
 
 [↑ 返回目录 ↑](#目录)
