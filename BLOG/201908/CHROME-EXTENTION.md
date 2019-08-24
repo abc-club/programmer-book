@@ -16,7 +16,7 @@ https://github.com/abc-club/ctx-scroll-top
 ### 目录结构
 
 
-![](https://user-gold-cdn.xitu.io/2019/8/24/16cc2751d14ac06c?w=358&h=184&f=png&s=11296)
+![](https://user-gold-cdn.xitu.io/2019/8/24/16cc2751d14ac06c)
 
 是的！就是这么简单！总共三个文件：1个图标（用于在扩展栏显示的图标），1个配置文件（chrome插件必需的json文件），1个js脚本（用于实现功能）
 
@@ -108,13 +108,13 @@ injectBtn();
 第三步：把第一步下载的文件解压，把整个文件夹拖入第二步打开的页面，这时你会看到
 
 
-![](https://user-gold-cdn.xitu.io/2019/8/24/16cc27ca52baa25a?w=834&h=440&f=png&s=43173)
+![](https://user-gold-cdn.xitu.io/2019/8/24/16cc27ca52baa25a)
 
 第四步：随便打开一个网页：如 https://github.com/abc-club/free-resources
 
 第五步：往下滚动页面，我们的按钮便会出现，点击便可以回到顶部
 
-![](https://user-gold-cdn.xitu.io/2019/8/24/16cc27ef2646ac64?w=2524&h=1626&f=png&s=243000)
+![](https://user-gold-cdn.xitu.io/2019/8/24/16cc27ef2646ac64)
 
 
 ## 参考资料
