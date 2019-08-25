@@ -22,3 +22,8 @@
 * [2018js生态趋势](https://2018.stateofjs.com/cn/introduction/)
 
 * [前端技术栈干货文章链接（精品）](https://zhuanlan.zhihu.com/p/76184208)
+* [掘金排行前5000大佬 | 掘金文章排行 看这里](https://juejin.im/post/5d57f9a6f265da03b1204953)
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [2018上半年掘金微信群日报优质文章合集：前端篇](https://juejin.im/post/5b3adfe2e51d4555b17e85df)
+
+

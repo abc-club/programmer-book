@@ -22,7 +22,6 @@
  * [写给初入门/半路出家的前端er](https://juejin.im/post/5cb4b881f265da0374186fd9)
  * [2018 年，我的本命年 - 前端工作师的年终总结](https://github.com/biaochenxuying/blog/issues/19)
 
-
 ## 团队篇
 
 ### 前端方向

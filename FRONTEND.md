@@ -38,12 +38,14 @@
 * [其他必备知识](#其他必备知识)
 * [网络请求](#网络请求)
 * [pwa](#pwa)
+* [mysql](#mysql)
 
 
 ## vue
 
 
 ### 文章
+ * [逐行分析vue](https://github.com/HcySunYang/vue-design)
  * [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
  * [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
  * [VUE单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
@@ -76,6 +78,7 @@
 - dva   https://dvajs.com
 
 ### 参考资料
+* [React 源码解析](https://github.com/KieSun/react-interpretation)
 - awesome https://github.com/enaqx/awesome-react
 - react-hook   https://github.com/streamich/react-use
 - React.js 小书 https://juejin.im/post/58c7a16e2f301e006bd03dbe
@@ -281,6 +284,7 @@
  * [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://juejin.im/post/5c8e5e4951882545c109ae9c)
  * [彻底理清前端单页面应用（SPA）的实现原理 【精读源码】](https://segmentfault.com/a/1190000019936510)
  * [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://juejin.im/post/59c60691518825396f4f71a1)
+ * [使用 postMessage 解决 iframe 跨域通信问题](https://juejin.im/post/590c3983ac502e006531df11)
 
 
 ## 趋势
@@ -445,6 +449,17 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 
 ## pwa
  * [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
+
+
+## mysql
+* [官网](https://www.mysql.com/)
+* [mysqljs](https://github.com/mysqljs/mysql)
+* [21分钟MySQL基础入门](https://segmentfault.com/a/1190000006876419)
+* [2019-01-11亲测Navicat Premium for Mac破解](https://www.jianshu.com/p/4e93b48f9f63)
+
+### 常见问题
+* [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
+
 
 
 [↑ 返回目录 ↑](#目录)
