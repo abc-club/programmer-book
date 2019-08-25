@@ -116,6 +116,7 @@
 * [去哪儿网大前端技术中心](https://github.com/YMFE)
 
 ### 个人
+* [Github 中国和全球用户排名](https://github.com/jaywcjlove/github-rank)
 * [tj](https://github.com/tj)
 * [阮一峰](https://github.com/ruanyf)
 * [尤雨溪](https://github.com/yyx990803)

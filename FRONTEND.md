@@ -456,6 +456,9 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [mysqljs](https://github.com/mysqljs/mysql)
 * [21分钟MySQL基础入门](https://segmentfault.com/a/1190000006876419)
 * [2019-01-11亲测Navicat Premium for Mac破解](https://www.jianshu.com/p/4e93b48f9f63)
+* [MySQL命令，一篇文章替你全部搞定](https://juejin.im/post/5ae55861f265da0ba062ec71)
+* [sequelize](https://github.com/sequelize/sequelize)(An easy-to-use multi SQL dialect ORM for Node.js )
+* [bookshelf](https://github.com/bookshelf/bookshelf)(A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js)
 
 ### 常见问题
 * [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
