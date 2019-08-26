@@ -260,10 +260,13 @@
  * [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
 
 ### 监控
+#### 开源库
 - https://github.com/BetterJS
 - https://github.com/iv-web/aegis-report
 - https://github.com/RicardoCao-Biker/Front-End-Monitoring
 
+#### 文章
+* [捕获未处理的Promise错误方法](https://www.jb51.net/article/125664.htm)
 
 ### 常用工具
  * [阿里云监控](https://help.aliyun.com/document_detail/58652.html?spm=a2c4g.11174283.3.2.3245668cvlC7WK) (网站性能、错误等监控)
