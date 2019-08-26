@@ -247,7 +247,6 @@
 
 ## 性能与监控
 
-
 ### 文章
  * [前端性能优化原理与实践](https://juejin.im/book/5b936540f265da0a9624b04b)
  * [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
@@ -258,6 +257,12 @@
  * [node实战前端缓存总结](https://juejin.im/post/5ca083eaf265da30bd3e459b)
  * [浏览器缓存](https://segmentfault.com/a/1190000008377508)
  * [彻底理解浏览器的缓存机制](https://juejin.im/entry/5ad86c16f265da505a77dca4)
+ * [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
+
+### 监控
+- https://github.com/BetterJS
+- https://github.com/iv-web/aegis-report
+- https://github.com/RicardoCao-Biker/Front-End-Monitoring
 
 
 ### 常用工具
