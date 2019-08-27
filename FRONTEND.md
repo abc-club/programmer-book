@@ -267,6 +267,9 @@
 
 #### 文章
 * [捕获未处理的Promise错误方法](https://www.jb51.net/article/125664.htm)
+* [前端异常监控、上报及js压缩代码定位](https://juejin.im/post/5b55c3495188251acb0cf907)
+
+
 
 ### 常用工具
  * [阿里云监控](https://help.aliyun.com/document_detail/58652.html?spm=a2c4g.11174283.3.2.3245668cvlC7WK) (网站性能、错误等监控)
