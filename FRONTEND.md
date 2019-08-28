@@ -38,7 +38,7 @@
 * [其他必备知识](#其他必备知识)
 * [网络请求](#网络请求)
 * [pwa](#pwa)
-* [mysql](#mysql)
+* [数据库](#数据库)
 
 
 ## vue
@@ -462,7 +462,9 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  * [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
 
 
-## mysql
+## 数据库
+
+### mysql
 * [官网](https://www.mysql.com/)
 * [mysqljs](https://github.com/mysqljs/mysql)
 * [21分钟MySQL基础入门](https://segmentfault.com/a/1190000006876419)
@@ -470,6 +472,14 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [MySQL命令，一篇文章替你全部搞定](https://juejin.im/post/5ae55861f265da0ba062ec71)
 * [sequelize](https://github.com/sequelize/sequelize)(An easy-to-use multi SQL dialect ORM for Node.js )
 * [bookshelf](https://github.com/bookshelf/bookshelf)(A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js)
+
+### mongodb
+* [mongoose中文网](http://www.mongoosejs.net)
+
+
+### kafka
+* [震惊了！原来这才是kafka！](https://www.jianshu.com/p/d3e963ff8b70)
+* [kafka中文教程](https://www.orchome.com/kafka/index)
 
 ### 常见问题
 * [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)

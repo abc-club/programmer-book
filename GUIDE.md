@@ -12,5 +12,6 @@
 * [电击、警棍、爆头，被骗去柬埔寨的程序员有多惨？](https://mp.weixin.qq.com/s/HML11GgMZemtf_3mqdyQbA)
 * [如何打造一个破千 Star 的开源项目](https://mp.weixin.qq.com/s/gdvgHjPxjd2I6X4uWF56QQ)
 * [如何在疲劳的JS世界中持续学习](https://juejin.im/post/5ae97bd05188256719521ae0)
+* [前端工程师如何持续保持热情（一）](https://juejin.im/post/5d6419dee51d4561eb0b26af)
 
 

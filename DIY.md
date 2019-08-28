@@ -52,6 +52,7 @@ Do it yourself!!!
  * [zanePerfor一款完整、高性能、高可用的前端性能监控和统计平台](https://github.com/wangweianger/zanePerfor)
  * [Node+Koa2+Mysql 搭建简易博客](http://www.wclimb.site/2017/07/12/Node-Koa2-Mysql-%E6%90%AD%E5%BB%BA%E7%AE%80%E6%98%93%E5%8D%9A%E5%AE%A2/)
  * [从零开始实现一套pc端vue的ui组件库](https://segmentfault.com/a/1190000020193444)
+ * [【手把手】15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364)
 
 
 ## 开源项目
