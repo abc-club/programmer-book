@@ -296,6 +296,8 @@
  * [彻底理清前端单页面应用（SPA）的实现原理 【精读源码】](https://segmentfault.com/a/1190000019936510)
  * [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://juejin.im/post/59c60691518825396f4f71a1)
  * [使用 postMessage 解决 iframe 跨域通信问题](https://juejin.im/post/590c3983ac502e006531df11)
+ * [基于工程经验的『RESTful接口设计规范』](https://juejin.im/post/5afee0e86fb9a07ab379b371)
+ * [RESTful API 编写指南](https://juejin.im/post/57d168e9bf22ec005f98a3a5)
 
 
 ## 趋势
