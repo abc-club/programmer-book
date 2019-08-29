@@ -86,7 +86,7 @@
  * [面试官问：JS的this指向](https://juejin.im/post/5c0c87b35188252e8966c78a)
  * [8道经典JavaScript面试题解析，你真的掌握JavaScript了吗？](https://segmentfault.com/a/1190000020026378)
  * [前端20个真正灵魂拷问，吃透这些你就是中级前端工程师 【上篇】](https://segmentfault.com/a/1190000020062444)
-
+ * [js基础-面试官想知道你有多理解call,apply,bind？[不看后悔系列]](https://juejin.im/post/5d469e0851882544b85c32ef)
 
 
 ## 面试技巧
