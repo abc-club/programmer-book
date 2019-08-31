@@ -125,6 +125,7 @@
  * [面试分享：2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)
  * [2018春节后前端面试小记](https://juejin.im/post/5a99108f51882555666f1bca)
  * [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
+ * [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
 
 
 
