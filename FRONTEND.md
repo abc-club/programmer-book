@@ -516,6 +516,7 @@
 * [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 
 ### 机器学习
+* [一文看尽 TensorFlow“奋斗史”！| CSDN 博文精选](https://mp.weixin.qq.com/s/iQ8azTcyW4oJLSacJ84w-g)
 * [tensorflow中文](https://tensorflow.google.cn/)
 * [TensorFlow 如何入门，如何快速学习？](https://www.zhihu.com/question/49909565/answer/807076121)
 * [前端如何学习机器学习之TensorFlow.js](https://juejin.im/post/5b971b295188255c581a8ff0)
