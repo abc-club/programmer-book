@@ -178,9 +178,12 @@
  * [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
 
 ### 函数式编程
- * [「前端进阶」彻底弄懂函数组合](https://juejin.im/post/5d50bfebf265da03cb122b6f)
- * [函数式编程，真香](https://juejin.im/post/5c19c3ffe51d45059b632eef)
- * [深入学习javascript函数式编程](https://juejin.im/post/5c1a231de51d452ce364d945)
+* [「前端进阶」彻底弄懂函数组合](https://juejin.im/post/5d50bfebf265da03cb122b6f)
+* [函数式编程，真香](https://juejin.im/post/5c19c3ffe51d45059b632eef)
+* [深入学习javascript函数式编程](https://juejin.im/post/5c1a231de51d452ce364d945)
+* [一文带你了解 JavaScript 函数式编程](https://mp.weixin.qq.com/s/AKYMse3cSyMhT95kdzdldw)
+* [不要再尝试函数式编程了](https://mp.weixin.qq.com/s/1pAzdyBR4qE1A2aZF4GVIw)
+
 
 
 ### 其他
@@ -248,16 +251,18 @@
 ## 性能与监控
 
 ### 文章
- * [前端性能优化原理与实践](https://juejin.im/book/5b936540f265da0a9624b04b)
- * [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
- * [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
- * [前端性能优化不完全手册](https://segmentfault.com/a/1190000018827395)
- * [那些你不知道的meta标签](https://juejin.im/post/5c288546e51d451a6b51554a)
- * [前端静态资源缓存最优解以及max-age的陷阱](https://blog.csdn.net/weixin_42817899/article/details/84553595)
- * [node实战前端缓存总结](https://juejin.im/post/5ca083eaf265da30bd3e459b)
- * [浏览器缓存](https://segmentfault.com/a/1190000008377508)
- * [彻底理解浏览器的缓存机制](https://juejin.im/entry/5ad86c16f265da505a77dca4)
- * [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
+* [前端性能优化原理与实践](https://juejin.im/book/5b936540f265da0a9624b04b)
+* [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
+* [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
+* [前端性能优化不完全手册](https://segmentfault.com/a/1190000018827395)
+* [那些你不知道的meta标签](https://juejin.im/post/5c288546e51d451a6b51554a)
+* [前端静态资源缓存最优解以及max-age的陷阱](https://blog.csdn.net/weixin_42817899/article/details/84553595)
+* [node实战前端缓存总结](https://juejin.im/post/5ca083eaf265da30bd3e459b)
+* [浏览器缓存](https://segmentfault.com/a/1190000008377508)
+* [彻底理解浏览器的缓存机制](https://juejin.im/entry/5ad86c16f265da505a77dca4)
+* [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
+* [从 0 到 1 的前端异常监控项目实战](https://mp.weixin.qq.com/s/Q1KGbkcF-AMWsWN7Ae7E1A)
+
 
 ### 监控
 #### 开源库
@@ -285,20 +290,21 @@
 
 
 ## 高质文章
- * [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-44)
- * [阿里大佬浅谈大型项目前端架构设计](https://mp.weixin.qq.com/s/8K4b2qLU3SWcADBlpAFtZg)
- * [年终回顾，为你汇总一份「前端技术清单」](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
- * [8年前端开发的知识点沉淀(不知道会多少字，一直写下去吧...)](https://juejin.im/post/5d0878aaf265da1b83338f74)
- * [fullstack tutorial](https://github.com/frank-lam/fullstack-tutorial)
- * [五星推荐的系列文章清单](https://juejin.im/post/5c1f01fef265da61587723f4)
- * [端动态化方案详细设计](https://juejin.im/post/5c274d0151882504bd0e80b3)
- * [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://juejin.im/post/5c8e5e4951882545c109ae9c)
- * [彻底理清前端单页面应用（SPA）的实现原理 【精读源码】](https://segmentfault.com/a/1190000019936510)
- * [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://juejin.im/post/59c60691518825396f4f71a1)
- * [使用 postMessage 解决 iframe 跨域通信问题](https://juejin.im/post/590c3983ac502e006531df11)
- * [基于工程经验的『RESTful接口设计规范』](https://juejin.im/post/5afee0e86fb9a07ab379b371)
- * [RESTful API 编写指南](https://juejin.im/post/57d168e9bf22ec005f98a3a5)
-
+* [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-44)
+* [阿里大佬浅谈大型项目前端架构设计](https://mp.weixin.qq.com/s/8K4b2qLU3SWcADBlpAFtZg)
+* [年终回顾，为你汇总一份「前端技术清单」](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
+* [8年前端开发的知识点沉淀(不知道会多少字，一直写下去吧...)](https://juejin.im/post/5d0878aaf265da1b83338f74)
+* [fullstack tutorial](https://github.com/frank-lam/fullstack-tutorial)
+* [五星推荐的系列文章清单](https://juejin.im/post/5c1f01fef265da61587723f4)
+* [端动态化方案详细设计](https://juejin.im/post/5c274d0151882504bd0e80b3)
+* [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://juejin.im/post/5c8e5e4951882545c109ae9c)
+* [彻底理清前端单页面应用（SPA）的实现原理 【精读源码】](https://segmentfault.com/a/1190000019936510)
+* [原来 CSS 与 JS 是这样阻塞 DOM 解析和渲染的](https://juejin.im/post/59c60691518825396f4f71a1)
+* [使用 postMessage 解决 iframe 跨域通信问题](https://juejin.im/post/590c3983ac502e006531df11)
+* [基于工程经验的『RESTful接口设计规范』](https://juejin.im/post/5afee0e86fb9a07ab379b371)
+* [RESTful API 编写指南](https://juejin.im/post/57d168e9bf22ec005f98a3a5)
+* [前端技术栈干货文章链接（精品）](https://zhuanlan.zhihu.com/p/76184208)
+* [新时代下前端工程师的推荐书籍和必备知识](https://juejin.im/post/5c7129b0f265da2d9710f7ca)
 
 ## 趋势
 - 微前端  https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html    https://github.com/neuland/micro-frontends
