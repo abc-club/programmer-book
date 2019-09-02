@@ -49,3 +49,5 @@
 * [如何打造一个破千 Star 的开源项目](https://mp.weixin.qq.com/s/gdvgHjPxjd2I6X4uWF56QQ)
 * [如何在疲劳的JS世界中持续学习](https://juejin.im/post/5ae97bd05188256719521ae0)
 * [前端工程师如何持续保持热情（一）](https://juejin.im/post/5d6419dee51d4561eb0b26af)
+* [【35岁程序员裸辞去培训机构学习算法，结果发现，又交了4万智商税】](https://m.toutiaocdn.com/a6731318989785399822)
+* [孙正义：下一个30年将发生什么](https://m.toutiaocdn.net/a6728971898190823950)

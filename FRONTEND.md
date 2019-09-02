@@ -35,10 +35,10 @@
 * [工具](#工具)
 * [canvas](#canvas)
 * [测试](#测试)
-* [其他必备知识](#其他必备知识)
 * [网络请求](#网络请求)
 * [pwa](#pwa)
 * [数据库](#数据库)
+* [其他必备知识](#其他必备知识)
 
 
 ## vue
@@ -328,11 +328,11 @@
  * [Highchart](https://github.com/highcharts/highcharts)
  * [Antv](https://github.com/antvis/)
 
-
 ### 文章
  * [14个最好的 JavaScript 数据可视化库](https://segmentfault.com/a/1190000018646425)
  * [前端必看的数据可视化入门指南](https://segmentfault.com/a/1190000019934874)
  * [一步步带你实现web全景看房——three.js](https://juejin.im/post/5d57967a6fb9a06b017e4b62)
+ * [阿里基于G6和React打造的开源可视化图形编辑器——GGEditor](https://m.toutiaocdn.net/a6730972736664912387)
 
 
 ## 数据结构与算法
@@ -418,6 +418,7 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  * [去哪儿yapi](https://github.com/ymfe/yapi)(支持接口文档、mock和api自动化测试):100:
     * [接口文档](https://hellosean1025.github.io/yapi/documents/index.html)
     * [Json Schema 快速入门](https://www.jianshu.com/p/8278eb2458c4?winzoom=1)
+    * [【GitHub项目推荐｜YApi打通前后端及QA可视化接口管理平台｜神级项目】](https://m.toutiaocdn.com/a6731281999819964935)
  * [rap2](http://rap2.taobao.org)
  * [swagger](https://swagger.io/)(https://swagger.io/)(https://github.com/swagger-api)
  * [丁香园api-mocker *998](https://github.com/DXY-F2E/api-mocker)
@@ -436,26 +437,6 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  * [Swagger从入门到精通](https://huangwenchao.gitbooks.io/swagger/content/)
  * [Swagger与其他API文档编写工具对比](https://haofly.net/swagger/)
 
-
-
- ## 其他必备知识
- * [前端开发者必备的Nginx知识](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
- * [多站点单点登录实现方案](https://juejin.im/post/5d04d946f265da1b9163915a)
- * [【干货】Chrome插件(扩展)开发全攻略](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
- * [如何发布一款Chrome App](https://segmentfault.com/a/1190000000354014)
-    * [GayHub](https://github.com/jawil/GayHub)
-    * [打开莆田系医院网站，发出警告提醒、显示医院信息](https://github.com/hustcc/PTHospital.chrome)
- * [从开发 2 个 Chrome 插件中学到的（对新手的 4 个提示和 6 个技巧）](https://juejin.im/post/58e6e86eac502e006c2b1307)
- * [chrome开发官方文档](https://developer.chrome.com/extensions)
- * [github开发官方文档](https://developer.github.com/v3/)
-    
-
-### 常用技术
- * [face++](https://www.faceplusplus.com.cn)(人脸识别)
- * 前端物料中台
-    * [飞冰](https://ice.work/)
-    * [lugia](https://zhuanlan.zhihu.com/p/77255855)
-    * [前端物料中台建设](https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0)
 
 ## 网络请求
  * [axios中文文档翻译](https://segmentfault.com/a/1190000008470355)
@@ -490,6 +471,25 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 ### 常见问题
 * [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
 
+## 其他必备知识
+* [前端开发者必备的Nginx知识](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
+* [多站点单点登录实现方案](https://juejin.im/post/5d04d946f265da1b9163915a)
+* [【干货】Chrome插件(扩展)开发全攻略](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
+* [如何发布一款Chrome App](https://segmentfault.com/a/1190000000354014)
+  * [GayHub](https://github.com/jawil/GayHub)
+  * [打开莆田系医院网站，发出警告提醒、显示医院信息](https://github.com/hustcc/PTHospital.chrome)
+* [从开发 2 个 Chrome 插件中学到的（对新手的 4 个提示和 6 个技巧）](https://juejin.im/post/58e6e86eac502e006c2b1307)
+* [chrome开发官方文档](https://developer.chrome.com/extensions)
+* [github开发官方文档](https://developer.github.com/v3/)
+* [【10 个基于 JavaScript 的机器学习实例】](https://m.toutiaocdn.net/a6730835071474860547)
+
+
+### 常用技术
+ * [face++](https://www.faceplusplus.com.cn)(人脸识别)
+ * 前端物料中台
+    * [飞冰](https://ice.work/)
+    * [lugia](https://zhuanlan.zhihu.com/p/77255855)
+    * [前端物料中台建设](https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0)
 
 
 [↑ 返回目录 ↑](#目录)
