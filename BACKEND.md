@@ -9,3 +9,8 @@
 ## jenkins
 * [让自动化工作流解放你的双手](https://juejin.im/post/5d3fb5046fb9a06b0935f47d)
 
+
+## java
+
+### 开源
+* [史上最全的整合第三方登录的开源库JustAuth](https://github.com/justauth/JustAuth)
