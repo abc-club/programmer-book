@@ -94,6 +94,7 @@
 * [如何优化你的超大型React应用 【原创精读】](https://juejin.im/post/5d35d3ecf265da1bc23fb654)
 * [React 实战：设计模式和最佳实践](https://juejin.im/book/5ba42844f265da0a8a6aa5e9)
 * [21个让React 开发更高效更有趣的工具](https://segmentfault.com/a/1190000020038593#articleHeader2)
+* [在react/redux中使用Immutable](https://www.cnblogs.com/greatluoluo/p/8469224.html)
 
 
 ### 组件库
