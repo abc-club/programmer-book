@@ -244,8 +244,10 @@
 ## GraphQL
 
 ### 文章
- * [前端er了解GraphQL，看这篇就够了](https://juejin.im/post/5ca1b7be51882543ea4b7f27)
- * [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+* [前端er了解GraphQL，看这篇就够了](https://juejin.im/post/5ca1b7be51882543ea4b7f27)
+* [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+* [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+
 
 
 ## 性能与监控
