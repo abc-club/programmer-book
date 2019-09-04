@@ -349,6 +349,9 @@
  * [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
  * [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 
+### 开源库
+* [leetcode](https://github.com/azl397985856/leetcode)
+
 
 ## js-core
  * [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
