@@ -76,6 +76,8 @@
 - redux       http://cn.redux.js.org/ 
 - umi   https://umijs.org/
 - dva   https://dvajs.com
+- immutable https://github.com/immutable-js/immutable-js
+* [react-devtools-tutorial](https://react-devtools-tutorial.now.sh/)
 
 ### 参考资料
 * [React 源码解析](https://github.com/KieSun/react-interpretation)
@@ -95,7 +97,11 @@
 * [React 实战：设计模式和最佳实践](https://juejin.im/book/5ba42844f265da0a8a6aa5e9)
 * [21个让React 开发更高效更有趣的工具](https://segmentfault.com/a/1190000020038593#articleHeader2)
 * [在react/redux中使用Immutable](https://www.cnblogs.com/greatluoluo/p/8469224.html)
-
+* [从头开始，彻底理解服务端渲染原理(8千字汇总长文)](https://zhuanlan.zhihu.com/p/76967335)
+* [React 的性能优化（一）当 PureComponent 遇上 ImmutableJS](https://tech.youzan.com/purecomponent-immutablejs)
+* [Profiling React performance with React 16 and Chrome Devtools.](https://calibreapp.com/blog/react-performance-profiling-optimization/)
+* [React 性能优化技巧总结](https://segmentfault.com/a/1190000018257360)
+* [介绍React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 
 ### 组件库
 - ant-design  https://ant.design/index-cn
@@ -346,19 +352,32 @@
 
 ## 数据结构与算法
 
- * [数据结构与算法（三）—— 常见排序算法和swift实现](https://juejin.im/post/5c46b05d51882524a23f3a12)
- * [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
- * [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
+### 官网
+* [leetcode](https://leetcode.com/)
+* [leetcode中国](https://leetcode-cn.com)
+
+### 文章
+* [数据结构与算法（三）—— 常见排序算法和swift实现](https://juejin.im/post/5c46b05d51882524a23f3a12)
+* [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
+* [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
+* [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
+
 
 ### 开源库
 * [leetcode](https://github.com/azl397985856/leetcode)
+* [LeetCodeAnimation *39k+](https://github.com/MisterBooo/LeetCodeAnimation)
 
 
 ## js-core
- * [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
- * [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
- * [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
- * [JavaScript引擎是如何工作的？从调用栈到Promise你需要知道的一切](https://segmentfault.com/a/1190000019205065)
+
+### 库
+* [QuickJS](https://github.com/quickjs-zh/QuickJS)
+
+### 文章
+* [JavaScriptCore全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
+* [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+* [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
+* [JavaScript引擎是如何工作的？从调用栈到Promise你需要知道的一切](https://segmentfault.com/a/1190000019205065)
 
 
 ## 代码规范
