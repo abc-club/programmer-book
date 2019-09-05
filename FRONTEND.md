@@ -73,7 +73,8 @@
 - React官网  https://reactjs.org/
 - React中文网	https://react.docschina.org/
 - React-router https://reacttraining.com/react-router
-- redux       http://cn.redux.js.org/ 
+- redux https://redux.js.org/introduction/getting-started
+- redux中文       http://cn.redux.js.org/ 
 - umi   https://umijs.org/
 - dva   https://dvajs.com
 - immutable https://github.com/immutable-js/immutable-js
