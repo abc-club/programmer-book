@@ -43,9 +43,38 @@
 
 ## vue
 
+### 官方
+* [awesome-vue](https://github.com/vuejs/awesome-vue)
+* [nuxt](https://github.com/nuxt/nuxt.js)(vue服务端渲染)
+* [mpvue](https://github.com/Meituan-Dianping/mpvue)(vue小程序)
+* [vuepress](https://github.com/vuejs/vuepress)
+* [vue-i18n](https://github.com/kazupon/vue-i18n)
+* [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
+
+### 组件库或框架
+* [electron-vue](https://github.com/SimulatedGREG/electron-vue)
+* [uni-app](https://github.com/dcloudio/uni-app)(uni-app 是一个使用 Vue.js 开发小程序、H5、App的统一前端框架)
+* [chameleon](https://github.com/didi/chameleon)(滴滴一套代码运行多端，一端所见即多端所见)
+
+* [overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)
+* [element](https://github.com/ElemeFE/element)
+* [iview *22k+](https://github.com/iview/iview)
+* [vuetify](https://github.com/vuetifyjs/vuetify)
+* [mint-ui *14k+](https://github.com/ElemeFE/mint-ui)
+* [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+* [ant-design-vue](https://github.com/vueComponent/ant-design-vue)
+* [cube-ui](https://github.com/didi/cube-ui)
+
+* [v-charts](https://github.com/ElemeFE/v-charts)
+* [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
+* [vee-validate](https://github.com/logaretm/vee-validate)
+* [vue-lazyload](https://github.com/hilongjw/vue-lazyload)
+* [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
 
 ### 文章
-* [逐行分析vue](https://github.com/HcySunYang/vue-design)
+* [逐行分析vue](https://github.com/HcySunYang/vue-design)(vue源码分析)
+* [learnVue](https://github.com/answershuto/learnVue)(vue源码分析)
+* [vue-analysis](https://github.com/ustbhuangyi/vue-analysis)(vue源码分析)
 * [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
 * [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 * [VUE单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
@@ -56,15 +85,19 @@
 * [Vuejs建议和最佳实践](https://juejin.im/post/5d48f3b7e51d4561e224a2c8)
 * [Vue 项目性能优化 — 实践指南（网上最全 / 详细）](https://juejin.im/post/5d548b83f265da03ab42471d)
 
-### 组件库
-* [overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)
-
 ### 开源项目
-
-
+* [vue-sell](https://github.com/ustbhuangyi/vue-sell)
+* [vue2-elm *29k+](https://github.com/bailicangdu/vue2-elm)
+* [iview-admin](https://github.com/iview/iview-admin)
 * [vue-element-admin *38k+](https://github.com/PanJiaChen/vue-element-admin)
 * [vue-data-board](https://github.com/dongsuo/vue-data-board)
 * [bilibili-vue](https://github.com/lybenson/bilibili-vue)
+* [best-resume-ever ](https://github.com/salomonelli/best-resume-ever)
+* [vue2-manage](https://github.com/bailicangdu/vue2-manage)
+* [JSUI](https://github.com/kitze/JSUI)
+* [mall-admin-web](https://github.com/macrozheng/mall-admin-web)
+* [vue-framework-wz](https://github.com/herozhou/vue-framework-wz)
+* [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs)
 
 
 ## react
