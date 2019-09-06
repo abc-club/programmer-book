@@ -45,26 +45,26 @@
 
 
 ### 文章
- * [逐行分析vue](https://github.com/HcySunYang/vue-design)
- * [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
- * [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
- * [VUE单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
- * [一个Vue引发的性能问题](https://juejin.im/post/5c97691fe51d4522c55f9ead)
- * [【2019 前端进阶之路】Vue 组件间通信方式完整版](https://juejin.im/post/5c776ee4f265da2da53edfad)
- * [Vue.js 组件精讲](https://juejin.im/book/5bc844166fb9a05cd676ebca)
- * [剖析 Vue.js 内部运行机制](https://juejin.im/book/5a36661851882538e2259c0f)
- * [Vuejs建议和最佳实践](https://juejin.im/post/5d48f3b7e51d4561e224a2c8)
- * [Vue 项目性能优化 — 实践指南（网上最全 / 详细）](https://juejin.im/post/5d548b83f265da03ab42471d)
+* [逐行分析vue](https://github.com/HcySunYang/vue-design)
+* [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
+* [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
+* [VUE单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
+* [一个Vue引发的性能问题](https://juejin.im/post/5c97691fe51d4522c55f9ead)
+* [【2019 前端进阶之路】Vue 组件间通信方式完整版](https://juejin.im/post/5c776ee4f265da2da53edfad)
+* [Vue.js 组件精讲](https://juejin.im/book/5bc844166fb9a05cd676ebca)
+* [剖析 Vue.js 内部运行机制](https://juejin.im/book/5a36661851882538e2259c0f)
+* [Vuejs建议和最佳实践](https://juejin.im/post/5d48f3b7e51d4561e224a2c8)
+* [Vue 项目性能优化 — 实践指南（网上最全 / 详细）](https://juejin.im/post/5d548b83f265da03ab42471d)
 
 ### 组件库
- * [overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)
+* [overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)
 
 ### 开源项目
 
 
- * [vue-element-admin *38k+](https://github.com/PanJiaChen/vue-element-admin)
- * [vue-data-board](https://github.com/dongsuo/vue-data-board)
-
+* [vue-element-admin *38k+](https://github.com/PanJiaChen/vue-element-admin)
+* [vue-data-board](https://github.com/dongsuo/vue-data-board)
+* [bilibili-vue](https://github.com/lybenson/bilibili-vue)
 
 
 ## react
