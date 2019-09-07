@@ -14,3 +14,16 @@
 
 ### 开源
 * [史上最全的整合第三方登录的开源库JustAuth](https://github.com/justauth/JustAuth)
+
+
+## linux
+
+* [史上最牛的Linux视频教程—兄弟连](https://www.bilibili.com/video/av18156598/?p=1)(b站视频)
+
+
+## 编译原理
+
+* [编译原理（哈工大）](https://www.bilibili.com/video/av17649289/?p=3)(b站视频)
+
+## 人工智能
+* [人工智能入门](https://www.bilibili.com/video/av50927301?p=2)(b站视频)
