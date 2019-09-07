@@ -70,6 +70,7 @@
 * [vee-validate](https://github.com/logaretm/vee-validate)
 * [vue-lazyload](https://github.com/hilongjw/vue-lazyload)
 * [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
+* [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
 
 ### 文章
 * [逐行分析vue](https://github.com/HcySunYang/vue-design)(vue源码分析)
@@ -155,7 +156,7 @@
 * [Vulcan.js](https://github.com/vulcanjs/vulcan)(The full-stack React+GraphQL framework)
 
 ### Demo
-
+* [realworld ★31k+](https://github.com/gothinkster/realworld)
 
 ## typescript
 
