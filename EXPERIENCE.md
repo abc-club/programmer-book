@@ -22,7 +22,8 @@
 * [写给初入门/半路出家的前端er](https://juejin.im/post/5cb4b881f265da0374186fd9)
 * [2018 年，我的本命年 - 前端工作师的年终总结](https://github.com/biaochenxuying/blog/issues/19)
 * [那个三本的“家伙”自学前端五个月经历了什么？](https://juejin.im/post/5d5bf4dd51882554a13f850a)
-
+* [if 我是前端团队 Leader，怎么做好概要设计](https://juejin.im/post/5d71cec6e51d4561b674c4d0)
+* [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
 
 ## 团队篇
 

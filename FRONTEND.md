@@ -237,6 +237,9 @@
  * [前端开发变量命名系列 - JavaScript篇](https://segmentfault.com/a/1190000020039039)
  * [一文带你了解 JavaScript 函数式编程](https://mp.weixin.qq.com/s/AKYMse3cSyMhT95kdzdldw)
 
+### 开源项目
+* [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)
+
 
 ## es6
  * [前端模块化详解(完整版)](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
