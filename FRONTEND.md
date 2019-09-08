@@ -321,6 +321,7 @@
 - https://github.com/BetterJS
 - https://github.com/iv-web/aegis-report
 - https://github.com/RicardoCao-Biker/Front-End-Monitoring
+- https://github.com/MriLiuJY/monitorFE
 
 #### 文章
 * [捕获未处理的Promise错误方法](https://www.jb51.net/article/125664.htm)

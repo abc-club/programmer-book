@@ -37,7 +37,7 @@
 
 ### 开源库
 * [flutter-go *16k+](https://github.com/alibaba/flutter-go)
-
+* [awesome-fluttercn](https://github.com/fluttercnclub/awesome-fluttercn)
 
 ### demo
 
