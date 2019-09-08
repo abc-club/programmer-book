@@ -203,6 +203,8 @@
 - mosca https://github.com/mcollina/mosca
 - MQTT https://github.com/mqttjs/MQTT.js
 
+### 文章
+* [一步步搭建物联网系统](https://github.com/phodal/designiot)
 
 ### demo
 - javascript-mqtt-demo-wearingTip   https://github.com/coolnameismy/javascript-mqtt-demo-wearingTip
@@ -355,6 +357,7 @@
 * [RESTful API 编写指南](https://juejin.im/post/57d168e9bf22ec005f98a3a5)
 * [前端技术栈干货文章链接（精品）](https://zhuanlan.zhihu.com/p/76184208)
 * [新时代下前端工程师的推荐书籍和必备知识](https://juejin.im/post/5c7129b0f265da2d9710f7ca)
+* [一个全栈增长工程师的练手项目集](https://github.com/phodal/ideabook)
 
 ## 趋势
 - 微前端  https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html    https://github.com/neuland/micro-frontends
@@ -554,6 +557,7 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [chrome开发官方文档](https://developer.chrome.com/extensions)
 * [github开发官方文档](https://developer.github.com/v3/)
 * [【10 个基于 JavaScript 的机器学习实例】](https://m.toutiaocdn.net/a6730835071474860547)
+* [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 
 
 ### 常用技术
