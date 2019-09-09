@@ -29,19 +29,30 @@
 
 ## flutter
 
+### 官方
+* [flutter github](https://github.com/flutter/flutter)
+* [中文官网](https://flutter-io.cn/)
+* [官网](https://flutter.dev/)
+* [awesome-flutter](https://github.com/Solido/awesome-flutter)
+
 ### 文章
 * [Flutter资源](https://github.com/nieyafei/flutter-resources)
 * [Flutter 完全手册](https://juejin.im/book/5c5423ef6fb9a049cd54a213)
 * [写给前端工程师的Flutter教程](https://juejin.im/post/5d56605ef265da03f77e6519)
 * [京东技术中台的Flutter实践之路](https://mp.weixin.qq.com/s/5cmYG_WzyQKlnPNhpsd0oQ)
+* [Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)
+
 
 ### 开源库
 * [flutter-go *16k+](https://github.com/alibaba/flutter-go)
 * [awesome-fluttercn](https://github.com/fluttercnclub/awesome-fluttercn)
+* [material design](https://material-io.cn/)
+
 
 ### demo
 
 * [demo集合](https://github.com/XXApple/AndroidLibs/tree/master/Flutter)
+* [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
 ## electron
 

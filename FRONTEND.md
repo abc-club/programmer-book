@@ -234,13 +234,15 @@
 
 
 ### 其他
- * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
- * [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
- * [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
- * [JS中轻松遍历对象属性的几种方式](https://juejin.im/post/5d48c275f265da03b12032a1)
- * [你不懂JS（系列丛书）](https://github.com/JoeHetfield/You-Dont-Know-JS)
- * [前端开发变量命名系列 - JavaScript篇](https://segmentfault.com/a/1190000020039039)
- * [一文带你了解 JavaScript 函数式编程](https://mp.weixin.qq.com/s/AKYMse3cSyMhT95kdzdldw)
+* [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
+* [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
+* [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
+* [JS中轻松遍历对象属性的几种方式](https://juejin.im/post/5d48c275f265da03b12032a1)
+* [你不懂JS（系列丛书）](https://github.com/JoeHetfield/You-Dont-Know-JS)
+* [前端开发变量命名系列 - JavaScript篇](https://segmentfault.com/a/1190000020039039)
+* [一文带你了解 JavaScript 函数式编程](https://mp.weixin.qq.com/s/AKYMse3cSyMhT95kdzdldw)
+* [你真的知道0.1+0.2为何不等于0.3吗？](https://juejin.im/post/5d6e74c35188254628237d5d)
+
 
 ### 开源项目
 * [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)
@@ -256,9 +258,11 @@
 ## 移动端
 
 ### 文章
- * [移动端适配深度探究](https://juejin.im/post/5c9830e65188252d64583343)
- * [第三代移动端布局方案](https://juejin.im/post/5cb078f05188251ace1fedb4)
- * [移动端1px解决方案](https://juejin.im/post/5d19b729f265da1bb2774865)
+* [移动端适配深度探究](https://juejin.im/post/5c9830e65188252d64583343)
+* [第三代移动端布局方案](https://juejin.im/post/5cb078f05188251ace1fedb4)
+* [移动端1px解决方案](https://juejin.im/post/5d19b729f265da1bb2774865)
+* [拿到一份设计稿，我该如何进行移动端开发？](https://juejin.im/post/5d736747e51d4561ff66688c)
+* [前端基础知识概述 -- 移动端开发的屏幕、图像、字体与布局的兼容适配](https://juejin.im/post/5d70747cf265da03e16897c8)
 
 
 ### 常用库
