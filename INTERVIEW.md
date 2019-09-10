@@ -89,6 +89,7 @@
 * [js基础-面试官想知道你有多理解call,apply,bind？[不看后悔系列]](https://juejin.im/post/5d469e0851882544b85c32ef)
 * [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
 * [如何写出一个惊艳面试官的深拷贝?](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
+* [面试官: 100万个成员的数组取第一个和最后一个有性能差距吗?](https://juejin.im/post/5d75a5266fb9a06b1a56b137)
 
 ## 面试技巧
  * [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)

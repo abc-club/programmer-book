@@ -139,7 +139,8 @@
 * [介绍React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 * [React Router 中文文档（一）](https://segmentfault.com/a/1190000014294604)
 * [React Router 4 简易入门](https://segmentfault.com/a/1190000010174260)
-
+* [看完这篇，你也能把 React Hooks 玩出花](https://juejin.im/post/5d754dbde51d4561cd2466bf)
+* [React16常用api解析以及原理剖析](https://juejin.im/post/5d75a881f265da03d211666c)
 
 ### 组件库
 - ant-design  https://ant.design/index-cn
@@ -242,7 +243,7 @@
 * [前端开发变量命名系列 - JavaScript篇](https://segmentfault.com/a/1190000020039039)
 * [一文带你了解 JavaScript 函数式编程](https://mp.weixin.qq.com/s/AKYMse3cSyMhT95kdzdldw)
 * [你真的知道0.1+0.2为何不等于0.3吗？](https://juejin.im/post/5d6e74c35188254628237d5d)
-
+* [收下这波 JS 技巧，从此少加班](https://juejin.im/post/5d7659c76fb9a06b307068ed)
 
 ### 开源项目
 * [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)
@@ -318,6 +319,11 @@
 * [彻底理解浏览器的缓存机制](https://juejin.im/entry/5ad86c16f265da505a77dca4)
 * [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
 * [从 0 到 1 的前端异常监控项目实战](https://mp.weixin.qq.com/s/Q1KGbkcF-AMWsWN7Ae7E1A)
+
+### 性能
+
+#### 文章
+* [「中高级前端」高性能渲染十万条数据](https://juejin.im/post/5d76f469f265da039a28aff7)
 
 
 ### 监控
