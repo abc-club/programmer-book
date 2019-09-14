@@ -441,34 +441,36 @@
 
 ## 工具
 
- * [vscode这篇就够了](https://juejin.im/post/5d37bd5551882503ea1c680e)
- * [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
- * [21 个VSCode 快捷键，让代码更快，更有趣](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
- * [VS Code 快速使用指南](https://juejin.im/post/5bc86b0b5188255ca00cc58f)
+* [vscode这篇就够了](https://juejin.im/post/5d37bd5551882503ea1c680e)
+* [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
+* [21 个VSCode 快捷键，让代码更快，更有趣](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
+* [VS Code 快速使用指南](https://juejin.im/post/5bc86b0b5188255ca00cc58f)
+* [(效率工具)程序员必备终端及美化](https://www.jianshu.com/p/c929dc4c0f05)
+
 
 ## canvas
 
 ### 开源项目
- * [spritejs](https://github.com/spritejs/spritejs) (Draw graphics on a canvas through DOM-like APIs. Vue & React/Preact supported. )
+* [spritejs](https://github.com/spritejs/spritejs) (Draw graphics on a canvas through DOM-like APIs. Vue & React/Preact supported. )
 
 
 ## 测试
 #### 文章
- * [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
- * [2018 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
- * [2019 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
- * [测试你的前端代码（介绍篇）[英]](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
+* [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+* [2018 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+* [2019 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
+* [测试你的前端代码（介绍篇）[英]](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
 
 ### 单元测试
 站在程序员的角度测试
 unit测试是把代码看成是一个个的组件。从而实现每一个组件的单独测试，测试内容主要是组件内每一个函数的返回结果是不是和期望值一样。
 #### 库
 
- * [jest](https://github.com/facebook/jest)
- * [karma](https://github.com/karma-runner/karma)(Spectacular Test Runner for JavaScript )
- * [mocha](https://github.com/mochajs/mocha)(simple, flexible, fun javascript test framework for node.js & the browser)
- * [enzyme](https://github.com/airbnb/enzyme/)(JavaScript Testing utilities for React )
- * [vue-test-utils](https://vue-test-utils.vuejs.org/)(JavaScript Testing utilities for vue )
+* [jest](https://github.com/facebook/jest)
+* [karma](https://github.com/karma-runner/karma)(Spectacular Test Runner for JavaScript )
+* [mocha](https://github.com/mochajs/mocha)(simple, flexible, fun javascript test framework for node.js & the browser)
+* [enzyme](https://github.com/airbnb/enzyme/)(JavaScript Testing utilities for React )
+* [vue-test-utils](https://vue-test-utils.vuejs.org/)(JavaScript Testing utilities for vue )
 #### 文章
 
 
@@ -476,17 +478,17 @@ unit测试是把代码看成是一个个的组件。从而实现每一个组件�
 站在用户角度的测试
 e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是怎么实现的，我只负责打开浏览器，把测试内容在页面上输入一遍，看是不是我想要得到的结果。
 #### 库
- * [cypress](https://github.com/cypress-io/cypress)
- * [nightwatch](https://github.com/nightwatchjs/nightwatch)
- * [puppeteer](https://github.com/GoogleChrome/puppeteer)(Headless Chrome Node API )
- * [Macaca](https://github.com/alibaba/macaca)
- * [appium](http://appium.io/)(app测试)
- * [Selenium](https://docs.seleniumhq.org/)
+* [cypress](https://github.com/cypress-io/cypress)
+* [nightwatch](https://github.com/nightwatchjs/nightwatch)
+* [puppeteer](https://github.com/GoogleChrome/puppeteer)(Headless Chrome Node API )
+* [Macaca](https://github.com/alibaba/macaca)
+* [appium](http://appium.io/)(app测试)
+* [Selenium](https://docs.seleniumhq.org/)
 
 #### 文章
- * [端到端测试哪家强？不容错过的Cypress](https://segmentfault.com/a/1190000014907041)
- * [Puppeteer E2E测试入门](https://juejin.im/post/5bffb344e51d45378d0d39f4)
- * [大前端神器安利之 Puppeteer](https://www.jeffjade.com/2017/12/17/134-kinds-of-toss-using-puppeteer/)
+* [端到端测试哪家强？不容错过的Cypress](https://segmentfault.com/a/1190000014907041)
+* [Puppeteer E2E测试入门](https://juejin.im/post/5bffb344e51d45378d0d39f4)
+* [大前端神器安利之 Puppeteer](https://www.jeffjade.com/2017/12/17/134-kinds-of-toss-using-puppeteer/)
 
 
 ### 视觉回归测试
