@@ -42,6 +42,8 @@
 1.  ruby √
 1.  php -> vs studio 2017 要修改 php.ini 参考 http://blog.csdn.net/rilyu/article/details/37379873 √
 1. switchhosts
+1. oh-my-zsh https://github.com/robbyrussell/oh-my-zsh
+
 
 #### 脚手架
 
@@ -92,6 +94,11 @@ https://secure.phabricator.com/book/phabricator/article/arcanist/#installing-arc
 #### 安装 ssh
 
 https://help.github.com/articles/connecting-to-github-with-ssh/
+
+#### mac美化终端
+
+* [(效率工具)程序员必备终端及美化](https://www.jianshu.com/p/c929dc4c0f05)
+
 
 ### 问题
 

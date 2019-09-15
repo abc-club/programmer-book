@@ -9,6 +9,12 @@
 ## 目录
 
 * [常用工具](USEFULTOOLS.md)
+* [VSCODE](VSCODE.md)
 * [WINDOWS](WINDOWS.md)
 * [MAC](MAC.md)
 * [LINUX](LINUX.md)
+* [播放器推荐](PLAYER.md)
+
+## 文章
+* [Windows安装使用Arcanist](Windows安装使用Arcanist.md)
+* [php安装](php安装.md)

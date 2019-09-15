@@ -12,6 +12,7 @@
 * [小程序](WEAPP.md)
 * [css](CSS.md)
 * [前端代码片段汇总](FRONTEND/SNIPPETS.md)
+* [工具](SOFTWARE/README.md)
 * [vue](#vue)
 * [react](#react)
 * [Weex](#Weex)
@@ -32,7 +33,6 @@
 * [数据结构与算法](#数据结构与算法)
 * [js core](#js-core)
 * [代码规范](#代码规范)
-* [工具](#工具)
 * [canvas](#canvas)
 * [测试](#测试)
 * [网络请求](#网络请求)
@@ -437,15 +437,6 @@
 
 ## 代码规范
  * [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
-
-
-## 工具
-
-* [vscode这篇就够了](https://juejin.im/post/5d37bd5551882503ea1c680e)
-* [VSCode折腾log插件](https://juejin.im/post/5c1e2612e51d452aaa7c43fe)
-* [21 个VSCode 快捷键，让代码更快，更有趣](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
-* [VS Code 快速使用指南](https://juejin.im/post/5bc86b0b5188255ca00cc58f)
-* [(效率工具)程序员必备终端及美化](https://www.jianshu.com/p/c929dc4c0f05)
 
 
 ## canvas
