@@ -3,7 +3,6 @@
 ## 常用
 
 1.  谷歌浏览器 √
-2.  360 浏览器 √
 3.  foxmail √
 4.  qq 微信 √
 5.  网易云音乐 √
@@ -17,6 +16,7 @@
 13. 搜狗输入法 √
 14. gitbook
 15. iThoughtsX
+* [Alfred](https://www.jianshu.com/p/6d08c95b7f36)
 
 * BetterZip
 * AppZapper
