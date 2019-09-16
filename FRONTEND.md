@@ -537,7 +537,11 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [bookshelf](https://github.com/bookshelf/bookshelf)(A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js)
 
 ### mongodb
+* [mongoose github](https://github.com/Automattic/mongoose)
 * [mongoose中文网](http://www.mongoosejs.net)
+* [MongoDB中文](https://www.mongodb.org.cn/tutorial/)
+* [MongoDB中文文档](http://www.mongoing.com/docs/)
+* [MongoDB 教程 | 菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)
 
 ### redis
 
