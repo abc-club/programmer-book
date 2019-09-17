@@ -10,7 +10,7 @@
 * [中后台](NODEJS.md)
 * [混合应用](HYBRID.md)
 * [小程序](WEAPP.md)
-* [css](CSS.md)
+* [css](CSS/README.md)
 * [前端代码片段汇总](FRONTEND/SNIPPETS.md)
 * [工具](SOFTWARE/README.md)
 * [vue](#vue)
@@ -213,16 +213,18 @@
 
 ## js
 
+* [JS代码片段](./JS/JS代码片段.md)
+
 ### 正则表达式
 
- * [learn-regex ★22k+](https://github.com/ziishaned/learn-regex) :100:
- * [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
- * [2019 年常用 JavaScript 正则大全]( https://juejin.im/post/5d245d4151882555300feb77)
- * [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
- * [2019年JS正则大全(常用)](https://juejin.im/post/5d245d4151882555300feb77)
+* [learn-regex ★22k+](https://github.com/ziishaned/learn-regex) :100:
+* [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
+* [2019 年常用 JavaScript 正则大全]( https://juejin.im/post/5d245d4151882555300feb77)
+* [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
+* [2019年JS正则大全(常用)](https://juejin.im/post/5d245d4151882555300feb77)
 
 ### this
- * [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
+* [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
 
 ### 函数式编程
 * [「前端进阶」彻底弄懂函数组合](https://juejin.im/post/5d50bfebf265da03cb122b6f)

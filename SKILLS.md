@@ -10,6 +10,11 @@ sudo kill -9 8100
 ```
 npm cache clean -f
 ```
+- - 控制台输出到txt
+
+```
+C:\你输入的命令 >output.txt
+```
 
 * [Mac Chrome浏览器取消自动升级（看这一篇就够了）](https://blog.csdn.net/chenyufeng1991/article/details/78568919)
 
