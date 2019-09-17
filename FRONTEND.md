@@ -370,16 +370,29 @@
 * [一个全栈增长工程师的练手项目集](https://github.com/phodal/ideabook)
 
 ## 趋势
-- 微前端  https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html    https://github.com/neuland/micro-frontends
- * [了解什么是微前端]( https://juejin.im/post/5d1f19e3f265da1bab29ce5f)
- * [微前端实践](https://juejin.im/post/5cadd7835188251b2f3a4bb0)
- * [无代码编程](https://juejin.im/post/5ca2e9dcf265da30c231a5c2)
- * [基于 React & TypeScript & Webpack 的微前端应用模板](https://juejin.im/post/5c4f265e6fb9a049a97a199d)
- * [哪些技术会决定前端开发者的未来发展？](https://juejin.im/post/5d1589c8e51d45776031b02e)
- * [再看2019大前端技术趋势，Web OS概念正落地](https://developer.aliyun.com/article/711504)
- * [Serverless For Frontend 前世今生](https://www.yuque.com/egg/nodejs/sff-history)
- * [2019 年大前端技术趋势分析](https://www.infoq.cn/article/uQjaf_dAHm6viAXsuxzI)
 
+### 微前端
+
+#### 文章
+* [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
+* [微前端](https://www.cnblogs.com/zhuanzhuanfe/p/7644846.html)      
+* [微前端](https://github.com/neuland/micro-frontends)
+* [了解什么是微前端]( https://juejin.im/post/5d1f19e3f265da1bab29ce5f)
+* [微前端实践](https://juejin.im/post/5cadd7835188251b2f3a4bb0)
+* [无代码编程](https://juejin.im/post/5ca2e9dcf265da30c231a5c2)
+* [基于 React & TypeScript & Webpack 的微前端应用模板](https://juejin.im/post/5c4f265e6fb9a049a97a199d)
+* [哪些技术会决定前端开发者的未来发展？](https://juejin.im/post/5d1589c8e51d45776031b02e)
+* [再看2019大前端技术趋势，Web OS概念正落地](https://developer.aliyun.com/article/711504)
+* [Serverless For Frontend 前世今生](https://www.yuque.com/egg/nodejs/sff-history)
+* [2019 年大前端技术趋势分析](https://www.infoq.cn/article/uQjaf_dAHm6viAXsuxzI)
+* [前端微服务化解决方案2 - Single-SPA](https://alili.tech/archive/11052bf4/)
+
+#### 开源库
+* [single-spa](https://single-spa.js.org/)
+
+#### demo
+* [vue Microfrontends](https://github.com/joeldenning/coexisting-vue-microfrontends)
+* [single-spa-examples](https://github.com/CanopyTax/single-spa-examples)
 
 ## 动效
 
