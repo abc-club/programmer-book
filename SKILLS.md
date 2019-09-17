@@ -22,3 +22,6 @@ npm cache clean -f
 第二步：打开Mac上Safari的开发者模式，流程是【Safari】->【偏好设置】->【高级】->【在菜单栏中显示“开发”菜单】勾选
 
 第三步：用数据线将iphone手机和mac连接起来，在电脑的safari中按照流程执行：【开发】->【手机名称】->【正在调试的网站】
+
+
+* [MAC自动加载.bash_profile文件通过.zshrc](https://blog.csdn.net/YaphetZhao/article/details/88027831)

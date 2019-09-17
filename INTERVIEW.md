@@ -90,6 +90,7 @@
 * [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
 * [如何写出一个惊艳面试官的深拷贝?](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
 * [面试官: 100万个成员的数组取第一个和最后一个有性能差距吗?](https://juejin.im/post/5d75a5266fb9a06b1a56b137)
+* [5分钟带你领略:某跳动公司面试出镜率最高的算法之一——虚拟十叉树建模问题](https://juejin.im/post/5d7fb1e16fb9a06ac76de435)
 
 ## 面试技巧
  * [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
