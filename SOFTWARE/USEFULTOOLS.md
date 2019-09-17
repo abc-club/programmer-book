@@ -133,3 +133,16 @@ https://www.rescuetime.com
 
 ## 书签管理
 * [xMarks](http://blog.csdn.net/arackethis/article/details/45312255)(xMarks可以跨浏览器同步,支持当前主流的几个浏览器Firefox，Chrome，IE等)
+
+
+## 服务
+
+### ip定位
+
+* [淘宝IP定位接口](http://ip.taobao.com/instructions.html)(支持海外)(免费受限, 每个用户的访问频率需小于1qps)(慢！不稳定)
+    * post http://ip.taobao.com/service/getIpInfo2.php  ip: 118.200.125.97
+* [ipipnet定位接口](https://www.ipip.net/product/client.html)(免费受限)
+* [百度IP定位接口](http://lbsyun.baidu.com/index.php?title=webapi/ip-api)(不支持海外)(免费受限)
+* [高德IP定位接口](https://lbs.amap.com/api/webservice/guide/api/ipconfig/)(不支持海外)(免费受限)
+* [chinaz IP定位接口](http://api.chinaz.com/ApiDetails/IP)(支持海外)(免费500次，0.001元/次)
+* [opengps](https://www.opengps.cn/Data/IP/IPSearch.aspx)

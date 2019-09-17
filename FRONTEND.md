@@ -7,7 +7,7 @@
 
 ## 目录
 
-* [nodejs](NODEJS.md)
+* [中后台](NODEJS.md)
 * [混合应用](HYBRID.md)
 * [小程序](WEAPP.md)
 * [css](CSS.md)
@@ -37,7 +37,6 @@
 * [测试](#测试)
 * [网络请求](#网络请求)
 * [pwa](#pwa)
-* [数据库](#数据库)
 * [其他必备知识](#其他必备知识)
 
 
@@ -525,34 +524,6 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  * [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
 
 
-## 数据库
-
-### mysql
-* [官网](https://www.mysql.com/)
-* [mysqljs](https://github.com/mysqljs/mysql)
-* [21分钟MySQL基础入门](https://segmentfault.com/a/1190000006876419)
-* [2019-01-11亲测Navicat Premium for Mac破解](https://www.jianshu.com/p/4e93b48f9f63)
-* [MySQL命令，一篇文章替你全部搞定](https://juejin.im/post/5ae55861f265da0ba062ec71)
-* [sequelize](https://github.com/sequelize/sequelize)(An easy-to-use multi SQL dialect ORM for Node.js )
-* [bookshelf](https://github.com/bookshelf/bookshelf)(A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js)
-
-### mongodb
-* [mongoose github](https://github.com/Automattic/mongoose)
-* [mongoose中文网](http://www.mongoosejs.net)
-* [MongoDB中文](https://www.mongodb.org.cn/tutorial/)
-* [MongoDB中文文档](http://www.mongoing.com/docs/)
-* [MongoDB 教程 | 菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)
-
-### redis
-
-* [Redis可视化工具](https://www.jianshu.com/p/721c3762a777)
-
-### kafka
-* [震惊了！原来这才是kafka！](https://www.jianshu.com/p/d3e963ff8b70)
-* [kafka中文教程](https://www.orchome.com/kafka/index)
-
-### 常见问题
-* [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
 
 ## 其他必备知识
 * [前端开发者必备的Nginx知识](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
