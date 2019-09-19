@@ -411,6 +411,7 @@
  * [D3](https://github.com/d3/d3)
  * [Highchart](https://github.com/highcharts/highcharts)
  * [Antv](https://github.com/antvis/)
+ * [zdog](https://github.com/metafizzy/zdog)
 
 ### 文章
  * [14个最好的 JavaScript 数据可视化库](https://segmentfault.com/a/1190000018646425)

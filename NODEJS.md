@@ -82,6 +82,10 @@
 
 * [Redis可视化工具](https://www.jianshu.com/p/721c3762a777)
 
+#### 工具
+* RedisDesktopManager
+* FastRedis
+
 ### kafka
 * [震惊了！原来这才是kafka！](https://www.jianshu.com/p/d3e963ff8b70)
 * [kafka中文教程](https://www.orchome.com/kafka/index)
