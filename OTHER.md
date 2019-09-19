@@ -4,3 +4,4 @@
 * [我也有话要说](https://github.com/xiaolai/public-speaking-with-meaning)
 * [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
 * [超强的学习能力是怎样练就的？](https://www.zhihu.com/question/35103080/answer/414223605)
+* [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508)

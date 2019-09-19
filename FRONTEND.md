@@ -98,6 +98,7 @@
 * [mall-admin-web](https://github.com/macrozheng/mall-admin-web)
 * [vue-framework-wz](https://github.com/herozhou/vue-framework-wz)
 * [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs)
+* [gridea](https://github.com/getgridea/gridea)(一个静态博客写作客户端 ts vue )
 
 
 ## react
@@ -140,6 +141,7 @@
 * [React Router 4 简易入门](https://segmentfault.com/a/1190000010174260)
 * [看完这篇，你也能把 React Hooks 玩出花](https://juejin.im/post/5d754dbde51d4561cd2466bf)
 * [React16常用api解析以及原理剖析](https://juejin.im/post/5d75a881f265da03d211666c)
+* [React面试全解](https://zhuanlan.zhihu.com/p/76909668)
 
 ### 组件库
 - ant-design  https://ant.design/index-cn
@@ -214,7 +216,7 @@
 ## js
 
 * [JS代码片段](./JS/JS代码片段.md)
-
+* [JavaScript八张思维导图](https://zhuanlan.zhihu.com/p/60003120)
 ### 正则表达式
 
 * [learn-regex ★22k+](https://github.com/ziishaned/learn-regex) :100:
@@ -429,15 +431,20 @@
 * [leetcode中国](https://leetcode-cn.com)
 
 #### 文章
+* [优秀程序员都应该学习的数据结构与算法项目（GitHub 开源清单）](https://zhuanlan.zhihu.com/p/74584796)
+
 * [数据结构与算法（三）—— 常见排序算法和swift实现](https://juejin.im/post/5c46b05d51882524a23f3a12)
 * [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
 * [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 * [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
 
+
 #### 开源库
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [leetcode](https://github.com/azl397985856/leetcode)
 * [LeetCodeAnimation *39k+](https://github.com/MisterBooo/LeetCodeAnimation)
-
+* [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+* [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 
 ### 机器学习
 * [tensorflow中文](https://tensorflow.google.cn/)
