@@ -26,6 +26,8 @@
 * [深入理解Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9)
 * [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
 * [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
+* [Node.JS 应用最佳实践：日志](https://zhuanlan.zhihu.com/p/81989446)
+
 
 ### 开源项目
 * [Node.js 实现远程桌面监控](https://juejin.im/post/5d18d4c36fb9a07ecb0bbe7b)

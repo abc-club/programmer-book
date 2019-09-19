@@ -30,7 +30,7 @@
 * [趋势](#趋势)
 * [动效](#动效)
 * [可视化](#可视化)
-* [数据结构与算法](#数据结构与算法)
+* [数据结构与算法 机器学习](#数据结构与算法)
 * [js core](#js-core)
 * [代码规范](#代码规范)
 * [canvas](#canvas)
@@ -422,21 +422,26 @@
 
 ## 数据结构与算法
 
-### 官网
+### 算法
+
+#### 官网
 * [leetcode](https://leetcode.com/)
 * [leetcode中国](https://leetcode-cn.com)
 
-### 文章
+#### 文章
 * [数据结构与算法（三）—— 常见排序算法和swift实现](https://juejin.im/post/5c46b05d51882524a23f3a12)
 * [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
 * [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 * [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
 
-
-### 开源库
+#### 开源库
 * [leetcode](https://github.com/azl397985856/leetcode)
 * [LeetCodeAnimation *39k+](https://github.com/MisterBooo/LeetCodeAnimation)
 
+
+### 机器学习
+* [tensorflow中文](https://tensorflow.google.cn/)
+* [TensorFlow 如何入门，如何快速学习？](https://www.zhihu.com/question/49909565/answer/807076121)
 
 ## js-core
 

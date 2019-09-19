@@ -27,6 +27,6 @@
 * [【又想骗我搞程序吗？给你说一个业余做开源月赚8万美金的例子】](https://m.toutiaocdn.net/a6731563645907501582)
 * [【减半之后，莱特币将出现100%的上涨】](https://m.toutiaocdn.com/a6730426149576376845)
 * [柬埔寨的互联网电商发展史](https://m.toutiaocdn.com/a6726441783863017991)
-
+* [为什么阿里的价值观值得你关注？](https://m.igetget.com/share/audio/aid/udlvbbuZ0XtOSa0YVOJr)
 
 
