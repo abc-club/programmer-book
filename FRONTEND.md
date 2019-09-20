@@ -217,6 +217,7 @@
 
 * [JS代码片段](./JS/JS代码片段.md)
 * [JavaScript八张思维导图](https://zhuanlan.zhihu.com/p/60003120)
+
 ### 正则表达式
 
 * [learn-regex ★22k+](https://github.com/ziishaned/learn-regex) :100:
@@ -229,6 +230,7 @@
 * [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
 
 ### 函数式编程
+* [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS)(English)
 * [「前端进阶」彻底弄懂函数组合](https://juejin.im/post/5d50bfebf265da03cb122b6f)
 * [函数式编程，真香](https://juejin.im/post/5c19c3ffe51d45059b632eef)
 * [深入学习javascript函数式编程](https://juejin.im/post/5c1a231de51d452ce364d945)
