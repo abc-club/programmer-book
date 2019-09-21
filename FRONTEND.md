@@ -468,7 +468,8 @@
 
 
 ## 代码规范
- * [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
+* [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
+* [【译】Google 官方文章——如何去做coder review](https://juejin.im/post/5d84b93f5188251d482413c8)
 
 
 ## canvas
