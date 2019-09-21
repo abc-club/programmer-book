@@ -12,6 +12,8 @@
 * [koa](#koa)
 * [eggjs](#eggjs)
 * [数据存储](#数据存储)
+* [其他](#其他)
+
 
 ## nodejs
 ### 官网
@@ -95,3 +97,8 @@
 ### 常见问题
 * [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
 
+## 其他
+* [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)
+* [手把手教你搭建一个 Elasticsearch 集群](https://juejin.im/post/5bad9520f265da0afe62ed95)
+* [k8s日志收集实战](https://juejin.im/post/5b6eaef96fb9a04fa25a0d37)
+* [[译] Kubernetes 儿童插图指南](https://juejin.im/post/5d1b2a656fb9a07edc0b7058)
