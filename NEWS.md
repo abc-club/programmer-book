@@ -28,5 +28,6 @@
 * [【减半之后，莱特币将出现100%的上涨】](https://m.toutiaocdn.com/a6730426149576376845)
 * [柬埔寨的互联网电商发展史](https://m.toutiaocdn.com/a6726441783863017991)
 * [为什么阿里的价值观值得你关注？](https://m.igetget.com/share/audio/aid/udlvbbuZ0XtOSa0YVOJr)
+* [17年前四川农村洗碗，现在定居新加坡，我看到的世界是分层的](https://www.toutiao.com/a6738314965456781836)
 
 

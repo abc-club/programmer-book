@@ -252,6 +252,7 @@
 * [一文带你了解 JavaScript 函数式编程](https://mp.weixin.qq.com/s/AKYMse3cSyMhT95kdzdldw)
 * [你真的知道0.1+0.2为何不等于0.3吗？](https://juejin.im/post/5d6e74c35188254628237d5d)
 * [收下这波 JS 技巧，从此少加班](https://juejin.im/post/5d7659c76fb9a06b307068ed)
+* [JavaScript基础——前端不懂它，会再多框架也不过只是会用而已](https://www.toutiao.com/a6738734261286732291)
 
 ### 开源项目
 * [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)
@@ -290,6 +291,9 @@
 ### 实战项目
 - wechaty https://github.com/Chatie/wechaty
 - wechatBot https://github.com/gengchen528/wechatBot
+
+### 文章
+* [微信H5页面兼容性解决方案](https://mp.weixin.qq.com/s/5-BzKF0ME-vHaY51kkh6YA)
 
 
 
@@ -402,6 +406,10 @@
 #### demo
 * [vue Microfrontends](https://github.com/joeldenning/coexisting-vue-microfrontends)
 * [single-spa-examples](https://github.com/CanopyTax/single-spa-examples)
+
+### WebAssembly
+* [花椒前端基于WebAssembly 的H.265播放器研发](https://mp.weixin.qq.com/s/cXbanMq93jyx5gCuaP2oTw)
+
 
 ## 动效
 
