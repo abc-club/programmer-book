@@ -20,6 +20,8 @@ C:\你输入的命令 >output.txt
 
 ## 翻墙
 * [翻墙-科学上网 ](https://github.com/bannedbook/fanqiang)
+* [一键脚本搭建 SSR 服务器教程 ](https://github.com/xiaoming2028/FreeNetwork/wiki)
+
 
 ## mac调试ios手机上的移动端页面
 第一步：打开iphone手机的开发者模式，流程是：【设置】->【Safari】->【高级】->开启【Web检查器】

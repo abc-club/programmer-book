@@ -19,7 +19,7 @@
 ## linux
 
 * [史上最牛的Linux视频教程—兄弟连](https://www.bilibili.com/video/av18156598/?p=1)(b站视频)
-
+* [GitHub 60000+ Star：命令行的艺术](https://juejin.im/post/5d8b1899f265da5b9d1edee2)
 
 ## 编译原理
 

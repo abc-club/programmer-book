@@ -222,7 +222,7 @@
 * [JavaScript八张思维导图](https://zhuanlan.zhihu.com/p/60003120)
 
 ### 正则表达式
-
+* [练完这篇就会写正则](https://juejin.im/post/5d89edb1518825097619ecfe)
 * [learn-regex ★22k+](https://github.com/ziishaned/learn-regex) :100:
 * [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
 * [2019 年常用 JavaScript 正则大全]( https://juejin.im/post/5d245d4151882555300feb77)
