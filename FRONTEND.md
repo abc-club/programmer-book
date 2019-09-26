@@ -346,6 +346,7 @@
 - https://github.com/MriLiuJY/monitorFE
 
 #### 文章
+* [搭建一个前端监控系统,不再错过BUG](https://juejin.im/post/5a372716518825258a5fbc80)
 * [捕获未处理的Promise错误方法](https://www.jb51.net/article/125664.htm)
 * [前端异常监控、上报及js压缩代码定位](https://juejin.im/post/5b55c3495188251acb0cf907)
 * [5 分钟撸一个前端性能监控工具](https://juejin.im/post/5b7a50c0e51d4538af60d995)
