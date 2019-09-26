@@ -348,6 +348,11 @@
 #### 文章
 * [捕获未处理的Promise错误方法](https://www.jb51.net/article/125664.htm)
 * [前端异常监控、上报及js压缩代码定位](https://juejin.im/post/5b55c3495188251acb0cf907)
+* [5 分钟撸一个前端性能监控工具](https://juejin.im/post/5b7a50c0e51d4538af60d995)
+* [前端异常监控解决方案研究](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)
+* [从无到有<前端异常监控系统>落地](https://juejin.im/post/5a3dca226fb9a04515441686)
+* [轨迹回放（录屏）功能- 前端监控之数据收集篇](https://juejin.im/post/5d3ebe00e51d4561f95ee9b2)
+* [前端性能监控新工具 perfume](https://juejin.im/post/5d81f82df265da03ae78ac33)
 
 
 
