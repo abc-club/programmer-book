@@ -362,7 +362,7 @@
 * [自己动手打造前端性能监控系统](https://www.musicfe.cn/page/17)
 * [蚂蚁金服如何把前端性能监控做到极致?](https://www.infoq.cn/article/Dxa8aM44oz*Lukk5Ufhy)
 * [DIY一个前端监控平台（上）](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
-
+* [手刃前端监控系统](https://juejin.im/post/5bbc2695e51d4539701e7ea6)
 
 ### 常用工具
  * [阿里云监控](https://help.aliyun.com/document_detail/58652.html?spm=a2c4g.11174283.3.2.3245668cvlC7WK) (网站性能、错误等监控)
