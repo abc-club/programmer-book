@@ -85,6 +85,9 @@
 ### redis
 
 * [Redis可视化工具](https://www.jianshu.com/p/721c3762a777)
+* [Redis 入门](https://juejin.im/post/5b4dd82ee51d451925629622)
+* [Redis 命令参考](http://doc.redisfans.com/index.html)
+
 
 #### 工具
 * RedisDesktopManager

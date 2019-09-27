@@ -304,14 +304,16 @@
 
 ## webpack
 ### 官网
- * [webpack](https://github.com/webpack/webpack)
- * [webpack官方文档](https://webpack.js.org)
- * [webpack 中文文档](https://github.com/docschina/webpack.js.org)(https://webpack.docschina.org/)
+* [webpack](https://github.com/webpack/webpack)
+* [webpack官方文档](https://webpack.js.org)
+* [webpack 中文文档](https://github.com/docschina/webpack.js.org)(https://webpack.docschina.org/)
 
 
 ### 文章
- * [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
- * [【Cute-Webpack】Webpack4 入门手册（共 18 章）](https://segmentfault.com/a/1190000020063707)
+* [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
+* [【Cute-Webpack】Webpack4 入门手册（共 18 章）](https://segmentfault.com/a/1190000020063707)
+* [Webpack 实用技巧高效实战](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231994&idx=1&sn=17a344ef74809ddd7e8e5b13b00c5652&scene=1&srcid=0804usmqGwAu6Ih2HtQaeZj4#rd)
+
 
 ## GraphQL
 
@@ -337,10 +339,13 @@
 * [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
 * [从 0 到 1 的前端异常监控项目实战](https://mp.weixin.qq.com/s/Q1KGbkcF-AMWsWN7Ae7E1A)
 
+
 ### 性能
 
 #### 文章
 * [「中高级前端」高性能渲染十万条数据](https://juejin.im/post/5d76f469f265da039a28aff7)
+* [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
+* [Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 
 
 ### 监控
@@ -394,6 +399,7 @@
 * [前端技术栈干货文章链接（精品）](https://zhuanlan.zhihu.com/p/76184208)
 * [新时代下前端工程师的推荐书籍和必备知识](https://juejin.im/post/5c7129b0f265da2d9710f7ca)
 * [一个全栈增长工程师的练手项目集](https://github.com/phodal/ideabook)
+* [一篇文章让你明白你多级缓存的分层架构](https://juejin.im/post/5d86cf7f6fb9a06b211724e7)
 
 ## 趋势
 
@@ -435,17 +441,24 @@
 
 ## 可视化
 ### 库
- * [Echart](https://github.com/apache/incubator-echarts)
- * [D3](https://github.com/d3/d3)
- * [Highchart](https://github.com/highcharts/highcharts)
- * [Antv](https://github.com/antvis/)
- * [zdog](https://github.com/metafizzy/zdog)
+* [Echart](https://github.com/apache/incubator-echarts)
+* [chartjs](https://www.chartjs.org)
+* [D3](https://github.com/d3/d3)
+* [Highchart](https://github.com/highcharts/highcharts)
+* [Antv](https://github.com/antvis/)
+* [zdog](https://github.com/metafizzy/zdog)
+* [Leaflet](https://leafletjs.com/examples.html)
+* [BizCharts](https://github.com/alibaba/BizCharts)
+* [zeu](https://github.com/shzlw/zeu)
+
 
 ### 文章
- * [14个最好的 JavaScript 数据可视化库](https://segmentfault.com/a/1190000018646425)
- * [前端必看的数据可视化入门指南](https://segmentfault.com/a/1190000019934874)
- * [一步步带你实现web全景看房——three.js](https://juejin.im/post/5d57967a6fb9a06b017e4b62)
- * [阿里基于G6和React打造的开源可视化图形编辑器——GGEditor](https://m.toutiaocdn.net/a6730972736664912387)
+* [14个最好的 JavaScript 数据可视化库](https://segmentfault.com/a/1190000018646425)
+* [前端必看的数据可视化入门指南](https://segmentfault.com/a/1190000019934874)
+* [一步步带你实现web全景看房——three.js](https://juejin.im/post/5d57967a6fb9a06b017e4b62)
+* [阿里基于G6和React打造的开源可视化图形编辑器——GGEditor](https://m.toutiaocdn.net/a6730972736664912387)
+* [ECharts 实现地图散点图（上）](https://juejin.im/post/58cf43b3128fe1006c9817af)
+* [一些好用的开源监控工具汇总](https://mp.weixin.qq.com/s/hUscNc_f9wBohHJTKzlGBw)
 
 
 ## 数据结构与算法
@@ -475,6 +488,8 @@
 ### 机器学习
 * [tensorflow中文](https://tensorflow.google.cn/)
 * [TensorFlow 如何入门，如何快速学习？](https://www.zhihu.com/question/49909565/answer/807076121)
+* [前端如何学习机器学习之TensorFlow.js](https://juejin.im/post/5b971b295188255c581a8ff0)
+
 
 ## js-core
 
