@@ -136,6 +136,7 @@
 * [21个让React 开发更高效更有趣的工具](https://segmentfault.com/a/1190000020038593#articleHeader2)
 * [在react/redux中使用Immutable](https://www.cnblogs.com/greatluoluo/p/8469224.html)
 * [从头开始，彻底理解服务端渲染原理(8千字汇总长文)](https://zhuanlan.zhihu.com/p/76967335)
+* [【长文慎入】一文吃透 React SSR 服务端渲染和同构原理](https://juejin.im/post/5d7deef6e51d453bb13b66cd)
 * [React 的性能优化（一）当 PureComponent 遇上 ImmutableJS](https://tech.youzan.com/purecomponent-immutablejs)
 * [Profiling React performance with React 16 and Chrome Devtools.](https://calibreapp.com/blog/react-performance-profiling-optimization/)
 * [React 性能优化技巧总结](https://segmentfault.com/a/1190000018257360)
@@ -145,6 +146,10 @@
 * [看完这篇，你也能把 React Hooks 玩出花](https://juejin.im/post/5d754dbde51d4561cd2466bf)
 * [React16常用api解析以及原理剖析](https://juejin.im/post/5d75a881f265da03d211666c)
 * [React面试全解](https://zhuanlan.zhihu.com/p/76909668)
+* [React路由鉴权](https://juejin.im/post/5d6352116fb9a06ae8361932)
+* [ReactRouter-V5免费图文视频教程（我免费，有培训机构什么事，就出！）](https://juejin.im/post/5d50dd4ff265da039a2879cd)
+* [精读《React Hooks 最佳实践》](https://juejin.im/post/5d75ae7a6fb9a06b0f2407e8)
+
 
 ### 组件库
 - ant-design  https://ant.design/index-cn
@@ -356,6 +361,7 @@
 * [前端性能监控新工具 perfume](https://juejin.im/post/5d81f82df265da03ae78ac33)
 * [自己动手打造前端性能监控系统](https://www.musicfe.cn/page/17)
 * [蚂蚁金服如何把前端性能监控做到极致?](https://www.infoq.cn/article/Dxa8aM44oz*Lukk5Ufhy)
+* [DIY一个前端监控平台（上）](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
 
 
 ### 常用工具
