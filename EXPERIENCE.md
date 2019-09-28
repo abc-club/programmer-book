@@ -35,6 +35,8 @@
 * [某小公司RESTful、共用接口、前后端分离、接口约定的实践](https://juejin.im/post/59eafab36fb9a045076eccc3)
 * [干货分享：蚂蚁金服前端框架和工程化实践](https://mp.weixin.qq.com/s/C629e_uEWv9ZfxtYGvFxMg)
 * [干货 | 浅谈Node.js在携程的应用](https://mp.weixin.qq.com/s/0tcpVTldQHTcYpmhCqXizA)
+* [我在北京这3年前端团队Leader经历](https://juejin.im/post/5d78a9ecf265da03c128c47f)
+
 
 
 ### 中后台方向
