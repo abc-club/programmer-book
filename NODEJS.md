@@ -34,6 +34,11 @@
 ### 开源项目
 * [Node.js 实现远程桌面监控](https://juejin.im/post/5d18d4c36fb9a07ecb0bbe7b)
 
+### 常用库
+* [winston](https://github.com/winstonjs/winston)(A logger for just about everything)
+* [node-bunyan](https://github.com/trentm/node-bunyan)(a simple and fast JSON logging module for node.js services)
+
+
 ## Puppeteer
 * [无头浏览器 Puppeteer 初探](https://juejin.im/post/59e5a86c51882578bf185dba)
 
@@ -59,6 +64,11 @@
     * 文档 https://segmentfault.com/a/1190000020403852
 * [egg-valparams](https://www.npmjs.com/package/egg-valparams)(参数校验)
     * 文档 https://github.com/D780/valparams/blob/HEAD/doc/api.md
+
+### 文章
+* [如何更优雅的使用egg的日志体系？](https://github.com/eggjs/egg/issues/2006)
+* [基于Egg框架的日志链路追踪实践分享](https://juejin.im/post/5cf5f78951882574ce0133f3)
+
 
 
 ## 数据存储
@@ -93,7 +103,12 @@
 * RedisDesktopManager
 * FastRedis
 
-### kafka
+
+### ELK
+* [elk入门](https://segmentfault.com/a/1190000016665082)
+
+
+#### kafka
 * [震惊了！原来这才是kafka！](https://www.jianshu.com/p/d3e963ff8b70)
 * [kafka中文教程](https://www.orchome.com/kafka/index)
 
