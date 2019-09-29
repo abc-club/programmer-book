@@ -442,6 +442,8 @@
 * [一些好用的开源监控工具汇总](https://mp.weixin.qq.com/s/hUscNc_f9wBohHJTKzlGBw)
 * [美团外卖前端可视化界面组装平台 —— 乐高](https://zhuanlan.zhihu.com/p/27288444)
 * [页面可视化搭建工具前生今世](https://juejin.im/post/5b0324f4518825426a20008d)
+* [可视化搭建前端工程 - 阿里飞冰了解一下](https://juejin.im/post/5b6349716fb9a04f834669d6)
+* [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
 
 
 ## 数据结构与算法
