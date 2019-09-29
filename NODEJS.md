@@ -30,7 +30,6 @@
 * [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
 * [Node.JS 应用最佳实践：日志](https://zhuanlan.zhihu.com/p/81989446)
 
-
 ### 开源项目
 * [Node.js 实现远程桌面监控](https://juejin.im/post/5d18d4c36fb9a07ecb0bbe7b)
 
@@ -82,6 +81,11 @@
 * [sequelize](https://github.com/sequelize/sequelize)(An easy-to-use multi SQL dialect ORM for Node.js )
 * [bookshelf](https://github.com/bookshelf/bookshelf)(A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js)
 
+
+#### 常见问题
+* [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
+
+
 ### mongodb
 * [mongoose github](https://github.com/Automattic/mongoose)
 * [mongoose中文网](http://www.mongoosejs.net)
@@ -105,15 +109,29 @@
 
 
 ### ELK
+* [elastic官网](https://www.elastic.co/cn/#)
+* [elastic官方文档](https://www.elastic.co/guide/en/elasticsearch/reference/6.0/getting-started.html)
 * [elk入门](https://segmentfault.com/a/1190000016665082)
+* [大搜车NodeJS日志规范化与分析监控](http://f2e.souche.com/blog/ri-zhi-gui-fan-hua-yu-fen-xi-jian-kong/)
+* [Node 框架接入 ELK 实践总结](https://juejin.im/post/5bf4c7ff5188250e8601d432)
+
+
+#### logstash
+
+#### ElasticSearch
+* [Elasticsearch 权威指南（中文版）](https://es.xiaoleilu.com/index.html)
+* [ElasticSearch学习文档](https://juejin.im/post/5d82e5955188251b764b76ff)
+* [全文搜索引擎 Elasticsearch 入门教程](http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html)
+* [Elasticsearch就这么简单](https://juejin.im/post/5ab4496e518825556d0e0713)
+* [Elasticsearch学习笔记](https://juejin.im/post/5b9292b75188255c6b64eee5)
+* [Elasticsearch 入门使用](https://juejin.im/post/58d1d7530ce4630057e6053a)
+* [一文上手 Elasticsearch常用可视化管理工具](https://juejin.im/post/5bd797ce6fb9a05cd7778f8d)
 
 
 #### kafka
 * [震惊了！原来这才是kafka！](https://www.jianshu.com/p/d3e963ff8b70)
 * [kafka中文教程](https://www.orchome.com/kafka/index)
 
-### 常见问题
-* [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
 
 ## 其他
 * [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)
