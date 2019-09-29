@@ -53,7 +53,7 @@
 * [koa中文文档](https://demopark.github.io/koa-docs-Zh-CN/)
 * [Koa2进阶学习笔记](https://github.com/chenshenhai/koa2-note)
 * [koa example](https://github.com/koajs/examples)
-
+* [koa+jwt实现token验证与刷新](https://segmentfault.com/a/1190000019338195)
 ## eggjs
 
 * [一文看懂 Eggjs-基础全面讲解（下）](https://juejin.im/post/5d37ba17f265da1bc94f2f97)
@@ -138,3 +138,4 @@
 * [手把手教你搭建一个 Elasticsearch 集群](https://juejin.im/post/5bad9520f265da0afe62ed95)
 * [k8s日志收集实战](https://juejin.im/post/5b6eaef96fb9a04fa25a0d37)
 * [[译] Kubernetes 儿童插图指南](https://juejin.im/post/5d1b2a656fb9a07edc0b7058)
+* [不要用 JWT 来做 Web 应用的会话管理](https://juejin.im/entry/59748def518825592c4f9ac0)
