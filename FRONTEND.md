@@ -225,6 +225,10 @@
 
 * [JS代码片段](./JS/JS代码片段.md)
 * [JavaScript八张思维导图](https://zhuanlan.zhihu.com/p/60003120)
+* [前端开发中79条不可忽视的知识点汇总](https://juejin.im/post/5d8989296fb9a06b1f147070)
+* [一张刮刮卡竟包含这么多前端知识点](https://juejin.im/post/5d8a3d62e51d45780f060490)
+* [透过现象看本质: 常见的前端架构风格和案例](https://juejin.im/post/5d7ffad551882545ff173083)
+
 
 ### 正则表达式
 * [练完这篇就会写正则](https://juejin.im/post/5d89edb1518825097619ecfe)
