@@ -228,7 +228,7 @@
 * [前端开发中79条不可忽视的知识点汇总](https://juejin.im/post/5d8989296fb9a06b1f147070)
 * [一张刮刮卡竟包含这么多前端知识点](https://juejin.im/post/5d8a3d62e51d45780f060490)
 * [透过现象看本质: 常见的前端架构风格和案例](https://juejin.im/post/5d7ffad551882545ff173083)
-
+* [灵活运用JS开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48)
 
 ### 正则表达式
 * [练完这篇就会写正则](https://juejin.im/post/5d89edb1518825097619ecfe)
@@ -372,6 +372,8 @@
 * [蚂蚁金服如何把前端性能监控做到极致?](https://www.infoq.cn/article/Dxa8aM44oz*Lukk5Ufhy)
 * [DIY一个前端监控平台（上）](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
 * [手刃前端监控系统](https://juejin.im/post/5bbc2695e51d4539701e7ea6)
+* [一步一步搭建前端监控系统：如何监控资源加载错误？](https://juejin.im/post/5d576c9e51882562945d1623)
+
 
 ### 常用工具
  * [阿里云监控](https://help.aliyun.com/document_detail/58652.html?spm=a2c4g.11174283.3.2.3245668cvlC7WK) (网站性能、错误等监控)

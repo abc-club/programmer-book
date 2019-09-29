@@ -45,7 +45,7 @@
 * [写给前端工程师的Flutter教程](https://juejin.im/post/5d56605ef265da03f77e6519)
 * [京东技术中台的Flutter实践之路](https://mp.weixin.qq.com/s/5cmYG_WzyQKlnPNhpsd0oQ)
 * [Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)
-
+* [Flutter完整开发实战详解](https://juejin.im/post/5d9067026fb9a04df00ece14)
 
 ### 开源库
 * [flutter-go *16k+](https://github.com/alibaba/flutter-go)
