@@ -4,7 +4,7 @@
 
 ### 开源
 * [如何一小时爬取百万知乎用户信息，并做了简单的分析](https://juejin.im/entry/58e0878f570c3500579eed28)
-
+* [网易云音乐爬虫，数据可视化](https://github.com/GreatV/CloudMusic-Crawler)
 
 ## jenkins
 * [让自动化工作流解放你的双手](https://juejin.im/post/5d3fb5046fb9a06b0935f47d)
