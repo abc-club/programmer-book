@@ -86,7 +86,7 @@
 * [Vue 项目性能优化 — 实践指南（网上最全 / 详细）](https://juejin.im/post/5d548b83f265da03ab42471d)
 * [vue / react的UI库都在用的几个DOM API🚀](https://juejin.im/post/5d808601f265da03ef7a469b)
 * [观众老爷们，来试试这个用 Vue 撸的数据可视化后台吧](https://juejin.im/post/5d08405a5188253049042d72)
-
+* [收下这波 vue 技巧，让开发效率翻倍](https://juejin.im/post/5d8f0475f265da5b9d1ee503)
 
 ### 开源项目
 * [vue-sell](https://github.com/ustbhuangyi/vue-sell)
@@ -248,10 +248,11 @@
 * [深入学习javascript函数式编程](https://juejin.im/post/5c1a231de51d452ce364d945)
 * [一文带你了解 JavaScript 函数式编程](https://mp.weixin.qq.com/s/AKYMse3cSyMhT95kdzdldw)
 * [不要再尝试函数式编程了](https://mp.weixin.qq.com/s/1pAzdyBR4qE1A2aZF4GVIw)
-
-
+* [范式篇 - 如何把函数式编程合理运用到日常工作中](https://juejin.im/post/5d8f0866e51d4578110dc765)
+* [帮你揭开函数式编程的底层面纱——喜提国庆buff](https://juejin.im/post/5d7683bd6fb9a06ad229f557)
 
 ### 其他
+* [【THE LAST TIME】彻底吃透 JavaScript 执行机制](https://juejin.im/post/5d901418518825539312f587)
 * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
 * [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
 * [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
