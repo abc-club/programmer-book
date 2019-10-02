@@ -209,6 +209,11 @@
 ### 时间
 - moment 
 
+### 图片
+* [cropperjs](https://github.com/fengyuanchen/cropperjs)(图片裁剪)
+
+
+
 ## 物联网
 - mosca https://github.com/mcollina/mosca
 - MQTT https://github.com/mqttjs/MQTT.js
