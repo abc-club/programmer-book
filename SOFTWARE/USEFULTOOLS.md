@@ -131,6 +131,8 @@ https://www.rescuetime.com
 * [蓝灯（Lantern）](https://github.com/getlantern/lantern)
 * [翻墙-科学上网](https://github.com/bannedbook/fanqiang)
 * [谷歌访问助手破解版](https://github.com/haotian-wang/google-access-helper)
+* [Replace Google CDN](https://github.com/justjavac/ReplaceGoogleCDN)
+
 
 ## 书签管理
 * [xMarks](http://blog.csdn.net/arackethis/article/details/45312255)(xMarks可以跨浏览器同步,支持当前主流的几个浏览器Firefox，Chrome，IE等)
