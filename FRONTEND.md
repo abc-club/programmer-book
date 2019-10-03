@@ -208,10 +208,27 @@
 
 ### 时间
 - moment 
+* [dayjs](https://github.com/iamkun/dayjs)(时间格式转换)
+
+### 网络请求
+* [axios](https://github.com/axios/axios)
+
 
 ### 图片
 * [cropperjs](https://github.com/fengyuanchen/cropperjs)(图片裁剪)
 
+
+### 其他
+* [clipboard](https://github.com/zenorocha/clipboard.js)(剪贴板)
+* [FileSaver](https://github.com/eligrey/FileSaver.js)(文件另存为)
+* [excel-js ](https://github.com/SheetJS/js-xlsx)(xlsx转换)
+* [jsPDF](https://github.com/MrRio/jsPDF)(生成pdf)
+* [fileApi](https://github.com/mailru/FileAPI)(上传, 支持进度/分段)
+* [swiper](https://github.com/nolimits4web/swiper)(轮播)
+* [qrcodejs](https://github.com/davidshimjs/qrcodejs)(二维码生成器)
+* [autosize](https://github.com/jackmoore/autosize)(textara高度自适应文字)
+* [shake.js](https://github.com/alexgibson/shake.js)(监听手机震动)
+* [progressbar](https://github.com/kimmobrunfeldt/progressbar.js)(进度条)
 
 
 ## 物联网
