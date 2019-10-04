@@ -50,6 +50,11 @@
 * [desktoppr](https://www.desktoppr.co/wallpapers) (好看的壁纸)
 * [Material icons](https://material.io/tools/icons/?style=baseline) (Material icons图标)
 
+### 开源项目
+* [waifu2x](https://github.com/nagadomi/waifu2x)(Image Super-Resolution for Anime-Style Art)(lua)
+* [Anime4K](https://github.com/bloc97/Anime4K)(A High-Quality Real Time Upscaler for Anime Video)(java)
+
+
  ## 代码类
 
   * [Ubuntu pastebin](https://paste.ubuntu.com/) (代码分享)
