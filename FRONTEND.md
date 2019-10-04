@@ -13,8 +13,8 @@
 * [css](CSS/README.md)
 * [前端代码片段汇总](FRONTEND/SNIPPETS.md)
 * [工具](SOFTWARE/README.md)
-* [awesome chrome插件](https://github.com/abc-club/awesome-chrome-extention)
-* [awesome微前端](https://github.com/abc-club/awesome-microfrontends)
+* [awesome chrome插件](AWESOME/AWESOME-CHROME-EXTENTION.md)
+* [awesome微前端](AWESOME/AWESOME-MICRO-FRONTENDS.md)
 
 * [vue](#vue)
 * [react](#react)
