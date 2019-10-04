@@ -11,6 +11,8 @@
 
 ## 仓库
 * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+
 
 ## 文章
  * [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)

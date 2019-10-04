@@ -174,6 +174,11 @@
 ### Demo
 * [realworld ★31k+](https://github.com/gothinkster/realworld)
 
+### 开源项目
+* [wexond](https://github.com/wexond/desktop)(A privacy-focused, extensible and beautiful web browser)
+
+
+
 ## typescript
 
 ### 官网
