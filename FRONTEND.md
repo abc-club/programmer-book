@@ -315,7 +315,7 @@
 * [移动端1px解决方案](https://juejin.im/post/5d19b729f265da1bb2774865)
 * [拿到一份设计稿，我该如何进行移动端开发？](https://juejin.im/post/5d736747e51d4561ff66688c)
 * [前端基础知识概述 -- 移动端开发的屏幕、图像、字体与布局的兼容适配](https://juejin.im/post/5d70747cf265da03e16897c8)
-
+* [移动端1px细线解决方案总结](https://www.cnblogs.com/lunarorbitx/p/5287309.html)
 
 ### 常用库
 - lib-flexible  https://github.com/amfe/lib-flexible
@@ -439,6 +439,8 @@
 * [新时代下前端工程师的推荐书籍和必备知识](https://juejin.im/post/5c7129b0f265da2d9710f7ca)
 * [一个全栈增长工程师的练手项目集](https://github.com/phodal/ideabook)
 * [一篇文章让你明白你多级缓存的分层架构](https://juejin.im/post/5d86cf7f6fb9a06b211724e7)
+* [一文读懂前端缓存](https://juejin.im/post/5c22ee806fb9a049fb43b2c5)
+
 
 ## 趋势
 
