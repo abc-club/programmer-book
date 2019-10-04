@@ -119,6 +119,8 @@
 - dva   https://dvajs.com
 - immutable https://github.com/immutable-js/immutable-js
 * [react-devtools-tutorial](https://react-devtools-tutorial.now.sh/)
+* [react-native-web](https://github.com/necolas/react-native-web)(rn转web)
+
 
 ### 参考资料
 * [React 源码解析](https://github.com/KieSun/react-interpretation)
@@ -152,7 +154,7 @@
 * [React路由鉴权](https://juejin.im/post/5d6352116fb9a06ae8361932)
 * [ReactRouter-V5免费图文视频教程（我免费，有培训机构什么事，就出！）](https://juejin.im/post/5d50dd4ff265da039a2879cd)
 * [精读《React Hooks 最佳实践》](https://juejin.im/post/5d75ae7a6fb9a06b0f2407e8)
-
+* [收藏！送给React研发人员的22款超强工具](https://zhuanlan.zhihu.com/p/83675159)
 
 ### 组件库
 - ant-design  https://ant.design/index-cn
@@ -176,7 +178,7 @@
 
 ### 开源项目
 * [wexond](https://github.com/wexond/desktop)(A privacy-focused, extensible and beautiful web browser)
-
+* [房屋租赁平台](https://github.com/TrillCyborg/fullstack)(React/ApolloGraphQL/Node/Mongo demo written in Typescript)
 
 
 ## typescript
@@ -447,6 +449,10 @@
 ### WebAssembly
 * [花椒前端基于WebAssembly 的H.265播放器研发](https://mp.weixin.qq.com/s/cXbanMq93jyx5gCuaP2oTw)
 
+### Serverless
+* [Serverless——前端的3.0时代](https://zhuanlan.zhihu.com/p/84054729)
+
+
 
 ## 动效
 
@@ -511,7 +517,7 @@
 * [tensorflow中文](https://tensorflow.google.cn/)
 * [TensorFlow 如何入门，如何快速学习？](https://www.zhihu.com/question/49909565/answer/807076121)
 * [前端如何学习机器学习之TensorFlow.js](https://juejin.im/post/5b971b295188255c581a8ff0)
-
+* [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)(深度学习500问)
 
 ## js-core
 
@@ -528,7 +534,7 @@
 ## 代码规范
 * [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 * [【译】Google 官方文章——如何去做coder review](https://juejin.im/post/5d84b93f5188251d482413c8)
-
+* [如何保证前端项目代码质量](https://zhuanlan.zhihu.com/p/82546272)
 
 ## canvas
 

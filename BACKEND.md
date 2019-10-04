@@ -8,6 +8,10 @@
 * [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)(语音伪装神器 语音识别 机器学习)
 
 
+### 文章
+* [火爆网络的《神经网络与深度学习》，有人把它翻译成了中文版！](https://zhuanlan.zhihu.com/p/58144032)
+
+
 ## jenkins
 * [让自动化工作流解放你的双手](https://juejin.im/post/5d3fb5046fb9a06b0935f47d)
 
