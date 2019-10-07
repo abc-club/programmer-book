@@ -45,7 +45,7 @@
 ## 爬虫
 * [爬虫被封怎么办？用Node构建一个私人IP代理池](https://juejin.im/post/5cc45db8f265da037129a5f2)
 * [awesome-spider](https://github.com/facert/awesome-spider)
-
+* [crawlab](https://github.com/crawlab-team/crawlab)(基于Golang的分布式爬虫管理平台)
 
 ## koa
 * [koa](https://github.com/koajs/koa)

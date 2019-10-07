@@ -92,7 +92,7 @@
 * [收下这波 vue 技巧，让开发效率翻倍](https://juejin.im/post/5d8f0475f265da5b9d1ee503)
 * [vue-router 源码：实现一个简单的 vue-router](https://juejin.im/post/5b35dcb5f265da59a117344d)
 * [前端路由简介以及vue-router实现原理](https://juejin.im/post/5b10b46df265da6e2a08a724)
-
+* [vue-router源码分析-整体流程](https://juejin.im/post/584040e1ac502e006cbedb23)
 
 ### 开源项目
 * [vue-sell](https://github.com/ustbhuangyi/vue-sell)

@@ -117,6 +117,7 @@
 * [丁香园前端组](https://github.com/DXY-F2E)
 * [去哪儿网大前端技术中心](https://github.com/YMFE)
 * [链家](https://github.com/LianjiaTech)
+* [滴滴](https://github.com/DDFE)
 * [igola](https://github.com/yougola)(iGola骑鹅旅行 - 国际机票,机票比价,特价机票查询预订)
 
 
