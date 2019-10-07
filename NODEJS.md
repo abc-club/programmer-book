@@ -133,6 +133,9 @@
 * [kafka中文教程](https://www.orchome.com/kafka/index)
 
 
+## 中台
+* [漫画：什么是中台？](https://juejin.im/post/5d995f82f265da5ba308389d)
+
 ## 其他
 * [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)
 * [手把手教你搭建一个 Elasticsearch 集群](https://juejin.im/post/5bad9520f265da0afe62ed95)

@@ -93,6 +93,8 @@
 * [vue-router 源码：实现一个简单的 vue-router](https://juejin.im/post/5b35dcb5f265da59a117344d)
 * [前端路由简介以及vue-router实现原理](https://juejin.im/post/5b10b46df265da6e2a08a724)
 * [vue-router源码分析-整体流程](https://juejin.im/post/584040e1ac502e006cbedb23)
+* [解密vue-router: 从源码开始](https://juejin.im/post/5af108dc518825672565cf31)
+* [vue-router 源码：实现一个简单的 vue-router](https://juejin.im/post/5b35dcb5f265da59a117344d)
 
 ### 开源项目
 * [vue-sell](https://github.com/ustbhuangyi/vue-sell)
@@ -285,6 +287,8 @@
 * [不要再尝试函数式编程了](https://mp.weixin.qq.com/s/1pAzdyBR4qE1A2aZF4GVIw)
 * [范式篇 - 如何把函数式编程合理运用到日常工作中](https://juejin.im/post/5d8f0866e51d4578110dc765)
 * [帮你揭开函数式编程的底层面纱——喜提国庆buff](https://juejin.im/post/5d7683bd6fb9a06ad229f557)
+* [Typescript版图解Functor , Applicative 和 Monad](https://juejin.im/post/5d6298c75188255625591ae6)
+
 
 ### 其他
 * [【THE LAST TIME】彻底吃透 JavaScript 执行机制](https://juejin.im/post/5d901418518825539312f587)
