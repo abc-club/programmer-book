@@ -54,6 +54,8 @@ Do it yourself!!!
 * [从零开始实现一套pc端vue的ui组件库](https://segmentfault.com/a/1190000020193444)
 * [【手把手】15分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364)
 * [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
+* [重磅!带你从零实现一个axios网络请求框架](https://segmentfault.com/a/1190000020601672)
+
 
 ## 开源项目
 - https://github.com/justjavac/Programming-Alpha-To-Omega
