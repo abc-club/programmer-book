@@ -521,6 +521,8 @@
 * [LeetCodeAnimation *39k+](https://github.com/MisterBooo/LeetCodeAnimation)
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 * [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+* [JavaScriptAlgorithms](https://github.com/vJechsmayr/JavaScriptAlgorithms)(算法js实现)
+
 
 ### 机器学习
 * [一文看尽 TensorFlow“奋斗史”！| CSDN 博文精选](https://mp.weixin.qq.com/s/iQ8azTcyW4oJLSacJ84w-g)
