@@ -95,6 +95,9 @@
 * [vue-router源码分析-整体流程](https://juejin.im/post/584040e1ac502e006cbedb23)
 * [解密vue-router: 从源码开始](https://juejin.im/post/5af108dc518825672565cf31)
 * [vue-router 源码：实现一个简单的 vue-router](https://juejin.im/post/5b35dcb5f265da59a117344d)
+* [Vue3 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)
+* [Vue 3 源码导读](https://juejin.im/post/5d977f47e51d4578453274b3)
+
 
 ### 开源项目
 * [vue-sell](https://github.com/ustbhuangyi/vue-sell)
@@ -308,11 +311,11 @@
 
 
 ## es6
- * [前端模块化详解(完整版)](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
- * [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6)
- * [Promise源码详解](https://juejin.im/post/5b32f552f265da59991155f0)
- * [最后一次搞懂 Event Loop](https://juejin.im/post/5cbc0a9cf265da03b11f3505)
-
+* [前端模块化详解(完整版)](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
+* [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6)
+* [Promise源码详解](https://juejin.im/post/5b32f552f265da59991155f0)
+* [最后一次搞懂 Event Loop](https://juejin.im/post/5cbc0a9cf265da03b11f3505)
+* [深入浅出 Babel 上篇：架构和原理 + 实战](https://juejin.im/post/5d94bfbf5188256db95589be)
 
 ## 移动端
 
