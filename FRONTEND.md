@@ -27,7 +27,6 @@
 * [h5游戏](#h5游戏)
 * [微信公众号](#微信公众号)
 * [webpack](#webpack)
-* [GraphQL](#GraphQL)
 * [性能与监控](#性能与监控)
 * [高质文章](#高质文章)
 * [趋势](#趋势)
@@ -364,15 +363,6 @@
 * [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
 * [【Cute-Webpack】Webpack4 入门手册（共 18 章）](https://segmentfault.com/a/1190000020063707)
 * [Webpack 实用技巧高效实战](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231994&idx=1&sn=17a344ef74809ddd7e8e5b13b00c5652&scene=1&srcid=0804usmqGwAu6Ih2HtQaeZj4#rd)
-
-
-## GraphQL
-
-### 文章
-* [前端er了解GraphQL，看这篇就够了](https://juejin.im/post/5ca1b7be51882543ea4b7f27)
-* [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
-* [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
-* [GraphQL 搭配 Koa 最佳入门实践](https://segmentfault.com/a/1190000012720317)
 
 
 ## 性能与监控

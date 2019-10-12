@@ -11,6 +11,7 @@
 * [爬虫](#爬虫)
 * [koa](#koa)
 * [eggjs](#eggjs)
+* [GraphQL](#GraphQL)
 * [数据存储](#数据存储)
 * [其他](#其他)
 
@@ -68,6 +69,25 @@
 * [如何更优雅的使用egg的日志体系？](https://github.com/eggjs/egg/issues/2006)
 * [基于Egg框架的日志链路追踪实践分享](https://juejin.im/post/5cf5f78951882574ce0133f3)
 
+## GraphQL
+### 官方
+* [graphql-js github](https://github.com/graphql/graphql-js/)
+* [express-graphql](https://github.com/graphql/express-graphql)
+* [apollo-server](https://github.com/apollographql/apollo-server)
+* [react-apollo](https://github.com/apollographql/react-apollo)
+* [GraphQL中文](https://graphql.cn)
+* [apollo](https://github.com/apollographql/apollo)(文档：https://www.apollographql.com/docs/)
+
+### 开源项目
+* [graphpack](https://github.com/glennreyes/graphpack)(零配置graphql服务器)
+* [rejoiner](https://github.com/google/rejoiner)(Uniform GraphQL schema from gRPC microservices)
+
+### 文章
+* [前端er了解GraphQL，看这篇就够了](https://juejin.im/post/5ca1b7be51882543ea4b7f27)
+* [GraphQL 入门看这篇就够了](https://mp.weixin.qq.com/s/cpPN5o_mbti9H8e-kZAY5Q)
+* [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+* [GraphQL 搭配 Koa 最佳入门实践](https://segmentfault.com/a/1190000012720317)
+* [GraphQL 为何没有火起来?](https://www.zhihu.com/question/38596306)
 
 
 ## 数据存储
