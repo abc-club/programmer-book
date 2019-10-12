@@ -81,6 +81,7 @@
 ### 开源项目
 * [graphpack](https://github.com/glennreyes/graphpack)(零配置graphql服务器)
 * [rejoiner](https://github.com/google/rejoiner)(Uniform GraphQL schema from gRPC microservices)
+* [gql-generator](https://github.com/timqian/gql-generator)(通过schema生成query)
 
 ### 文章
 * [前端er了解GraphQL，看这篇就够了](https://juejin.im/post/5ca1b7be51882543ea4b7f27)
