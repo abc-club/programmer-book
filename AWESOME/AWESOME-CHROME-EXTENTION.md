@@ -3,7 +3,7 @@
 
 ## 官方
 * [chrome开发官方文档](https://developer.chrome.com/extensions)
-
+* [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
 ## 文章
 * [五分钟实现一个chrome插件(含源码)](https://juejin.im/post/5d60e26de51d453bb13b6639)
@@ -14,6 +14,7 @@
 * [Chrome插件开发先看这篇：如何实现一键上班赖皮](https://juejin.im/post/5c14e64a5188256e047d8e44)
 * [作为程序员，我都在电脑上装过哪些 Chrome 插件？](https://zhuanlan.zhihu.com/p/77880743)
 * [这 10 款插件让你的 GitHub 更好用、更有趣](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457914733&idx=1&sn=7f97fc332d5dc95c7e595d0cf96375f7&chksm=8cb6a887bbc121919e49d69ded9c983f07c38ff119105530b14e626b400c835a86c83d1fbffb&scene=21#wechat_redirect)
+* [Chrome与vim双神器融合, vimium完全攻略](https://www.jianshu.com/p/f803bbba0ba5)
 
 
 ## 开源项目
