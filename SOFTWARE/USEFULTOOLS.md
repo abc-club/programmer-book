@@ -94,7 +94,7 @@
   * [草料二维码](https://cli.im/) (在线生成二维码)
   * [声享](https://ppt.baomitu.com) (在线制作 PPT)
   * [幕布](https://mubu.com/) (极简大纲笔记，一键生成思维导图)
- 
+  * [微软Office文档](http://www.officeplus.cn/Template/Home.shtml)(ppt模板 每月3次免费下载)
 
 ## 查询类
 
