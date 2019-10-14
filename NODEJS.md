@@ -103,10 +103,17 @@
 * [MySQL命令，一篇文章替你全部搞定](https://juejin.im/post/5ae55861f265da0ba062ec71)
 * [sequelize](https://github.com/sequelize/sequelize)(An easy-to-use multi SQL dialect ORM for Node.js )
 * [bookshelf](https://github.com/bookshelf/bookshelf)(A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js)
+* [Mysql常用命令行大全](https://www.cnblogs.com/bluealine/p/7832219.html)
+* [MySQL5.7 常用命令](https://blog.csdn.net/m0_37774790/article/details/81007192)
 
+#### 客户端
+* [navicat-premium](https://www.navicat.com.cn/download/navicat-premium)
+* [mac破解版navicat 安装直接即可](https://www.52pojie.cn/thread-957406-1-1.html)
 
 #### 常见问题
 * [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
+* [解决2003 - 2003 - Can't connect to MySQL server on '127.0.0.1'(61 "Connection refused")](https://blog.csdn.net/zeal9s/article/details/98873165)
+* [Mac mysql忘记密码](https://segmentfault.com/a/1190000020679306)
 
 
 ### mongodb
