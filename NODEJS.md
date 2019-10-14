@@ -13,6 +13,7 @@
 * [eggjs](#eggjs)
 * [GraphQL](#GraphQL)
 * [数据存储](#数据存储)
+* [docker](#docker)
 * [其他](#其他)
 
 
@@ -89,6 +90,7 @@
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
 * [GraphQL 搭配 Koa 最佳入门实践](https://segmentfault.com/a/1190000012720317)
 * [GraphQL 为何没有火起来?](https://www.zhihu.com/question/38596306)
+* [全栈 React + GraphQL 教程（一）](https://www.zcfy.cc/article/full-stack-react-graphql-tutorial-apollo-graphql-4341.html?t=new)
 
 
 ## 数据存储
@@ -123,11 +125,17 @@
 * [Redis 入门](https://juejin.im/post/5b4dd82ee51d451925629622)
 * [Redis 命令参考](http://doc.redisfans.com/index.html)
 
-
 #### 工具
 * RedisDesktopManager
 * FastRedis
 
+### 图数据库
+
+* [neo4j](https://github.com/neo4j/neo4j)
+* [hive](https://github.com/apache/hive)
+
+#### 文章
+* [《一起学图数据库》之一：图数据库介绍](https://zhuanlan.zhihu.com/p/32857155)
 
 ### ELK
 * [elastic官网](https://www.elastic.co/cn/#)
@@ -156,6 +164,9 @@
 
 ## 中台
 * [漫画：什么是中台？](https://juejin.im/post/5d995f82f265da5ba308389d)
+
+## docker
+* [写给前端工程师看的Docker教程-基础篇](https://zhuanlan.zhihu.com/p/84891860)
 
 ## 其他
 * [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)

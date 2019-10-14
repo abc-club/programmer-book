@@ -209,6 +209,7 @@
 - typescript-tutorial  https://github.com/xcatliu/typescript-tutorial
 - https://github.com/Lemoncode/react-typescript-samples
 - https://github.com/rokoroku/react-redux-typescript-boilerplate
+- https://github.com/alibaba/pont(前端接口层工具)
 
 ### 文章
 * [三千字讲清TypeScript与React的实战技巧](https://juejin.im/post/5d3aad8b6fb9a07ecb0bef5e)
@@ -527,6 +528,7 @@
 * [TensorFlow 如何入门，如何快速学习？](https://www.zhihu.com/question/49909565/answer/807076121)
 * [前端如何学习机器学习之TensorFlow.js](https://juejin.im/post/5b971b295188255c581a8ff0)
 * [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)(深度学习500问)
+* [斯坦福机器学习CS229课程讲义的中文翻译](https://github.com/Kivy-CN/Stanford-CS-229-CN)
 
 ## js-core
 
