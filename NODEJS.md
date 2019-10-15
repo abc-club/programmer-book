@@ -101,10 +101,13 @@
 * [21分钟MySQL基础入门](https://segmentfault.com/a/1190000006876419)
 * [2019-01-11亲测Navicat Premium for Mac破解](https://www.jianshu.com/p/4e93b48f9f63)
 * [MySQL命令，一篇文章替你全部搞定](https://juejin.im/post/5ae55861f265da0ba062ec71)
-* [sequelize](https://github.com/sequelize/sequelize)(An easy-to-use multi SQL dialect ORM for Node.js )
 * [bookshelf](https://github.com/bookshelf/bookshelf)(A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js)
 * [Mysql常用命令行大全](https://www.cnblogs.com/bluealine/p/7832219.html)
 * [MySQL5.7 常用命令](https://blog.csdn.net/m0_37774790/article/details/81007192)
+* [sequelize](https://github.com/sequelize/sequelize)(An easy-to-use multi SQL dialect ORM for Node.js )
+* [sequelize官网](https://sequelize.org/master/)
+* [Sequelize Docs 中文版](https://github.com/demopark/sequelize-docs-Zh-CN/tree/master)
+
 
 #### 客户端
 * [navicat-premium](https://www.navicat.com.cn/download/navicat-premium)
@@ -114,6 +117,7 @@
 * [mysql8.0版本 报错：Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol...](https://www.jianshu.com/p/c8eb6d2471f8)
 * [解决2003 - 2003 - Can't connect to MySQL server on '127.0.0.1'(61 "Connection refused")](https://blog.csdn.net/zeal9s/article/details/98873165)
 * [Mac mysql忘记密码](https://segmentfault.com/a/1190000020679306)
+* [出现connect ECONNREFUSED 127.0.0.1:3306报错的解决方法](http://blog.ttionya.com/article-1709.html)
 
 
 ### mongodb
@@ -145,11 +149,16 @@
 * [《一起学图数据库》之一：图数据库介绍](https://zhuanlan.zhihu.com/p/32857155)
 
 ### ELK
+* [elasticsearch GitHub](https://github.com/elastic/elasticsearch)
 * [elastic官网](https://www.elastic.co/cn/#)
 * [elastic官方文档](https://www.elastic.co/guide/en/elasticsearch/reference/6.0/getting-started.html)
 * [elk入门](https://segmentfault.com/a/1190000016665082)
 * [大搜车NodeJS日志规范化与分析监控](http://f2e.souche.com/blog/ri-zhi-gui-fan-hua-yu-fen-xi-jian-kong/)
 * [Node 框架接入 ELK 实践总结](https://juejin.im/post/5bf4c7ff5188250e8601d432)
+* [elasticsearch文档](https://www.elastic.co/cn/webinars/getting-started-elasticsearch?baymax=rtp&elektra=docs&storm=top-video)
+* [elasticsearch中文文档](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
+* [elasticsearch参考手册](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+* [elasticsearch中文社区](https://elasticsearch.cn/)
 
 
 #### logstash
