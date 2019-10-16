@@ -37,7 +37,7 @@
 * [干货 | 浅谈Node.js在携程的应用](https://mp.weixin.qq.com/s/0tcpVTldQHTcYpmhCqXizA)
 * [我在北京这3年前端团队Leader经历](https://juejin.im/post/5d78a9ecf265da03c128c47f)
 * [蚂蚁金服体验技术部](https://www.yuque.com/afx/about)
-
+* [职场突围：前端工程师的晋升逻辑到底是什么](https://zhuanlan.zhihu.com/p/83203422)
 
 ### 中后台方向
 * [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1)

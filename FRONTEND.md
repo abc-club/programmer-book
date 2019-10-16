@@ -113,6 +113,8 @@
 * [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs)
 * [gridea](https://github.com/getgridea/gridea)(一个静态博客写作客户端 ts vue )
 * [postwoman](https://github.com/liyasthomas/postwoman)(接口管理 类似postman)
+* [微人事](https://github.com/lenve/vhr)(SpringBoot+Vue)
+* [V部落](https://github.com/lenve/VBlog)(SpringBoot+Vue)
 
 ## react
 
