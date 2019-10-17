@@ -165,3 +165,7 @@ https://www.rescuetime.com
 * [neets](https://neets.cc)(视频搜索)
 * [80s](http://www.8080s.net)(视频搜索)
 
+
+### http请求
+* [httpie](https://github.com/jakubroztocil/httpie/)(a CLI, cURL-like tool for humans)
+

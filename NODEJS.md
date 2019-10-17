@@ -153,18 +153,19 @@
 * [elastic官网](https://www.elastic.co/cn/#)
 * [elastic官方文档](https://www.elastic.co/guide/en/elasticsearch/reference/6.0/getting-started.html)
 * [elk入门](https://segmentfault.com/a/1190000016665082)
+* [elastic中文社区](https://elasticsearch.cn/)
 * [大搜车NodeJS日志规范化与分析监控](http://f2e.souche.com/blog/ri-zhi-gui-fan-hua-yu-fen-xi-jian-kong/)
 * [Node 框架接入 ELK 实践总结](https://juejin.im/post/5bf4c7ff5188250e8601d432)
-* [elasticsearch reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
-* [Kibana Guide](https://www.elastic.co/guide/en/kibana/7.4/index.html)
-* [elasticsearch中文文档](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
-* [elasticsearch参考手册](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
-* [elasticsearch中文社区](https://elasticsearch.cn/)
 
 
 #### logstash
 
+* [logstash下载](https://www.elastic.co/cn/downloads/logstash)
+
 #### ElasticSearch
+* [终于有人把Elasticsearch原理讲透了！](http://developer.51cto.com/art/201904/594615.htm)
+* [elasticsearch reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+* [elasticsearch中文文档](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 * [Elasticsearch 权威指南（中文版）](https://es.xiaoleilu.com/index.html)
 * [ElasticSearch学习文档](https://juejin.im/post/5d82e5955188251b764b76ff)
 * [全文搜索引擎 Elasticsearch 入门教程](http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html)
@@ -173,8 +174,15 @@
 * [Elasticsearch 入门使用](https://juejin.im/post/58d1d7530ce4630057e6053a)
 * [一文上手 Elasticsearch常用可视化管理工具](https://juejin.im/post/5bd797ce6fb9a05cd7778f8d)
 
+##### 遇到的问题
+* The bulk request must be terminated by a newline [\\n]
+https://www.jianshu.com/p/1c8ba834e15c?utm_source=oschina-app
+
+
+
 
 #### kafka
+* [Kibana Guide](https://www.elastic.co/guide/en/kibana/7.4/index.html)
 * [震惊了！原来这才是kafka！](https://www.jianshu.com/p/d3e963ff8b70)
 * [kafka中文教程](https://www.orchome.com/kafka/index)
 

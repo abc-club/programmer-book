@@ -21,7 +21,7 @@
 
 - https://github.com/FrankFang/best-chinese-front-end-blogs (博客集合)
 
-### 大厂
+### 团队
 * [腾讯alloyteam](http://www.alloyteam.com/)
 * [淘宝前端](https://fed.taobao.org/)
 * [京东凹凸实验室](https://aotu.io/)
@@ -31,7 +31,7 @@
 * [美团](https://tech.meituan.com/)
 * [有赞](https://tech.youzan.com/)
 * [微店前端](https://github.com/weidian-inc/weidian-tech-blog)
-
+* [政采云前端](https://www.zoo.team/)
 
 ### 个人
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
