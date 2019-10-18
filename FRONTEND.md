@@ -390,7 +390,7 @@
 * [「中高级前端」高性能渲染十万条数据](https://juejin.im/post/5d76f469f265da039a28aff7)
 * [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
 * [Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-
+* [关于用户访问请求慢,TTFB时间长的问题分析](https://blog.csdn.net/ankeway/article/details/78669044/)
 
 ### 监控
 #### 开源库
