@@ -47,6 +47,8 @@
 * [京东技术中台的Flutter实践之路](https://mp.weixin.qq.com/s/5cmYG_WzyQKlnPNhpsd0oQ)
 * [Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)
 * [Flutter完整开发实战详解](https://juejin.im/post/5d9067026fb9a04df00ece14)
+* [Flutter实战 | 从 0 搭建「网易云音乐」APP（三、每日推荐、推荐歌单）](https://juejin.im/post/5da6d2b0f265da5bbe2a3f86)
+
 
 ### 开源库
 * [flutter-go *16k+](https://github.com/alibaba/flutter-go)
