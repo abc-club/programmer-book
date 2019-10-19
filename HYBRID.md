@@ -40,6 +40,7 @@
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
 ### 文章
+* [《Flutter in action》](https://files.alicdn.com/tpsservice/f91cbfb31d27f1a470c4ee138f9120b9.pdf?spm=a2c6h.12873639.0.0.416d5ef14Zjvoo&file=f91cbfb31d27f1a470c4ee138f9120b9.pdf&short_name=I3.ZZpRl&app=chrome)
 * [Flutter资源](https://github.com/nieyafei/flutter-resources)
 * [Flutter 完全手册](https://juejin.im/book/5c5423ef6fb9a049cd54a213)
 * [写给前端工程师的Flutter教程](https://juejin.im/post/5d56605ef265da03f77e6519)

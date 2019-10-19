@@ -47,6 +47,7 @@
 * [carbon](https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=48px&ph=32px&ln=false&fm=Hack&fs=14px&si=false&es=2x&wm=false) (生成类似 mac 风格的代码图片，用于分享)  
 * [Unsplash Source](https://source.unsplash.com/) (生成随机图片) 
 * [CSS Sprite Generator](https://spritegen.website-performance.org/) (生成雪碧图)
+* [CSS Sprites Generator](https://www.toptal.com/developers/css/sprite-generator) (生成雪碧图)
 * [iconfont](http://www.iconfont.cn/plus) (阿里巴巴矢量图标库)
 * [Preloaders](https://icons8.com/preloaders/) | [LOADING.IO](https://loading.io/) (加载图，**有些是收费的**)
 * [desktoppr](https://www.desktoppr.co/wallpapers) (好看的壁纸)

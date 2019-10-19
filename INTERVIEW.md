@@ -13,6 +13,8 @@
 * [面试技巧](#面试技巧)
 * [面试经验](#面试经验)
 * [github面试题仓库](#github面试题仓库)
+* [薪资福利](#薪资福利)
+* [招聘官网](#招聘官网)
 * [如果你是面试官](#如果你是面试官)
 * [题目](#题目)
 
@@ -130,6 +132,8 @@
 * [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
 * [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
 * [Web前端岗位面试题有哪些？](https://www.zhihu.com/question/41466747/answer/747323907)
+* [想进阿里吗？送你一份 4000 字《阿里内推指南》](https://juejin.im/post/5da67a41f265da5b681ff295)
+* [我想加入阿里，我该怎么做](https://mp.weixin.qq.com/s/5usQY8a_6eI7PTXLXJ2Nlw)
 
 
 ## github面试题仓库
@@ -146,6 +150,15 @@
 * [阿里，腾讯，百度，美团，头条等技术面试题目，以及答案](https://github.com/yttsam/interview_internal_reference)
 * [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 * [面试的图谱](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+
+## 薪资福利
+* [阿里福利](https://campus.alibaba.com/welfare.htm)
+
+
+## 招聘官网
+* [阿里社招](https://job.alibaba.com/zhaopin/positionList.htm)
+* [阿里校招](https://campus.alibaba.com/positionList.htm)
+
 
 ## 如果你是面试官
 * [谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)
