@@ -309,6 +309,7 @@
 * [你真的知道0.1+0.2为何不等于0.3吗？](https://juejin.im/post/5d6e74c35188254628237d5d)
 * [收下这波 JS 技巧，从此少加班](https://juejin.im/post/5d7659c76fb9a06b307068ed)
 * [JavaScript基础——前端不懂它，会再多框架也不过只是会用而已](https://www.toutiao.com/a6738734261286732291)
+* [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
 ### 开源项目
 * [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)
