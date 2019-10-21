@@ -40,6 +40,10 @@
 * [node-bunyan](https://github.com/trentm/node-bunyan)(a simple and fast JSON logging module for node.js services)
 
 
+## npm
+* [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
+
+
 ## Puppeteer
 * [无头浏览器 Puppeteer 初探](https://juejin.im/post/59e5a86c51882578bf185dba)
 
@@ -177,6 +181,9 @@
 ##### 遇到的问题
 * The bulk request must be terminated by a newline [\\n]
 https://www.jianshu.com/p/1c8ba834e15c?utm_source=oschina-app
+
+* 关于ElasticSearch的聚类时出现fielddata=true问题
+加```.keyword```
 
 
 
