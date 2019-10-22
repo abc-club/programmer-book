@@ -6,4 +6,4 @@
 * [超强的学习能力是怎样练就的？](https://www.zhihu.com/question/35103080/answer/414223605)
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508)
 * [怎么训练狗狗，就这样一周一个动作！](https://jingyan.baidu.com/article/c910274b5455b9cd361d2df1.html)
-
+* [iPhone 被免费 App 扣费怎么办？App Store 如何申请退款？](http://www.i4.cn/news_detail_28087.html)

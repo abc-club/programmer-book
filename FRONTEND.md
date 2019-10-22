@@ -115,7 +115,7 @@
 * [postwoman](https://github.com/liyasthomas/postwoman)(接口管理 类似postman)
 * [微人事](https://github.com/lenve/vhr)(SpringBoot+Vue)
 * [V部落](https://github.com/lenve/VBlog)(SpringBoot+Vue)
-
+* [KTV点歌系统,含后台管理系统(完整版)](https://github.com/1046224544/ktv-select_music-system)
 ## react
 
 ### 官网
