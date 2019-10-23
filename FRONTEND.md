@@ -195,12 +195,12 @@
 ### 官网
 
 ### 参考资料
+- 深入理解 TypeScript	 https://github.com/jkchao/typescript-book-chinese  https://jkchao.github.io/typescript-book-chinese/  https://github.com/basarat/typescript-book/
 - typescript中文  https://www.tslang.cn/
 - typescript中文   https://ts.xcatliu.com/   https://zhongsp.gitbooks.io/typescript-handbook/content/doc/handbook/Advanced%20Types.html
 - typescript  https://www.html.cn/doc/typescript/doc/handbook/tutorials/React.html
 - typescript进阶  https://www.jianshu.com/p/13a4eb1001f1
 - awesome 	https://github.com/dzharii/awesome-typescript
-- 深入理解 TypeScript	 https://github.com/jkchao/typescript-book-chinese  https://jkchao.github.io/typescript-book-chinese/  https://github.com/basarat/typescript-book/
 - TypeScript入门指南（基础篇） https://juejin.im/post/5d3bb567f265da1b8f1b09c1
 - TypeScript 入门指南 https://mp.weixin.qq.com/s/Oyawvb5BD-OKvMuF2tQ0pw?
 

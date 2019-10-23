@@ -192,8 +192,12 @@ https://www.jianshu.com/p/1c8ba834e15c?utm_source=oschina-app
 * 关于ElasticSearch的聚类时出现fielddata=true问题
 加```.keyword```
 
+* GET查询，加.keyword与不加.keyword的区别是什么，为什么没有结果
+https://segmentfault.com/q/1010000017312707
 
 
+* ElasticSearch如何先聚合后过滤？
+https://elasticsearch.cn/question/656
 
 #### kafka
 * [Kibana Guide](https://www.elastic.co/guide/en/kibana/7.4/index.html)
