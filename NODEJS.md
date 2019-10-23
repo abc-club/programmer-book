@@ -53,6 +53,9 @@
 * [awesome-spider](https://github.com/facert/awesome-spider)
 * [crawlab](https://github.com/crawlab-team/crawlab)(基于Golang的分布式爬虫管理平台)
 
+### 开源项目
+* [spider-flow](https://gitee.com/jmxd/spider-flow)(新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫)
+
 ## koa
 * [koa](https://github.com/koajs/koa)
 * [koa文档](https://koajs.com/)
@@ -177,6 +180,10 @@
 * [Elasticsearch学习笔记](https://juejin.im/post/5b9292b75188255c6b64eee5)
 * [Elasticsearch 入门使用](https://juejin.im/post/58d1d7530ce4630057e6053a)
 * [一文上手 Elasticsearch常用可视化管理工具](https://juejin.im/post/5bd797ce6fb9a05cd7778f8d)
+* [ElasticSearch中"distinct","count"和"group by"的实现](https://www.jianshu.com/p/62bed9cc8349)
+* [[转]23个最有用的Elasticsearch检索技巧](https://juejin.im/post/5b7fe4a46fb9a019d92469a9)
+* [看完这篇还不会Elasticsearch，我跪搓衣板，90%程序员已收藏](https://www.jianshu.com/p/ae9271012b7b)
+
 
 ##### 遇到的问题
 * The bulk request must be terminated by a newline [\\n]
