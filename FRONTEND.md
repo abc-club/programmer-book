@@ -65,6 +65,8 @@
 * [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
 * [ant-design-vue](https://github.com/vueComponent/ant-design-vue)
 * [cube-ui](https://github.com/didi/cube-ui)
+* [kpc](https://github.com/ksc-fe/kpc)(同时支持vue和react的组件库)
+
 
 * [v-charts](https://github.com/ElemeFE/v-charts)
 * [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)

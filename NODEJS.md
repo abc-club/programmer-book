@@ -183,7 +183,8 @@
 * [ElasticSearch中"distinct","count"和"group by"的实现](https://www.jianshu.com/p/62bed9cc8349)
 * [[转]23个最有用的Elasticsearch检索技巧](https://juejin.im/post/5b7fe4a46fb9a019d92469a9)
 * [看完这篇还不会Elasticsearch，我跪搓衣板，90%程序员已收藏](https://www.jianshu.com/p/ae9271012b7b)
-
+* [Elasticsearch聚合——Pipeline Aggregations ](https://my.oschina.net/bingzhong/blog/1975879)
+* [ES Pipeline Aggregation(管道聚合)](https://www.jianshu.com/p/eb0645b9f620)
 
 ##### 遇到的问题
 * The bulk request must be terminated by a newline [\\n]
