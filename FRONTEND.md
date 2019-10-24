@@ -116,6 +116,8 @@
 * [微人事](https://github.com/lenve/vhr)(SpringBoot+Vue)
 * [V部落](https://github.com/lenve/VBlog)(SpringBoot+Vue)
 * [KTV点歌系统,含后台管理系统(完整版)](https://github.com/1046224544/ktv-select_music-system)
+* [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)(Tool for visualizing GitHub profiles)
+
 ## react
 
 ### 官网
@@ -313,6 +315,8 @@
 
 ### 开源项目
 * [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)
+* [resume](https://github.com/resume/resume.github.com)(A service that creates a résumé based on your GitHub repos/activity.)
+* [10个后台管理UI框架](https://www.jianshu.com/p/3e6c9ebbd8fd)
 
 
 ## es6
