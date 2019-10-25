@@ -13,6 +13,7 @@
 * [优秀前端都应该了解学习的开源实战项目（GitHub 开源清单）](https://zhuanlan.zhihu.com/p/69268226)
 
 ## 项目
+* [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
 
 
