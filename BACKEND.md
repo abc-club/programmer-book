@@ -29,9 +29,17 @@
 * [史上最牛的Linux视频教程—兄弟连](https://www.bilibili.com/video/av18156598/?p=1)(b站视频)
 * [GitHub 60000+ Star：命令行的艺术](https://juejin.im/post/5d8b1899f265da5b9d1edee2)
 
+### 文章
+* [ubuntu16.4 开启ftp服务（使用协议:SFTP）](https://blog.csdn.net/weixin_41216652/article/details/81364130)
+* [Mac自带FTP工具用法](https://jingyan.baidu.com/article/39810a23436d3db636fda6db.html)
+
 ## 编译原理
 
 * [编译原理（哈工大）](https://www.bilibili.com/video/av17649289/?p=3)(b站视频)
 
 ## 人工智能
 * [人工智能入门](https://www.bilibili.com/video/av50927301?p=2)(b站视频)
+
+## ubuntu部署
+* [浅谈前端线上部署与运维](https://juejin.im/post/5a12881a6fb9a044fd115dd4)
+* [Ubuntu Nginx 配置](https://www.cnblogs.com/loseself/p/8888009.html)

@@ -407,6 +407,7 @@
 - https://github.com/iv-web/aegis-report
 - https://github.com/RicardoCao-Biker/Front-End-Monitoring
 - https://github.com/MriLiuJY/monitorFE
+- https://github.com/710leo/urlooker
 
 #### 文章
 * [搭建一个前端监控系统,不再错过BUG](https://juejin.im/post/5a372716518825258a5fbc80)

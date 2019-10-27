@@ -14,6 +14,7 @@
 * [GraphQL](#GraphQL)
 * [数据存储](#数据存储)
 * [docker](#docker)
+* [java](#java)
 * [其他](#其他)
 
 
@@ -210,7 +211,44 @@ https://elasticsearch.cn/question/656
 * [漫画：什么是中台？](https://juejin.im/post/5d995f82f265da5ba308389d)
 
 ## docker
+* [docker官网](https://docs.docker.com/)(英)
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md)
 * [写给前端工程师看的Docker教程-基础篇](https://zhuanlan.zhihu.com/p/84891860)
+* [Docker 教程](https://www.runoob.com/docker/docker-tutorial.html)(英)
+* [Docker中文文档](http://www.dockerinfo.net/document)
+* [Docker中文社区](http://www.docker.org.cn/)
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker)(英)
+* [awesome-dockercompose](https://github.com/bboysoulcn/awesome-dockercompose)
+* [Chef Cookbook for Docker ](https://github.com/chef-cookbooks/docker)(英)
+* [docker hub](https://hub.docker.com/)
+* [docker-windows](https://docker.com/docker-windows)
+### 常用命令
+```
+docker container ls -a     #获得容器信息
+docker container ls -a  -p   #获得容器id
+docker container stop <container ID>  #停止运行容器
+docker container rm  <container ID> #删除容器
+docker container stop $(docker container ls -a -q)  #批量停止容器
+docker container rm $(docker container ls -a -q)    #批量删除容器
+
+```
+
+### 文章
+* [jenkins+docker+nodejs项目的自动部署环境](https://my.oschina.net/gaochunzhang/blog/2246923)
+* [docker安装jenkins](https://github.com/jenkinsci/docker/blob/master/README.md)
+* [从零搭建docker+jenkins+node.js自动化部署环境](https://juejin.im/post/5b8ddb70e51d45389153f288)
+* [jenkins+docker+nodejs](https://www.codercto.com/a/72878.html)
+* [Docker部署 nodejs项目](https://www.jianshu.com/p/ab76ba86eafc)
+
+## jenkins
+* [jenkins插件](http://updates.jenkins-ci.org/download/plugins/)
+
+## linux
+* [Linux 教程](https://www.runoob.com/linux/linux-vim.html)
+
+
+## java
+* [电商系统](https://github.com/macrozheng/mall)(包括前台商城系统及后台管理系统)
 
 ## 其他
 * [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)
@@ -218,3 +256,4 @@ https://elasticsearch.cn/question/656
 * [k8s日志收集实战](https://juejin.im/post/5b6eaef96fb9a04fa25a0d37)
 * [[译] Kubernetes 儿童插图指南](https://juejin.im/post/5d1b2a656fb9a07edc0b7058)
 * [不要用 JWT 来做 Web 应用的会话管理](https://juejin.im/entry/59748def518825592c4f9ac0)
+* [万网云解析设置二级域名解析到同IP不同端口](https://jingyan.baidu.com/article/eb9f7b6d8a02a5869364e827.html)
