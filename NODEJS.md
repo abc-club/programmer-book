@@ -214,7 +214,7 @@ https://elasticsearch.cn/question/656
 * [docker官网](https://docs.docker.com/)(英)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md)
 * [写给前端工程师看的Docker教程-基础篇](https://zhuanlan.zhihu.com/p/84891860)
-* [Docker 教程](https://www.runoob.com/docker/docker-tutorial.html)(英)
+* [Docker 教程](https://www.runoob.com/docker/docker-tutorial.html)
 * [Docker中文文档](http://www.dockerinfo.net/document)
 * [Docker中文社区](http://www.docker.org.cn/)
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)(英)
@@ -245,7 +245,7 @@ docker container rm $(docker container ls -a -q)    #批量删除容器
 
 ## linux
 * [Linux 教程](https://www.runoob.com/linux/linux-vim.html)
-
+* [Mac使用ssh公钥登录Linux](https://segmentfault.com/a/1190000015369885)
 
 ## java
 * [电商系统](https://github.com/macrozheng/mall)(包括前台商城系统及后台管理系统)
