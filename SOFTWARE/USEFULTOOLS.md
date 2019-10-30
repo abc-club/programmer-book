@@ -171,3 +171,5 @@ https://www.rescuetime.com
 ### http请求
 * [httpie](https://github.com/jakubroztocil/httpie/)(a CLI, cURL-like tool for humans)
 
+### 数据可视化软件
+* [tableau](https://www.tableau.com/)(Changing the way you think about data)

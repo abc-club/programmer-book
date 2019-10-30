@@ -231,14 +231,29 @@ docker container rm  <container ID> #删除容器
 docker container stop $(docker container ls -a -q)  #批量停止容器
 docker container rm $(docker container ls -a -q)    #批量删除容器
 
+
+# 停止和删除Exited的docker实例
+docker ps -a | grep "Exited" | awk '{print $1 }'|xargs docker stop
+docker ps -a | grep "Exited" | awk '{print $1 }'|xargs docker rm
+# 删除none的镜像
+docker images|grep none|awk '{print $3 }'|xargs docker rmi
+
+# 删除所有未被容器使用的镜像
+docker image prune -a
+
 ```
 
 ### 文章
+* [[手把手系列之]Docker 部署 vue 项目](https://juejin.im/post/5cce4b1cf265da0373719819)
+* [[手把手系列之]docker 部署node+mongodb项目](https://juejin.im/post/5db7b549f265da4d556cecbc)
 * [jenkins+docker+nodejs项目的自动部署环境](https://my.oschina.net/gaochunzhang/blog/2246923)
 * [docker安装jenkins](https://github.com/jenkinsci/docker/blob/master/README.md)
 * [从零搭建docker+jenkins+node.js自动化部署环境](https://juejin.im/post/5b8ddb70e51d45389153f288)
 * [jenkins+docker+nodejs](https://www.codercto.com/a/72878.html)
 * [Docker部署 nodejs项目](https://www.jianshu.com/p/ab76ba86eafc)
+* [jenkins自动化部署vue](https://blog.csdn.net/jonsonler/article/details/81317352)
+* [Jenkins一键部署vue项目](https://blog.csdn.net/qq_34479912/article/details/82417869)
+* [使用 Jenkins 自动部署 Docker 服务（一、Jenkins 搭建篇）](https://blog.csdn.net/z497896143/article/details/81703016)
 
 ## jenkins
 * [jenkins插件](http://updates.jenkins-ci.org/download/plugins/)
@@ -250,6 +265,11 @@ docker container rm $(docker container ls -a -q)    #批量删除容器
 ## java
 * [电商系统](https://github.com/macrozheng/mall)(包括前台商城系统及后台管理系统)
 
+## nginx
+* [前端想要了解的Nginx](https://juejin.im/post/5cae9de95188251ae2324ec3)
+* [一文弄懂Nginx的location匹配](https://juejin.im/post/5cbe89b6f265da0373718707)
+* [nginx 这一篇就够了](https://juejin.im/post/5d81906c518825300a3ec7ca)
+
 ## 其他
 * [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)
 * [手把手教你搭建一个 Elasticsearch 集群](https://juejin.im/post/5bad9520f265da0afe62ed95)
@@ -257,3 +277,10 @@ docker container rm $(docker container ls -a -q)    #批量删除容器
 * [[译] Kubernetes 儿童插图指南](https://juejin.im/post/5d1b2a656fb9a07edc0b7058)
 * [不要用 JWT 来做 Web 应用的会话管理](https://juejin.im/entry/59748def518825592c4f9ac0)
 * [万网云解析设置二级域名解析到同IP不同端口](https://jingyan.baidu.com/article/eb9f7b6d8a02a5869364e827.html)
+
+
+## 运维部署
+
+* [jhipster](https://github.com/jhipster/generator-jhipster)(JHipster 是一个创建、开发、部署 Spring Boot + Angular/React 架构的 Web 应用或 Spring 微服务应用的开发平台。)
+* [jhipster官网](https://www.jhipster.tech)
+* [jhipster中文](https://www.jhipster-cn.tech/)
