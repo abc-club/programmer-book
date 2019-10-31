@@ -176,8 +176,8 @@
 
 
 ### 组件库
-- ant-design  https://ant.design/index-cn
-- ant-design-mobile  https://mobile.ant.design/index-cn
+* [ant-design](https://ant.design/index-cn)
+* [ant-design-mobile](https://mobile.ant.design/index-cn)
 - react-intl 
 - rc-form https://github.com/react-component/form
 * [nivo](https://github.com/plouc/nivo)(React 数据可视化库)
