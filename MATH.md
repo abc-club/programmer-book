@@ -10,6 +10,8 @@
 ## 书
 * [immersive linear algebra](http://immersivemath.com/ila/index.html)(线性代数)
 * [统计概率](https://seeing-theory.brown.edu/cn.html#firstPage)(统计概率)
+* [1900页数学基础：面向CS的线性代数、拓扑、微积分和最优化](https://zhuanlan.zhihu.com/p/75735442)
+
 
 ## 论坛
 * [机器之心](https://www.jiqizhixin.com/)

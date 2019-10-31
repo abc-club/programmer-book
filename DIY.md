@@ -56,6 +56,8 @@ Do it yourself!!!
 * [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 * [重磅!带你从零实现一个axios网络请求框架](https://segmentfault.com/a/1190000020601672)
 * [手把手教你使用nodejs编写cli(命令行)](https://juejin.im/post/5bd90d3ce51d4579362b0390)
+* [[技术翻译]9个可以让你在2020年成为前端专家的项目](https://juejin.im/post/5db71290f265da4d1c6999a0)
+
 
 ## 开源项目
 - https://github.com/justjavac/Programming-Alpha-To-Omega

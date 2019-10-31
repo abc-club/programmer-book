@@ -143,11 +143,12 @@
 * [Redis可视化工具](https://www.jianshu.com/p/721c3762a777)
 * [Redis 入门](https://juejin.im/post/5b4dd82ee51d451925629622)
 * [Redis 命令参考](http://doc.redisfans.com/index.html)
+* [基于prometheus+grafana体系监控redis缓存服务](https://www.toutiao.com/a6740202216994374147)
 
 #### 工具
 * RedisDesktopManager
 * FastRedis
-
+* [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 ### 图数据库
 
 * [neo4j](https://github.com/neo4j/neo4j)
@@ -254,10 +255,13 @@ docker image prune -a
 * [jenkins自动化部署vue](https://blog.csdn.net/jonsonler/article/details/81317352)
 * [Jenkins一键部署vue项目](https://blog.csdn.net/qq_34479912/article/details/82417869)
 * [使用 Jenkins 自动部署 Docker 服务（一、Jenkins 搭建篇）](https://blog.csdn.net/z497896143/article/details/81703016)
+* [终于有人把 Docker 讲清楚了，万字详解](https://www.toutiao.com/a6753476749108969998)
+* [全栈之路：从零搭建docker+jenkins+node.js自动化部署环境](https://www.toutiao.com/a6740132922214334979)
 
 ## jenkins
+* [让自动化工作流解放你的双手](https://juejin.im/post/5d3fb5046fb9a06b0935f47d)
 * [jenkins插件](http://updates.jenkins-ci.org/download/plugins/)
-
+* [构建gitlab、Jenkins、harbor、kubernetes的DevOps持续集成](https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=6751538964366098958&app_name=news_article)
 ## linux
 * [Linux 教程](https://www.runoob.com/linux/linux-vim.html)
 * [Mac使用ssh公钥登录Linux](https://segmentfault.com/a/1190000015369885)

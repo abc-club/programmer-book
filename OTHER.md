@@ -8,4 +8,5 @@
 * [怎么训练狗狗，就这样一周一个动作！](https://jingyan.baidu.com/article/c910274b5455b9cd361d2df1.html)
 * [iPhone 被免费 App 扣费怎么办？App Store 如何申请退款？](http://www.i4.cn/news_detail_28087.html)
 * [App Store偷偷扣费？赶紧关闭这个功能，减少不必要的资金流失](https://baijiahao.baidu.com/s?id=1631511478013181040&wfr=spider&for=pc)
-
+* [欧亚5000年历史版图变迁，中国很牛，配乐很燃，看得热血沸腾](https://www.ixigua.com/i6745890875898855943/)
+* [终于有人把MACD讲明白了：零上金叉买，零下死叉抛！此文很短很深](https://www.toutiao.com/a6742336421668848142)

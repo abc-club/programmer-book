@@ -40,7 +40,7 @@
 * [网络请求](#网络请求)
 * [pwa](#pwa)
 * [其他必备知识](#其他必备知识)
-
+* [git](#git)
 
 ## vue
 
@@ -99,6 +99,10 @@
 * [Vue3 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)
 * [Vue 3 源码导读](https://juejin.im/post/5d977f47e51d4578453274b3)
 * [Vue 3 源码解读](https://github.com/KieSun/vue-interpretation)
+* [Github 上 36 个最实用的 Vue 开源库](https://www.toutiao.com/a6740807773254107651)
+* [利用VuePress快速搭建项目文档管理系统](https://www.toutiao.com/a6740976049183523341)
+* [50个好用的前端框架，千万收好以留备用](https://www.toutiao.com/a6741905003897684493)
+
 
 ### 开源项目
 * [vue-sell](https://github.com/ustbhuangyi/vue-sell)
@@ -168,6 +172,8 @@
 * [ReactRouter-V5免费图文视频教程（我免费，有培训机构什么事，就出！）](https://juejin.im/post/5d50dd4ff265da039a2879cd)
 * [精读《React Hooks 最佳实践》](https://juejin.im/post/5d75ae7a6fb9a06b0f2407e8)
 * [收藏！送给React研发人员的22款超强工具](https://zhuanlan.zhihu.com/p/83675159)
+* [全栈 React + GraphQL 教程（一）](https://www.zcfy.cc/article/full-stack-react-graphql-tutorial-apollo-graphql-4341.html?t=new)
+
 
 ### 组件库
 - ant-design  https://ant.design/index-cn
@@ -175,7 +181,6 @@
 - react-intl 
 - rc-form https://github.com/react-component/form
 * [nivo](https://github.com/plouc/nivo)(React 数据可视化库)
-
 
 ### 框架
 - umi   https://umijs.org/
@@ -319,7 +324,7 @@
 * [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)
 * [resume](https://github.com/resume/resume.github.com)(A service that creates a résumé based on your GitHub repos/activity.)
 * [10个后台管理UI框架](https://www.jianshu.com/p/3e6c9ebbd8fd)
-
+* [muuri](https://github.com/haltu/muuri)(Responsive, sortable, filterable and draggable grid layouts)
 
 ## es6
 * [1.5万字概括ES6全部特性(看图就能记下，值得收藏)](https://juejin.im/post/5d9bf530518825427b27639d)
@@ -391,7 +396,7 @@
 * [彻底理解浏览器的缓存机制](https://juejin.im/entry/5ad86c16f265da505a77dca4)
 * [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
 * [从 0 到 1 的前端异常监控项目实战](https://mp.weixin.qq.com/s/Q1KGbkcF-AMWsWN7Ae7E1A)
-
+* [炫技，从12.67s到1.06s的网站性能优化实战](https://mp.weixin.qq.com/s/sU4Y2pBU659O1vNyZSSX5Q)
 
 ### 性能
 
@@ -461,13 +466,15 @@
 * [一篇文章让你明白你多级缓存的分层架构](https://juejin.im/post/5d86cf7f6fb9a06b211724e7)
 * [一文读懂前端缓存](https://juejin.im/post/5c22ee806fb9a049fb43b2c5)
 * [看完这篇还不清楚缓存，求你打我😈（有彩蛋）](https://juejin.im/post/5d9d539ee51d45780f0604fa)
+* [GitHub 上有哪些优秀的项目？](https://www.zhihu.com/question/20584141/answer/774922972?hb_wx_block=0)
+* [史上最全前端基础进阶系列](https://zhuanlan.zhihu.com/p/82998199)
 
 ## 趋势
 
 ### 微前端
 
 * [awesome-microfrontends](https://github.com/abc-club/awesome-microfrontends)
-
+* [一线大厂前端怎么做？百度资深前端工程师，带你手写微前端框架](https://www.toutiao.com/a6753519385958154763)
 ### WebAssembly
 * [花椒前端基于WebAssembly 的H.265播放器研发](https://mp.weixin.qq.com/s/cXbanMq93jyx5gCuaP2oTw)
 
@@ -496,7 +503,8 @@
 * [Leaflet](https://leafletjs.com/examples.html)
 * [BizCharts](https://github.com/alibaba/BizCharts)
 * [zeu](https://github.com/shzlw/zeu)
-
+* [SandDance](https://github.com/microsoft/SandDance)(microsoft出品)
+* [zrender](https://github.com/ecomfe/zrender)(A lightweight canvas library which providing 2d draw for ECharts)
 
 ### 文章
 * [14个最好的 JavaScript 数据可视化库](https://segmentfault.com/a/1190000018646425)
@@ -526,7 +534,9 @@
 * [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
 * [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 * [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
-
+* [算法的时间和空间复杂度，就是这么简单](https://www.toutiao.com/a6750625828465279495)
+* [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/820437568?hb_wx_block=0)
+* [怎么学好数据结构？](https://www.zhihu.com/question/19830721/answer/667233164?hb_wx_block=0)
 
 #### 开源库
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
@@ -544,6 +554,8 @@
 * [前端如何学习机器学习之TensorFlow.js](https://juejin.im/post/5b971b295188255c581a8ff0)
 * [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)(深度学习500问)
 * [斯坦福机器学习CS229课程讲义的中文翻译](https://github.com/Kivy-CN/Stanford-CS-229-CN)
+* [吴恩达《Machine Learning Yearning》完整中文版开源](https://www.toutiao.com/a6747535039598166531)
+
 
 ## js-core
 
@@ -561,6 +573,10 @@
 * [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 * [【译】Google 官方文章——如何去做coder review](https://juejin.im/post/5d84b93f5188251d482413c8)
 * [如何保证前端项目代码质量](https://zhuanlan.zhihu.com/p/82546272)
+* [前端规范](http://ku.zzfriend.com/yanshi/qianduanguifan/)
+* [作为CTO，我为什么必须要求代码进行Code Review](https://www.toutiao.com/a6739679493524308487)
+* [Git进阶：如何提交标准化的Git Commit Message](https://www.toutiao.com/a6740794433769308684)
+
 
 ## canvas
 
@@ -655,6 +671,9 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [github开发官方文档](https://developer.github.com/v3/)
 * [【10 个基于 JavaScript 的机器学习实例】](https://m.toutiaocdn.net/a6730835071474860547)
 * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+* [一文看懂：网址，URL，域名，IP地址，DNS，域名解析](https://www.toutiao.com/a6751517219382886925)
+* [87个前端必备开发网站](https://zhuanlan.zhihu.com/p/86777413)
+* [前端开发的历史和趋势](https://www.toutiao.com/a6748272721014030862)
 
 
 ### 常用技术
@@ -663,6 +682,9 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
     * [飞冰](https://ice.work/)
     * [lugia](https://zhuanlan.zhihu.com/p/77255855)
     * [前端物料中台建设](https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0)
+
+## git
+
 
 
 [↑ 返回目录 ↑](#目录)

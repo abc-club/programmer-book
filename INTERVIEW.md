@@ -96,6 +96,7 @@
 * [再也不怕面试官问你express和koa的区别了](https://juejin.im/post/5da6eef5f265da5b6b631115)
 * [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
 * [js史上最精简！防抖节流（你的比我精简，算我输）](https://juejin.im/post/5da7c77a51882554c0757f46)
+* [面试官：不用背概念，说清楚cookie和session是怎么交互的？](https://www.toutiao.com/a6739163770385351179)
 
 
 ## 面试技巧
@@ -109,7 +110,7 @@
 * [前端面试指南](https://zhuanlan.zhihu.com/p/25859524)
 * [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
 * [关于面试流程](https://juejin.im/post/59ec3d50f265da431c6f7339)
-
+* [程序员面试时这样介绍自己的项目经验，成功率能达到98.99%](https://www.toutiao.com/a6750279305806217739)
 
 ## 面试经验
 * [阿里健康面试总结](https://juejin.im/post/5d8896e5e51d45621512ae4a)
@@ -138,7 +139,7 @@
 * [Web前端岗位面试题有哪些？](https://www.zhihu.com/question/41466747/answer/747323907)
 * [想进阿里吗？送你一份 4000 字《阿里内推指南》](https://juejin.im/post/5da67a41f265da5b681ff295)
 * [我想加入阿里，我该怎么做](https://mp.weixin.qq.com/s/5usQY8a_6eI7PTXLXJ2Nlw)
-
+* [2019年，看了这一份， 再也不怕前端面试了](https://zhuanlan.zhihu.com/p/87043003)
 
 ## github面试题仓库
 - https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md([译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试)
@@ -171,7 +172,9 @@
 ## 待遇
 * [【阿里员工一年挣多少钱？聊一聊阿里薪酬职级体系】](https://m.toutiaocdn.com/a6724307251558875652)
 * [阿里的绩效考核：赏明星，杀白兔，野狗要示众](https://m.toutiaocdn.com/a6726291727654584839)
-
+* [在字节跳动做程序员是一种什么样的体验？](https://www.toutiao.com/a6751338039886217736)
+* [入职字节跳动48小时后，我发现了抖音的秘密](https://www.toutiao.com/a6751311464365031948)
+* [一文揭秘BAT互联网大厂薪资](https://www.toutiao.com/a6750467774801248782)
 
 ## 题目
 

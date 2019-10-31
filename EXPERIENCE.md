@@ -38,6 +38,8 @@
 * [我在北京这3年前端团队Leader经历](https://juejin.im/post/5d78a9ecf265da03c128c47f)
 * [蚂蚁金服体验技术部](https://www.yuque.com/afx/about)
 * [职场突围：前端工程师的晋升逻辑到底是什么](https://zhuanlan.zhihu.com/p/83203422)
+* [解密阿里巴巴的web前端技术体系，技术不断迭代，如何突破？](https://www.toutiao.com/a6752123820376588808)
+* [从技术细节看美团的架构](https://www.toutiao.com/a6748669354352574988)
 
 ### 中后台方向
 * [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1)
