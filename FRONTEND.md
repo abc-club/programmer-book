@@ -287,7 +287,6 @@
 * [练完这篇就会写正则](https://juejin.im/post/5d89edb1518825097619ecfe)
 * [learn-regex ★22k+](https://github.com/ziishaned/learn-regex) :100:
 * [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
-* [2019 年常用 JavaScript 正则大全]( https://juejin.im/post/5d245d4151882555300feb77)
 * [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
 * [2019年JS正则大全(常用)](https://juejin.im/post/5d245d4151882555300feb77)
 
@@ -319,6 +318,8 @@
 * [收下这波 JS 技巧，从此少加班](https://juejin.im/post/5d7659c76fb9a06b307068ed)
 * [JavaScript基础——前端不懂它，会再多框架也不过只是会用而已](https://www.toutiao.com/a6738734261286732291)
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+* [尾调用和尾递归](https://juejin.im/post/5acdd7486fb9a028ca53547c)
+
 
 ### 开源项目
 * [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)

@@ -39,7 +39,7 @@
 ### 常用库
 * [winston](https://github.com/winstonjs/winston)(A logger for just about everything)
 * [node-bunyan](https://github.com/trentm/node-bunyan)(a simple and fast JSON logging module for node.js services)
-
+* [gh-pages](https://github.com/tschaub/gh-pages)
 
 ## npm
 * [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
