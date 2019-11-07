@@ -657,6 +657,12 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
  * [Swagger与其他API文档编写工具对比](https://haofly.net/swagger/)
 
 
+#### 自动化
+* [Auto.js](https://github.com/hyb1996/Auto.js)(安卓平台上的JavaScript自动化工具)
+* [taobaoVisitingVenues](https://github.com/sleepybear1113/taobaoVisitingVenues)(双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android)
+
+
+
 ## 网络请求
  * [axios中文文档翻译](https://segmentfault.com/a/1190000008470355)
 

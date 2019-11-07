@@ -24,6 +24,8 @@
 * elmedia 倍速播放器
 * paragon ntfs for mac 移动硬盘识别软件
 * 全能解压
+* Handshaker(mac与Android文件互传)
+
 
 ## 开发
 
