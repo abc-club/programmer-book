@@ -40,10 +40,19 @@ render 把createElement转成vnode
 ```
 watcher与dep的关系
 
+dep属于defineReactive里面的，可以理解为属于data
+
 dep.subs: Array<Watcher>
 
 watcher的depIds和deps保存的是dep, newDeps和newDepIds保存的是new
 
+addDep的时候会把Dep.target加入到dep里，同时会把dep加入到watcher的newDeps里，cleanupDeps的时候就把newDeps赋值给deps
 
+```
 
+```
+Watcher有
+renderwatcher
+_computedWatchers 是lazy的，每次执行update都会把dirty变为true，然后每次render模板的时候判断dirty是否为true来决定是否evaluate（可以理解为懒更新），执行完后把dirty变为false
+watch watcher
 ```
