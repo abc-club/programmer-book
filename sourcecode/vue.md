@@ -56,3 +56,16 @@ renderwatcher
 _computedWatchers 是lazy的，每次执行update都会把dirty变为true，然后每次render模板的时候判断dirty是否为true来决定是否evaluate（可以理解为懒更新），执行完后把dirty变为false
 watch watcher
 ```
+
+## 参考
+* [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
+* [从babel讲到AST](https://juejin.im/post/5ab35c3cf265da23771951a2)
+* [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b)
+* [从babel讲到AST](https://juejin.im/post/5ab35c3cf265da23771951a2)
+* [高级前端基础-JavaScript抽象语法树AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf)
+* [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
+* [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)
+* [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+* [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+* [LangSandbox](https://github.com/ftomassetti/LangSandbox)(Project to illustrate how to build a programming language)
+* [astexplorer](https://astexplorer.net/)
