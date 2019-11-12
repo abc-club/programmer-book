@@ -98,6 +98,9 @@
 * [js史上最精简！防抖节流（你的比我精简，算我输）](https://juejin.im/post/5da7c77a51882554c0757f46)
 * [面试官：不用背概念，说清楚cookie和session是怎么交互的？](https://www.toutiao.com/a6739163770385351179)
 * [面试官问: 如何理解Virtual DOM？](https://juejin.im/post/5d5d32e251882545e41e655d)
+* [Web 安全总结(面试必备良药)](https://juejin.im/post/5dca1b376fb9a04a9f11c82e)
+
+
 
 ## 面试技巧
 * [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
