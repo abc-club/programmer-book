@@ -57,6 +57,8 @@ Do it yourself!!!
 * [重磅!带你从零实现一个axios网络请求框架](https://segmentfault.com/a/1190000020601672)
 * [手把手教你使用nodejs编写cli(命令行)](https://juejin.im/post/5bd90d3ce51d4579362b0390)
 * [[技术翻译]9个可以让你在2020年成为前端专家的项目](https://juejin.im/post/5db71290f265da4d1c6999a0)
+* [vue小实现](https://juejin.im/post/5a4df4965188252a3d386ae6)
+* [读懂源码：一步一步实现一个 Vue](https://www.cnblogs.com/kidney/p/8018226.html)
 
 
 ## 开源项目
@@ -66,3 +68,4 @@ Do it yourself!!!
 * [MVW-demos](https://github.com/livoras/MVW-demos)
 * [前端开发常用工具](https://github.com/yimogit/metools-plugin)
 * [DIY前端路由](https://github.com/biaochenxuying/route)(原生 js 实现的轻量级路由，且页面跳转间有缓存功能)
+* [自己动手实现mvvm](https://github.com/DMQ/mvvm)

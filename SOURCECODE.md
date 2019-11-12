@@ -8,6 +8,6 @@
 * [vue-cli 源码分析](https://github.com/KuangPF/vue-cli-analysis)
 * [逐行级别的vue源码分析](https://github.com/HcySunYang/vue-design)
 * [Promise源码分析](https://juejin.im/post/5c1cb4b0e51d455fb3109f48)
-
-
+* [做面试的不倒翁：浅谈 Vue 中 computed 实现原理](https://juejin.im/post/5b98c4da6fb9a05d353c5fd7)
+* [入口文件开始，分析Vue源码实现](https://juejin.im/post/5adead636fb9a07aaf34d794)
 
