@@ -13,4 +13,4 @@
 * [snabbdom 源码阅读分析](https://juejin.im/post/5b9200865188255c672e8cfd)
 * [解析 snabbdom 源码，教你实现精简的 Virtual DOM 库 ](https://github.com/creeperyang/blog/issues/33)
 * [Vue基于snabbdom做了哪些事](https://juejin.im/post/5d1037e9e51d455d877e0d43)
-
+* [一年内的前端看不懂前端框架源码怎么办？](https://www.zhihu.com/question/350289336/answer/873350617)

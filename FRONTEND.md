@@ -173,7 +173,7 @@
 * [精读《React Hooks 最佳实践》](https://juejin.im/post/5d75ae7a6fb9a06b0f2407e8)
 * [收藏！送给React研发人员的22款超强工具](https://zhuanlan.zhihu.com/p/83675159)
 * [全栈 React + GraphQL 教程（一）](https://www.zcfy.cc/article/full-stack-react-graphql-tutorial-apollo-graphql-4341.html?t=new)
-
+* [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d)
 
 ### 组件库
 * [ant-design](https://ant.design/index-cn)
@@ -266,7 +266,7 @@
 
 ### 文章
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
-
+* [11个开源物联网平台和工具](https://www.toutiao.com/a6754237961857925639)
 ### demo
 - javascript-mqtt-demo-wearingTip   https://github.com/coolnameismy/javascript-mqtt-demo-wearingTip
 - 面试官(7): 聊一聊 Babel? https://juejin.im/post/5c03b85ae51d450c740de19c
@@ -398,6 +398,8 @@
 * [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
 * [从 0 到 1 的前端异常监控项目实战](https://mp.weixin.qq.com/s/Q1KGbkcF-AMWsWN7Ae7E1A)
 * [炫技，从12.67s到1.06s的网站性能优化实战](https://mp.weixin.qq.com/s/sU4Y2pBU659O1vNyZSSX5Q)
+* [H5秒开方案大全](https://www.toutiao.com/a6753544973569753607)
+
 
 ### 性能
 
@@ -518,7 +520,13 @@
 * [页面可视化搭建工具前生今世](https://juejin.im/post/5b0324f4518825426a20008d)
 * [可视化搭建前端工程 - 阿里飞冰了解一下](https://juejin.im/post/5b6349716fb9a04f834669d6)
 * [前端工程实践之可视化搭建系统（一）](https://juejin.im/post/5d8774bff265da03ae78b2a1)
-
+* [【第1282期】页面可视化搭建工具前生今世](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==)
+* [【第1524期】页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s/90JJAFhGokKmicOQZxdAGg)
+* [几个开源的自定义表单设计器源码，推荐给需要的人](https://www.toutiao.com/a6756932532094108174)
+* [看似复杂炫酷的数据可视化设计，用这波神器轻松搞定](https://www.toutiao.com/a6733161074633212428)
+* [H5DS编辑器技术解析](https://mp.weixin.qq.com/s/Z48FdbtM7D03gFoaE61swg)
+* [[第1期] H5海报生成 核心原理解析](https://mp.weixin.qq.com/s/wpSYdWmYYxd-Qyib-tOJvA)
+* [一篇文章彻底搞定富文本原理 + 实战](https://mp.weixin.qq.com/s/kmqT6x-59vkHMdPa8vY4tQ)
 
 ## 数据结构与算法
 
@@ -591,6 +599,9 @@
 * [2018 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 * [2019 前端自动化测试综述 [英]](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
 * [测试你的前端代码（介绍篇）[英]](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
+* [万字长文总结前端测试体系建设与最佳实践](https://mp.weixin.qq.com/s?__biz=MzI5MjYyODYyNQ==&mid=2247483987&idx=1&sn=132aea5d5185a1e4fa2fab5037a2fb3e)
+* [花椒测试平台 - 接口篇](https://mp.weixin.qq.com/s/xDwEv8r_RfJ99CSir3kCfg)
+
 
 ### 单元测试
 站在程序员的角度测试

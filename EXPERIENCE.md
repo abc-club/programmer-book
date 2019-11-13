@@ -24,6 +24,8 @@
 * [那个三本的“家伙”自学前端五个月经历了什么？](https://juejin.im/post/5d5bf4dd51882554a13f850a)
 * [if 我是前端团队 Leader，怎么做好概要设计](https://juejin.im/post/5d71cec6e51d4561b674c4d0)
 * [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
+* [玉伯：我的前端成长之路](https://mp.weixin.qq.com/s/3ORJ6AArKKCqvseV163Upg)
+* [月薪80k阿里架构师漫谈他是如何从一名小码农走到今天这一步](https://www.toutiao.com/a6756774125286457864)
 
 ## 团队篇
 
@@ -40,6 +42,8 @@
 * [职场突围：前端工程师的晋升逻辑到底是什么](https://zhuanlan.zhihu.com/p/83203422)
 * [解密阿里巴巴的web前端技术体系，技术不断迭代，如何突破？](https://www.toutiao.com/a6752123820376588808)
 * [从技术细节看美团的架构](https://www.toutiao.com/a6748669354352574988)
+* [滴滴后端架构实战](https://www.toutiao.com/a6755393930998579725)
+* [“12306”的架构到底有多牛逼？](https://mp.weixin.qq.com/s/oqjbW4ylAwVm5iUWsuJiEQ)
 
 ### 中后台方向
 * [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1)

@@ -99,7 +99,7 @@
 * [面试官：不用背概念，说清楚cookie和session是怎么交互的？](https://www.toutiao.com/a6739163770385351179)
 * [面试官问: 如何理解Virtual DOM？](https://juejin.im/post/5d5d32e251882545e41e655d)
 * [Web 安全总结(面试必备良药)](https://juejin.im/post/5dca1b376fb9a04a9f11c82e)
-
+* [async/await 原理及执行顺序分析](https://juejin.im/post/5dc28ea66fb9a04a881d1ac0)
 
 
 ## 面试技巧
@@ -143,6 +143,8 @@
 * [想进阿里吗？送你一份 4000 字《阿里内推指南》](https://juejin.im/post/5da67a41f265da5b681ff295)
 * [我想加入阿里，我该怎么做](https://mp.weixin.qq.com/s/5usQY8a_6eI7PTXLXJ2Nlw)
 * [2019年，看了这一份， 再也不怕前端面试了](https://zhuanlan.zhihu.com/p/87043003)
+* [阿里六面，挂在hrg，我真的不甘心](https://www.toutiao.com/a6753809422167835139)
+
 
 ## github面试题仓库
 - https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md([译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试)

@@ -144,6 +144,8 @@
 * [Redis 入门](https://juejin.im/post/5b4dd82ee51d451925629622)
 * [Redis 命令参考](http://doc.redisfans.com/index.html)
 * [基于prometheus+grafana体系监控redis缓存服务](https://www.toutiao.com/a6740202216994374147)
+* [Redis优化高并发下的秒杀功能](https://www.toutiao.com/a6755813844909556237)
+
 
 #### 工具
 * RedisDesktopManager
@@ -172,6 +174,7 @@
 * [logstash下载](https://www.elastic.co/cn/downloads/logstash)
 
 #### ElasticSearch
+* [手把手教你搭建一个 Elasticsearch 集群](https://juejin.im/post/5bad9520f265da0afe62ed95)
 * [终于有人把Elasticsearch原理讲透了！](http://developer.51cto.com/art/201904/594615.htm)
 * [elasticsearch reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 * [elasticsearch中文文档](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
@@ -245,6 +248,7 @@ docker image prune -a
 ```
 
 ### 文章
+* [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)
 * [[手把手系列之]Docker 部署 vue 项目](https://juejin.im/post/5cce4b1cf265da0373719819)
 * [[手把手系列之]docker 部署node+mongodb项目](https://juejin.im/post/5db7b549f265da4d556cecbc)
 * [jenkins+docker+nodejs项目的自动部署环境](https://my.oschina.net/gaochunzhang/blog/2246923)
@@ -257,6 +261,8 @@ docker image prune -a
 * [使用 Jenkins 自动部署 Docker 服务（一、Jenkins 搭建篇）](https://blog.csdn.net/z497896143/article/details/81703016)
 * [终于有人把 Docker 讲清楚了，万字详解](https://www.toutiao.com/a6753476749108969998)
 * [全栈之路：从零搭建docker+jenkins+node.js自动化部署环境](https://www.toutiao.com/a6740132922214334979)
+* [为什么你不必害怕 Kubernetes](https://www.toutiao.com/a6755667559334281742)
+
 
 ## jenkins
 * [让自动化工作流解放你的双手](https://juejin.im/post/5d3fb5046fb9a06b0935f47d)
@@ -275,13 +281,11 @@ docker image prune -a
 * [nginx 这一篇就够了](https://juejin.im/post/5d81906c518825300a3ec7ca)
 
 ## 其他
-* [写给前端的Docker实战教程](https://juejin.im/post/5d8440ebe51d4561eb0b2751)
-* [手把手教你搭建一个 Elasticsearch 集群](https://juejin.im/post/5bad9520f265da0afe62ed95)
 * [k8s日志收集实战](https://juejin.im/post/5b6eaef96fb9a04fa25a0d37)
 * [[译] Kubernetes 儿童插图指南](https://juejin.im/post/5d1b2a656fb9a07edc0b7058)
 * [不要用 JWT 来做 Web 应用的会话管理](https://juejin.im/entry/59748def518825592c4f9ac0)
 * [万网云解析设置二级域名解析到同IP不同端口](https://jingyan.baidu.com/article/eb9f7b6d8a02a5869364e827.html)
-
+* [怎样用 Bash 编程：语法和工具](https://www.toutiao.com/a6756741451649909259)
 
 ## 运维部署
 
