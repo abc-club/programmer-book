@@ -25,6 +25,11 @@
 * paragon ntfs for mac 移动硬盘识别软件
 * 全能解压
 * Handshaker(mac与Android文件互传)
+* [mos for mac](https://mac.softpedia.com/get/System-Utilities/Mos.shtml#download)(让第三方鼠标滚轮丝滑顺畅)
+
+## 办公软件
+* [drawio](https://github.com/jgraph/drawio-desktop/releases)(画各种图)
+
 
 
 ## 开发
@@ -76,6 +81,8 @@
 19. mysql
 20. IntelliJ IDEA 2017.1.2
 21.
+
+
 
 ### mac 使用
 
