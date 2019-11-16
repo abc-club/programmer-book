@@ -59,6 +59,10 @@ watch watcher
 
 lifecycle是有关渲染的东西
 
+
+vm有$el
+vnode有elm
+
 ## 参考
 * [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
 * [从babel讲到AST](https://juejin.im/post/5ab35c3cf265da23771951a2)

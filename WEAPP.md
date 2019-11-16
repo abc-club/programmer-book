@@ -20,6 +20,9 @@
  * [ColorUI](https://github.com/weilanwl/ColorUI/)
 
 
+### 开源项目
+* [微信小程序商城](https://github.com/EastWorld/wechat-app-mall)
+
 ## Taro
 ### 参考资料
 - taro https://taro.aotu.io/
