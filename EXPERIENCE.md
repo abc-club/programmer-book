@@ -26,6 +26,8 @@
 * [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
 * [玉伯：我的前端成长之路](https://mp.weixin.qq.com/s/3ORJ6AArKKCqvseV163Upg)
 * [月薪80k阿里架构师漫谈他是如何从一名小码农走到今天这一步](https://www.toutiao.com/a6756774125286457864)
+* [从P4到P9，在马云家写代码到双11前端PM](https://www.toutiao.com/a6759408674239676931)
+
 
 ## 团队篇
 

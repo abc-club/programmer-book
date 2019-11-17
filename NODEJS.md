@@ -262,7 +262,7 @@ docker image prune -a
 * [终于有人把 Docker 讲清楚了，万字详解](https://www.toutiao.com/a6753476749108969998)
 * [全栈之路：从零搭建docker+jenkins+node.js自动化部署环境](https://www.toutiao.com/a6740132922214334979)
 * [为什么你不必害怕 Kubernetes](https://www.toutiao.com/a6755667559334281742)
-
+* [我花了10个小时，写出了这篇K8S架构解析](https://www.toutiao.com/a6759071724785893891)
 
 ## jenkins
 * [让自动化工作流解放你的双手](https://juejin.im/post/5d3fb5046fb9a06b0935f47d)
