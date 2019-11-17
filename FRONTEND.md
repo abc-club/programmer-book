@@ -198,6 +198,8 @@
 * [wexond](https://github.com/wexond/desktop)(A privacy-focused, extensible and beautiful web browser)
 * [房屋租赁平台](https://github.com/TrillCyborg/fullstack)(React/ApolloGraphQL/Node/Mongo demo written in Typescript)
 * [lz-h5-edit](https://github.com/lzuntalented/lz-h5-edit)(react版h5微场景编辑器 )
+* [基于中间件思想设计可扩展的UI组件库](https://juejin.im/post/5dc4f40f5188250acf57e965)
+
 
 ## typescript
 
