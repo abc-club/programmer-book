@@ -22,6 +22,10 @@
 ### 官网
 - 英文官网  https://nodejs.org/en/
 - 中文官网  http://nodejs.cn/
+* [nvm](https://github.com/nvm-sh/nvm)(nodejs管理工具)
+* [nvm-windows](https://github.com/coreybutler/nvm-windows)(nodejs管理工具)
+* [n](https://github.com/tj/n)(nodejs管理工具)
+
 
 ### 参考资料
 - 七天学会NodeJS文档  http://nqdeng.github.io/7-days-nodejs/
