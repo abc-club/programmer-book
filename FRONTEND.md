@@ -41,6 +41,7 @@
 * [pwa](#pwa)
 * [其他必备知识](#其他必备知识)
 * [git](#git)
+* [安全](#安全)
 
 ## vue
 
@@ -704,6 +705,12 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
     * [前端物料中台建设](https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0)
 
 ## git
+
+
+## 安全
+* [我知道的跨域与安全](https://juejin.im/post/5a6320d56fb9a01cb64ee191)
+* [前端安全知识](https://juejin.im/post/59dc2b7a6fb9a0451869ae3a)
+
 
 
 

@@ -5,6 +5,8 @@
 
 ### 参考文档
 
+* [vscode官方文档](https://code.visualstudio.com/docs)
+
 https://juejin.im/post/5d34fdfff265da1b897b0c8d#heading-16
 
 ### 快捷键
