@@ -52,6 +52,8 @@
 * [vuepress](https://github.com/vuejs/vuepress)
 * [vue-i18n](https://github.com/kazupon/vue-i18n)
 * [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
+* [vuepress](https://github.com/vuejs/vuepress)(静态网站生成器)
+
 
 ### 组件库或框架
 * [electron-vue](https://github.com/SimulatedGREG/electron-vue)
@@ -103,7 +105,7 @@
 * [Github 上 36 个最实用的 Vue 开源库](https://www.toutiao.com/a6740807773254107651)
 * [利用VuePress快速搭建项目文档管理系统](https://www.toutiao.com/a6740976049183523341)
 * [50个好用的前端框架，千万收好以留备用](https://www.toutiao.com/a6741905003897684493)
-
+* [1小时搞定vuepress快速制作vue文档/博客+免费部署预览](https://juejin.im/post/5dce1e0e5188254eda3936c5)
 
 ### 开源项目
 * [vue-sell](https://github.com/ustbhuangyi/vue-sell)
@@ -125,6 +127,8 @@
 * [KTV点歌系统,含后台管理系统(完整版)](https://github.com/1046224544/ktv-select_music-system)
 * [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)(Tool for visualizing GitHub profiles)
 * [Vue + Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
+
+
 ## react
 
 ### 官网
