@@ -42,6 +42,8 @@
 * [其他必备知识](#其他必备知识)
 * [git](#git)
 * [安全](#安全)
+* [框架](#框架)
+
 
 ## vue
 
@@ -342,6 +344,7 @@
 * [Promise源码详解](https://juejin.im/post/5b32f552f265da59991155f0)
 * [最后一次搞懂 Event Loop](https://juejin.im/post/5cbc0a9cf265da03b11f3505)
 * [深入浅出 Babel 上篇：架构和原理 + 实战](https://juejin.im/post/5d94bfbf5188256db95589be)
+* [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
 
 ## 移动端
 
@@ -714,6 +717,17 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 ## 安全
 * [我知道的跨域与安全](https://juejin.im/post/5a6320d56fb9a01cb64ee191)
 * [前端安全知识](https://juejin.im/post/59dc2b7a6fb9a0451869ae3a)
+
+
+## 框架
+
+### AST
+* [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
+* [从babel讲到AST](https://juejin.im/post/5ab35c3cf265da23771951a2)
+* [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b)
+* [从babel讲到AST](https://juejin.im/post/5ab35c3cf265da23771951a2)
+* [高级前端基础-JavaScript抽象语法树AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf)
+* [astexplorer](https://astexplorer.net/)
 
 
 
