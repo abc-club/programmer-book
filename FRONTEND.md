@@ -396,7 +396,8 @@
 * [webpack loader—自己写一个按需加载插件](https://juejin.im/post/5b8e3162f265da432f655639)
 * [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
 * [编写自定义webpack插件从理解Tapable开始](https://juejin.im/post/5dcba29f6fb9a04abb01fd77)
-
+* [Webpack源码解读：理清编译主流程](https://juejin.im/post/5dc01199f265da4d12067ebe)
+* [从Webpack源码探究打包流程，萌新也能看懂～](https://juejin.im/post/5c0206626fb9a049bc4c6540)
 
 ## 性能与监控
 
