@@ -386,18 +386,29 @@
 * [webpack官方文档](https://webpack.js.org)
 * [webpack 中文文档](https://github.com/docschina/webpack.js.org)(https://webpack.docschina.org/)
 
+### webpack
+* [Webpack源码解读：理清编译主流程](https://juejin.im/post/5dc01199f265da4d12067ebe)
+* [从Webpack源码探究打包流程，萌新也能看懂～](https://juejin.im/post/5c0206626fb9a049bc4c6540)
+* [webpack4.0源码分析之Tapable](https://juejin.im/post/5abf33f16fb9a028e46ec352)
+
+
+### loader
+* [编写一个 loader](https://webpack.docschina.org/contribute/writing-a-loader/)
+* [webpack loader—自己写一个按需加载插件](https://juejin.im/post/5b8e3162f265da432f655639)
+* [手把手教你撸一个 Webpack Loader](https://juejin.im/post/5a698a316fb9a01c9f5b9ca0)
+* [编写自己的Webpack Loader](https://juejin.im/post/59df06e6f265da430d5701d0)
+
+
+### 插件
+* [编写一个插件](https://webpack.docschina.org/contribute/writing-a-plugin/)
+* [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
+* [编写自定义webpack插件从理解Tapable开始](https://juejin.im/post/5dcba29f6fb9a04abb01fd77)
+
 
 ### 文章
 * [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
 * [【Cute-Webpack】Webpack4 入门手册（共 18 章）](https://segmentfault.com/a/1190000020063707)
 * [Webpack 实用技巧高效实战](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231994&idx=1&sn=17a344ef74809ddd7e8e5b13b00c5652&scene=1&srcid=0804usmqGwAu6Ih2HtQaeZj4#rd)
-* [手把手教你撸一个 Webpack Loader](https://juejin.im/post/5a698a316fb9a01c9f5b9ca0)
-* [编写自己的Webpack Loader](https://juejin.im/post/59df06e6f265da430d5701d0)
-* [webpack loader—自己写一个按需加载插件](https://juejin.im/post/5b8e3162f265da432f655639)
-* [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
-* [编写自定义webpack插件从理解Tapable开始](https://juejin.im/post/5dcba29f6fb9a04abb01fd77)
-* [Webpack源码解读：理清编译主流程](https://juejin.im/post/5dc01199f265da4d12067ebe)
-* [从Webpack源码探究打包流程，萌新也能看懂～](https://juejin.im/post/5c0206626fb9a049bc4c6540)
 
 ## 性能与监控
 
