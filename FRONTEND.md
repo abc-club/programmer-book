@@ -43,7 +43,7 @@
 * [git](#git)
 * [安全](#安全)
 * [框架](#框架)
-
+* [jquery](#jquery)
 
 ## vue
 
@@ -511,6 +511,16 @@
 ### Serverless
 * [Serverless——前端的3.0时代](https://zhuanlan.zhihu.com/p/84054729)
 
+### web components
+* [w3c webcomponents](https://github.com/w3c/webcomponents)
+* [Web Components 是个什么样的东西](https://juejin.im/post/57c40fd3128fe1005fd4629a)
+* [Web Components 入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html)
+* [lit-element](https://github.com/polymer/lit-element)(下一代polymer)
+* [polymer](https://github.com/Polymer/polymer)
+* [深度介绍：💾 你听说过原生 HTML 组件吗？](https://juejin.im/post/5bc7ead7f265da0afc2c2c6b)
+* [[译] 2018 来谈谈 Web Component](https://juejin.im/post/5b780a98e51d4538980bf5cf)
+* [JavaScript 是如何工作：Shadow DOM 的内部结构 + 如何编写独立的组件！](https://juejin.im/post/5c4fac7ef265da6147709696)
+
 
 
 ## 动效
@@ -746,6 +756,13 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [高级前端基础-JavaScript抽象语法树AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf)
 * [astexplorer](https://astexplorer.net/)
 
+
+## jquery
+
+
+### ui框架
+* []
+* [semantic-ui](https://github.com/semantic-org/semantic-ui/)
 
 
 

@@ -6,7 +6,7 @@
 
 * [Promise源码分析](https://juejin.im/post/5c1cb4b0e51d455fb3109f48)
 * [一年内的前端看不懂前端框架源码怎么办？](https://www.zhihu.com/question/350289336/answer/873350617)
-
+* [来聊聊源码学习](https://juejin.im/post/5b18d2d7f265da6e410e0e20)
 
 ## vue
 * [逐行级别的vue源码分析](https://github.com/HcySunYang/vue-design)
