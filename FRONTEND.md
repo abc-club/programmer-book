@@ -110,6 +110,7 @@
 * [1小时搞定vuepress快速制作vue文档/博客+免费部署预览](https://juejin.im/post/5dce1e0e5188254eda3936c5)
 
 ### 开源项目
+* [marktext](https://github.com/marktext/marktext)(markdown editor)
 * [vue-sell](https://github.com/ustbhuangyi/vue-sell)
 * [vue2-elm *29k+](https://github.com/bailicangdu/vue2-elm)
 * [iview-admin](https://github.com/iview/iview-admin)
@@ -756,6 +757,13 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [高级前端基础-JavaScript抽象语法树AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf)
 * [astexplorer](https://astexplorer.net/)
 
+### 数据响应式
+* [observable-membrane](https://github.com/salesforce/observable-membrane)(vue3 proxy机制)
+
+
+### 框架
+* [cyclejs](https://github.com/cyclejs/cyclejs/)
+* [functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture)
 
 ## jquery
 

@@ -9,10 +9,13 @@
 * [来聊聊源码学习](https://juejin.im/post/5b18d2d7f265da6e410e0e20)
 
 ## vue
-* [逐行级别的vue源码分析](https://github.com/HcySunYang/vue-design)
+* [逐行级别的vue源码分析](https://github.com/HcySunYang/vue-design)(HcySunYang)
+* [👍 Vue.js 源码分析](https://github.com/ustbhuangyi/vue-analysis)(ustbhuangyi)
 * [入口文件开始，分析Vue源码实现](https://juejin.im/post/5adead636fb9a07aaf34d794)
 * [vue-cli 源码分析](https://github.com/KuangPF/vue-cli-analysis)
 * [做面试的不倒翁：浅谈 Vue 中 computed 实现原理](https://juejin.im/post/5b98c4da6fb9a05d353c5fd7)
+* [Vue.js 源码解析](https://github.com/answershuto/learnVue)(染陌)
+
 
 ## snabbdom
 * [解析 snabbdom 源码，教你实现精简的 Virtual DOM 库 ](https://github.com/creeperyang/blog/issues/33)
