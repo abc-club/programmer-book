@@ -762,6 +762,9 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [高级前端基础-JavaScript抽象语法树AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf)
 * [astexplorer](https://astexplorer.net/)
 
+#### html
+* [htmlparser2](https://github.com/fb55/htmlparser2)
+
 ### 数据响应式
 * [observable-membrane](https://github.com/salesforce/observable-membrane)(vue3 proxy机制)
 
