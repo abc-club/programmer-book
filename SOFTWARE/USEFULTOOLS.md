@@ -53,6 +53,8 @@
 * [Preloaders](https://icons8.com/preloaders/) | [LOADING.IO](https://loading.io/) (加载图，**有些是收费的**)
 * [desktoppr](https://www.desktoppr.co/wallpapers) (好看的壁纸)
 * [Material icons](https://material.io/tools/icons/?style=baseline) (Material icons图标)
+* [logoly](https://github.com/bestony/logoly)(A Pornhub Flavour Logo Generator )
+
 
 ### 开源项目
 * [waifu2x](https://github.com/nagadomi/waifu2x)(Image Super-Resolution for Anime-Style Art)(lua)

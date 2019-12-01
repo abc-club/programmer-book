@@ -31,4 +31,4 @@
 * [17年前四川农村洗碗，现在定居新加坡，我看到的世界是分层的](https://www.toutiao.com/a6738314965456781836)
 * [字节跳动的崛起史](https://www.toutiao.com/a6720765999898968589)
 * [西西弗书店](https://www.toutiao.com/a6758748236548145671)
-
+* [400 亿买下成格力第一大股东，硬塞给刘强东 3 亿美元，他说最好的投资机会在于“傻 x 窗口”](https://mp.weixin.qq.com/s/IlPP44uB33hXhobGnPIFSg)

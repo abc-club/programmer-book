@@ -57,6 +57,7 @@
 * [爬虫被封怎么办？用Node构建一个私人IP代理池](https://juejin.im/post/5cc45db8f265da037129a5f2)
 * [awesome-spider](https://github.com/facert/awesome-spider)
 * [crawlab](https://github.com/crawlab-team/crawlab)(基于Golang的分布式爬虫管理平台)
+* [某团外卖H5版本爬虫开发和JS逆向过程](https://zhuanlan.zhihu.com/p/81773389)
 
 ### 开源项目
 * [spider-flow](https://gitee.com/jmxd/spider-flow)(新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫)
