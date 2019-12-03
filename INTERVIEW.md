@@ -102,7 +102,7 @@
 * [面试官问: 如何理解Virtual DOM？](https://juejin.im/post/5d5d32e251882545e41e655d)
 * [Web 安全总结(面试必备良药)](https://juejin.im/post/5dca1b376fb9a04a9f11c82e)
 * [async/await 原理及执行顺序分析](https://juejin.im/post/5dc28ea66fb9a04a881d1ac0)
-
+* [动画: 一个浏览器是如何工作的？](https://juejin.im/post/5de0e4dfe51d45359c14e1af)
 
 ## 面试技巧
 * [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
