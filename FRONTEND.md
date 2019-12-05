@@ -410,6 +410,8 @@
 * [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
 * [【Cute-Webpack】Webpack4 入门手册（共 18 章）](https://segmentfault.com/a/1190000020063707)
 * [Webpack 实用技巧高效实战](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231994&idx=1&sn=17a344ef74809ddd7e8e5b13b00c5652&scene=1&srcid=0804usmqGwAu6Ih2HtQaeZj4#rd)
+* [一步步从零开始用 webpack 搭建一个大型项目](https://juejin.im/post/5de06aa851882572d672c1ad)
+
 
 ## 性能与监控
 

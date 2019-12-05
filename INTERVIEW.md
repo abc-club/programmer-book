@@ -104,6 +104,10 @@
 * [async/await 原理及执行顺序分析](https://juejin.im/post/5dc28ea66fb9a04a881d1ac0)
 * [动画: 一个浏览器是如何工作的？](https://juejin.im/post/5de0e4dfe51d45359c14e1af)
 
+### 算法篇
+* [图形算法（邻接矩阵）](https://juejin.im/post/5de7c053518825125d1497e2)
+
+
 ## 面试技巧
 * [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
 * [「技术面试」问答中有什么十分实用的面试技巧?](https://juejin.im/post/5d30c0cd6fb9a07efd474427)
@@ -147,6 +151,11 @@
 * [2019年，看了这一份， 再也不怕前端面试了](https://zhuanlan.zhihu.com/p/87043003)
 * [阿里六面，挂在hrg，我真的不甘心](https://www.toutiao.com/a6753809422167835139)
 * [横扫9家大厂前端校招offer，全文14560字，阅读需80分钟](https://mp.weixin.qq.com/s/tM2lvhJEhXXl0nO92hf7yQ\)
+
+### 头条
+* [两年前端头条面试记](https://juejin.im/post/5de5a2d0e51d451aec2b8883)
+
+
 
 ## github面试题仓库
 - https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md([译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试)
