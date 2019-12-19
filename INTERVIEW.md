@@ -47,7 +47,6 @@
 * [面试30秒(含答案)](https://juejin.im/post/5c9243f96fb9a070ce31ab46)
 * [五年面试，三年模拟](https://juejin.im/post/5ca0425e51882567ce181037)
 * [面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)
-* [面试分享：2018阿里巴巴前端面试总结](https://juejin.im/post/5ab0da85f265da23866fb9b7)
 * [20道JS原理题助你面试一臂之力](https://juejin.im/post/5d2ee123e51d4577614761f8)
 * [几道高级前端面试题解析](https://juejin.im/post/5aa8a07cf265da238a3022a4)
 * [地表最强面试图谱](https://juejin.im/post/5b4a9136f265da0f990d49cb)
@@ -122,34 +121,48 @@
 * [程序员面试时这样介绍自己的项目经验，成功率能达到98.99%](https://www.toutiao.com/a6750279305806217739)
 
 ## 面试经验
+
+### 阿里
+* [面试分享：2018阿里巴巴前端面试总结](https://juejin.im/post/5ab0da85f265da23866fb9b7)
 * [阿里健康面试总结](https://juejin.im/post/5d8896e5e51d45621512ae4a)
-* [关于裸辞，关于前端面试](https://juejin.im/post/5cf3365ff265da1b9612ec78)
-* [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947)
-* [我的 web 前端面试经历 - 百度](https://juejin.im/post/5d1d52aff265da1bb2774de0)
 * [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://juejin.im/post/5d4cd42a6fb9a06aea618155)
 * [面试分享：专科半年经验面试阿里前端P6+总结(附面试真题及答案)](https://juejin.im/post/5a92c23b5188257a6b06110b)
-* [1月前端面试记](https://juejin.im/post/587dab348d6d810058d87a0a)
+* [面试分享：2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)
+* [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
+* [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
+* [想进阿里吗？送你一份 4000 字《阿里内推指南》](https://juejin.im/post/5da67a41f265da5b681ff295)
+* [我想加入阿里，我该怎么做](https://mp.weixin.qq.com/s/5usQY8a_6eI7PTXLXJ2Nlw)
+* [阿里六面，挂在hrg，我真的不甘心](https://www.toutiao.com/a6753809422167835139)
+* [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
+
+### 腾讯
 * [腾讯前端面试篇（一）](https://juejin.im/post/5c19c1b6e51d451d1e06c163)
 * [腾讯前端面试篇（二）](https://juejin.im/post/5c1869ab6fb9a049f154207a)
 * [腾讯面试篇（三）——终章](https://juejin.im/post/5c1eec7bf265da61477034ae)
+
+### 百度
+* [我的 web 前端面试经历 - 百度](https://juejin.im/post/5d1d52aff265da1bb2774de0)
+
+
+### 小米
 * [记一次凉凉的小米面试](https://juejin.im/post/5b4d543ce51d4519610dea67)
-* [前端面试经](https://juejin.im/post/59aa6be06fb9a0248e5cddf0)
+
+### bilibili
 * [【面试总结】记一次失败的 bilibili 面试总结(1)](https://juejin.im/post/5c878397f265da2dde07293b)
 * [【面试总结】记一次失败的 bilibili 面试总结(2)](https://juejin.im/post/5c88d34fe51d4559d83381af)
 * [【面试总结】记一次失败的 bilibili 面试总结(3)](https://juejin.im/post/5ca2ba0ee51d4524fd28778a)
-* [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
+
+### 其他
+* [关于裸辞，关于前端面试](https://juejin.im/post/5cf3365ff265da1b9612ec78)
+* [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947)
+* [1月前端面试记](https://juejin.im/post/587dab348d6d810058d87a0a)
+* [前端面试经](https://juejin.im/post/59aa6be06fb9a0248e5cddf0)
 * [2018年6月前端面试经历(上)](https://juejin.im/post/5b39bb696fb9a00e57630e27)
 * [2019 面试实战 - 第一回合](https://juejin.im/post/5c7bc11d6fb9a04a0956c325)
 * [2018春招前端面试: 闯关记(精排精校) | 掘金技术征文](https://juejin.im/post/5a998991f265da237f1dbdf9)
-* [面试分享：2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)
 * [2018春节后前端面试小记](https://juejin.im/post/5a99108f51882555666f1bca)
-* [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
-* [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
 * [Web前端岗位面试题有哪些？](https://www.zhihu.com/question/41466747/answer/747323907)
-* [想进阿里吗？送你一份 4000 字《阿里内推指南》](https://juejin.im/post/5da67a41f265da5b681ff295)
-* [我想加入阿里，我该怎么做](https://mp.weixin.qq.com/s/5usQY8a_6eI7PTXLXJ2Nlw)
 * [2019年，看了这一份， 再也不怕前端面试了](https://zhuanlan.zhihu.com/p/87043003)
-* [阿里六面，挂在hrg，我真的不甘心](https://www.toutiao.com/a6753809422167835139)
 * [横扫9家大厂前端校招offer，全文14560字，阅读需80分钟](https://mp.weixin.qq.com/s/tM2lvhJEhXXl0nO92hf7yQ\)
 
 ### 头条
@@ -179,6 +192,9 @@
 ## 招聘官网
 * [阿里社招](https://job.alibaba.com/zhaopin/positionList.htm)
 * [阿里校招](https://campus.alibaba.com/positionList.htm)
+* [腾讯社招](https://careers.tencent.com/search.html?query=at_1,ci_5&keyword=%e5%89%8d%e7%ab%af)
+* [今日头条社招](https://job.bytedance.com/society?summary=873&city=45&q1=%E5%89%8D%E7%AB%AF&position_type=)
+
 
 
 ## 如果你是面试官
