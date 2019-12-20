@@ -7,6 +7,7 @@
 
 ## 目录
 
+* [简历](简历)
 * [面试秘籍](#面试秘籍)
 * [面试题集](#面试题集)
 * [面试题](#面试题)
@@ -17,6 +18,33 @@
 * [招聘官网](#招聘官网)
 * [如果你是面试官](#如果你是面试官)
 * [题目](#题目)
+
+
+## 简历
+* [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
+* [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
+* [OpenDoc - 前端简历评级标准](https://juejin.im/post/58b6679461ff4b006ccd825e)
+* [别的程序员是怎么读你的简历的](http://coolshell.cn/articles/1695.html)
+
+### 简历技巧
+* [[译] 如何写一篇杀手级的软件工程师简历](https://juejin.im/post/5c6ca8b9f265da2dc13c7a10)
+* [面试你之前，我希望在简历上看到这些！](https://juejin.im/post/58355801880741006c013286)
+* [工欲善其事必先利其器-前端实习简历篇](https://juejin.im/post/58c75dbf128fe1006b473f96)
+* [手把手教你写一份优质的前端技术简历](https://juejin.im/post/5b195106518825139c614cc2)
+* [如何写一份更好的简历](https://juejin.im/post/5b2fb0e1f265da59584d98b9)
+* [2016/04/11 基本素养：改良程序员的问题简历，从反模式到最佳实践](https://github.com/sivagao/blog/issues/16)
+
+
+### 简历模板
+* [best-resume-ever](https://github.com/salomonelli/best-resume-ever)(👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.)
+* [Resumes generated using the GitHub informations](https://github.com/resume/resume.github.com)(Resumes generated using the GitHub informations )
+* [送给大家一个好看的简历神器](https://juejin.im/post/59926d2251882548997aa2f8)
+* [5款精致简洁求职简历](https://xituqu.com/768.html)
+* [6款简洁多风格的求职简历](https://xituqu.com/769.html)
+* [10+ 优秀简洁的个人简历下载（五](https://xituqu.com/586.html)
+* [实战项目之自动简历](https://juejin.im/post/5b9d27ddf265da0ad7019775)
+* [又双叒叕是一个动态简历](https://juejin.im/post/5c1fd3f1f265da61171cb8bf)
+* [My resume implement by Vue.js](https://github.com/ustbhuangyi/resume)
 
 
 ## 面试秘籍
@@ -102,13 +130,26 @@
 * [Web 安全总结(面试必备良药)](https://juejin.im/post/5dca1b376fb9a04a9f11c82e)
 * [async/await 原理及执行顺序分析](https://juejin.im/post/5dc28ea66fb9a04a881d1ac0)
 * [动画: 一个浏览器是如何工作的？](https://juejin.im/post/5de0e4dfe51d45359c14e1af)
+* [js实现排序算法（冒泡、选择、插入、二分插入、快速、希尔）](http://blog.csdn.net/charlene0824/article/details/51387165)
+* [MVC、MVP、MVVM 模式](http://www.linuxidc.com/Linux/2015-10/124622.htm)
+* [html和css中常见的浏览器兼容性处理](http://www.zymseo.com/16.html)
+* [一道常被人轻视的前端JS面试题](http://www.cnblogs.com/xxcanghai/p/5189353.html)
+* [浅析浏览器输入URL到页面输出执行流程](https://zhuanlan.zhihu.com/p/25680692?utm_medium=social&utm_source=wechat_session)
+* [HTTP缓存](https://maimai.cn/article/detail?fid=73492456&from=headline&share_user=http%3A%2F%2Fi9.taou.com%2Fmaimai%2Fp%2F210%2F8643_126_21VgEL200VIMPq-a160)
+
 
 ### 算法篇
 * [图形算法（邻接矩阵）](https://juejin.im/post/5de7c053518825125d1497e2)
 
 
+### CSS
+* [关于CSS优先级的详细解说](http://homepage.yesky.com/257/8915757all.shtml#p8915757)
+* [CSS基线之道](http://blog.jobbole.com/31926/)
+* [CSS深入理解vertical-align和line-height的基友关系](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
+
+
+
 ## 面试技巧
-* [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
 * [「技术面试」问答中有什么十分实用的面试技巧?](https://juejin.im/post/5d30c0cd6fb9a07efd474427)
 * [5分钟谈前端面试](https://juejin.im/post/5d04fc1c51882559ef78e88f)
 * [面试前如何准备才能提高成功率（含前端面试押题）](https://juejin.im/post/5c6d4789f265da2d8e70e164)
@@ -116,9 +157,10 @@
 * [精读《最佳前端面试题》及面试官技巧](https://zhuanlan.zhihu.com/p/28333260)
 * [写给初级前端的面试经验](https://juejin.im/post/5c8bb79e6fb9a04a006fe79a)
 * [前端面试指南](https://zhuanlan.zhihu.com/p/25859524)
-* [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
 * [关于面试流程](https://juejin.im/post/59ec3d50f265da431c6f7339)
 * [程序员面试时这样介绍自己的项目经验，成功率能达到98.99%](https://www.toutiao.com/a6750279305806217739)
+
+
 
 ## 面试经验
 
@@ -201,12 +243,20 @@
 * [谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)
 * [面试数十人有感](https://juejin.im/post/5bd2d92c6fb9a05d0f17218c)
 
+
+
 ## 待遇
 * [【阿里员工一年挣多少钱？聊一聊阿里薪酬职级体系】](https://m.toutiaocdn.com/a6724307251558875652)
 * [阿里的绩效考核：赏明星，杀白兔，野狗要示众](https://m.toutiaocdn.com/a6726291727654584839)
 * [在字节跳动做程序员是一种什么样的体验？](https://www.toutiao.com/a6751338039886217736)
 * [入职字节跳动48小时后，我发现了抖音的秘密](https://www.toutiao.com/a6751311464365031948)
 * [一文揭秘BAT互联网大厂薪资](https://www.toutiao.com/a6750467774801248782)
+
+
+
+## 其他
+* [我的职业是前端工程师](https://github.com/phodal/fe)
+* [博主文章](https://www.jianshu.com/u/10ae59f49b13)
 
 ## 题目
 
