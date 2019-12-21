@@ -289,3 +289,11 @@ https://www.cnblogs.com/star91/p/5659134.html
 1. BFC
 * [史上最全面、最透彻的BFC原理剖析](https://github.com/zuopf769/notebook/blob/master/fe/BFC%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90/README.md)
 * [学习 BFC (Block Formatting Context)](https://juejin.im/post/59b73d5bf265da064618731d)
+
+2. CSS清浮动处理
+* [CSS清浮动处理（Clear与BFC）](https://www.cnblogs.com/dolphinX/p/3508869.html)
+
+3. 移动端1px
+* [移动端1px解决方案](https://juejin.im/post/5d19b729f265da1bb2774865)
+* [移动端 1px 像素问题及解决办法](https://www.jianshu.com/p/31f8907637a6)
+* [CSS3 border-image 彻底明白](https://segmentfault.com/a/1190000010969367)
