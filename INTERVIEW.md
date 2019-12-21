@@ -297,3 +297,10 @@ https://www.cnblogs.com/star91/p/5659134.html
 * [移动端1px解决方案](https://juejin.im/post/5d19b729f265da1bb2774865)
 * [移动端 1px 像素问题及解决办法](https://www.jianshu.com/p/31f8907637a6)
 * [CSS3 border-image 彻底明白](https://segmentfault.com/a/1190000010969367)
+
+4. 圣杯布局和双飞翼布局
+* [圣杯布局和双飞翼布局的理解与思考](https://www.jianshu.com/p/81ef7e7094e8)
+
+5. CSS画扇形
+* [css画扇形的几种实现方式](https://blog.csdn.net/young_Emily/article/details/80091667)
+* [你真的理解CSS的linear-gradient？](https://www.w3cplus.com/css3/do-you-really-understand-css-linear-gradients.html)
