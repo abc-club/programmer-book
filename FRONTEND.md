@@ -300,8 +300,6 @@
 * [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
 * [2019年JS正则大全(常用)](https://juejin.im/post/5d245d4151882555300feb77)
 
-### this
-* [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
 
 ### 函数式编程
 * [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS)(English)

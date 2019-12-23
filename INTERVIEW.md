@@ -345,6 +345,7 @@ console.log(toString.call(null));                   //[object Null]
 ```
 
 3. 变量提升&作用域
+* [图解作用域及闭包](https://juejin.im/post/5af109426fb9a07aa047f1c7)
 * [深入理解 JavaScript, 从作用域与作用域链开始](https://juejin.im/post/5d13a5fce51d455a694f9560)
 * [深入理解JavaScript作用域和作用域链](https://juejin.im/post/5c8290455188257e5d0ec64f)
 
@@ -353,9 +354,11 @@ console.log(toString.call(null));                   //[object Null]
 * [图解JS闭包形成的原因](https://segmentfault.com/a/1190000011504517)
 
 5. this
+* [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
 * [Js中this的用法](http://xieyufei.com/2016/09/18/Explain-Js-This.html)
 * [通过运行机制看this绑定 、作用域、作用域链和闭包](https://juejin.im/post/5dde27615188256ebd1618fb)
 * [JavaScript this 的六道坎](https://blog.crimx.com/2016/05/12/understanding-this/)
+
 ```
 1. 普通函数的调用：this指向window(浏览器环境)。
 2. 对象方法的调用：this指向调用对象。（隐式绑定）
@@ -395,3 +398,35 @@ function Foo(a){
 New(Foo, 1);  // Foo { a: 1 }
 
 ```
+
+```
+function _new() {
+    let target = {}; //创建的新对象
+    //第一个参数是构造函数
+    let [constructor, ...args] = [...arguments];
+    //执行[[原型]]连接;target 是 constructor 的实例
+    target.__proto__ = constructor.prototype;
+    //执行构造函数，将属性或方法添加到创建的空对象上
+    let result = constructor.apply(target, args);
+    if (result && (typeof (result) == "object" || typeof (result) == "function")) {
+        //如果构造函数执行的结构返回的是一个对象，那么返回这个对象
+        return result;
+    }
+    //如果构造函数返回的不是一个对象，返回创建的新对象
+    return target;
+}
+
+```
+
+6. 理解constructor、prototype、__proto__和原型链
+* [用自己的方式（图）理解constructor、prototype、__proto__和原型链](https://juejin.im/post/5cc99fdfe51d453b440236c3)
+
+```
+任何一个对象都有constructor
+对象和函数的constructor都是Function
+
+```
+
+7. let const var
+* [一道面试题引发的“血案”](https://juejin.im/post/5bab1d4ae51d450e4d2feb7a)
+
