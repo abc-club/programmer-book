@@ -113,7 +113,6 @@
 * [面试 -- 网络 TCP/IP](https://juejin.im/post/586cfcf8da2f600055ce8a8d)
 * [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
 * [面试：页面加载海量数据](https://juejin.im/post/5ae17a386fb9a07abc299cdd)
-* [征服 JavaScript 面试：什么是闭包？](https://www.zcfy.cc/article/master-the-javascript-interview-what-is-a-closure-2127.html)
 * [面试官问：JS的this指向](https://juejin.im/post/5c0c87b35188252e8966c78a)
 * [8道经典JavaScript面试题解析，你真的掌握JavaScript了吗？](https://segmentfault.com/a/1190000020026378)
 * [前端20个真正灵魂拷问，吃透这些你就是中级前端工程师 【上篇】](https://segmentfault.com/a/1190000020062444)
@@ -260,23 +259,6 @@
 
 ## 题目
 
-### js
-1. getcomputedstyle和style的区别
-```
-1.只读与可写
-  getComputedStyle方法是只读的，只能获取样式，不能设置；而element.style能读能写，能屈能伸。
-2.获取的对象范围
-  getComputedStyle方法获取的是最终应用在元素上的所有CSS属性对象（即使没有CSS代码，也会把默认的祖宗八代都显示出来）；
-  而element.style只能获取元素style属性中的CSS样式。
-  因此对于一个光秃秃的元素<p>，getComputedStyle方法返回对象中length属性值（如果有）就是190+(据我测试FF:192, IE9:195, Chrome:253, 不同环境结果可能有差异), 
-  而element.style就是0。
-3.作用
-  getComputedStyle方法有一个很重要的，类似css()方法没有的功能——获取伪类元素样式
-4.兼容性
-  getComputedStyle方法IE6~8是不支持的
-
-```
-
 ### html
 1. HTML5和CSS3有哪些
 
@@ -304,3 +286,112 @@ https://www.cnblogs.com/star91/p/5659134.html
 5. CSS画扇形
 * [css画扇形的几种实现方式](https://blog.csdn.net/young_Emily/article/details/80091667)
 * [你真的理解CSS的linear-gradient？](https://www.w3cplus.com/css3/do-you-really-understand-css-linear-gradients.html)
+
+
+### js
+
+1. getcomputedstyle和style的区别
+```
+1.只读与可写
+  getComputedStyle方法是只读的，只能获取样式，不能设置；而element.style能读能写，能屈能伸。
+2.获取的对象范围
+  getComputedStyle方法获取的是最终应用在元素上的所有CSS属性对象（即使没有CSS代码，也会把默认的祖宗八代都显示出来）；
+  而element.style只能获取元素style属性中的CSS样式。
+  因此对于一个光秃秃的元素<p>，getComputedStyle方法返回对象中length属性值（如果有）就是190+(据我测试FF:192, IE9:195, Chrome:253, 不同环境结果可能有差异), 
+  而element.style就是0。
+3.作用
+  getComputedStyle方法有一个很重要的，类似css()方法没有的功能——获取伪类元素样式
+4.兼容性
+  getComputedStyle方法IE6~8是不支持的
+
+```
+
+2. 判断数据类型的方法
+* typeof
+```
+console.log(typeof 2);               // number
+console.log(typeof true);            // boolean
+console.log(typeof 'str');           // string
+console.log(typeof undefined);       // undefined
+console.log(typeof []);              // object 
+console.log(typeof {});              // object
+console.log(typeof function(){});    // function
+console.log(typeof null);            // object
+
+```
+
+* instanceof
+```
+console.log(2 instanceof Number);                    // false
+console.log(true instanceof Boolean);                // false 
+console.log('str' instanceof String);                // false  
+console.log([] instanceof Array);                    // true
+console.log(function(){} instanceof Function);       // true
+console.log({} instanceof Object);                   // true
+```
+
+* Object.prototype.toString.call()
+```
+var toString = Object.prototype.toString;
+ 
+console.log(toString.call(2));                      //[object Number]
+console.log(toString.call(true));                   //[object Boolean]
+console.log(toString.call('str'));                  //[object String]
+console.log(toString.call([]));                     //[object Array]
+console.log(toString.call(function(){}));           //[object Function]
+console.log(toString.call({}));                     //[object Object]
+console.log(toString.call(undefined));              //[object Undefined]
+console.log(toString.call(null));                   //[object Null]
+```
+
+3. 变量提升&作用域
+* [深入理解 JavaScript, 从作用域与作用域链开始](https://juejin.im/post/5d13a5fce51d455a694f9560)
+* [深入理解JavaScript作用域和作用域链](https://juejin.im/post/5c8290455188257e5d0ec64f)
+
+
+4. 闭包
+* [图解JS闭包形成的原因](https://segmentfault.com/a/1190000011504517)
+
+5. this
+* [Js中this的用法](http://xieyufei.com/2016/09/18/Explain-Js-This.html)
+* [通过运行机制看this绑定 、作用域、作用域链和闭包](https://juejin.im/post/5dde27615188256ebd1618fb)
+* [JavaScript this 的六道坎](https://blog.crimx.com/2016/05/12/understanding-this/)
+```
+1. 普通函数的调用：this指向window(浏览器环境)。
+2. 对象方法的调用：this指向调用对象。（隐式绑定）
+3. 构造函数：this指向构造函数实例。
+4. apply、call、bind：this指向绑定值。（显示绑定）
+5. 箭头函数this：this指向外层第一个普通函数调用的this。（默认绑定）(对于箭头函数，只要看它在哪里创建)
+
+
+优先级
+1. 函数是否存在new绑定调用：如果是的话this绑定到新创建的对象上。
+2. 函数是否通过apply、call、bind显示绑定：如果是，this绑定到指定对象上。
+3. 函数是否在对象方法隐式调用：如果是的话，this绑定到调用对象。
+4. 如果上面三条都不满足的话：在严格模型下，this绑定到undefined，在非严格模式下，this绑定到全局对象上。
+
+```
+5.0 new执行的操作
+
+```
+1. 创建一个全新的对象。
+2. 这个新对象会被执行 [[Prototype]] 连接。
+3. 这个新对象会绑定到函数调用的 this。
+4. 如果函数没有返回其他对象，那么 new 表达式中的函数调用会自动返回这个新对象。
+```
+
+手动实现new
+```
+function New(Constructor, ...args){
+    let obj = {};   // 创建一个新对象
+    Object.setPrototypeOf(obj, Constructor.prototype);  // 连接新对象与函数的原型
+    return Constructor.apply(obj, args) || obj;   // 执行函数，改变 this 指向新的对象
+}
+
+function Foo(a){
+    this.a = a;
+}
+
+New(Foo, 1);  // Foo { a: 1 }
+
+```
