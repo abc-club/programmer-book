@@ -422,7 +422,6 @@
 * [前端静态资源缓存最优解以及max-age的陷阱](https://blog.csdn.net/weixin_42817899/article/details/84553595)
 * [node实战前端缓存总结](https://juejin.im/post/5ca083eaf265da30bd3e459b)
 * [浏览器缓存](https://segmentfault.com/a/1190000008377508)
-* [彻底理解浏览器的缓存机制](https://juejin.im/entry/5ad86c16f265da505a77dca4)
 * [前端异常监控解决方案研究 – 腾讯CDC](https://juejin.im/entry/5d624d09e51d453bdc41c0ec)
 * [从 0 到 1 的前端异常监控项目实战](https://mp.weixin.qq.com/s/Q1KGbkcF-AMWsWN7Ae7E1A)
 * [炫技，从12.67s到1.06s的网站性能优化实战](https://mp.weixin.qq.com/s/sU4Y2pBU659O1vNyZSSX5Q)
