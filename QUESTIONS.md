@@ -211,10 +211,10 @@ function _new() {
 * [前端静态资源缓存最优解以及max-age的陷阱](https://blog.csdn.net/weixin_42817899/article/details/84553595)
 * [面试精选之http缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037)
 
-### 跨域
-
-
-### 安全
+### 跨域与安全
+* [ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)
+* [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
+* [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 
 ### http
 * [七层网络结构](https://blog.csdn.net/u010359398/article/details/82142449)
