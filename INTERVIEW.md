@@ -104,7 +104,6 @@
 * [面试时，你被问到过 TCP/IP 协议吗?](https://juejin.im/post/58e36d35b123db15eb748856)
 * [面试精选之Promise](https://juejin.im/post/5b31a4b7f265da595725f322)
 * [Excuse me？这个前端面试在搞事！](https://zhuanlan.zhihu.com/p/25407758)
-* [面试精选之http缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037)
 * [面试官：自己搭建过vue开发环境吗？](https://juejin.im/post/5cc55c336fb9a032086dd701)
 * [面试官眼中的Promise](https://juejin.im/post/5c233a8ee51d450d5a01b712)
 * [2019 面试准备 - JS 防抖与节流](https://juejin.im/post/5c87b54ce51d455f7943dddb)
@@ -134,7 +133,6 @@
 * [html和css中常见的浏览器兼容性处理](http://www.zymseo.com/16.html)
 * [一道常被人轻视的前端JS面试题](http://www.cnblogs.com/xxcanghai/p/5189353.html)
 * [浅析浏览器输入URL到页面输出执行流程](https://zhuanlan.zhihu.com/p/25680692?utm_medium=social&utm_source=wechat_session)
-* [HTTP缓存](https://maimai.cn/article/detail?fid=73492456&from=headline&share_user=http%3A%2F%2Fi9.taou.com%2Fmaimai%2Fp%2F210%2F8643_126_21VgEL200VIMPq-a160)
 
 
 ### 算法篇
@@ -236,6 +234,8 @@
 * [腾讯社招](https://careers.tencent.com/search.html?query=at_1,ci_5&keyword=%e5%89%8d%e7%ab%af)
 * [今日头条社招](https://job.bytedance.com/society?summary=873&city=45&q1=%E5%89%8D%E7%AB%AF&position_type=)
 
+
+* [知乎](https://app.mokahr.com/apply/zhihu/3819#/?_k=t046ya)(北京 上海 成都 广州)
 
 
 ## 如果你是面试官
