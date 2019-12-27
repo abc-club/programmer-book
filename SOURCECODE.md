@@ -32,4 +32,5 @@
 * [VSCode 是怎么运行起来的？](https://www.barretlee.com/blog/2019/08/03/vscode-source-code-reading-notes/)
 
 
-
+## weex
+* [Weex 中别具匠心的 JS Framework](https://halfrost.com/weex_js_framework/)

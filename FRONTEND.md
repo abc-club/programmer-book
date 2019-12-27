@@ -18,7 +18,6 @@
 
 * [vue](#vue)
 * [react](#react)
-* [Weex](#Weex)
 * [typescript](#typescript)
 * [常用库](#常用库)
 * [js](#js)
@@ -44,6 +43,8 @@
 * [安全](#安全)
 * [框架](#框架)
 * [jquery](#jquery)
+* [学习网站](#学习网站)
+
 
 ## vue
 
@@ -303,6 +304,7 @@
 
 ### 函数式编程
 * [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS)(English)
+* [JavaScript 轻量级函数式编程](https://segmentfault.com/a/1190000010887890)(中文翻译)
 * [「前端进阶」彻底弄懂函数组合](https://juejin.im/post/5d50bfebf265da03cb122b6f)
 * [函数式编程，真香](https://juejin.im/post/5c19c3ffe51d45059b632eef)
 * [深入学习javascript函数式编程](https://juejin.im/post/5c1a231de51d452ce364d945)
@@ -317,7 +319,6 @@
 * [【THE LAST TIME】彻底吃透 JavaScript 执行机制](https://juejin.im/post/5d901418518825539312f587)
 * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
 * [优秀 JavaScript 开发人员应掌握的 9 个技巧]( https://juejin.im/post/5c4506c9e51d45524c7cf206)
-* [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
 * [JS中轻松遍历对象属性的几种方式](https://juejin.im/post/5d48c275f265da03b12032a1)
 * [你不懂JS（系列丛书）](https://github.com/JoeHetfield/You-Dont-Know-JS)
 * [前端开发变量命名系列 - JavaScript篇](https://segmentfault.com/a/1190000020039039)
@@ -777,6 +778,9 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * []
 * [semantic-ui](https://github.com/semantic-org/semantic-ui/)
 
+
+## 学习网站
+* [frontendmasters](https://frontendmasters.com)(各种大牛视频 英文)
 
 
 [↑ 返回目录 ↑](#目录)

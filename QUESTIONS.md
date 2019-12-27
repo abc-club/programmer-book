@@ -186,12 +186,42 @@ function _new() {
 * [JavaScript的Event Loop详解](https://juejin.im/post/5d21c6d56fb9a07ea4209ffc)
 * [Visualizing the javascript runtime at runtime](https://github.com/latentflip/loupe)
 
+### JSON.parse(JSON.stringify())的缺点
+
+```
+1.如果obj里面有时间对象，则JSON.stringify后再JSON.parse的结果，时间将只是字符串的形式，而不是对象的形式
+
+2.如果obj里有RegExp(正则表达式的缩写)、Error对象，则序列化的结果将只得到空对象
+
+3、如果obj里有函数，undefined，则序列化的结果会把函数或 undefined丢失
+
+4、如果obj里有NaN、Infinity和-Infinity，则序列化的结果会变成null
+
+5、JSON.stringify()只能序列化对象的可枚举的自有属性，例如 如果obj中的对象是有构造函数生成的， 则使用JSON.parse(JSON.stringify(obj))深拷贝后，会丢弃对象的constructor
+
+6、如果对象中存在循环引用的情况也无法正确实现深拷贝
+```
 
 ### 进程与线程
 * [深入理解Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9)
 * [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
 * [一篇让你明白进程与线程之间的区别与联系](https://juejin.im/post/5c932660f265da612524ad6d)
 * [浅析操作系统的进程、线程区别](https://blog.csdn.net/zhuoxiuwu/article/details/77850724)
+
+### 函数式编程
+* [JavaScript 函数式编程](https://juejin.im/post/5b4ac0d0f265da0fa959a785)
+* [函数式编程入门教程](http://www.ruanyifeng.com/blog/2017/02/fp-tutorial.html)
+* [ramda](https://github.com/ramda/ramda)
+* [Ramda 函数库参考教程](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
+
+### 深拷贝与浅拷贝
+* [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
+* [如何写出一个惊艳面试官的深拷贝?](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
+* [一步一步实现深拷贝](https://github.com/950905/record-summary/blob/master/common/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E5%AE%9E%E7%8E%B0%E6%B7%B1%E6%8B%B7%E8%B4%9D.md)
+
+### 防抖与节流
+* [js史上最精简！防抖节流（你的比我精简，算我输）](https://juejin.im/post/5da7c77a51882554c0757f46)
+* [2019 面试准备 - JS 防抖与节流](https://juejin.im/post/5c87b54ce51d455f7943dddb)
 
 
 ## vue
@@ -201,7 +231,6 @@ function _new() {
 
 
 ## react
-* [《React源码解析》系列完结！](https://juejin.im/post/5a84682ef265da4e83266cc4)
 
 
 ## 浏览器
