@@ -223,6 +223,8 @@ function _new() {
 * [js史上最精简！防抖节流（你的比我精简，算我输）](https://juejin.im/post/5da7c77a51882554c0757f46)
 * [2019 面试准备 - JS 防抖与节流](https://juejin.im/post/5c87b54ce51d455f7943dddb)
 
+### 对象与数组的遍历
+
 
 ## vue
 * [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -250,6 +252,15 @@ function _new() {
 * [ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)
 * [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
 * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+* 可以通过Symbol进行iframe的跨域 http://es6.ruanyifeng.com/#docs/symbol
+```
+iframe = document.createElement('iframe');
+iframe.src = String(window.location);
+document.body.appendChild(iframe);
+
+iframe.contentWindow.Symbol.for('foo') === Symbol.for('foo')
+// true
+```
 
 ### http
 * [七层网络结构](https://blog.csdn.net/u010359398/article/details/82142449)
