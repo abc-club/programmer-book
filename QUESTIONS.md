@@ -224,7 +224,31 @@ function _new() {
 * [2019 面试准备 - JS 防抖与节流](https://juejin.im/post/5c87b54ce51d455f7943dddb)
 
 ### 对象与数组的遍历
+* [javaScript遍历对象、数组总结](https://www.cnblogs.com/chenyablog/p/6477866.html)
+对象的属性分为三种： 是否是自身属性 是否可以枚举 是否是Symbol属性
+注意：对象没有for...of...
 
+举个栗子
+
+```js
+var a = {a: 1}
+var b= {b:2}
+b.__proto__ = a
+Object.defineProperty(b, 'c', {
+	value: 3
+})
+b[Symbol()] = 4
+
+Object.keys(b) // ["b"]  返回一个数组,包括对象自身的(不含继承的)所有可枚举属性(不含Symbol属性).
+
+for(var i in b) {
+  console.log(i,":",b[i]);
+} // b : 2 a : 1   循环遍历对象自身的和继承的可枚举属性(不含Symbol属性)
+
+Object.getOwnPropertyNames(obj) // ["b", "c"] 返回一个数组,包含对象自身的所有属性(不含Symbol属性,但是包括不可枚举属性).
+Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身的所有属性,不管属性名是Symbol或字符串,也不管是否可枚举.  
+
+```
 
 ## typescript
 * [typescript中文官网](https://www.tslang.cn/docs/home.html)
