@@ -256,6 +256,12 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 ## vue
 * [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
 
+### 组件间通信示例
+* [EventBus （$emit / $on）](https://codesandbox.io/s/vue-bus-tms87)
+* [$attrs/$listeners](https://codesandbox.io/s/vue-attrs-listeners-z5rwe)
+* [provide / inject ](https://codesandbox.io/s/affectionate-matsumoto-w5l8h)
+
+
 ## weex
 
 
