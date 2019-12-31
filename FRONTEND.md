@@ -103,8 +103,7 @@
 * [解密vue-router: 从源码开始](https://juejin.im/post/5af108dc518825672565cf31)
 * [vue-router 源码：实现一个简单的 vue-router](https://juejin.im/post/5b35dcb5f265da59a117344d)
 * [Vue3 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)
-* [Vue 3 源码导读](https://juejin.im/post/5d977f47e51d4578453274b3)
-* [Vue 3 源码解读](https://github.com/KieSun/vue-interpretation)
+
 * [Github 上 36 个最实用的 Vue 开源库](https://www.toutiao.com/a6740807773254107651)
 * [利用VuePress快速搭建项目文档管理系统](https://www.toutiao.com/a6740976049183523341)
 * [50个好用的前端框架，千万收好以留备用](https://www.toutiao.com/a6741905003897684493)
@@ -313,7 +312,7 @@
 * [范式篇 - 如何把函数式编程合理运用到日常工作中](https://juejin.im/post/5d8f0866e51d4578110dc765)
 * [帮你揭开函数式编程的底层面纱——喜提国庆buff](https://juejin.im/post/5d7683bd6fb9a06ad229f557)
 * [Typescript版图解Functor , Applicative 和 Monad](https://juejin.im/post/5d6298c75188255625591ae6)
-
+* [Ramda 函数库参考教程](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
 
 ### 其他
 * [【THE LAST TIME】彻底吃透 JavaScript 执行机制](https://juejin.im/post/5d901418518825539312f587)

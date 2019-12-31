@@ -250,11 +250,17 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 
 ```
 
+### 数组去重
+* [JavaScript专题之数组去重](https://juejin.im/post/5949d85f61ff4b006c0de98b)
+* [如何答一道惊艳面试官的数组去重问题？](https://mp.weixin.qq.com/s/IA41OWhKS062WzTOQ6hDAA)
+
 ## typescript
 * [typescript中文官网](https://www.tslang.cn/docs/home.html)
 
 ## vue
 * [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
+* [Vue 3 中令人兴奋的新功能](https://juejin.im/post/5dc3cfce6fb9a04a665f100e)
+* [面试官: 实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
 
 ### 组件间通信示例
 * [EventBus （$emit / $on）](https://codesandbox.io/s/vue-bus-tms87)
@@ -265,11 +271,17 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 ## weex
 
 
+### 源码
+* [Weex 中别具匠心的 JS Framework](https://halfrost.com/weex_js_framework/)
+
 ## react
 
 
+## webpack
+
 ## 浏览器
 * [从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://zhuanlan.zhihu.com/p/34453198?group_id=957277540147056640)
+* [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)
 
 ### 页面渲染
 * [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
@@ -298,3 +310,5 @@ iframe.contentWindow.Symbol.for('foo') === Symbol.for('foo')
 ### http
 * [七层网络结构](https://blog.csdn.net/u010359398/article/details/82142449)
 
+## 性能优化
+* [用100行代码提升10倍的性能](https://juejin.im/post/5bec223f5188250c102116b5)
