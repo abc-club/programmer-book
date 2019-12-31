@@ -262,10 +262,18 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 * [Vue 3 中令人兴奋的新功能](https://juejin.im/post/5dc3cfce6fb9a04a665f100e)
 * [面试官: 实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
 
+![vue响应式原理](https://user-gold-cdn.xitu.io/2018/4/11/162b38ab2d635662?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+
+### vue3
+* [面试官: 实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
+
 ### 组件间通信示例
 * [EventBus （$emit / $on）](https://codesandbox.io/s/vue-bus-tms87)
 * [$attrs/$listeners](https://codesandbox.io/s/vue-attrs-listeners-z5rwe)
 * [provide / inject ](https://codesandbox.io/s/affectionate-matsumoto-w5l8h)
+
+## es6
+
 
 
 ## weex
@@ -278,6 +286,7 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 
 
 ## webpack
+
 
 ## 浏览器
 * [从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://zhuanlan.zhihu.com/p/34453198?group_id=957277540147056640)
