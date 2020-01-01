@@ -18,6 +18,7 @@ https://www.cnblogs.com/star91/p/5659134.html
 3. 移动端1px
 * [移动端1px解决方案](https://juejin.im/post/5d19b729f265da1bb2774865)
 * [移动端 1px 像素问题及解决办法](https://www.jianshu.com/p/31f8907637a6)
+* [吃透移动端 1px｜从基本原理到开源解决方案](https://juejin.im/post/5df3053ce51d45583d425ada)
 * [CSS3 border-image 彻底明白](https://segmentfault.com/a/1190000010969367)
 
 4. 圣杯布局和双飞翼布局
@@ -321,3 +322,7 @@ iframe.contentWindow.Symbol.for('foo') === Symbol.for('foo')
 
 ## 性能优化
 * [用100行代码提升10倍的性能](https://juejin.im/post/5bec223f5188250c102116b5)
+
+
+## 移动端
+* [吃透移动端 H5 与 Hybrid｜实践踩坑12种问题汇总](https://juejin.im/post/5dfadb91e51d45584006e486)
