@@ -326,3 +326,7 @@ iframe.contentWindow.Symbol.for('foo') === Symbol.for('foo')
 
 ## 移动端
 * [吃透移动端 H5 与 Hybrid｜实践踩坑12种问题汇总](https://juejin.im/post/5dfadb91e51d45584006e486)
+
+
+## 算法与数据结构
+* [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
