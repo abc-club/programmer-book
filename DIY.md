@@ -59,7 +59,7 @@ Do it yourself!!!
 * [[技术翻译]9个可以让你在2020年成为前端专家的项目](https://juejin.im/post/5db71290f265da4d1c6999a0)
 * [vue小实现](https://juejin.im/post/5a4df4965188252a3d386ae6)
 * [读懂源码：一步一步实现一个 Vue](https://www.cnblogs.com/kidney/p/8018226.html)
-
+* [各种源码实现，你想要的这里都有](https://juejin.im/post/5dc3894051882517a652dbd7)
 
 ## 开源项目
 - https://github.com/justjavac/Programming-Alpha-To-Omega
