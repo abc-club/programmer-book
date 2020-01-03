@@ -274,7 +274,7 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 * [provide / inject ](https://codesandbox.io/s/affectionate-matsumoto-w5l8h)
 
 ## es6
-
+* [1.5万字概括ES6全部特性](https://juejin.im/post/5d9bf530518825427b27639d)
 
 
 ## weex
@@ -319,6 +319,10 @@ iframe.contentWindow.Symbol.for('foo') === Symbol.for('foo')
 
 ### http
 * [七层网络结构](https://blog.csdn.net/u010359398/article/details/82142449)
+
+### 垃圾回收
+* [图解 JavaScript 垃圾回收 — 现代 JavaScript 教程](https://juejin.im/post/5e0ddc24f265da5d1805ee6f)
+
 
 ## 性能优化
 * [用100行代码提升10倍的性能](https://juejin.im/post/5bec223f5188250c102116b5)
