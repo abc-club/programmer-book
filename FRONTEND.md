@@ -575,10 +575,7 @@
 * [优秀程序员都应该学习的数据结构与算法项目（GitHub 开源清单）](https://zhuanlan.zhihu.com/p/74584796)
 
 * [数据结构与算法（三）—— 常见排序算法和swift实现](https://juejin.im/post/5c46b05d51882524a23f3a12)
-* [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
-* [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 * [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
-* [算法的时间和空间复杂度，就是这么简单](https://www.toutiao.com/a6750625828465279495)
 * [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/820437568?hb_wx_block=0)
 * [怎么学好数据结构？](https://www.zhihu.com/question/19830721/answer/667233164?hb_wx_block=0)
 

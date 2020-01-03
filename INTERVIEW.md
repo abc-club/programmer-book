@@ -78,7 +78,6 @@
 * [20道JS原理题助你面试一臂之力](https://juejin.im/post/5d2ee123e51d4577614761f8)
 * [几道高级前端面试题解析](https://juejin.im/post/5aa8a07cf265da238a3022a4)
 * [地表最强面试图谱](https://juejin.im/post/5b4a9136f265da0f990d49cb)
-* [前端面试中的常见的算法问题](https://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
 * [一篇文章搞定前端面试](https://juejin.im/post/5bbaa549e51d450e827b6b13)
 * [【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
 * [【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
@@ -117,7 +116,6 @@
 * [js基础-面试官想知道你有多理解call,apply,bind？[不看后悔系列]](https://juejin.im/post/5d469e0851882544b85c32ef)
 * [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
 * [面试官: 100万个成员的数组取第一个和最后一个有性能差距吗?](https://juejin.im/post/5d75a5266fb9a06b1a56b137)
-* [5分钟带你领略:某跳动公司面试出镜率最高的算法之一——虚拟十叉树建模问题](https://juejin.im/post/5d7fb1e16fb9a06ac76de435)
 * [再也不怕面试官问你express和koa的区别了](https://juejin.im/post/5da6eef5f265da5b6b631115)
 * [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
 * [面试官：不用背概念，说清楚cookie和session是怎么交互的？](https://www.toutiao.com/a6739163770385351179)
@@ -125,7 +123,6 @@
 * [Web 安全总结(面试必备良药)](https://juejin.im/post/5dca1b376fb9a04a9f11c82e)
 * [async/await 原理及执行顺序分析](https://juejin.im/post/5dc28ea66fb9a04a881d1ac0)
 * [动画: 一个浏览器是如何工作的？](https://juejin.im/post/5de0e4dfe51d45359c14e1af)
-* [js实现排序算法（冒泡、选择、插入、二分插入、快速、希尔）](http://blog.csdn.net/charlene0824/article/details/51387165)
 * [MVC、MVP、MVVM 模式](http://www.linuxidc.com/Linux/2015-10/124622.htm)
 * [html和css中常见的浏览器兼容性处理](http://www.zymseo.com/16.html)
 * [一道常被人轻视的前端JS面试题](http://www.cnblogs.com/xxcanghai/p/5189353.html)
@@ -133,7 +130,6 @@
 
 
 ### 算法篇
-* [图形算法（邻接矩阵）](https://juejin.im/post/5de7c053518825125d1497e2)
 
 
 ### CSS
