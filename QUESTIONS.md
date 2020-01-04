@@ -274,6 +274,7 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 * [provide / inject ](https://codesandbox.io/s/affectionate-matsumoto-w5l8h)
 
 ## es6
+* [ES6 入门教程](http://es6.ruanyifeng.com)
 * [1.5万字概括ES6全部特性](https://juejin.im/post/5d9bf530518825427b27639d)
 
 
