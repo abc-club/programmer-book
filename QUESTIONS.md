@@ -255,6 +255,28 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 * [JavaScript专题之数组去重](https://juejin.im/post/5949d85f61ff4b006c0de98b)
 * [如何答一道惊艳面试官的数组去重问题？](https://mp.weixin.qq.com/s/IA41OWhKS062WzTOQ6hDAA)
 
+
+### 严格模式
+严格模式主要有以下限制。
+
+```
+变量必须声明后再使用
+函数的参数不能有同名属性，否则报错
+不能使用with语句
+不能对只读属性赋值，否则报错
+不能使用前缀 0 表示八进制数，否则报错
+不能删除不可删除的属性，否则报错
+不能删除变量delete prop，会报错，只能删除属性delete global[prop]
+eval不会在它的外层作用域引入变量
+eval和arguments不能被重新赋值
+arguments不会自动反映函数参数的变化
+不能使用arguments.callee
+不能使用arguments.caller
+禁止this指向全局对象
+不能使用fn.caller和fn.arguments获取函数调用的堆栈
+增加了保留字（比如protected、static和interface）
+```
+
 ## typescript
 * [typescript中文官网](https://www.tslang.cn/docs/home.html)
 
@@ -272,6 +294,8 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 * [EventBus （$emit / $on）](https://codesandbox.io/s/vue-bus-tms87)
 * [$attrs/$listeners](https://codesandbox.io/s/vue-attrs-listeners-z5rwe)
 * [provide / inject ](https://codesandbox.io/s/affectionate-matsumoto-w5l8h)
+
+
 
 ## es6
 * [ES6 入门教程](http://es6.ruanyifeng.com)
