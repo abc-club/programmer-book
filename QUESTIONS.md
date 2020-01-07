@@ -280,6 +280,7 @@ arguments不会自动反映函数参数的变化
 ## typescript
 * [typescript中文官网](https://www.tslang.cn/docs/home.html)
 
+
 ## vue
 * [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
 * [Vue 3 中令人兴奋的新功能](https://juejin.im/post/5dc3cfce6fb9a04a665f100e)
@@ -300,6 +301,13 @@ arguments不会自动反映函数参数的变化
 ## es6
 * [ES6 入门教程](http://es6.ruanyifeng.com)
 * [1.5万字概括ES6全部特性](https://juejin.im/post/5d9bf530518825427b27639d)
+
+### 什么叫暂时性死区
+
+在代码块内，使用let命令声明变量之前，该变量都是不可用的。这在语法上，称为“暂时性死区”（temporal dead zone，简称 TDZ）。
+
+
+
 
 
 ## weex
