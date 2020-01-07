@@ -279,7 +279,7 @@ arguments不会自动反映函数参数的变化
 
 ## typescript
 * [typescript中文官网](https://www.tslang.cn/docs/home.html)
-
+* [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
 
 ## vue
 * [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
