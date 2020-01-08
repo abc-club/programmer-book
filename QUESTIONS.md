@@ -318,6 +318,7 @@ arguments不会自动反映函数参数的变化
 
 ## react
 
+* [关于Vue和React的一些对比及个人思考（上）](https://juejin.im/post/5e153e096fb9a048297390c1)
 
 ## webpack
 
@@ -340,6 +341,7 @@ arguments不会自动反映函数参数的变化
 * [ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)
 * [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
 * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+* [图文并茂，为你揭开“单点登录“的神秘面纱](https://juejin.im/post/5e11a6e96fb9a048411a4eca)
 * 可以通过Symbol进行iframe的跨域 http://es6.ruanyifeng.com/#docs/symbol
 ```
 iframe = document.createElement('iframe');
