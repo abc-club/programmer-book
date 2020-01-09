@@ -31,6 +31,13 @@ https://www.cnblogs.com/star91/p/5659134.html
 
 ## js
 
+### 表达式和语句
+表达式是由运算符构成，并运算产生结果的语法结构。每个表达式都会产生一个值，它可以放在任何需要一个值的地方
+
+语句则是由“；（分号）”分隔的句子或命令。如果在表达式后面加上一个“；”分隔符，这就被称为“表达式语句”。
+
+
+
 1. getcomputedstyle和style的区别
 ```
 1.只读与可写
@@ -277,6 +284,9 @@ arguments不会自动反映函数参数的变化
 增加了保留字（比如protected、static和interface）
 ```
 
+### 异常处理
+* [[html] script的crossorigin属性](https://www.jianshu.com/p/a45c9d089c93)
+
 ## typescript
 * [typescript中文官网](https://www.tslang.cn/docs/home.html)
 * [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
@@ -339,6 +349,21 @@ arguments不会自动反映函数参数的变化
 * [面试精选之http缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037)
 
 ### 跨域与安全
+* [我知道的跨域与安全](https://juejin.im/post/5a6320d56fb9a01cb64ee191)
+
+*  跨站攻击
+```
+1. XSS（cross-site-scripting, 跨站脚本）攻击
+
+解决方法： 字符串转义
+
+2. 跨站请求伪造（CSRF）
+
+解决方法： 1.明文传递cookie
+         2. 请求一个随机字符串（只能用一次）
+
+```
+
 * [ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)
 * [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
 * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
@@ -351,6 +376,15 @@ document.body.appendChild(iframe);
 iframe.contentWindow.Symbol.for('foo') === Symbol.for('foo')
 // true
 ```
+
+* 限制网站被iframe包裹
+
+添加这个http头可以限制别人把你的网站套成它的iframe
+```
+X-Frame-Options: SAMEORIGIN
+```
+
+
 
 ### http
 * [七层网络结构](https://blog.csdn.net/u010359398/article/details/82142449)
@@ -368,6 +402,13 @@ iframe.contentWindow.Symbol.for('foo') === Symbol.for('foo')
 
 ## 移动端
 * [吃透移动端 H5 与 Hybrid｜实践踩坑12种问题汇总](https://juejin.im/post/5dfadb91e51d45584006e486)
+
+
+## nodejs
+
+
+### npm
+* [npx 使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)
 
 
 ## 服务端相关
