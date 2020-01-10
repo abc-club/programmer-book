@@ -28,6 +28,7 @@
 * [月薪80k阿里架构师漫谈他是如何从一名小码农走到今天这一步](https://www.toutiao.com/a6756774125286457864)
 * [从P4到P9，在马云家写代码到双11前端PM](https://www.toutiao.com/a6759408674239676931)
 * [如何成为公司独当一面的工程师](https://juejin.im/post/5dd4cc71f265da0bca7899cf)
+* [程序员怎么赚钱?](https://www.zhihu.com/question/352477026/answer/871265211)
 
 ## 团队篇
 

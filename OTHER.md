@@ -14,7 +14,7 @@
 ## 投资
 * [杭州房产知识扫盲](https://github.com/houshanren/hangzhou_house_knowledge)
 * [定投 —— 大佬的自我修养](https://github.com/xiaolai/regular-investing-in-box)
-
+* [如何分析一只股票？](https://www.zhihu.com/question/21089794/answer/854148445)
 
 ## 宠物
 * [怎么训练狗狗，就这样一周一个动作！](https://jingyan.baidu.com/article/c910274b5455b9cd361d2df1.html)

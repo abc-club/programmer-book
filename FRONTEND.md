@@ -255,7 +255,11 @@
 
 ### 图片
 * [cropperjs](https://github.com/fengyuanchen/cropperjs)(图片裁剪)
+* [imgcook](https://imgcook.taobao.org/)(由设计稿一键智能生成代码)
 
+
+### canvas
+* [spritejs](https://spritejs.org/#/)(360)
 
 ### 其他
 * [clipboard](https://github.com/zenorocha/clipboard.js)(剪贴板)
@@ -268,7 +272,7 @@
 * [autosize](https://github.com/jackmoore/autosize)(textara高度自适应文字)
 * [shake.js](https://github.com/alexgibson/shake.js)(监听手机震动)
 * [progressbar](https://github.com/kimmobrunfeldt/progressbar.js)(进度条)
-
+* [DoraemonKit](https://github.com/didi/DoraemonKit)(简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。)
 
 ## 物联网
 - mosca https://github.com/mcollina/mosca

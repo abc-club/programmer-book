@@ -3,6 +3,8 @@
 * [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 * [《动手学深度学习》](https://github.com/d2l-ai/d2l-zh)
 * [看完本文 若还不能让你精通python，我愿永久退出IT编程界](https://www.toutiao.com/a6748701222158483982)
+* [最全数据分析资料汇总（含python、爬虫、数据库、大数据、tableau、统计学等）](https://zhuanlan.zhihu.com/p/69869004)
+
 ### 开源
 * [如何一小时爬取百万知乎用户信息，并做了简单的分析](https://juejin.im/entry/58e0878f570c3500579eed28)
 * [网易云音乐爬虫，数据可视化](https://github.com/GreatV/CloudMusic-Crawler)
@@ -47,3 +49,5 @@
 
 ## 黑客
 * [黑客擅长的sql注入攻击，你真的懂吗？](https://www.toutiao.com/a6748663058152817166)
+* [2019年最受欢迎的20款黑客工具](https://zhuanlan.zhihu.com/p/100870206)
+
