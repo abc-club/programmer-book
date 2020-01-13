@@ -329,6 +329,7 @@ arguments不会自动反映函数参数的变化
 ## react
 * [官网](https://zh-hans.reactjs.org/docs/getting-started.html)
 * [关于Vue和React的一些对比及个人思考（上）](https://juejin.im/post/5e153e096fb9a048297390c1)
+* [【React深入】从Mixin到HOC再到Hook](https://juejin.im/post/5cad39b3f265da03502b1c0a)
 
 
 ## webpack
