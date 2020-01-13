@@ -166,6 +166,9 @@ function _new() {
 
 ```
 
+### Object.create
+* [详解Object.create(null)](https://juejin.im/post/5acd8ced6fb9a028d444ee4e)
+
 6. 理解constructor、prototype、__proto__和原型链
 * [用自己的方式（图）理解constructor、prototype、__proto__和原型链](https://juejin.im/post/5cc99fdfe51d453b440236c3)
 
@@ -287,6 +290,10 @@ arguments不会自动反映函数参数的变化
 ### 异常处理
 * [[html] script的crossorigin属性](https://www.jianshu.com/p/a45c9d089c93)
 
+### 代码质量
+* [代码整洁的 JavaScript](https://github.com/beginor/clean-code-javascript)
+
+
 ## typescript
 * [typescript中文官网](https://www.tslang.cn/docs/home.html)
 * [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
@@ -333,6 +340,7 @@ arguments不会自动反映函数参数的变化
 
 
 ## webpack
+* [2020年了,再不会webpack敲得代码就不香了(近万字实战)](https://juejin.im/post/5de87444518825124c50cd36)
 
 
 ## 浏览器
