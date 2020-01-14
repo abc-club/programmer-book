@@ -306,7 +306,7 @@
 * [正则表达式30分钟入门教程](https://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
 * [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
 * [2019年JS正则大全(常用)](https://juejin.im/post/5d245d4151882555300feb77)
-
+* [JS正则表达式完整教程（略长）](https://juejin.im/post/5965943ff265da6c30653879)
 
 ### 函数式编程
 * [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS)(English)

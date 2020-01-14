@@ -294,6 +294,10 @@ arguments不会自动反映函数参数的变化
 * [代码整洁的 JavaScript](https://github.com/beginor/clean-code-javascript)
 
 
+### 正则表达式
+* [JS正则表达式完整教程（略长）](https://juejin.im/post/5965943ff265da6c30653879)
+
+
 ## typescript
 * [typescript中文官网](https://www.tslang.cn/docs/home.html)
 * [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
