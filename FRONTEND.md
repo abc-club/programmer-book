@@ -299,6 +299,7 @@
 * [透过现象看本质: 常见的前端架构风格和案例](https://juejin.im/post/5d7ffad551882545ff173083)
 * [灵活运用JS开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48)
 * [JavaScript 工具函数大全（新）](https://juejin.im/post/5da1a04ae51d45783d6122bf)
+* [js运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
 ### 正则表达式
 * [练完这篇就会写正则](https://juejin.im/post/5d89edb1518825097619ecfe)
