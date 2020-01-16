@@ -322,6 +322,11 @@
 * [Typescript版图解Functor , Applicative 和 Monad](https://juejin.im/post/5d6298c75188255625591ae6)
 * [Ramda 函数库参考教程](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
 
+
+### 兼容性
+* [在javascript中的浏览器兼容问题以及兼容浏览器汇总（默认事件，阻止冒泡，事件监听。。。）以及解决方式详解](https://www.cnblogs.com/zxlone/p/11483457.html)
+ 
+
 ### 其他
 * [【THE LAST TIME】彻底吃透 JavaScript 执行机制](https://juejin.im/post/5d901418518825539312f587)
 * [【译】JavaScript的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
