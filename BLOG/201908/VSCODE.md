@@ -209,7 +209,8 @@ cmd/ctrl+click跳转到npmjs.com
 #### WakaTime
 记录你用vscode工作的时间，项目等
 
-
+#### REST Client 
+管理接口
 
 
 

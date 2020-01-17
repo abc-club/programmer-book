@@ -443,6 +443,7 @@ X-Frame-Options: SAMEORIGIN
 * [图形算法（邻接矩阵）](https://juejin.im/post/5de7c053518825125d1497e2)
 * [5分钟带你领略:某跳动公司面试出镜率最高的算法之一——虚拟十叉树建模问题](https://juejin.im/post/5d7fb1e16fb9a06ac76de435)
 * [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
+* [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
 
 ### 复杂度
 * [算法的时间和空间复杂度，就是这么简单](https://www.toutiao.com/a6750625828465279495)
@@ -460,6 +461,6 @@ X-Frame-Options: SAMEORIGIN
 * [2020年从基础到进阶，测试你有多了解 JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc)
 
 
-## 应用题
+## 手写题
 * [23行代码实现一个带并发数限制的fetch请求函数](https://juejin.im/post/5c89d447f265da2dd37c604c)
 
