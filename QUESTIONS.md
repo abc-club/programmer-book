@@ -199,6 +199,8 @@ function _new() {
 
 ### JSON.parse(JSON.stringify())的缺点
 
+在JSON.stringify()阶段
+
 ```
 1.如果obj里面有时间对象，则JSON.stringify后再JSON.parse的结果，时间将只是字符串的形式，而不是对象的形式
 
@@ -454,5 +456,10 @@ X-Frame-Options: SAMEORIGIN
 
 ```
 
-## 复习题
+## 选择题
 * [2020年从基础到进阶，测试你有多了解 JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc)
+
+
+## 应用题
+* [23行代码实现一个带并发数限制的fetch请求函数](https://juejin.im/post/5c89d447f265da2dd37c604c)
+
