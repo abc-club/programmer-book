@@ -463,4 +463,4 @@ X-Frame-Options: SAMEORIGIN
 
 ## 手写题
 * [23行代码实现一个带并发数限制的fetch请求函数](https://juejin.im/post/5c89d447f265da2dd37c604c)
-
+* [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
