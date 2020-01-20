@@ -83,6 +83,19 @@
 * [如何更优雅的使用egg的日志体系？](https://github.com/eggjs/egg/issues/2006)
 * [基于Egg框架的日志链路追踪实践分享](https://juejin.im/post/5cf5f78951882574ce0133f3)
 
+## 脚手架开发
+
+### 常用库
+* babel-cli/babel-env: 语法转换
+* commander: 命令行工具
+* download-git-repo: 用来下载远程模板
+* ini: 格式转换
+* inquirer: 交互式命令行工具
+* ora: 显示loading动画
+* chalk: 修改控制台输出内容样式
+* log-symbols: 显示出 √ 或 × 等的图标
+
+
 ## GraphQL
 ### 官方
 * [graphql-js github](https://github.com/graphql/graphql-js/)
