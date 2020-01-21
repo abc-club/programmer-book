@@ -103,9 +103,11 @@
 * easy-table: 类似 console.table，输出漂亮的表格
 * log-symbols: 显示出 √ 或 × 等的图标
 * figlet: console.log出一个漂亮的大logo
-
+* consolidate：Template engine consolidation library for node.js 。
+* execa：更友好的child_process.exec。
 
 #### 经常用
+* handlebars：一个 javascript 语以模版库。
 * cross-spawn: 跨平台的child_process (跨 Windows/Mac)
 * fs-extra: 对 fs 库的扩展，支持 promise
 * import-from: 类似 require，但支持指定目录，让你可以跨工程目录进行 require，比如全局包想引用工程路径下的内容
@@ -115,7 +117,7 @@
 * open: 跨平台打开 app，比如调试的时候开打 chrome
 * download-git-repo: 用来下载远程模板
 * ini: 格式转换
-
+* metalsmith；An extremely simple, pluggable static site generator。
 
 #### 跨平台
 * osenv: 跨平台的系统信息
