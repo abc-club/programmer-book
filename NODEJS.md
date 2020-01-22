@@ -118,6 +118,8 @@
 * download-git-repo: 用来下载远程模板
 * ini: 格式转换
 * metalsmith；An extremely simple, pluggable static site generator。
+* slash: 把windows反斜线路径转换为斜线路径，foo\\bar ➔ foo/bar
+
 
 #### 跨平台
 * osenv: 跨平台的系统信息
