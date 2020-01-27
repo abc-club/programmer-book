@@ -340,7 +340,7 @@
 * [JavaScript基础——前端不懂它，会再多框架也不过只是会用而已](https://www.toutiao.com/a6738734261286732291)
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 * [尾调用和尾递归](https://juejin.im/post/5acdd7486fb9a028ca53547c)
-
+* [js中的stopImmediatePropagation方法和stopPropagation方法的区别](https://www.cnblogs.com/EnSnail/p/9796237.html)
 
 ### 开源项目
 * [layout-ui](https://github.com/0123cf/layout-ui)(可视化布局 纯css布局 Layout-UI)

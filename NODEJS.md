@@ -80,6 +80,9 @@
     * 文档 https://segmentfault.com/a/1190000020403852
 * [egg-valparams](https://www.npmjs.com/package/egg-valparams)(参数校验)
     * 文档 https://github.com/D780/valparams/blob/HEAD/doc/api.md
+* [egg-cors]()(解决跨域)
+
+
 
 ### 文章
 * [如何更优雅的使用egg的日志体系？](https://github.com/eggjs/egg/issues/2006)
