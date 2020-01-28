@@ -21,6 +21,11 @@ https://www.cnblogs.com/star91/p/5659134.html
 * [吃透移动端 1px｜从基本原理到开源解决方案](https://juejin.im/post/5df3053ce51d45583d425ada)
 * [CSS3 border-image 彻底明白](https://segmentfault.com/a/1190000010969367)
 
+首先要了解虚拟像素（css像素）、物理像素（设备像素）、逻辑像素 和设备像素比(dpr)的概念，然后要了解我们设计师的设计稿一般都是750*1334，这个设计稿上的1px是css像素, 而设计师要的效果是1px的物理像素，所以需要除于设备像素比(dpr)，比如iPhone6的dpr是2，就1/2
+
+dpr的意思可以这样理解，1css像素要用dpr个物理像素来表示
+
+
 4. 圣杯布局和双飞翼布局
 * [圣杯布局和双飞翼布局的理解与思考](https://www.jianshu.com/p/81ef7e7094e8)
 
