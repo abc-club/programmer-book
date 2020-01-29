@@ -435,6 +435,7 @@ X-Frame-Options: SAMEORIGIN
 
 ## 移动端
 * [吃透移动端 H5 与 Hybrid｜实践踩坑12种问题汇总](https://juejin.im/post/5dfadb91e51d45584006e486)
+* [前端基础知识概述 -- 移动端开发的屏幕、图像、字体与布局的兼容适配](https://juejin.im/post/5d70747cf265da03e16897c8)
 
 
 ## nodejs
