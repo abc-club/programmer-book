@@ -437,6 +437,7 @@
 * [从 0 到 1 的前端异常监控项目实战](https://mp.weixin.qq.com/s/Q1KGbkcF-AMWsWN7Ae7E1A)
 * [炫技，从12.67s到1.06s的网站性能优化实战](https://mp.weixin.qq.com/s/sU4Y2pBU659O1vNyZSSX5Q)
 * [H5秒开方案大全](https://www.toutiao.com/a6753544973569753607)
+* [撸一个前端监控系统（React + Node + Mysql + Webpack plugin + Docker）—— （上）](https://juejin.im/post/5e3146cce51d453176604809)
 
 
 ### 性能
