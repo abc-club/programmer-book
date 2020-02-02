@@ -46,6 +46,8 @@
 * [winston](https://github.com/winstonjs/winston)(A logger for just about everything)
 * [node-bunyan](https://github.com/trentm/node-bunyan)(a simple and fast JSON logging module for node.js services)
 * [gh-pages](https://github.com/tschaub/gh-pages)
+* [中华人民共和国行政区划代码](https://www.npmjs.com/package/province-city-china)
+
 
 ## npm
 * [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
