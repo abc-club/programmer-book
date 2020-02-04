@@ -74,6 +74,7 @@
 * [kpc](https://github.com/ksc-fe/kpc)(同时支持vue和react的组件库)
 
 
+* [vue-echarts](https://github.com/ecomfe/vue-echarts)
 * [v-charts](https://github.com/ElemeFE/v-charts)
 * [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
 * [vee-validate](https://github.com/logaretm/vee-validate)
