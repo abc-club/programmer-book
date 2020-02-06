@@ -25,6 +25,9 @@
 ### demo
 * [我和我亲爱的祖国（用CSS来为祖国母亲庆生）](https://juejin.im/post/5d926c65f265da5b576bd4d6)
 
+## svg
+* [SVG 入门指南(看完,对SVG结构不在陌生)](https://juejin.im/post/5deee313518825121c330c8e)
+* [SVG入门—如何手写SVG](https://juejin.im/post/5acd7c316fb9a028c813348d)
 
 
 ## less
@@ -35,3 +38,15 @@
 
 ## 框架
 * [bulma](https://github.com/jgthms/bulma/)(Modern CSS framework based on Flexbox)
+
+
+## 常用库
+* [css-color-function](https://github.com/ianstormtaylor/css-color-function)
+
+
+## 标准
+* [CSS Color Module Level 4](https://drafts.csswg.org/css-color/#modifying-colors)
+
+## 示例
+* [使用 css/less 动态更换主题色（换肤功能）](https://www.cnblogs.com/leiting/p/11203383.html)
+* [聊一聊前端换肤](https://juejin.im/post/5ca41617f265da3092006155)
