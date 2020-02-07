@@ -28,6 +28,8 @@
 ## svg
 * [SVG 入门指南(看完,对SVG结构不在陌生)](https://juejin.im/post/5deee313518825121c330c8e)
 * [SVG入门—如何手写SVG](https://juejin.im/post/5acd7c316fb9a028c813348d)
+* [SVG动画](https://www.bestvist.com/p/43)
+* [svg.js](https://github.com/svgdotjs/svg.js)
 
 
 ## less

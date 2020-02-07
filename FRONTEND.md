@@ -767,9 +767,10 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
 * [从babel讲到AST](https://juejin.im/post/5ab35c3cf265da23771951a2)
 * [AST 与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b)
-* [从babel讲到AST](https://juejin.im/post/5ab35c3cf265da23771951a2)
 * [高级前端基础-JavaScript抽象语法树AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf)
 * [astexplorer](https://astexplorer.net/)
+* [面试官: 你了解过Babel吗？写过Babel插件吗? 答: 没有。卒](https://juejin.im/post/5a9315e46fb9a0633a711f25)
+
 
 #### html
 * [htmlparser2](https://github.com/fb55/htmlparser2)
