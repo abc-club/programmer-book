@@ -50,6 +50,9 @@
 * [pinyin](https://github.com/hotoo/pinyin)
 
 
+### 微服务
+* [构建你的第一个 Node.js 微服务](https://www.jianshu.com/p/352eb5f419b4)
+
 ## npm
 * [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 
