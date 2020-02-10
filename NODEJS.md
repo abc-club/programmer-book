@@ -52,6 +52,8 @@
 
 ### 微服务
 * [构建你的第一个 Node.js 微服务](https://www.jianshu.com/p/352eb5f419b4)
+* [seneca](https://github.com/senecajs/seneca)(微服务框架)
+
 
 ## npm
 * [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
@@ -116,6 +118,8 @@
 * figlet: console.log出一个漂亮的大logo
 * consolidate：Template engine consolidation library for node.js 。
 * execa：更友好的child_process.exec。
+* arg: 类似commander，arg is yet another command line option parser.
+
 
 #### 经常用
 * handlebars：一个 javascript 语以模版库。

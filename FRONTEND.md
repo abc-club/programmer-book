@@ -593,6 +593,7 @@
 * [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
 * [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/820437568?hb_wx_block=0)
 * [怎么学好数据结构？](https://www.zhihu.com/question/19830721/answer/667233164?hb_wx_block=0)
+* [(1.8w字)负重前行，前端工程师如何系统练习数据结构和算法？【上】](https://juejin.im/post/5e2f88156fb9a02fdd38a184)
 
 #### 开源库
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)

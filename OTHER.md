@@ -32,3 +32,5 @@
 
 ## 时事
 * [这是一篇分析香港世界格局最透彻的雄文](https://mp.weixin.qq.com/s/1xPkw4D5DyEhWCE20-bzqw)
+* [一个武汉女生的真实日记](https://new.qq.com/omn/20200210/20200210A05S1800.html)
+
