@@ -29,6 +29,8 @@
 * [从P4到P9，在马云家写代码到双11前端PM](https://www.toutiao.com/a6759408674239676931)
 * [如何成为公司独当一面的工程师](https://juejin.im/post/5dd4cc71f265da0bca7899cf)
 * [程序员怎么赚钱?](https://www.zhihu.com/question/352477026/answer/871265211)
+* [从淘汰边缘到阿里资深前端技术专家，他总结了 8 点](https://mp.weixin.qq.com/s/duMf_OsUpj83VoUwHPoVQA)
+
 
 ## 团队篇
 
