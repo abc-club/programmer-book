@@ -613,6 +613,11 @@
 * [斯坦福机器学习CS229课程讲义的中文翻译](https://github.com/Kivy-CN/Stanford-CS-229-CN)
 * [吴恩达《Machine Learning Yearning》完整中文版开源](https://www.toutiao.com/a6747535039598166531)
 
+#### 项目
+* [christmas-hat](https://github.com/hk029/christmas-hat)
+* [goddess-hat](https://github.com/shenghanqin/goddess-hat)
+
+
 
 ## js-core
 
