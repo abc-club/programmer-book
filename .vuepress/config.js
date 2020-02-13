@@ -8,6 +8,7 @@ module.exports = {
       { text: '前端', link: '/FRONTEND' },
       { text: '面试', link: '/INTERVIEW' },
       { text: '精品系列', link: '/LIST' },
+      { text: 'GITHUB', link: 'https://github.com/abc-club/free-resources/' },
     ],
     sidebar: [
       ['/FRONTEND', '前端'],
