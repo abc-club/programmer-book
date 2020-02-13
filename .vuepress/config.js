@@ -12,10 +12,11 @@ module.exports = {
     ],
     sidebar: [
       ['/FRONTEND', '前端'],
+      ['/INTERVIEW', '面试'],
+      ['/QUESTIONS', '面试问题'],
       ['/SOURCECODE', '源码解析'],
       ['/CHECKLIST', '前端自检'],
       ['/DIY', '自己动手'],
-      ['/INTERVIEW', '面试'],
       ['/EXPERIENCE', '前辈经验'],
       ['/LIST', '精品系列'],
       ['/BACKEND', '后端&运维'],

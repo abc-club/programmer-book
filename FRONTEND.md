@@ -654,7 +654,7 @@
 * [测试你的前端代码（介绍篇）[英]](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446)
 * [万字长文总结前端测试体系建设与最佳实践](https://mp.weixin.qq.com/s?__biz=MzI5MjYyODYyNQ==&mid=2247483987&idx=1&sn=132aea5d5185a1e4fa2fab5037a2fb3e)
 * [花椒测试平台 - 接口篇](https://mp.weixin.qq.com/s/xDwEv8r_RfJ99CSir3kCfg)
-
+* [浅谈前端单元测试](https://juejin.im/post/5b2da89cf265da597f1c7cab)
 
 ### 单元测试
 站在程序员的角度测试
@@ -724,7 +724,7 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 #### 自动化
 * [Auto.js](https://github.com/hyb1996/Auto.js)(安卓平台上的JavaScript自动化工具)
 * [taobaoVisitingVenues](https://github.com/sleepybear1113/taobaoVisitingVenues)(双十一活动自动化地操作淘宝浏览店铺得喵币脚本 for Android)
-
+* [travis-ci](https://www.travis-ci.org/)(自动触发GitHub项目测试)
 
 
 ## 网络请求

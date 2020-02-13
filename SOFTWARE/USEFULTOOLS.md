@@ -154,6 +154,9 @@ https://www.rescuetime.com
 
 ## 服务
 
+### ip地址
+* [ipaddress](https://www.ipaddress.com/)(Lookup any IPv4 address, IPv6 address, hostname or domain.)
+
 ### ip定位
 
 * [淘宝IP定位接口](http://ip.taobao.com/instructions.html)(支持海外)(免费受限, 每个用户的访问频率需小于1qps)(慢！不稳定)

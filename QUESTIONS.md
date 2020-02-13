@@ -299,7 +299,7 @@ arguments不会自动反映函数参数的变化
 
 ### 代码质量
 * [代码整洁的 JavaScript](https://github.com/beginor/clean-code-javascript)
-
+* [如何提升 Web 应用的代码质量](https://juejin.im/post/5b21ae895188257d5e3b9f89)
 
 ### 正则表达式
 * [JS正则表达式完整教程（略长）](https://juejin.im/post/5965943ff265da6c30653879)
