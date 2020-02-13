@@ -32,3 +32,5 @@ C:\你输入的命令 >output.txt
 
 
 * [MAC自动加载.bash_profile文件通过.zshrc](https://blog.csdn.net/YaphetZhao/article/details/88027831)
+
+* [在Github Pages上将子目录设置为网站根目录(Set subdirectory as website root on Github Pages)](http://www.it1352.com/798173.html)

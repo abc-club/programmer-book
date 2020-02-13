@@ -1,6 +1,7 @@
 module.exports = {
   title: '前端资源',
   description: '本文收集学习过程中收藏的资源 相信对大家会有帮助 喜欢的可以star, 持续更新中大家可以watch',
+  base: '/free-resources/',
   themeConfig: {
     displayAllHeaders: true,
     nav: [
