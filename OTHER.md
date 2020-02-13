@@ -32,5 +32,16 @@
 
 ## 时事
 * [这是一篇分析香港世界格局最透彻的雄文](https://mp.weixin.qq.com/s/1xPkw4D5DyEhWCE20-bzqw)
-* [一个武汉女生的真实日记](https://new.qq.com/omn/20200210/20200210A05S1800.html)
 
+## 新型冠状病毒
+
+### 工具
+* [丁香园疫情实时动态](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579612226&enterid=1579612226&from=groupmessage&isappinstalled=0)
+* [新冠肺炎小区速查](https://ncov.html5.qq.com/community?channelid=17&from=groupmessage&isappinstalled=&jump_from=16EtfjWXTxUcS55xUKC3aK-E)
+* [密切接触者查询](https://2019ncov.cetccloud.com/#/)
+
+
+### 大事件
+* [一个武汉女生的真实日记](https://new.qq.com/omn/20200210/20200210A05S1800.html)
+* [你可能戴的是假口罩！曝光！这些全是假货！内附鉴别指南](https://mp.weixin.qq.com/s/9_HvBDNvbZiLhzea76ka-A)
+* [大变化！广州口罩预约时间、规则、入口均有调整！可别错过了！](https://mp.weixin.qq.com/s/qc1dshgPVQG_SvjNTNyfow)
