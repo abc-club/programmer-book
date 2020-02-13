@@ -1,0 +1,24 @@
+{
+  "name": "free-resources",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">资源汇总</h1>",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abc-club/free-resources.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abc-club/free-resources/issues"
+  },
+  "homepage": "https://github.com/abc-club/free-resources#readme",
+  "devDependencies": {
+    "vuepress": "^1.3.0"
+  }
+}

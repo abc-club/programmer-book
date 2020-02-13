@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>VuePress</title>
+    <meta name="description" content="">
+    <meta name="generator" content="VuePress 1.3.0">
+    
+    
+    <link rel="preload" href="/assets/css/0.styles.ec1b8bff.css" as="style"><link rel="preload" href="/assets/js/app.cfbfcb90.js" as="script"><link rel="preload" href="/assets/js/2.9fef5f23.js" as="script"><link rel="preload" href="/assets/js/33.44e86d18.js" as="script"><link rel="prefetch" href="/assets/js/10.b17d1639.js"><link rel="prefetch" href="/assets/js/11.cb31be19.js"><link rel="prefetch" href="/assets/js/12.16ab1e1f.js"><link rel="prefetch" href="/assets/js/13.dea799b1.js"><link rel="prefetch" href="/assets/js/14.7dfac6a5.js"><link rel="prefetch" href="/assets/js/15.ac3008c2.js"><link rel="prefetch" href="/assets/js/16.bbff6d11.js"><link rel="prefetch" href="/assets/js/17.8e26c0bb.js"><link rel="prefetch" href="/assets/js/18.2889c529.js"><link rel="prefetch" href="/assets/js/19.51ccb871.js"><link rel="prefetch" href="/assets/js/20.3dbf2555.js"><link rel="prefetch" href="/assets/js/21.014517f3.js"><link rel="prefetch" href="/assets/js/22.4a873482.js"><link rel="prefetch" href="/assets/js/23.4e6f1354.js"><link rel="prefetch" href="/assets/js/24.261df035.js"><link rel="prefetch" href="/assets/js/25.7cb84452.js"><link rel="prefetch" href="/assets/js/26.1ee25ad6.js"><link rel="prefetch" href="/assets/js/27.1e01e2c4.js"><link rel="prefetch" href="/assets/js/28.01ecf9f0.js"><link rel="prefetch" href="/assets/js/29.c137dd85.js"><link rel="prefetch" href="/assets/js/3.da538e25.js"><link rel="prefetch" href="/assets/js/30.e7523cd3.js"><link rel="prefetch" href="/assets/js/31.26f445ae.js"><link rel="prefetch" href="/assets/js/32.18ecd338.js"><link rel="prefetch" href="/assets/js/34.a1284219.js"><link rel="prefetch" href="/assets/js/35.db068030.js"><link rel="prefetch" href="/assets/js/36.eef5955e.js"><link rel="prefetch" href="/assets/js/37.84580753.js"><link rel="prefetch" href="/assets/js/38.b109cc7d.js"><link rel="prefetch" href="/assets/js/39.2c8c38df.js"><link rel="prefetch" href="/assets/js/4.b0dd307f.js"><link rel="prefetch" href="/assets/js/40.afaeffad.js"><link rel="prefetch" href="/assets/js/41.b824ec14.js"><link rel="prefetch" href="/assets/js/42.4c7d9530.js"><link rel="prefetch" href="/assets/js/43.1da25bdf.js"><link rel="prefetch" href="/assets/js/44.f0e6e899.js"><link rel="prefetch" href="/assets/js/45.dbe92338.js"><link rel="prefetch" href="/assets/js/46.5f653195.js"><link rel="prefetch" href="/assets/js/47.030e0846.js"><link rel="prefetch" href="/assets/js/48.b1f9f323.js"><link rel="prefetch" href="/assets/js/49.1dc90c15.js"><link rel="prefetch" href="/assets/js/5.93d9722e.js"><link rel="prefetch" href="/assets/js/50.f7817133.js"><link rel="prefetch" href="/assets/js/51.409bbc0b.js"><link rel="prefetch" href="/assets/js/52.458ea901.js"><link rel="prefetch" href="/assets/js/53.33e8a8f3.js"><link rel="prefetch" href="/assets/js/54.d024ce11.js"><link rel="prefetch" href="/assets/js/6.d4abf364.js"><link rel="prefetch" href="/assets/js/7.a2a3ebf1.js"><link rel="prefetch" href="/assets/js/8.5c5191ce.js"><link rel="prefetch" href="/assets/js/9.a1ec2272.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.ec1b8bff.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <!----></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><!---->  <!----> </aside> <main class="page"> <div class="theme-default-content content__default"><div class="language-javascript extra-class"><pre class="language-javascript"><code>
+<span class="token comment">/**
+ * js常用工具类
+ */</span>
+
+<span class="token comment">/**
+ * 方法作用：【格式化时间】
+ * 使用方法
+ * 示例：
+ *      使用方式一：
+ *      var now = new Date();
+ *      var nowStr = now.dateFormat(&quot;yyyy-MM-dd hh:mm:ss&quot;);
+ *      使用方式二：
+ *      new Date().dateFormat(&quot;yyyy年MM月dd日&quot;);
+ *      new Date().dateFormat(&quot;MM/dd/yyyy&quot;);
+ *      new Date().dateFormat(&quot;yyyyMMdd&quot;);
+ *      new Date().dateFormat(&quot;yyyy-MM-dd hh:mm:ss&quot;);
+ * @param format {date} 传入要格式化的日期类型
+ * @returns {2015-01-31 16:30:00}
+ */</span>
+<span class="token class-name">Date</span><span class="token punctuation">.</span>prototype<span class="token punctuation">.</span><span class="token function-variable function">dateFormat</span> <span class="token operator">=</span> <span class="token keyword">function</span> <span class="token punctuation">(</span><span class="token parameter">format</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+    <span class="token keyword">var</span> o <span class="token operator">=</span> <span class="token punctuation">{</span>
+        <span class="token string">&quot;M+&quot;</span> <span class="token operator">:</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getMonth</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token comment">//month</span>
+        <span class="token string">&quot;d+&quot;</span> <span class="token operator">:</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getDate</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token comment">//day</span>
+        <span class="token string">&quot;h+&quot;</span> <span class="token operator">:</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getHours</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token comment">//hour</span>
+        <span class="token string">&quot;m+&quot;</span> <span class="token operator">:</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getMinutes</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token comment">//minute</span>
+        <span class="token string">&quot;s+&quot;</span> <span class="token operator">:</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getSeconds</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token comment">//second</span>
+        <span class="token string">&quot;q+&quot;</span> <span class="token operator">:</span> Math<span class="token punctuation">.</span><span class="token function">floor</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getMonth</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">3</span><span class="token punctuation">)</span><span class="token operator">/</span><span class="token number">3</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token comment">//quarter</span>
+        <span class="token string">&quot;S&quot;</span> <span class="token operator">:</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getMilliseconds</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token comment">//millisecond</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">if</span><span class="token punctuation">(</span><span class="token regex">/(y+)/</span><span class="token punctuation">.</span><span class="token function">test</span><span class="token punctuation">(</span>format<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        format <span class="token operator">=</span> format<span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span>RegExp<span class="token punctuation">.</span>$<span class="token number">1</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getFullYear</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token string">&quot;&quot;</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">substr</span><span class="token punctuation">(</span><span class="token number">4</span> <span class="token operator">-</span> RegExp<span class="token punctuation">.</span>$<span class="token number">1.</span>length<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">for</span><span class="token punctuation">(</span><span class="token keyword">var</span> k <span class="token keyword">in</span> o<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">RegExp</span><span class="token punctuation">(</span><span class="token string">&quot;(&quot;</span><span class="token operator">+</span> k <span class="token operator">+</span><span class="token string">&quot;)&quot;</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">test</span><span class="token punctuation">(</span>format<span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+            format <span class="token operator">=</span> format<span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span>RegExp<span class="token punctuation">.</span>$<span class="token number">1</span><span class="token punctuation">,</span> RegExp<span class="token punctuation">.</span>$<span class="token number">1.</span>length<span class="token operator">==</span><span class="token number">1</span> <span class="token operator">?</span> o<span class="token punctuation">[</span>k<span class="token punctuation">]</span> <span class="token operator">:</span> <span class="token punctuation">(</span><span class="token string">&quot;00&quot;</span><span class="token operator">+</span> o<span class="token punctuation">[</span>k<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">substr</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token string">&quot;&quot;</span><span class="token operator">+</span> o<span class="token punctuation">[</span>k<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">.</span>length<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> format<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token comment">/***********************************************************************
+ *                           日期时间工具类                            *
+ *                     注：调用方式，deteUtil.方法名                   *
+ * ********************************************************************/</span>
+<span class="token keyword">var</span> dateUtil <span class="token operator">=</span> <span class="token punctuation">{</span>
+    <span class="token comment">/*
+     * 方法作用：【取传入日期是星期几】
+     * 使用方法：dateUtil.nowFewWeeks(new Date());
+     * @param date{date} 传入日期类型
+     * @returns {星期四，...}
+     */</span>
+    <span class="token function-variable function">nowFewWeeks</span><span class="token operator">:</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">date</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span>date <span class="token keyword">instanceof</span> <span class="token class-name">Date</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">var</span> dayNames <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Array</span><span class="token punctuation">(</span><span class="token string">&quot;星期天&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;星期一&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;星期二&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;星期三&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;星期四&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;星期五&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;星期六&quot;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            <span class="token keyword">return</span> dayNames<span class="token punctuation">[</span>date<span class="token punctuation">.</span><span class="token function">getDay</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span> <span class="token keyword">else</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token string">&quot;Param error,date type!&quot;</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token comment">/*
+     * 方法作用：【字符串转换成日期】
+     * 使用方法：dateUtil.strTurnDate(&quot;2010-01-01&quot;);
+     * @param str {String}字符串格式的日期，传入格式：yyyy-mm-dd(2015-01-31)
+     * @return {Date}由字符串转换成的日期
+     */</span>
+    <span class="token function-variable function">strTurnDate</span><span class="token operator">:</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">str</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">var</span>   re   <span class="token operator">=</span>   <span class="token regex">/^(\d{4})\S(\d{1,2})\S(\d{1,2})$/</span><span class="token punctuation">;</span>
+        <span class="token keyword">var</span>   dt<span class="token punctuation">;</span>
+        <span class="token keyword">if</span>   <span class="token punctuation">(</span>re<span class="token punctuation">.</span><span class="token function">test</span><span class="token punctuation">(</span>str<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            dt   <span class="token operator">=</span>   <span class="token keyword">new</span>   <span class="token class-name">Date</span><span class="token punctuation">(</span>RegExp<span class="token punctuation">.</span>$<span class="token number">1</span><span class="token punctuation">,</span>RegExp<span class="token punctuation">.</span>$<span class="token number">2</span>   <span class="token operator">-</span>   <span class="token number">1</span><span class="token punctuation">,</span>RegExp<span class="token punctuation">.</span>$<span class="token number">3</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+        <span class="token keyword">return</span> dt<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token comment">/*
+     * 方法作用：【计算2个日期之间的天数】
+     * 传入格式：yyyy-mm-dd(2015-01-31)
+     * 使用方法：dateUtil.dayMinus(startDate,endDate);
+     * @startDate {Date}起始日期
+     * @endDate {Date}结束日期
+     * @return endDate - startDate的天数差
+     */</span>
+    <span class="token function-variable function">dayMinus</span><span class="token operator">:</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">startDate<span class="token punctuation">,</span> endDate</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span>startDate <span class="token keyword">instanceof</span> <span class="token class-name">Date</span> <span class="token operator">&amp;&amp;</span> endDate <span class="token keyword">instanceof</span> <span class="token class-name">Date</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">var</span> days <span class="token operator">=</span> Math<span class="token punctuation">.</span><span class="token function">floor</span><span class="token punctuation">(</span><span class="token punctuation">(</span>endDate<span class="token operator">-</span>startDate<span class="token punctuation">)</span><span class="token operator">/</span><span class="token punctuation">(</span><span class="token number">1000</span> <span class="token operator">*</span> <span class="token number">60</span> <span class="token operator">*</span> <span class="token number">60</span> <span class="token operator">*</span> <span class="token number">24</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            <span class="token keyword">return</span> days<span class="token punctuation">;</span>
+        <span class="token punctuation">}</span><span class="token keyword">else</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token string">&quot;Param error,date type!&quot;</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token punctuation">;</span>
+
+<span class="token comment">/***********************************************************************
+ *                           加载工具类                                *
+ *                     注：调用方式，loadUtil.方法名                   *
+ * ********************************************************************/</span>
+<span class="token keyword">var</span> loadUtil <span class="token operator">=</span> <span class="token punctuation">{</span>
+    <span class="token comment">/*
+     * 方法说明：【动态加载js文件css文件】
+     * 使用方法：loadUtil.loadjscssfile(&quot;http://libs.baidu.com/jquery/1.9.1/jquery.js&quot;,&quot;js&quot;)
+     * @param fileurl 文件路径，
+     * @param filetype 文件类型，支持传入类型，js、css
+     */</span>
+    <span class="token function-variable function">loadjscssfile</span><span class="token operator">:</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">fileurl<span class="token punctuation">,</span>filetype</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span>filetype <span class="token operator">==</span> <span class="token string">&quot;js&quot;</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">var</span> fileref <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">createElement</span><span class="token punctuation">(</span><span class="token string">'script'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            fileref<span class="token punctuation">.</span><span class="token function">setAttribute</span><span class="token punctuation">(</span><span class="token string">&quot;type&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;text/javascript&quot;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            fileref<span class="token punctuation">.</span><span class="token function">setAttribute</span><span class="token punctuation">(</span><span class="token string">&quot;src&quot;</span><span class="token punctuation">,</span>fileurl<span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span><span class="token keyword">else</span> <span class="token keyword">if</span><span class="token punctuation">(</span>filetype <span class="token operator">==</span> <span class="token string">&quot;css&quot;</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+
+            <span class="token keyword">var</span> fileref <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">createElement</span><span class="token punctuation">(</span><span class="token string">'link'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            fileref<span class="token punctuation">.</span><span class="token function">setAttribute</span><span class="token punctuation">(</span><span class="token string">&quot;rel&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;stylesheet&quot;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            fileref<span class="token punctuation">.</span><span class="token function">setAttribute</span><span class="token punctuation">(</span><span class="token string">&quot;type&quot;</span><span class="token punctuation">,</span><span class="token string">&quot;text/css&quot;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            fileref<span class="token punctuation">.</span><span class="token function">setAttribute</span><span class="token punctuation">(</span><span class="token string">&quot;href&quot;</span><span class="token punctuation">,</span>fileurl<span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span><span class="token keyword">typeof</span> fileref <span class="token operator">!=</span> <span class="token string">&quot;undefined&quot;</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            document<span class="token punctuation">.</span><span class="token function">getElementsByTagName</span><span class="token punctuation">(</span><span class="token string">&quot;head&quot;</span><span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">appendChild</span><span class="token punctuation">(</span>fileref<span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span><span class="token keyword">else</span><span class="token punctuation">{</span>
+            <span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">&quot;loadjscssfile method error!&quot;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token punctuation">;</span>
+
+<span class="token comment">/***********************************************************************
+ *                           字符串操作工具类                          *
+ *                     注：调用方式，strUtil.方法名                   *
+ * ********************************************************************/</span>
+<span class="token keyword">var</span> strUtil <span class="token operator">=</span> <span class="token punctuation">{</span>
+    <span class="token comment">/*
+     * 判断字符串是否为空
+     * @param str 传入的字符串
+     * @returns {}
+     */</span>
+    <span class="token function-variable function">isEmpty</span><span class="token operator">:</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">str</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span>str <span class="token operator">!=</span> <span class="token keyword">null</span> <span class="token operator">&amp;&amp;</span> str<span class="token punctuation">.</span>length <span class="token operator">&gt;</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span><span class="token keyword">else</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token comment">/*
+     * 判断两个字符串子否相同
+     * @param str1
+     * @param str2
+     * @returns {Boolean}
+     */</span>
+    <span class="token function-variable function">isEquals</span><span class="token operator">:</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">str1<span class="token punctuation">,</span>str2</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span>str1<span class="token operator">==</span>str2<span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span><span class="token keyword">else</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token comment">/*
+     * 忽略大小写判断字符串是否相同
+     * @param str1
+     * @param str2
+     * @returns {Boolean}
+     */</span>
+    <span class="token function-variable function">isEqualsIgnorecase</span><span class="token operator">:</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">str1<span class="token punctuation">,</span>str2</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span>str1<span class="token punctuation">.</span><span class="token function">toUpperCase</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">==</span> str2<span class="token punctuation">.</span><span class="token function">toUpperCase</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span><span class="token keyword">else</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token comment">/**
+     * 判断是否是数字
+     * @param value
+     * @returns {Boolean}
+     */</span>
+    <span class="token function-variable function">isNum</span><span class="token operator">:</span><span class="token keyword">function</span> <span class="token punctuation">(</span><span class="token parameter">value</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span> value <span class="token operator">!=</span> <span class="token keyword">null</span> <span class="token operator">&amp;&amp;</span> value<span class="token punctuation">.</span>length<span class="token operator">&gt;</span><span class="token number">0</span> <span class="token operator">&amp;&amp;</span> <span class="token function">isNaN</span><span class="token punctuation">(</span>value<span class="token punctuation">)</span> <span class="token operator">==</span> <span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span><span class="token keyword">else</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token comment">/**
+     * 判断是否是中文
+     * @param str
+     * @returns {Boolean}
+     */</span>
+    <span class="token function-variable function">isChine</span><span class="token operator">:</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">str</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">var</span> reg <span class="token operator">=</span> <span class="token regex">/^([u4E00-u9FA5]|[uFE30-uFFA0])*$/</span><span class="token punctuation">;</span>
+        <span class="token keyword">if</span><span class="token punctuation">(</span>reg<span class="token punctuation">.</span><span class="token function">test</span><span class="token punctuation">(</span>str<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+        <span class="token keyword">return</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token punctuation">;</span>
+
+</code></pre></div></div> <footer class="page-edit"><!----> <!----></footer> <!----> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.cfbfcb90.js" defer></script><script src="/assets/js/2.9fef5f23.js" defer></script><script src="/assets/js/33.44e86d18.js" defer></script>
+  </body>
+</html>
