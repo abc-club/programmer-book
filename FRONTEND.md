@@ -398,6 +398,8 @@
 * [webpack](https://github.com/webpack/webpack)
 * [webpack官方文档](https://webpack.js.org)
 * [webpack 中文文档](https://github.com/docschina/webpack.js.org)(https://webpack.docschina.org/)
+* [深入浅出 Webpack](https://webpack.wuhaolin.cn/)(书)
+
 
 ### webpack
 * [Webpack源码解读：理清编译主流程](https://juejin.im/post/5dc01199f265da4d12067ebe)
