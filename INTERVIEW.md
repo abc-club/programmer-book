@@ -166,6 +166,8 @@
 * [我想加入阿里，我该怎么做](https://mp.weixin.qq.com/s/5usQY8a_6eI7PTXLXJ2Nlw)
 * [阿里六面，挂在hrg，我真的不甘心](https://www.toutiao.com/a6753809422167835139)
 * [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
+* [分享一下我去年年底求职阿里的经历](https://juejin.im/post/5e43908de51d4534ec004cbe)
+
 
 ### 腾讯
 * [腾讯前端面试篇（一）](https://juejin.im/post/5c19c1b6e51d451d1e06c163)

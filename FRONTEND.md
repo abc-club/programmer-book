@@ -405,7 +405,9 @@
 * [Webpack源码解读：理清编译主流程](https://juejin.im/post/5dc01199f265da4d12067ebe)
 * [从Webpack源码探究打包流程，萌新也能看懂～](https://juejin.im/post/5c0206626fb9a049bc4c6540)
 * [webpack4.0源码分析之Tapable](https://juejin.im/post/5abf33f16fb9a028e46ec352)
-
+* [webpack原理](https://segmentfault.com/a/1190000015088834)
+* [webpack详解](https://juejin.im/post/5aa3d2056fb9a028c36868aa)
+* [Webpack 4 配置最佳实践](https://juejin.im/post/5b304f1f51882574c72f19b0)
 
 ### loader
 * [编写一个 loader](https://webpack.docschina.org/contribute/writing-a-loader/)
