@@ -28,10 +28,166 @@
 
 ### CSS
 
+> 使用css实现一个持续的动画效果
+<details>
+<summary>答案</summary>
+
+```js
+animation:mymove 5s infinite;
+@keyframes mymove {
+from {top:0px;}
+to {top:200px;}
+}
+
+```
+主要考察
+
+值|	描述
+:---:|:---:
+animation-name|	规定需要绑定到选择器的 keyframe 名称。。
+animation-duration|	规定完成动画所花费的时间，以秒或毫秒计。
+animation-timing-function|	规定动画的速度曲线。
+animation-delay|	规定在动画开始之前的延迟。
+animation-iteration-count|	规定动画应该播放的次数。
+animation-direction|	规定是否应该轮流反向播放动画。
+
+
+</details>
+
+扩展：
+  * 使用js实现一个持续的动画效果
+  ```html
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>js动画</title>
+    <style>
+      #app{
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        background-color: #f00;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      const end = 300, duration = 5
+      const $app = document.getElementById('app')
+      let starttime
+      function move() {
+        let percent = (Date.now() - starttime) / 1000 % duration / duration
+        $app.style.left = percent * end + 'px'
+      }
+      // 方法一
+      // function start() {
+      //   starttime = Date.now()
+      //   let timer = setInterval(() => {
+      //     move()
+      //   }, 1000/60);
+      // }
+      // start()
+
+      // 方法二
+      // function start() {
+      //   let timer = setTimeout(() => {
+      //     move()
+      //     start()
+      //   }, 1000/60);
+      // }
+      // starttime = Date.now()
+      // start()
+
+      // 方法三
+      function start() {
+        requestAnimationFrame(() => {
+          move()
+          start()
+        })
+      }
+      starttime = Date.now()
+      start()
+      
+    </script>
+  </body>
+  </html>
+  ```
+
 #### css盒模型
 
 * 请
 
+
+### html
+
+
+### http
+
+> http的特点
+<details>
+<summary>答案</summary>
+
+```
+无状态 无连接
+```
+
+</details>
+
+> http报文的组成部分
+
+<details>
+<summary>答案</summary>
+
+```
+请求行 请求头 空行 请求体
+转态行 响应头 空行 响应体
+```
+
+</details>
+
+> http的方法
+
+<details>
+<summary>答案</summary>
+
+```
+GET POST PUT DELETE HEAD
+```
+
+</details>
+
+扩展：
+  * GET和POST的区别
+    ![](https://user-gold-cdn.xitu.io/2020/2/16/1704c9f21c446b15?w=2386&h=1248&f=png&s=1321893)
+
+> http的状态码
+<details>
+<summary>答案</summary>
+
+能记住以下几个就行
+![](https://user-gold-cdn.xitu.io/2020/2/16/1704ca219b81dbdc?w=2466&h=774&f=png&s=714664)
+
+![](https://user-gold-cdn.xitu.io/2020/2/16/1704ca288c9ed092?w=2562&h=800&f=png&s=871763)
+
+* [更多](https://www.runoob.com/http/http-status-codes.html)
+
+</details>
+  
+> http的持久化和管线化
+
+  了解概念即可，不必深究
+
+  https://www.cnblogs.com/hyzm/p/9530392.html
+
+> **浏览器缓存**
+
+
+
+### js
 
 #### DOM事件类型
 
@@ -164,69 +320,6 @@ if(window.dispatchEvent) {
 </details> 
 
 
-### http
-
-> http的特点
-<details>
-<summary>答案</summary>
-
-```
-无状态 无连接
-```
-
-</details>
-
-> http报文的组成部分
-
-<details>
-<summary>答案</summary>
-
-```
-请求行 请求头 空行 请求体
-转态行 响应头 空行 响应体
-```
-
-</details>
-
-> http的方法
-
-<details>
-<summary>答案</summary>
-
-```
-GET POST PUT DELETE HEAD
-```
-
-</details>
-
-扩展：
-  * GET和POST的区别
-    ![](https://user-gold-cdn.xitu.io/2020/2/16/1704c9f21c446b15?w=2386&h=1248&f=png&s=1321893)
-
-> http的状态码
-<details>
-<summary>答案</summary>
-
-能记住以下几个就行
-![](https://user-gold-cdn.xitu.io/2020/2/16/1704ca219b81dbdc?w=2466&h=774&f=png&s=714664)
-
-![](https://user-gold-cdn.xitu.io/2020/2/16/1704ca288c9ed092?w=2562&h=800&f=png&s=871763)
-
-* [更多](https://www.runoob.com/http/http-status-codes.html)
-
-</details>
-  
-> http的持久化和管线化
-
-  了解概念即可，不必深究
-
-  https://www.cnblogs.com/hyzm/p/9530392.html
-
-> **浏览器缓存**
-
-
-
-### js
 
 > 原型链
 
@@ -396,6 +489,8 @@ postmessage
 
 #### 网络安全
 
+* [CSRF 是什么](https://zhuanlan.zhihu.com/p/22521378)
+
 ```
 1. XSS（cross-site-scripting, 跨站脚本）攻击
 
@@ -405,6 +500,7 @@ postmessage
 
 解决方法： 1.明文传递cookie
          2. 请求一个随机字符串（只能用一次）
+         3. 判断referer
 
 ```
 

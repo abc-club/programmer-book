@@ -55,7 +55,7 @@
 * [seneca](https://github.com/senecajs/seneca)(微服务框架)
 * [Seneca ：NodeJS 微服务框架入门指南](https://segmentfault.com/a/1190000008501410)
 * [vastify](https://github.com/Cecil0o0/vastify)
-
+* [Node微服务](https://www.bilibili.com/video/av74669898)
 
 
 ## npm
