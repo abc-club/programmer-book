@@ -123,7 +123,7 @@ animation-direction|	规定是否应该轮流反向播放动画。
 * [css中的百分比](https://zhuanlan.zhihu.com/p/93084661)
 * [css实现垂直水平居中](https://juejin.im/post/5854e137128fe100698e6271)
 * [css实现垂直水平居中](https://juejin.im/post/5854e137128fe100698e6271)
-* [实现等高布局](https://demo.cssworld.cn/4/3-2.php)
+* [实现等高布局]https://demo.cssworld.cn/4/3-2.php https://demo.cssworld.cn/4/4-4.php
 
 
 > css3新特性
