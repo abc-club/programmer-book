@@ -186,6 +186,9 @@
 * [【面试总结】记一次失败的 bilibili 面试总结(2)](https://juejin.im/post/5c88d34fe51d4559d83381af)
 * [【面试总结】记一次失败的 bilibili 面试总结(3)](https://juejin.im/post/5ca2ba0ee51d4524fd28778a)
 
+### 头条
+* [两年前端头条面试记](https://juejin.im/post/5de5a2d0e51d451aec2b8883)
+
 ### 其他
 * [关于裸辞，关于前端面试](https://juejin.im/post/5cf3365ff265da1b9612ec78)
 * [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947)
@@ -199,8 +202,6 @@
 * [2019年，看了这一份， 再也不怕前端面试了](https://zhuanlan.zhihu.com/p/87043003)
 * [横扫9家大厂前端校招offer，全文14560字，阅读需80分钟](https://mp.weixin.qq.com/s/tM2lvhJEhXXl0nO92hf7yQ\)
 
-### 头条
-* [两年前端头条面试记](https://juejin.im/post/5de5a2d0e51d451aec2b8883)
 
 
 

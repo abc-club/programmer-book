@@ -4,7 +4,11 @@
 
 下面就每个阶段需要准备哪些知识进行详解，希望每位同学都能拿到心仪的offer!!!
 
+> 本文已收录到以下个人网站和github，欢迎follow和star
 
+* [博客](https://abc-club.github.io/free-resources/)
+
+* [github](https://github.com/abc-club/free-resources)
 
 ## 面试准备
 
@@ -43,6 +47,16 @@
 * [OpenDoc - 前端简历评级标准](https://juejin.im/post/58b6679461ff4b006ccd825e)
 * [别的程序员是怎么读你的简历的](http://coolshell.cn/articles/1695.html)
 
+#### 简历模板
+* [best-resume-ever](https://github.com/salomonelli/best-resume-ever)(👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.)
+* [Resumes generated using the GitHub informations](https://github.com/resume/resume.github.com)(Resumes generated using the GitHub informations )
+* [送给大家一个好看的简历神器](https://juejin.im/post/59926d2251882548997aa2f8)
+* [5款精致简洁求职简历](https://xituqu.com/768.html)
+* [6款简洁多风格的求职简历](https://xituqu.com/769.html)
+* [10+ 优秀简洁的个人简历下载（五](https://xituqu.com/586.html)
+* [实战项目之自动简历](https://juejin.im/post/5b9d27ddf265da0ad7019775)
+* [又双叒叕是一个动态简历](https://juejin.im/post/5c1fd3f1f265da61171cb8bf)
+* [My resume implement by Vue.js](https://github.com/ustbhuangyi/resume)
 
 ### 自我介绍
 
@@ -708,6 +722,17 @@ arguments不会自动反映函数参数的变化
 
 在代码块内，使用let命令声明变量之前，该变量都是不可用的。这在语法上，称为“暂时性死区”（temporal dead zone，简称 TDZ）。
 
+#### CommonJS 中的 require/exports 和 ES6 中的 import/export 区别？
+```
+- CommonJS 模块的重要特性是加载时执行，即脚本代码在 require 的时候，就会全部执行。一旦出现某个模块被”循环加载”，就只输出已经执行的部分，还未执行的部分不会输出。
+- ES6 模块是动态引用，如果使用 import 从一个模块加载变量，那些变量不会被缓存，而是成为一个指向被加载模块的引用，需要开发者自己保证，真正取值的时候能够取到值。
+- import/export 最终都是编译为 require/exports 来执行的。
+- CommonJS 规范规定，每个模块内部，module 变量代表当前模块。这个变量是一个对象，它的 exports 属性（即 module.exports ）是对外的接口。加载某个模块，其实是加载该模块的 module.exports 属性。
+- export 命令规定的是对外的接口，必须与模块内部的变量建立一一对应关系。
+
+```
+* [前端模块化：CommonJS,AMD,CMD,ES6](https://juejin.im/post/5aaa37c8f265da23945f365c)
+* [ES6 模块与 CommonJS 模块的差异](http://es6.ruanyifeng.com/#docs/module-loader#ES6-%E6%A8%A1%E5%9D%97%E4%B8%8E-CommonJS-%E6%A8%A1%E5%9D%97%E7%9A%84%E5%B7%AE%E5%BC%82)
 
 
 ### typescript
@@ -955,6 +980,7 @@ function _new() {
 ### 对技术的热情
 1. 你是否了解vue3？vue3做了哪些优化？与vue2有什么不同？
 2. 你是否了解微服务？web component? http3?等
+3. 是否有开源项目？
 
 ## 终面（hr面）
 侧重考察性格、潜力
@@ -976,13 +1002,112 @@ function _new() {
  5. 你平时都喜欢干什么
  6. 如果和同事有了冲突，你会怎么办
 
+---
+
+至此面试结束，恭喜你拿到了心仪的offer！
+
+接下来要讲的是面试技巧以及经验，以帮助大家更好的应对面试！！！
+
+## 面试技巧
+* [「技术面试」问答中有什么十分实用的面试技巧?](https://juejin.im/post/5d30c0cd6fb9a07efd474427)
+* [5分钟谈前端面试](https://juejin.im/post/5d04fc1c51882559ef78e88f)
+* [面试前如何准备才能提高成功率（含前端面试押题）](https://juejin.im/post/5c6d4789f265da2d8e70e164)
+* [作为技术面试官，为什么把你pass了](https://juejin.im/post/5c1e7a086fb9a049b82a7310)
+* [精读《最佳前端面试题》及面试官技巧](https://zhuanlan.zhihu.com/p/28333260)
+* [写给初级前端的面试经验](https://juejin.im/post/5c8bb79e6fb9a04a006fe79a)
+* [前端面试指南](https://zhuanlan.zhihu.com/p/25859524)
+* [关于面试流程](https://juejin.im/post/59ec3d50f265da431c6f7339)
+* [程序员面试时这样介绍自己的项目经验，成功率能达到98.99%](https://www.toutiao.com/a6750279305806217739)
+
+## 如果你是面试官
+* [谈谈面试与面试题](https://github.com/wintercn/blog/issues/4)
+* [面试数十人有感](https://juejin.im/post/5bd2d92c6fb9a05d0f17218c)
 
 
-## 测试
+## 面试经验
+
+### 阿里
+* [我在阿里招前端，我该怎么帮你？(文末有惊喜)](https://mp.weixin.qq.com/s/pP-qvi6XK14zoGxtc2dqfA)
+* [面试分享：2018阿里巴巴前端面试总结](https://juejin.im/post/5ab0da85f265da23866fb9b7)
+* [阿里健康面试总结](https://juejin.im/post/5d8896e5e51d45621512ae4a)
+* [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://juejin.im/post/5d4cd42a6fb9a06aea618155)
+* [面试分享：专科半年经验面试阿里前端P6+总结(附面试真题及答案)](https://juejin.im/post/5a92c23b5188257a6b06110b)
+* [面试分享：2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)
+* [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
+* [面试分享：两年工作经验成功面试阿里P6总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
+* [想进阿里吗？送你一份 4000 字《阿里内推指南》](https://juejin.im/post/5da67a41f265da5b681ff295)
+* [我想加入阿里，我该怎么做](https://mp.weixin.qq.com/s/5usQY8a_6eI7PTXLXJ2Nlw)
+* [阿里六面，挂在hrg，我真的不甘心](https://www.toutiao.com/a6753809422167835139)
+* [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
+
+
+### 腾讯
+* [腾讯前端面试篇（一）](https://juejin.im/post/5c19c1b6e51d451d1e06c163)
+* [腾讯前端面试篇（二）](https://juejin.im/post/5c1869ab6fb9a049f154207a)
+* [腾讯面试篇（三）——终章](https://juejin.im/post/5c1eec7bf265da61477034ae)
+
+### 百度
+* [我的 web 前端面试经历 - 百度](https://juejin.im/post/5d1d52aff265da1bb2774de0)
+
+
+### 小米
+* [记一次凉凉的小米面试](https://juejin.im/post/5b4d543ce51d4519610dea67)
+
+### bilibili
+* [【面试总结】记一次失败的 bilibili 面试总结(1)](https://juejin.im/post/5c878397f265da2dde07293b)
+* [【面试总结】记一次失败的 bilibili 面试总结(2)](https://juejin.im/post/5c88d34fe51d4559d83381af)
+* [【面试总结】记一次失败的 bilibili 面试总结(3)](https://juejin.im/post/5ca2ba0ee51d4524fd28778a)
+
+### 头条
+* [两年前端头条面试记](https://juejin.im/post/5de5a2d0e51d451aec2b8883)
+
+### 其他
+* [关于裸辞，关于前端面试](https://juejin.im/post/5cf3365ff265da1b9612ec78)
+* [一年经验前端 杭州几家二线厂面试题梳理](https://juejin.im/post/5d3a538bf265da1b9163d947)
+* [1月前端面试记](https://juejin.im/post/587dab348d6d810058d87a0a)
+* [前端面试经](https://juejin.im/post/59aa6be06fb9a0248e5cddf0)
+* [2018年6月前端面试经历(上)](https://juejin.im/post/5b39bb696fb9a00e57630e27)
+* [2019 面试实战 - 第一回合](https://juejin.im/post/5c7bc11d6fb9a04a0956c325)
+* [2018春招前端面试: 闯关记(精排精校) | 掘金技术征文](https://juejin.im/post/5a998991f265da237f1dbdf9)
+* [2018春节后前端面试小记](https://juejin.im/post/5a99108f51882555666f1bca)
+* [Web前端岗位面试题有哪些？](https://www.zhihu.com/question/41466747/answer/747323907)
+* [2019年，看了这一份， 再也不怕前端面试了](https://zhuanlan.zhihu.com/p/87043003)
+* [横扫9家大厂前端校招offer，全文14560字，阅读需80分钟](https://mp.weixin.qq.com/s/tM2lvhJEhXXl0nO92hf7yQ\)
+
+
+## 招聘官网
+* [阿里社招](https://job.alibaba.com/zhaopin/positionList.htm)
+* [阿里校招](https://campus.alibaba.com/positionList.htm)
+* [腾讯社招](https://careers.tencent.com/search.html?query=at_1,ci_5&keyword=%e5%89%8d%e7%ab%af)
+* [今日头条社招](https://job.bytedance.com/society?summary=873&city=45&q1=%E5%89%8D%E7%AB%AF&position_type=)
+* [知乎](https://app.mokahr.com/apply/zhihu/3819#/?_k=t046ya)(北京 上海 成都 广州)
+
+
+## 待遇
+* [阿里福利](https://campus.alibaba.com/welfare.htm)
+* [【阿里员工一年挣多少钱？聊一聊阿里薪酬职级体系】](https://m.toutiaocdn.com/a6724307251558875652)
+* [阿里的绩效考核：赏明星，杀白兔，野狗要示众](https://m.toutiaocdn.com/a6726291727654584839)
+* [在字节跳动做程序员是一种什么样的体验？](https://www.toutiao.com/a6751338039886217736)
+* [入职字节跳动48小时后，我发现了抖音的秘密](https://www.toutiao.com/a6751311464365031948)
+* [一文揭秘BAT互联网大厂薪资](https://www.toutiao.com/a6750467774801248782)
+
+
+---
+
+
+## 面试题仓库
 * [2020年从基础到进阶，测试你有多了解 JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc)
+- https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md([译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试)
+- https://github.com/haizlin/fe-interview
+- https://github.com/30-seconds/30-seconds-of-interviews
+- https://github.com/xiaomuzhu/front-end-interview
+- https://github.com/yisainan/web-interview
+- https://github.com/woai3c/Front-end-basic-knowledge
+- https://github.com/qiu-deqing/FE-interview
+- https://github.com/poetries/FE-Interview-Questions
+- https://github.com/azl397985856/fe-interview
+* [张云龙blog](https://github.com/fouber/blog)
+* [阿里，腾讯，百度，美团，头条等技术面试题目，以及答案](https://github.com/yttsam/interview_internal_reference)
+* [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
+* [面试的图谱](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
-## 个人博客
-
-* [博客](https://abc-club.github.io/free-resources/)
-
-* [github](https://github.com/abc-club/free-resources/blob/master/FRONTEND.md)
