@@ -11,6 +11,7 @@ module.exports = {
       { text: 'GITHUB', link: 'https://github.com/abc-club/free-resources/' },
     ],
     sidebar: [
+      ['/INTERVIEWMOCK', '从面试前到终面，全面为您保驾护航'],
       ['/FRONTEND', '前端'],
       ['/INTERVIEW', '面试'],
       ['/QUESTIONS', '面试问题'],

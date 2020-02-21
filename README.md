@@ -4,7 +4,7 @@ heroImage: null
 heroText: 资源汇总
 tagline: 本文收集学习过程中收藏的资源 相信对大家会有帮助 喜欢的可以star, 持续更新中大家可以watch
 actionText: 快速开始 →
-actionLink: /FRONTEND
+actionLink: /INTERVIEWMOCK
 features:
 # - title: 简洁至上
 #   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
@@ -18,6 +18,7 @@ footer: MIT Licensed | Copyright © 2018-present Ping Ao
 
 ## 目录
 
+* [从面试前到终面，全面为您保驾护航](INTERVIEWMOCK.md)
 * [前端](FRONTEND.md)
 * [自己动手](DIY.md)
 * [前辈经验](EXPERIENCE.md)
