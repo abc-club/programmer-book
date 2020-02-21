@@ -410,12 +410,57 @@ if(window.dispatchEvent) {
 </details> 
 
 
+#### js基础
+
+> var let const的区别
+
+```
+let 不存在变量提升，不能重复定义，会产生块级作用域，存在暂时性死区
+const 声明就得赋值，变量的值不得改动
+```
+* [一道面试题引发的“血案”](https://juejin.im/post/5bab1d4ae51d450e4d2feb7a)
+
+> 变量提升&作用域
+* [图解作用域及闭包](https://juejin.im/post/5af109426fb9a07aa047f1c7)
+* [深入理解 JavaScript, 从作用域与作用域链开始](https://juejin.im/post/5d13a5fce51d455a694f9560)
+* [深入理解JavaScript作用域和作用域链](https://juejin.im/post/5c8290455188257e5d0ec64f)
+
+
+> 获取字符串长度的方法
+
+```js
+function codePointLength(text) {
+  var result = text.match(/[\s\S]/gu);
+  return result ? result.length : 0;
+}
+
+var s = '𠮷𠮷';
+
+s.length // 4
+codePointLength(s) // 2
+```
+
+```js
+function length(str) {
+  return [...str].length;
+}
+
+length('x\uD83D\uDE80y') // 3
+```
+
 
 > 原型链
 
+* [用自己的方式（图）理解constructor、prototype、__proto__和原型链](https://juejin.im/post/5cc99fdfe51d453b440236c3)
+
 > This
+* [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
+* [Js中this的用法](http://xieyufei.com/2016/09/18/Explain-Js-This.html)
+* [通过运行机制看this绑定 、作用域、作用域链和闭包](https://juejin.im/post/5dde27615188256ebd1618fb)
+* [JavaScript this 的六道坎](https://blog.crimx.com/2016/05/12/understanding-this/)
 
 > 闭包
+* [图解JS闭包形成的原因](https://segmentfault.com/a/1190000011504517)
 
 > 继承
 <details>
@@ -543,12 +588,166 @@ if(window.dispatchEvent) {
 </details>
 
 
+> 请问new执行的操作
+
+```
+1. 创建一个全新的对象。
+2. 这个新对象会被执行 [[Prototype]] 连接。
+3. 这个新对象会绑定到函数调用的 this。
+4. 如果函数没有返回其他对象，那么 new 表达式中的函数调用会自动返回这个新对象。
+```
+> 你了解Object.create吗
+* [详解Object.create(null)](https://juejin.im/post/5acd8ced6fb9a028d444ee4e)
+
+
+
+
+## 二面
+侧重考察知识面、高阶知识、深入原理等
+
+
+
+### js
+
+> setTimeout和setInterval和requestAnimationFrame
+
+* [关于setInterval与setTimeout作用域问题](https://my.oschina.net/huskydog/blog/1553720)
+* [注意点——setTimeout、setInterval使用](https://juejin.im/post/59cf06745188253fbe466f78)
+* [你真的了解setTimeout和setInterval吗？](http://qingbob.com/difference-between-settimeout-setinterval/)
+* [关于setTimeout](https://juejin.im/post/5aa4c47af265da239866e236)
+* [深度解密setTimeout和setInterval——为setInterval正名！](https://juejin.im/post/5c4044e1f265da614f708f7d)
+* [从setTimeout/setInterval看JS线程](https://palmer.arkstack.cn/2017/12/%E4%BB%8EsetTimeout-setInterval%E7%9C%8BJS%E7%BA%BF%E7%A8%8B/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [你知道的requestAnimationFrame【从0到0.1】](https://juejin.im/post/5c3ca3d76fb9a049a979f429)
+
+
+> JSON.parse(JSON.stringify())的缺点
+
+在JSON.stringify()阶段
+
+```
+1.如果obj里面有时间对象，则JSON.stringify后再JSON.parse的结果，时间将只是字符串的形式，而不是对象的形式
+
+2.如果obj里有RegExp(正则表达式的缩写)、Error对象，则序列化的结果将只得到空对象
+
+3、如果obj里有函数，undefined，则序列化的结果会把函数或 undefined丢失
+
+4、如果obj里有NaN、Infinity和-Infinity，则序列化的结果会变成null
+
+5、JSON.stringify()只能序列化对象的可枚举的自有属性，例如 如果obj中的对象是有构造函数生成的， 则使用JSON.parse(JSON.stringify(obj))深拷贝后，会丢弃对象的constructor
+
+6、如果对象中存在循环引用的情况也无法正确实现深拷贝
+```
+
+> 对象与数组的遍历
+* [javaScript遍历对象、数组总结](https://www.cnblogs.com/chenyablog/p/6477866.html)
+对象的属性分为三种： 是否是自身属性 是否可以枚举 是否是Symbol属性
+注意：对象没有for...of...
+
+举个栗子
+
+```js
+var a = {a: 1}
+var b= {b:2}
+b.__proto__ = a
+Object.defineProperty(b, 'c', {
+	value: 3
+})
+b[Symbol()] = 4
+
+Object.keys(b) // ["b"]  返回一个数组,包括对象自身的(不含继承的)所有可枚举属性(不含Symbol属性).
+
+for(var i in b) {
+  console.log(i,":",b[i]);
+} // b : 2 a : 1   循环遍历对象自身的和继承的可枚举属性(不含Symbol属性)
+
+Object.getOwnPropertyNames(obj) // ["b", "c"] 返回一个数组,包含对象自身的所有属性(不含Symbol属性,但是包括不可枚举属性).
+Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身的所有属性,不管属性名是Symbol或字符串,也不管是否可枚举.  
+
+```
+
+> 什么是严格模式
+严格模式主要有以下限制。
+
+```
+变量必须声明后再使用
+函数的参数不能有同名属性，否则报错
+不能使用with语句
+不能对只读属性赋值，否则报错
+不能使用前缀 0 表示八进制数，否则报错
+不能删除不可删除的属性，否则报错
+不能删除变量delete prop，会报错，只能删除属性delete global[prop]
+eval不会在它的外层作用域引入变量
+eval和arguments不能被重新赋值
+arguments不会自动反映函数参数的变化
+不能使用arguments.callee
+不能使用arguments.caller
+禁止this指向全局对象
+不能使用fn.caller和fn.arguments获取函数调用的堆栈
+增加了保留字（比如protected、static和interface）
+```
+
+
+### 函数式编程
+* [JavaScript 函数式编程](https://juejin.im/post/5b4ac0d0f265da0fa959a785)
+* [函数式编程入门教程](http://www.ruanyifeng.com/blog/2017/02/fp-tutorial.html)
+* [ramda](https://github.com/ramda/ramda)
+* [Ramda 函数库参考教程](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
+
+
+正则表达式
+* [JS正则表达式完整教程（略长）](https://juejin.im/post/5965943ff265da6c30653879)
+
+### es6
+* [ES6 入门教程](http://es6.ruanyifeng.com)
+* [1.5万字概括ES6全部特性](https://juejin.im/post/5d9bf530518825427b27639d)
+
+> 什么叫暂时性死区
+
+在代码块内，使用let命令声明变量之前，该变量都是不可用的。这在语法上，称为“暂时性死区”（temporal dead zone，简称 TDZ）。
+
+
+
+### typescript
+* [typescript中文官网](https://www.tslang.cn/docs/home.html)
+* [Typescript 中的 interface 和 type 到底有什么区别](https://juejin.im/post/5c2723635188252d1d34dc7d)
+
+
+### vue
+* [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
+* [Vue 3 中令人兴奋的新功能](https://juejin.im/post/5dc3cfce6fb9a04a665f100e)
+* [面试官: 实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
+
+#### vue-cli
+* [改造vue-cli，让它更好用](https://juejin.im/post/5b7392b16fb9a009b82c05de)
+* [这可能是vue-cli最全的解析了……](https://juejin.im/post/5b2872516fb9a00e8626e34f)
+* [Vue-cli原理分析](https://juejin.im/post/5b592db551882536e5178ce6)
+
+
+![vue响应式原理](https://user-gold-cdn.xitu.io/2018/4/11/162b38ab2d635662?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+
+### react
+* [官网](https://zh-hans.reactjs.org/docs/getting-started.html)
+* [关于Vue和React的一些对比及个人思考（上）](https://juejin.im/post/5e153e096fb9a048297390c1)
+* [【React深入】从Mixin到HOC再到Hook](https://juejin.im/post/5cad39b3f265da03502b1c0a)
+
+### 小程序
+
+#### taro
+
+### weex
+
+#### 源码
+* [Weex 中别具匠心的 JS Framework](https://halfrost.com/weex_js_framework/)
+
+### webpack
+* [2020年了,再不会webpack敲得代码就不香了(近万字实战)](https://juejin.im/post/5de87444518825124c50cd36)
+* [一步步从零开始用 webpack 搭建一个大型项目](https://juejin.im/post/5de06aa851882572d672c1ad)
+
 
 ### 浏览器
 
 #### 网络请求
-
-
+* [七层网络结构](https://blog.csdn.net/u010359398/article/details/82142449)
 
 > 浏览器同源政策及跨域
 
@@ -563,18 +762,7 @@ postmessage
 
 * [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
 * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
-
-
 * [ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)
-
-
-
-> 实现ajax
-
-
-> 实现jsonp
-
-> 实现cors
 
 
 #### 网络安全
@@ -594,18 +782,123 @@ postmessage
 
 ```
 
+
+
 #### 浏览器渲染机制
+* [从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://zhuanlan.zhihu.com/p/34453198?group_id=957277540147056640)
+* [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)
 
 #### js运行机制
+* [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+* [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+* [JavaScript的Event Loop详解](https://juejin.im/post/5d21c6d56fb9a07ea4209ffc)
+* [Visualizing the javascript runtime at runtime](https://github.com/latentflip/loupe)
+
 
 #### 页面性能
 ![](https://user-gold-cdn.xitu.io/2020/2/16/1704ddffd050262b?w=2516&h=1064&f=png&s=840739)
+* [用100行代码提升10倍的性能](https://juejin.im/post/5bec223f5188250c102116b5)
+
+#### 进程与线程
+* [深入理解Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9)
+* [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
+* [一篇让你明白进程与线程之间的区别与联系](https://juejin.im/post/5c932660f265da612524ad6d)
+* [浅析操作系统的进程、线程区别](https://blog.csdn.net/zhuoxiuwu/article/details/77850724)
+
+#### 页面渲染
+* [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
+* [浏览器页面渲染机制，你真的弄懂了吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247489674)
+
+#### 缓存
+* [彻底理解浏览器的缓存机制](https://juejin.im/entry/5ad86c16f265da505a77dca4)
+* [浏览器缓存](https://segmentfault.com/a/1190000008377508)
+* [前端静态资源缓存最优解以及max-age的陷阱](https://blog.csdn.net/weixin_42817899/article/details/84553595)
+* [面试精选之http缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037)
+
+#### 垃圾回收
+* [图解 JavaScript 垃圾回收 — 现代 JavaScript 教程](https://juejin.im/post/5e0ddc24f265da5d1805ee6f)
+
+#### 架构
+* [一文带你看透 Chrome 浏览器架构](https://juejin.im/post/5e11cd225188253a73288212)
+
+
+### nodejs
+* [npx 使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)
+* [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc)
+* [图文并茂，为你揭开“单点登录“的神秘面纱](https://juejin.im/post/5e11a6e96fb9a048411a4eca)
+
 
 ### 算法
 
+* [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
+* [js实现排序算法（冒泡、选择、插入、二分插入、快速、希尔）](http://blog.csdn.net/charlene0824/article/details/51387165)
+* [前端面试中的常见的算法问题](https://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
+* [图形算法（邻接矩阵）](https://juejin.im/post/5de7c053518825125d1497e2)
+* [5分钟带你领略:某跳动公司面试出镜率最高的算法之一——虚拟十叉树建模问题](https://juejin.im/post/5d7fb1e16fb9a06ac76de435)
+* [【从蛋壳到满天飞】JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
+* [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
 
-## 二面
-侧重考察知识面、高阶知识、深入原理等
+#### 复杂度
+* [算法的时间和空间复杂度，就是这么简单](https://www.toutiao.com/a6750625828465279495)
+
+#### 二叉树
+* [JavaScript二叉树深入理解](https://www.jianshu.com/p/61f75e0f549f)
+* [3 分钟理解完全二叉树、平衡二叉树、二叉查找树](https://mp.weixin.qq.com/s/K_oGI2rl3epTirxkST5LVQ)
+
+
+### 手写代码
+
+> 手动实现new
+```
+function New(Constructor, ...args){
+    let obj = {};   // 创建一个新对象
+    Object.setPrototypeOf(obj, Constructor.prototype);  // 连接新对象与函数的原型
+    return Constructor.apply(obj, args) || obj;   // 执行函数，改变 this 指向新的对象
+}
+
+function Foo(a){
+    this.a = a;
+}
+
+New(Foo, 1);  // Foo { a: 1 }
+
+```
+
+```
+function _new() {
+    let target = {}; //创建的新对象
+    //第一个参数是构造函数
+    let [constructor, ...args] = [...arguments];
+    //执行[[原型]]连接;target 是 constructor 的实例
+    target.__proto__ = constructor.prototype;
+    //执行构造函数，将属性或方法添加到创建的空对象上
+    let result = constructor.apply(target, args);
+    if (result && (typeof (result) == "object" || typeof (result) == "function")) {
+        //如果构造函数执行的结构返回的是一个对象，那么返回这个对象
+        return result;
+    }
+    //如果构造函数返回的不是一个对象，返回创建的新对象
+    return target;
+}
+
+```
+
+> 实现深拷贝
+* [如何写出一个惊艳面试官的深拷贝?](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
+* [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
+
+> 防抖与节流
+* [js史上最精简！防抖节流（你的比我精简，算我输）](https://juejin.im/post/5da7c77a51882554c0757f46)
+* [2019 面试准备 - JS 防抖与节流](https://juejin.im/post/5c87b54ce51d455f7943dddb)
+
+> 数组去重
+* [JavaScript专题之数组去重](https://juejin.im/post/5949d85f61ff4b006c0de98b)
+* [如何答一道惊艳面试官的数组去重问题？](https://mp.weixin.qq.com/s/IA41OWhKS062WzTOQ6hDAA)
+
+> 其他
+* [23行代码实现一个带并发数限制的fetch请求函数](https://juejin.im/post/5c89d447f265da2dd37c604c)
+* [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
+
 
 
 ## 三面
@@ -621,6 +914,11 @@ postmessage
 ### 业务能力
 
 ![](https://user-gold-cdn.xitu.io/2020/2/16/1704e0d54b794efd?w=1658&h=960&f=png&s=442896)
+
+### 代码质量
+* [代码整洁的 JavaScript](https://github.com/beginor/clean-code-javascript)
+* [如何提升 Web 应用的代码质量](https://juejin.im/post/5b21ae895188257d5e3b9f89)
+
 
 
 ## 终面（hr面）
@@ -640,4 +938,7 @@ postmessage
 
 你有什么要问的
 
+
+## 测试
+* [2020年从基础到进阶，测试你有多了解 JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc)
 
