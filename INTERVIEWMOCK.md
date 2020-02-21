@@ -7,9 +7,16 @@
 
 
 ## 面试准备
-![](https://user-gold-cdn.xitu.io/2020/2/15/17046e737ba4b58c?w=1822&h=1134&f=png&s=367083)
 
-知识 能力 经验
+在开始面试前，我们首先得了解应聘的岗位的要求，并做针对性的准备。
+
+准备包括以下几个方面：
+
+1. 职位描述(JD)分析
+2. 了解业务/项目
+3. 简历
+4. 自我介绍
+
 
 ### 职位描述(JD)分析
 
@@ -19,12 +26,12 @@
 
 * [我在阿里招前端，我该怎么帮你？](https://mp.weixin.qq.com/s/pP-qvi6XK14zoGxtc2dqfA)
 
-### 业务分析或实战模拟
+### 了解业务/项目
 
+分成两步：
 
-
-### 技术栈准备
-
+1. 了解业务，比如该公司主要经营机票业务，我们是不是应该了解一下机票的一个购买流程
+2. 了解项目，我们应该去了解该公司目前的项目，是to B还是to C,是否有m站、海外站、小程序等，使用的是vue还是react
 
 
 ### 简历
@@ -39,17 +46,17 @@
 
 ### 自我介绍
 
+面试中第一个问题就是让我们自我介绍，准备好这个问题，能让面试官对我们有一个准确的了解，同时我们也可以通过自我介绍，引导面试官问出我们比较拿手的问题。
+
+
 
 ## 一面
 
-侧重考察基础
-
-![](https://user-gold-cdn.xitu.io/2020/2/15/17046e76fdd50fe6?w=2650&h=1002&f=png&s=918876)
-基础知识
+侧重考察基础知识，这部分开始我们会准备一些面试中常遇到的问题
 
 ### CSS
 
-> 使用css实现一个持续的动画效果
+#### 使用css实现一个持续的动画效果
 <details>
 <summary>答案</summary>
 
@@ -138,11 +145,11 @@ animation-direction|	规定是否应该轮流反向播放动画。
   </html>
   ```
 
-> css3新特性
+#### css3新特性
 
 ![](https://user-gold-cdn.xitu.io/2020/2/18/1705850abf39af4b?w=1554&h=962&f=png&s=250353)
 
-> 如何清除浮动
+#### 如何清除浮动
 <details>
 <summary>答案</summary>
 
@@ -175,7 +182,7 @@ animation-direction|	规定是否应该轮流反向播放动画。
   * [史上最全面、最透彻的BFC原理剖析](https://github.com/zuopf769/notebook/blob/master/fe/BFC%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90/README.md)
   * [学习 BFC (Block Formatting Context)](https://juejin.im/post/59b73d5bf265da064618731d)
 
-> css盒模型
+#### css盒模型
 <details>
 <summary>答案</summary>
 
@@ -185,7 +192,7 @@ content padding border margin
 
 </details>
 
-> 四种定位的区别
+#### 四种定位的区别
 
 <details>
 <summary>答案</summary>
@@ -201,7 +208,7 @@ fixed 固定定位的元素会相对于视窗来定位,这意味着即便页面�
 
 </details>
 
-> 其他
+#### 其他
 * [css中的百分比](https://zhuanlan.zhihu.com/p/93084661)
 * [css实现垂直水平居中] https://juejin.im/post/5854e137128fe100698e6271 https://demo.cssworld.cn/5/3-10.php
 * [实现等高布局]https://demo.cssworld.cn/4/3-2.php https://demo.cssworld.cn/4/4-4.php
@@ -217,7 +224,7 @@ fixed 固定定位的元素会相对于视窗来定位,这意味着即便页面�
 
 ### http
 
-> http的特点
+#### http的特点
 <details>
 <summary>答案</summary>
 
@@ -239,7 +246,7 @@ fixed 固定定位的元素会相对于视窗来定位,这意味着即便页面�
 
 </details>
 
-> http的方法
+#### http的方法
 
 <details>
 <summary>答案</summary>
@@ -254,7 +261,7 @@ GET POST PUT DELETE HEAD
   * GET和POST的区别
     ![](https://user-gold-cdn.xitu.io/2020/2/16/1704c9f21c446b15?w=2386&h=1248&f=png&s=1321893)
 
-> http的状态码
+#### http的状态码
 <details>
 <summary>答案</summary>
 
@@ -267,19 +274,15 @@ GET POST PUT DELETE HEAD
 
 </details>
   
-> http的持久化和管线化
+#### http的持久化和管线化
 
   了解概念即可，不必深究
 
   https://www.cnblogs.com/hyzm/p/9530392.html
 
-> **浏览器缓存**
 
 
-
-### js
-
-#### DOM事件类型
+### DOM事件类型
 
 > 请问DOM事件级别
 <details>
@@ -410,9 +413,9 @@ if(window.dispatchEvent) {
 </details> 
 
 
-#### js基础
+### js
 
-> var let const的区别
+#### var let const的区别
 
 ```
 let 不存在变量提升，不能重复定义，会产生块级作用域，存在暂时性死区
@@ -420,13 +423,13 @@ const 声明就得赋值，变量的值不得改动
 ```
 * [一道面试题引发的“血案”](https://juejin.im/post/5bab1d4ae51d450e4d2feb7a)
 
-> 变量提升&作用域
+#### 变量提升&作用域
 * [图解作用域及闭包](https://juejin.im/post/5af109426fb9a07aa047f1c7)
 * [深入理解 JavaScript, 从作用域与作用域链开始](https://juejin.im/post/5d13a5fce51d455a694f9560)
 * [深入理解JavaScript作用域和作用域链](https://juejin.im/post/5c8290455188257e5d0ec64f)
 
 
-> 获取字符串长度的方法
+####> 获取字符串长度的方法
 
 ```js
 function codePointLength(text) {
@@ -449,20 +452,20 @@ length('x\uD83D\uDE80y') // 3
 ```
 
 
-> 原型链
+#### 原型链
 
 * [用自己的方式（图）理解constructor、prototype、__proto__和原型链](https://juejin.im/post/5cc99fdfe51d453b440236c3)
 
-> This
+#### This
 * [嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
 * [Js中this的用法](http://xieyufei.com/2016/09/18/Explain-Js-This.html)
 * [通过运行机制看this绑定 、作用域、作用域链和闭包](https://juejin.im/post/5dde27615188256ebd1618fb)
 * [JavaScript this 的六道坎](https://blog.crimx.com/2016/05/12/understanding-this/)
 
-> 闭包
+#### 闭包
 * [图解JS闭包形成的原因](https://segmentfault.com/a/1190000011504517)
 
-> 继承
+#### 继承
 <details>
 <summary>答案</summary>
 
@@ -588,7 +591,7 @@ length('x\uD83D\uDE80y') // 3
 </details>
 
 
-> 请问new执行的操作
+#### 请问new执行的操作
 
 ```
 1. 创建一个全新的对象。
@@ -609,7 +612,7 @@ length('x\uD83D\uDE80y') // 3
 
 ### js
 
-> setTimeout和setInterval和requestAnimationFrame
+#### setTimeout和setInterval和requestAnimationFrame
 
 * [关于setInterval与setTimeout作用域问题](https://my.oschina.net/huskydog/blog/1553720)
 * [注意点——setTimeout、setInterval使用](https://juejin.im/post/59cf06745188253fbe466f78)
@@ -620,7 +623,7 @@ length('x\uD83D\uDE80y') // 3
 * [你知道的requestAnimationFrame【从0到0.1】](https://juejin.im/post/5c3ca3d76fb9a049a979f429)
 
 
-> JSON.parse(JSON.stringify())的缺点
+#### JSON.parse(JSON.stringify())的缺点
 
 在JSON.stringify()阶段
 
@@ -638,7 +641,7 @@ length('x\uD83D\uDE80y') // 3
 6、如果对象中存在循环引用的情况也无法正确实现深拷贝
 ```
 
-> 对象与数组的遍历
+#### 对象与数组的遍历
 * [javaScript遍历对象、数组总结](https://www.cnblogs.com/chenyablog/p/6477866.html)
 对象的属性分为三种： 是否是自身属性 是否可以枚举 是否是Symbol属性
 注意：对象没有for...of...
@@ -665,7 +668,7 @@ Reflect.ownKeys(b) // ["b", "c", Symbol()] 返回一个数组,包含对象自身
 
 ```
 
-> 什么是严格模式
+#### 什么是严格模式
 严格模式主要有以下限制。
 
 ```
@@ -694,14 +697,14 @@ arguments不会自动反映函数参数的变化
 * [Ramda 函数库参考教程](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
 
 
-正则表达式
+### 正则表达式
 * [JS正则表达式完整教程（略长）](https://juejin.im/post/5965943ff265da6c30653879)
 
 ### es6
 * [ES6 入门教程](http://es6.ruanyifeng.com)
 * [1.5万字概括ES6全部特性](https://juejin.im/post/5d9bf530518825427b27639d)
 
-> 什么叫暂时性死区
+#### 什么叫暂时性死区
 
 在代码块内，使用let命令声明变量之前，该变量都是不可用的。这在语法上，称为“暂时性死区”（temporal dead zone，简称 TDZ）。
 
@@ -749,7 +752,7 @@ arguments不会自动反映函数参数的变化
 #### 网络请求
 * [七层网络结构](https://blog.csdn.net/u010359398/article/details/82142449)
 
-> 浏览器同源政策及跨域
+#### 浏览器同源政策及跨域
 
 五种方法
 ```
@@ -848,7 +851,7 @@ postmessage
 
 ### 手写代码
 
-> 手动实现new
+#### 手动实现new
 ```
 function New(Constructor, ...args){
     let obj = {};   // 创建一个新对象
@@ -883,7 +886,7 @@ function _new() {
 
 ```
 
-> 实现深拷贝
+#### 实现深拷贝
 * [如何写出一个惊艳面试官的深拷贝?](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
 * [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
 
@@ -891,14 +894,21 @@ function _new() {
 * [js史上最精简！防抖节流（你的比我精简，算我输）](https://juejin.im/post/5da7c77a51882554c0757f46)
 * [2019 面试准备 - JS 防抖与节流](https://juejin.im/post/5c87b54ce51d455f7943dddb)
 
-> 数组去重
+#### 数组去重
 * [JavaScript专题之数组去重](https://juejin.im/post/5949d85f61ff4b006c0de98b)
 * [如何答一道惊艳面试官的数组去重问题？](https://mp.weixin.qq.com/s/IA41OWhKS062WzTOQ6hDAA)
 
-> 其他
+#### 实现一个简易版vue2
+* [【手把手系列之】实现一个简易版vue2](https://juejin.im/post/5dd89a416fb9a07aa6226e6d)
+
+#### 其他
+* [【面试题】js各种源码实现](https://juejin.im/post/5e05c8a96fb9a016470c375e)
 * [23行代码实现一个带并发数限制的fetch请求函数](https://juejin.im/post/5c89d447f265da2dd37c604c)
 * [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
 
+### 代码质量
+* [代码整洁的 JavaScript](https://github.com/beginor/clean-code-javascript)
+* [如何提升 Web 应用的代码质量](https://juejin.im/post/5b21ae895188257d5e3b9f89)
 
 
 ## 三面
@@ -911,32 +921,61 @@ function _new() {
 架构能力
 项目经验
 ```
-### 业务能力
 
-![](https://user-gold-cdn.xitu.io/2020/2/16/1704e0d54b794efd?w=1658&h=960&f=png&s=442896)
+### 项目
+面试官往往会让你说一说，都做过哪些项目，并就其中一两个深入了解。
 
-### 代码质量
-* [代码整洁的 JavaScript](https://github.com/beginor/clean-code-javascript)
-* [如何提升 Web 应用的代码质量](https://juejin.im/post/5b21ae895188257d5e3b9f89)
+我们需要从这些方面准备：
 
+1. 负责的项目做出了什么业绩
+2. 使用了什么技术方案
+3. 有什么技术难点
+4. 遇到了什么困难
+5. 收获了什么
 
+### 架构与事务推动
+1. 是否自己搭建过项目？
+2. 你当时选择的技术栈是什么？
+3. 为什么这样选择？
+4. 讲讲遇到的困难
+5. 作为技术负责人你是怎么推动项目顺利进行的
+
+### 带人与团队协作
+1. 是否带过人？
+2. 团队成员间怎样协作的？
+3. 是否有code review? 
+4. git命令了解多少？
+5. 与后端、产品、设计、项目经理间是怎样协作的？
+
+### 解决问题的能力
+1. 是否遇到过什么困难，你是怎么解决的？
+2. 你平时都是怎样学习的？
+3. 你平常都上哪些网站？
+
+### 对技术的热情
+1. 你是否了解vue3？vue3做了哪些优化？与vue2有什么不同？
+2. 你是否了解微服务？web component? http3?等
 
 ## 终面（hr面）
 侧重考察性格、潜力
 
+到了这一面，offer基本已经到手了，但也不可掉以轻心，因为hr往往有一票否决权。
 
-![](https://user-gold-cdn.xitu.io/2020/2/16/1704e19947d63078?w=792&h=784&f=png&s=174282)
-![](https://user-gold-cdn.xitu.io/2020/2/16/1704e1bbbea9ac2f?w=1576&h=988&f=png&s=452142)
-职业竞争力
-  对加班的看法
+### 这面需要我们展现以下特性：
+1. 乐观积极
+2. 主动沟通
+3. 逻辑顺畅
+4. 上进有责任心
+5. 有主张，做事果断
 
+### 可能会有以下问题：
+ 1. 对加班的看法
+ 2. 职业规划是什么
+ 3. 你有什么要问的
+ 4. 你大学都参加了什么社团
+ 5. 你平时都喜欢干什么
+ 6. 如果和同事有了冲突，你会怎么办
 
-
-职业规划
-  职业规划是什么
-  
-
-你有什么要问的
 
 
 ## 测试
