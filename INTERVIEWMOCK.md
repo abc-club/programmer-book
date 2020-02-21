@@ -1,4 +1,10 @@
 
+## 目录
+面试分为面试准备、基础知识面、进阶知识面、项目经验面、hr面等几个阶段
+
+下面就每个阶段需要准备哪些知识进行详解，希望每位同学都能拿到心仪的offer!!!
+
+
 
 ## 面试准备
 ![](https://user-gold-cdn.xitu.io/2020/2/15/17046e737ba4b58c?w=1822&h=1134&f=png&s=367083)
@@ -7,13 +13,28 @@
 
 ### 职位描述(JD)分析
 
+招聘网站上招聘的岗位都会有个职位描述，这个职位描述往往比较精简，以至于大家经常忽略了其深层的意义
+
+下面这篇文章是一个比较好的分析范例，希望大家多多研究
+
+* [我在阿里招前端，我该怎么帮你？](https://mp.weixin.qq.com/s/pP-qvi6XK14zoGxtc2dqfA)
+
 ### 业务分析或实战模拟
+
 
 
 ### 技术栈准备
 
 
+
 ### 简历
+
+一份好的简历，给我们的面试加分不少。那怎样写出一份优秀的（至少是好的）简历呢？下面这些文章也许能够帮助到您。不需要每篇都看，参考一两篇即可！
+
+* [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
+* [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
+* [OpenDoc - 前端简历评级标准](https://juejin.im/post/58b6679461ff4b006ccd825e)
+* [别的程序员是怎么读你的简历的](http://coolshell.cn/articles/1695.html)
 
 
 ### 自我介绍
@@ -117,21 +138,78 @@ animation-direction|	规定是否应该轮流反向播放动画。
   </html>
   ```
 
-
-
-> 
-* [css中的百分比](https://zhuanlan.zhihu.com/p/93084661)
-* [css实现垂直水平居中](https://juejin.im/post/5854e137128fe100698e6271)
-* [css实现垂直水平居中](https://juejin.im/post/5854e137128fe100698e6271)
-* [实现等高布局]https://demo.cssworld.cn/4/3-2.php https://demo.cssworld.cn/4/4-4.php
-
-
 > css3新特性
+
 ![](https://user-gold-cdn.xitu.io/2020/2/18/1705850abf39af4b?w=1554&h=962&f=png&s=250353)
 
-#### css盒模型
+> 如何清除浮动
+<details>
+<summary>答案</summary>
 
-* 请
+1. clear
+```
+.floatfix{
+    *zoom:1;
+}
+.floatfix:after{
+    content:"";
+    display:table;
+    clear:both;
+}
+```
+
+2. BFC
+
+* [CSS清浮动处理（Clear与BFC）](https://www.cnblogs.com/dolphinX/p/3508869.html)
+
+注意事项：
+
+1. clear只对块级元素有效
+
+2. clear并不是清除了浮动效果，而是使当前元素盒子的边不能和前面的浮动元素 相邻。
+
+</details>
+扩展：
+  什么是BFC？BFC的好处是什么？ 如何创建BFC?
+
+  * [史上最全面、最透彻的BFC原理剖析](https://github.com/zuopf769/notebook/blob/master/fe/BFC%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90/README.md)
+  * [学习 BFC (Block Formatting Context)](https://juejin.im/post/59b73d5bf265da064618731d)
+
+> css盒模型
+<details>
+<summary>答案</summary>
+
+标准模型和IE模型
+
+content padding border margin
+
+</details>
+
+> 四种定位的区别
+
+<details>
+<summary>答案</summary>
+
+```
+static 是默认值 不会创建BFC
+relative 相对定位 相对于自身原有位置进行偏移，仍处于标准文档流中
+absolute 绝对定位 相对于最近的已定位的祖先元素, 有已定位(指position不是static的元素)祖先元素, 以最近的祖先元素为参考标准。如果无已定位祖先元素, 以body元素为偏移参照基准, 完全脱离了标准文档流。
+fixed 固定定位的元素会相对于视窗来定位,这意味着即便页面滚动，它还是会停留在相同的位置。一个固定定位元素不会保留它原本在页面应有的空隙。
+
+
+```
+
+</details>
+
+> 其他
+* [css中的百分比](https://zhuanlan.zhihu.com/p/93084661)
+* [css实现垂直水平居中] https://juejin.im/post/5854e137128fe100698e6271 https://demo.cssworld.cn/5/3-10.php
+* [实现等高布局]https://demo.cssworld.cn/4/3-2.php https://demo.cssworld.cn/4/4-4.php
+* [你真的理解 line-height 和 vertical-align 与 基线 吗？](https://www.jianshu.com/p/7d595f941012)
+* [利用inline-block基线原理的小图标对齐实例页面](https://demo.cssworld.cn/5/3-7.php)
+* [focus锚点定位和overflow的选项卡切换效果实例页面](https://demo.cssworld.cn/6/4-3.php)
+* [flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+* [grid布局](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
 
 
 ### html
