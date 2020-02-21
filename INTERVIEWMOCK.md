@@ -248,7 +248,7 @@ fixed 固定定位的元素会相对于视窗来定位,这意味着即便页面�
 
 </details>
 
-> http报文的组成部分
+#### http报文的组成部分
 
 <details>
 <summary>答案</summary>
@@ -298,7 +298,7 @@ GET POST PUT DELETE HEAD
 
 ### DOM事件类型
 
-> 请问DOM事件级别
+#### 请问DOM事件级别
 <details>
 <summary>答案</summary>
 
@@ -312,7 +312,7 @@ DOM 3级： document.addEventListener('keyup', ()=>{})
 
 
 
-> DOM事件模型
+#### DOM事件模型
 
 <details>
 <summary>答案</summary>
@@ -323,7 +323,7 @@ DOM 3级： document.addEventListener('keyup', ()=>{})
 
 </details>
 
-> DOM事件流
+#### DOM事件流
 
 <details>
 <summary>答案</summary>
@@ -336,7 +336,7 @@ DOM 3级： document.addEventListener('keyup', ()=>{})
 
 
 
-> 描述DOM事件捕获的具体流程
+#### 描述DOM事件捕获的具体流程
 
 <details>
 <summary>答案</summary>
@@ -361,7 +361,7 @@ window>document>html>body>...
 
 
 
-> Event对象的常见应用
+#### Event对象的常见应用
 
 <details>
 <summary>答案</summary>
@@ -380,7 +380,7 @@ event.currentTarget
   * [js中的stopImmediatePropagation方法和stopPropagation方法的区别](https://www.cnblogs.com/EnSnail/p/9796237.html)
   * [event.target 和 event.currentTarget 的区别](https://www.cnblogs.com/yzhihao/p/9398917.html)
 
-> 自定义事件
+#### 自定义事件
 <details>
 <summary>可以用Event或CustomEvent</summary>
 
@@ -404,7 +404,7 @@ if(window.dispatchEvent) {
 ```
 </details>
 
-> fastclick的作用是什么
+#### fastclick的作用是什么
 <details>
 <summary>答案</summary>
 
@@ -417,7 +417,7 @@ if(window.dispatchEvent) {
 扩展：
   * [如何移动端点击延迟事件](https://www.jianshu.com/p/67bae6dfca90)
 
-> fastclick原理
+#### fastclick原理
 <details>
 <summary>答案</summary>
 
@@ -443,7 +443,7 @@ const 声明就得赋值，变量的值不得改动
 * [深入理解JavaScript作用域和作用域链](https://juejin.im/post/5c8290455188257e5d0ec64f)
 
 
-####> 获取字符串长度的方法
+#### 获取字符串长度的方法
 
 ```js
 function codePointLength(text) {
@@ -613,7 +613,8 @@ length('x\uD83D\uDE80y') // 3
 3. 这个新对象会绑定到函数调用的 this。
 4. 如果函数没有返回其他对象，那么 new 表达式中的函数调用会自动返回这个新对象。
 ```
-> 你了解Object.create吗
+
+#### 你了解Object.create吗
 * [详解Object.create(null)](https://juejin.im/post/5acd8ced6fb9a028d444ee4e)
 
 
@@ -915,7 +916,7 @@ function _new() {
 * [如何写出一个惊艳面试官的深拷贝?](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
 * [浅拷贝与深拷贝](https://juejin.im/post/5b5dcf8351882519790c9a2e)
 
-> 防抖与节流
+#### 防抖与节流
 * [js史上最精简！防抖节流（你的比我精简，算我输）](https://juejin.im/post/5da7c77a51882554c0757f46)
 * [2019 面试准备 - JS 防抖与节流](https://juejin.im/post/5c87b54ce51d455f7943dddb)
 
@@ -1072,7 +1073,7 @@ function _new() {
 * [2018春节后前端面试小记](https://juejin.im/post/5a99108f51882555666f1bca)
 * [Web前端岗位面试题有哪些？](https://www.zhihu.com/question/41466747/answer/747323907)
 * [2019年，看了这一份， 再也不怕前端面试了](https://zhuanlan.zhihu.com/p/87043003)
-* [横扫9家大厂前端校招offer，全文14560字，阅读需80分钟](https://mp.weixin.qq.com/s/tM2lvhJEhXXl0nO92hf7yQ\)
+* [横扫9家大厂前端校招offer，全文14560字，阅读需80分钟](https://mp.weixin.qq.com/s/tM2lvhJEhXXl0nO92hf7yQ)
 
 
 ## 招聘官网
