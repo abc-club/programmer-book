@@ -704,6 +704,10 @@ arguments不会自动反映函数参数的变化
 增加了保留字（比如protected、static和interface）
 ```
 
+### 设计模式
+* [JavaScript设计模式es6（23种)](https://juejin.im/post/5e021eb96fb9a01628014095)
+* [JavaScript中常见的十五种设计模式](https://www.cnblogs.com/imwtr/p/9451129.html)
+
 
 ### 函数式编程
 * [JavaScript 函数式编程](https://juejin.im/post/5b4ac0d0f265da0fa959a785)
