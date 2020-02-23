@@ -45,3 +45,5 @@
 * [一个武汉女生的真实日记](https://new.qq.com/omn/20200210/20200210A05S1800.html)
 * [你可能戴的是假口罩！曝光！这些全是假货！内附鉴别指南](https://mp.weixin.qq.com/s/9_HvBDNvbZiLhzea76ka-A)
 * [大变化！广州口罩预约时间、规则、入口均有调整！可别错过了！](https://mp.weixin.qq.com/s/qc1dshgPVQG_SvjNTNyfow)
+* [当当网一人确诊66人隔离被指防控不力，员工如何用法律武器保护自己？](https://mp.weixin.qq.com/s/uygP-Sr7S-Z1UF2inUHJNg)
+
