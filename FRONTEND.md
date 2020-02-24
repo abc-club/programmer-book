@@ -475,7 +475,7 @@
 * [DIY一个前端监控平台（上）](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
 * [手刃前端监控系统](https://juejin.im/post/5bbc2695e51d4539701e7ea6)
 * [一步一步搭建前端监控系统：如何监控资源加载错误？](https://juejin.im/post/5d576c9e51882562945d1623)
-
+* [撸一个前端监控系统（React + Node + Mysql + Webpack plugin + Docker）—— （上）](https://juejin.im/post/5e3146cce51d453176604809)
 
 ### 常用工具
  * [阿里云监控](https://help.aliyun.com/document_detail/58652.html?spm=a2c4g.11174283.3.2.3245668cvlC7WK) (网站性能、错误等监控)
@@ -522,6 +522,8 @@
 
 * [awesome-microfrontends](https://github.com/abc-club/awesome-microfrontends)
 * [一线大厂前端怎么做？百度资深前端工程师，带你手写微前端框架](https://www.toutiao.com/a6753519385958154763)
+* [字节跳动的微前端沙盒实践](https://juejin.im/post/5e4941d46fb9a07c8334d3e9)
+
 ### WebAssembly
 * [花椒前端基于WebAssembly 的H.265播放器研发](https://mp.weixin.qq.com/s/cXbanMq93jyx5gCuaP2oTw)
 
@@ -803,6 +805,14 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 
 ## 学习网站
 * [frontendmasters](https://frontendmasters.com)(各种大牛视频 英文)
+
+
+## 架构
+* [前端架构-让重构不那么痛苦（译）](https://juejin.im/post/5d849084e51d456206115acb)(推荐！！！)
+* [基于React的PC网站前端架构分析](https://juejin.im/post/5bc336c26fb9a05cd24dbd03)
+* [大型项目前端架构浅谈（8000字原创）](https://juejin.im/post/5cea1f705188250640005472)
+* [十年•杭研技术秀 | 网易蜂巢的工业化前端架构](https://mp.weixin.qq.com/s/d0OF4IflXqYs6NJZk2kW0A?)
+* [阿里9年，我总结的前端架构演进3大阶段及团队管理心法(https://mp.weixin.qq.com/s/PK5eaBnSg0fG1RvPsbeJwQ?)
 
 
 [↑ 返回目录 ↑](#目录)

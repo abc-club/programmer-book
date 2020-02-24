@@ -1032,6 +1032,7 @@ function _new() {
 ## 面试经验
 
 ### 阿里
+* [面试分享：2018阿里巴巴前端面试总结 | 掘金技术征文](https://juejin.im/post/5ab0da85f265da23866fb9b7)
 * [我在阿里招前端，我该怎么帮你？(文末有惊喜)](https://mp.weixin.qq.com/s/pP-qvi6XK14zoGxtc2dqfA)
 * [面试分享：2018阿里巴巴前端面试总结](https://juejin.im/post/5ab0da85f265da23866fb9b7)
 * [阿里健康面试总结](https://juejin.im/post/5d8896e5e51d45621512ae4a)
@@ -1053,6 +1054,9 @@ function _new() {
 
 ### 百度
 * [我的 web 前端面试经历 - 百度](https://juejin.im/post/5d1d52aff265da1bb2774de0)
+
+### 京东
+* [面试篇 - 京东（商城用户体验设计部 - 前端架构组）](https://juejin.im/post/5c97a086f265da6116246b30)
 
 
 ### 小米
