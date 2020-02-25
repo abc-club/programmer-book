@@ -812,7 +812,11 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [基于React的PC网站前端架构分析](https://juejin.im/post/5bc336c26fb9a05cd24dbd03)
 * [大型项目前端架构浅谈（8000字原创）](https://juejin.im/post/5cea1f705188250640005472)
 * [十年•杭研技术秀 | 网易蜂巢的工业化前端架构](https://mp.weixin.qq.com/s/d0OF4IflXqYs6NJZk2kW0A?)
-* [阿里9年，我总结的前端架构演进3大阶段及团队管理心法(https://mp.weixin.qq.com/s/PK5eaBnSg0fG1RvPsbeJwQ?)
+* [阿里9年，我总结的前端架构演进3大阶段及团队管理心法](https://mp.weixin.qq.com/s/PK5eaBnSg0fG1RvPsbeJwQ)
+* [【第1399期】美菜无线前端架构模型2018](https://mp.weixin.qq.com/s/2IjsJZY78FQcOdTI5JC7ow)
+* [前端插拔式 SPA 应用架构实现方案](https://juejin.im/post/5b768ffce51d45666f799ba2)
+
+
 
 
 [↑ 返回目录 ↑](#目录)
