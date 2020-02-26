@@ -36,6 +36,8 @@
 * [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
 * [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
 * [Node.JS 应用最佳实践：日志](https://zhuanlan.zhihu.com/p/81989446)
+* [使用verdaccio搭建npm私有仓库](http://liaolongdong.com/2019/01/24/build-private-package.html)
+
 
 ### 开源项目
 * [Node.js 实现远程桌面监控](https://juejin.im/post/5d18d4c36fb9a07ecb0bbe7b)
