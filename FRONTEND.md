@@ -528,6 +528,8 @@
 * [awesome-microfrontends](https://github.com/abc-club/awesome-microfrontends)
 * [一线大厂前端怎么做？百度资深前端工程师，带你手写微前端框架](https://www.toutiao.com/a6753519385958154763)
 * [字节跳动的微前端沙盒实践](https://juejin.im/post/5e4941d46fb9a07c8334d3e9)
+* [微前端在美团外卖的实践](https://juejin.im/post/5e57b6f0f265da57547794c9)
+
 
 ### WebAssembly
 * [花椒前端基于WebAssembly 的H.265播放器研发](https://mp.weixin.qq.com/s/cXbanMq93jyx5gCuaP2oTw)
