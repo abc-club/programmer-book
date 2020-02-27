@@ -521,6 +521,7 @@
 * [史上最全前端基础进阶系列](https://zhuanlan.zhihu.com/p/82998199)
 
 ## 趋势
+* [从微前端到智能化：2020前端开源技术趋势](https://juejin.im/post/5e55ed5fe51d4526c148131c)
 
 ### 微前端
 
