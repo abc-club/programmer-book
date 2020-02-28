@@ -43,6 +43,10 @@
 * [Ubuntu Nginx 配置](https://www.cnblogs.com/loseself/p/8888009.html)
 
 
+## 操作系统
+* [写给大忙人看的操作系统](https://juejin.im/post/5e58905f6fb9a07caa270bb0)
+
+
 ## 区块链
 * [区块链 - 中文资源](https://github.com/LiuBoyu/blockchain)
 
