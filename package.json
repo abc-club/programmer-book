@@ -4,8 +4,8 @@
   "description": "<h1 align=\"center\">资源汇总</h1>",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev .",
-    "docs:build": "vuepress build ."
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
   },
   "repository": {
     "type": "git",
