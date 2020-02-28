@@ -1,5 +1,5 @@
 
-更多资源尽在 https://github.com/abc-club/free-resources
+更多资源尽在 https://github.com/abc-club/js-paradise
 
 求star
 

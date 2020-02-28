@@ -1,14 +1,14 @@
 module.exports = {
   title: '前端资源',
   description: '本文收集学习过程中收藏的资源 相信对大家会有帮助 喜欢的可以star, 持续更新中大家可以watch',
-  base: '/free-resources/',
+  base: '/js-paradise/',
   themeConfig: {
     displayAllHeaders: true,
     nav: [
       { text: '前端', link: '/FRONTEND' },
       { text: '面试', link: '/INTERVIEW' },
       { text: '精品系列', link: '/LIST' },
-      { text: 'GITHUB', link: 'https://github.com/abc-club/free-resources/' },
+      { text: 'GITHUB', link: 'https://github.com/abc-club/js-paradise/' },
     ],
     sidebar: [
       ['/INTERVIEWMOCK', '从面试前到终面，全面为您保驾护航'],

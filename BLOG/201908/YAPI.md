@@ -214,7 +214,7 @@ yapi的mock包括很多种
 今天就介绍到这里。
 
 
-更多文章请关注 https://github.com/abc-club/free-resources
+更多文章请关注 https://github.com/abc-club/js-paradise
 
 喜欢请star
 

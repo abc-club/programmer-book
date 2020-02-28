@@ -1,5 +1,5 @@
 {
-  "name": "free-resources",
+  "name": "js-paradise",
   "version": "1.0.0",
   "description": "<h1 align=\"center\">资源汇总</h1>",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abc-club/free-resources.git"
+    "url": "git+https://github.com/abc-club/js-paradise.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abc-club/free-resources/issues"
+    "url": "https://github.com/abc-club/js-paradise/issues"
   },
-  "homepage": "https://github.com/abc-club/free-resources#readme",
+  "homepage": "https://github.com/abc-club/js-paradise#readme",
   "devDependencies": {
     "vuepress": "^1.3.0"
   }

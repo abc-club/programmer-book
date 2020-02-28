@@ -6,9 +6,9 @@
 
 > 本文已收录到以下个人网站和github，欢迎follow和star
 
-* [博客](https://abc-club.github.io/free-resources/)
+* [博客](https://abc-club.github.io/js-paradise/)
 
-* [github](https://github.com/abc-club/free-resources)
+* [github](https://github.com/abc-club/js-paradise)
 
 ## 面试准备
 

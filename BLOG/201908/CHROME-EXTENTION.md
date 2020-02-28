@@ -110,7 +110,7 @@ injectBtn();
 
 ![](https://user-gold-cdn.xitu.io/2019/8/24/16cc27ca52baa25a)
 
-第四步：随便打开一个网页：如 https://github.com/abc-club/free-resources
+第四步：随便打开一个网页：如 https://github.com/abc-club/js-paradise
 
 第五步：往下滚动页面，我们的按钮便会出现，点击便可以回到顶部
 
