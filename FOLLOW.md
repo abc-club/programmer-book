@@ -20,6 +20,8 @@
 ## 博客
 
 - https://github.com/FrankFang/best-chinese-front-end-blogs (博客集合)
+* [因为知道了这32个网站，我成了别人眼中的大神！](https://segmentfault.com/a/1190000021870068)
+
 
 ### 团队
 * [腾讯alloyteam](http://www.alloyteam.com/)
