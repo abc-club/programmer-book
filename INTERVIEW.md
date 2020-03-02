@@ -45,6 +45,7 @@
 * [实战项目之自动简历](https://juejin.im/post/5b9d27ddf265da0ad7019775)
 * [又双叒叕是一个动态简历](https://juejin.im/post/5c1fd3f1f265da61171cb8bf)
 * [My resume implement by Vue.js](https://github.com/ustbhuangyi/resume)
+* [切图仔面试宝典](https://github.com/Wscats/CV)
 
 
 ## 面试秘籍
@@ -127,6 +128,7 @@
 * [html和css中常见的浏览器兼容性处理](http://www.zymseo.com/16.html)
 * [一道常被人轻视的前端JS面试题](http://www.cnblogs.com/xxcanghai/p/5189353.html)
 * [浅析浏览器输入URL到页面输出执行流程](https://zhuanlan.zhihu.com/p/25680692?utm_medium=social&utm_source=wechat_session)
+* [前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/articles/issues/85)
 
 
 ### 算法篇
