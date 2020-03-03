@@ -864,7 +864,7 @@ postmessage
 
 
 ### 算法
-
+* [如何系统地学习算法？](https://www.zhihu.com/question/20588261/answer/926157817)
 * [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 * [js实现排序算法（冒泡、选择、插入、二分插入、快速、希尔）](http://blog.csdn.net/charlene0824/article/details/51387165)
 * [前端面试中的常见的算法问题](https://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
@@ -942,6 +942,10 @@ function _new() {
 * [代码整洁的 JavaScript](https://github.com/beginor/clean-code-javascript)
 * [如何提升 Web 应用的代码质量](https://juejin.im/post/5b21ae895188257d5e3b9f89)
 
+
+
+### 工程化
+* [关于前端工程化（基建）的一些总结和思考](https://juejin.im/post/5e5b869a6fb9a07cac1d61e5)
 
 ## 三面
 侧重考察以下能力
@@ -1107,6 +1111,7 @@ function _new() {
 
 
 ## 面试题仓库
+- https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 * [2020年从基础到进阶，测试你有多了解 JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc)
 - https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md([译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试)
 - https://github.com/haizlin/fe-interview

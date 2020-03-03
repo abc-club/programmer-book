@@ -456,6 +456,8 @@
 * [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
 * [Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 * [关于用户访问请求慢,TTFB时间长的问题分析](https://blog.csdn.net/ankeway/article/details/78669044/)
+* [性能优化魔法师：中文字体实践篇](https://juejin.im/post/5e57419f51882549431fef71)
+
 
 ### 监控
 #### 开源库

@@ -75,6 +75,8 @@
 * [awesome-spider](https://github.com/facert/awesome-spider)
 * [crawlab](https://github.com/crawlab-team/crawlab)(基于Golang的分布式爬虫管理平台)
 * [某团外卖H5版本爬虫开发和JS逆向过程](https://zhuanlan.zhihu.com/p/81773389)
+* [GitHub 上有哪些优秀的 Python 爬虫项目？](https://www.zhihu.com/question/58151047/answer/859783454)
+
 
 ### 开源项目
 * [spider-flow](https://gitee.com/jmxd/spider-flow)(新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫)
