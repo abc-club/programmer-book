@@ -1111,6 +1111,7 @@ function _new() {
 
 
 ## 面试题仓库
+* [挑战一轮大厂后的面试总结 (含六个方向) - javascript 篇(万字长文)](https://juejin.im/post/5e523e726fb9a07c9a195a95)
 - https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 * [2020年从基础到进阶，测试你有多了解 JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc)
 - https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md([译] Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试)
