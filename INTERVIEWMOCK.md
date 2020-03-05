@@ -1105,7 +1105,7 @@ function _new() {
 * [在字节跳动做程序员是一种什么样的体验？](https://www.toutiao.com/a6751338039886217736)
 * [入职字节跳动48小时后，我发现了抖音的秘密](https://www.toutiao.com/a6751311464365031948)
 * [一文揭秘BAT互联网大厂薪资](https://www.toutiao.com/a6750467774801248782)
-
+* [最新·前端的工资分布情况 - 你拖后腿了吗？](https://juejin.im/post/5de25a9c5188255df3295809)
 
 ---
 
