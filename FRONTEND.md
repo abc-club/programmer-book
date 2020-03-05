@@ -603,7 +603,7 @@
 
 #### 文章
 * [优秀程序员都应该学习的数据结构与算法项目（GitHub 开源清单）](https://zhuanlan.zhihu.com/p/74584796)
-
+* [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 * [数据结构与算法（三）—— 常见排序算法和swift实现](https://juejin.im/post/5c46b05d51882524a23f3a12)
 * [大家都是如何刷 LeetCode 的？](https://www.zhihu.com/question/280279208)
 * [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/820437568?hb_wx_block=0)
