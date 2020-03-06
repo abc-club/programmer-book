@@ -268,6 +268,11 @@
 * [Elasticsearch聚合——Pipeline Aggregations ](https://my.oschina.net/bingzhong/blog/1975879)
 * [ES Pipeline Aggregation(管道聚合)](https://www.jianshu.com/p/eb0645b9f620)
 
+##### 插件
+* [opendistro](https://opendistro.github.io/for-elasticsearch-docs/)(监控报警)
+* [elastalert](https://github.com/Yelp/elastalert)(监控报警)
+
+
 ##### 遇到的问题
 * The bulk request must be terminated by a newline [\\n]
 https://www.jianshu.com/p/1c8ba834e15c?utm_source=oschina-app
