@@ -61,7 +61,7 @@
 * [Seneca ：NodeJS 微服务框架入门指南](https://segmentfault.com/a/1190000008501410)
 * [vastify](https://github.com/Cecil0o0/vastify)
 * [Node微服务](https://www.bilibili.com/video/av74669898)
-
+* [Node.js微服务实践(一)](https://www.cnblogs.com/zhuanzhuanfe/p/10500848.html)
 
 ## npm
 * [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)

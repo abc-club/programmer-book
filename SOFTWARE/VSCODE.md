@@ -3,7 +3,7 @@
 * [21 个VSCode 快捷键，让代码更快，更有趣](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
 * [VS Code 快速使用指南](https://juejin.im/post/5bc86b0b5188255ca00cc58f)
 * [ React Native vscode插件](https://blog.csdn.net/asce1885/article/details/71075432)
-
+* [10款VS Code插件神器，第7款超级实用！](https://zhuanlan.zhihu.com/p/111004160)
 
 ## 安装
 
