@@ -10,6 +10,7 @@
 * [Puppeteer](#Puppeteer)
 * [爬虫](#爬虫)
 * [koa](#koa)
+* [fastify](#fastify)
 * [eggjs](#eggjs)
 * [GraphQL](#GraphQL)
 * [数据存储](#数据存储)
@@ -88,6 +89,11 @@
 * [Koa2进阶学习笔记](https://github.com/chenshenhai/koa2-note)
 * [koa example](https://github.com/koajs/examples)
 * [koa+jwt实现token验证与刷新](https://segmentfault.com/a/1190000019338195)
+
+
+## fastify
+* [fastify](https://github.com/fastify/fastify)
+
 ## eggjs
 
 * [一文看懂 Eggjs-基础全面讲解（下）](https://juejin.im/post/5d37ba17f265da1bc94f2f97)
