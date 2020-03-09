@@ -537,6 +537,7 @@
 * [花椒前端基于WebAssembly 的H.265播放器研发](https://mp.weixin.qq.com/s/cXbanMq93jyx5gCuaP2oTw)
 
 ### Serverless
+* [serverless](https://github.com/serverless/serverless)
 * [Serverless——前端的3.0时代](https://zhuanlan.zhihu.com/p/84054729)
 
 ### web components
