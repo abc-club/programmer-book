@@ -44,6 +44,7 @@
 
 一份好的简历，给我们的面试加分不少。那怎样写出一份优秀的（至少是好的）简历呢？下面这些文章也许能够帮助到您。不需要每篇都看，参考一两篇即可！
 
+* [一份优秀的前端开发工程师简历是怎么样的？](https://www.zhihu.com/question/23150301/answer/410066018)
 * [面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
 * [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
 * [OpenDoc - 前端简历评级标准](https://juejin.im/post/58b6679461ff4b006ccd825e)
@@ -997,6 +998,14 @@ function _new() {
 侧重考察性格、潜力
 
 到了这一面，offer基本已经到手了，但也不可掉以轻心，因为hr往往有一票否决权。
+
+可以参考
+* [面试应答有哪些话术和技巧？](https://www.zhihu.com/question/35953016/answer/1007150239)
+* [如何回答面试官的：你对薪资有什么要求之类的问题？](https://www.zhihu.com/question/24564013/answer/28230832)
+* [如何回答“你的期望薪资是多少？”](https://zhuanlan.zhihu.com/p/32698287)
+* [你有哪些面试失败的惨痛经验？](https://www.zhihu.com/question/290543744/answer/595815243)
+
+
 
 ### 这面需要我们展现以下特性：
 1. 乐观积极

@@ -539,6 +539,8 @@
 ### Serverless
 * [serverless](https://github.com/serverless/serverless)
 * [Serverless——前端的3.0时代](https://zhuanlan.zhihu.com/p/84054729)
+* [基于 Serverless 的 VuePress 极简静态网站](https://zhuanlan.zhihu.com/p/110280999)
+
 
 ### web components
 * [w3c webcomponents](https://github.com/w3c/webcomponents)
@@ -610,6 +612,8 @@
 * [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/820437568?hb_wx_block=0)
 * [怎么学好数据结构？](https://www.zhihu.com/question/19830721/answer/667233164?hb_wx_block=0)
 * [(1.8w字)负重前行，前端工程师如何系统练习数据结构和算法？【上】](https://juejin.im/post/5e2f88156fb9a02fdd38a184)
+* [一份我转行数据分析时候的学习清单](https://zhuanlan.zhihu.com/p/111519808)
+
 
 #### 开源库
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
@@ -618,7 +622,7 @@
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 * [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [JavaScriptAlgorithms](https://github.com/vJechsmayr/JavaScriptAlgorithms)(算法js实现)
-
+* [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
 
 ### 机器学习
 * [一文看尽 TensorFlow“奋斗史”！| CSDN 博文精选](https://mp.weixin.qq.com/s/iQ8azTcyW4oJLSacJ84w-g)
