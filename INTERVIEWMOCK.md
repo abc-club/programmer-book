@@ -1000,11 +1000,11 @@ function _new() {
 到了这一面，offer基本已经到手了，但也不可掉以轻心，因为hr往往有一票否决权。
 
 可以参考
+* [面试应答有哪些话术和技巧？](https://www.zhihu.com/question/35953016/answer/674369195)
 * [面试应答有哪些话术和技巧？](https://www.zhihu.com/question/35953016/answer/1007150239)
 * [如何回答面试官的：你对薪资有什么要求之类的问题？](https://www.zhihu.com/question/24564013/answer/28230832)
 * [如何回答“你的期望薪资是多少？”](https://zhuanlan.zhihu.com/p/32698287)
 * [你有哪些面试失败的惨痛经验？](https://www.zhihu.com/question/290543744/answer/595815243)
-
 
 
 ### 这面需要我们展现以下特性：
