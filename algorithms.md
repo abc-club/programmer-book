@@ -27,3 +27,10 @@ public int sum2(int n, int sum) {
 }
 
 ```
+
+
+## 数学
+
+### 求最大公约数
+
+* [js计算最大公约数和最小公倍数代码实例](https://www.jb51.net/article/169844.htm)

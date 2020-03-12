@@ -129,7 +129,7 @@
 * [一道常被人轻视的前端JS面试题](http://www.cnblogs.com/xxcanghai/p/5189353.html)
 * [浅析浏览器输入URL到页面输出执行流程](https://zhuanlan.zhihu.com/p/25680692?utm_medium=social&utm_source=wechat_session)
 * [前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/articles/issues/85)
-
+* [大厂面试题分享：如何让(a===1&&a===2&&a===3)的值为true?](https://juejin.im/post/5e66dc416fb9a07cab3aaa0a)
 
 ### 算法篇
 
