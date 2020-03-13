@@ -57,3 +57,22 @@
 * [黑客擅长的sql注入攻击，你真的懂吗？](https://www.toutiao.com/a6748663058152817166)
 * [2019年最受欢迎的20款黑客工具](https://zhuanlan.zhihu.com/p/100870206)
 
+
+## 微服务
+* [构建你的第一个 Node.js 微服务](https://www.jianshu.com/p/352eb5f419b4)
+* [Seneca ：NodeJS 微服务框架入门指南](https://segmentfault.com/a/1190000008501410)
+* [vastify](https://github.com/Cecil0o0/vastify)
+* [Node微服务](https://www.bilibili.com/video/av74669898)
+* [Node.js微服务实践(一)](https://www.cnblogs.com/zhuanzhuanfe/p/10500848.html)
+
+### 项目
+
+#### nodejs
+* [seneca](https://github.com/senecajs/seneca)(微服务框架)
+* [nest](https://github.com/nestjs/nest)
+* [hprose-nodejs](https://github.com/hprose/hprose-nodejs)
+
+
+#### c++
+* [Tars](https://github.com/TarsCloud/Tars)(腾讯)
+* [TarsDocs](https://tarscloud.github.io/TarsDocs/)

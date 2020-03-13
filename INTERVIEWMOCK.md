@@ -804,6 +804,9 @@ postmessage
 #### 网络安全
 
 * [CSRF 是什么](https://zhuanlan.zhihu.com/p/22521378)
+* [前端安全系列（一）：如何防止XSS攻击？](https://juejin.im/post/5bad9140e51d450e935c6d64)
+* [前端安全系列（一）：如何防止CSRF攻击？](https://juejin.im/post/5bc009996fb9a05d0a055192)
+
 
 ```
 1. XSS（cross-site-scripting, 跨站脚本）攻击
