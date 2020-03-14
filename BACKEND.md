@@ -17,10 +17,23 @@
 
 ## java
 * [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)
-
+* [JavaGuide](https://github.com/Snailclimb/JavaGuide)  ![Github stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide.svg)
 
 ### spring
 * [官网](https://spring.io/projects/spring-boot)
+* [精通 Spring Boot 42 讲](https://gitbook.cn/gitchat/column/5b86228ce15aa17d68b5b55a/topic/5b864c65e15aa17d68b5db58)
+* [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
+* [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)(21K+ star)
+
+
+#### spring-boot(1)
+* [spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed)(脚手架)
+
+
+#### spring-boot(2)
+* [Github 上热门的 Spring Boot 项目实战推荐](https://juejin.im/post/5da3c3dce51d4578034d2dc3)
+
+![](https://user-gold-cdn.xitu.io/2020/3/14/170d96d802c833d0?w=2124&h=1550&f=png&s=1306299)
 
 ### 开源
 * [史上最全的整合第三方登录的开源库JustAuth](https://github.com/justauth/JustAuth)

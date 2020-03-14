@@ -39,3 +39,12 @@ git subtree push --prefix .vuepress/dist origin gh-pages
 ```
 * [解决从github上拉取代码慢的问题](https://blog.csdn.net/yyou33459/article/details/84947819)
 * [Linux/Mac/Windows-刷新DNS的方法](https://baijiahao.baidu.com/s?id=1616353495084098905&wfr=spider&for=pc)
+
+
+
+* 生成图片 https://shields.io/   https://github.com/badges/shields
+
+```
+* []()  ![Github stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide.svg)
+```
+
