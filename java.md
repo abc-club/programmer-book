@@ -7,6 +7,8 @@ java play2项目启动
 idea打开sbt文件，选择jdk1.8,不下载源码（会链接到内网，下载依赖）,然后配置启动项play2 app，play2 module选当前项目,点击运行。
 
 
+igola技术选型：play2+ lagom +模板引擎Twirl
+
 ## intellij idea
 * [插件](https://plugins.jetbrains.com/)
 
@@ -21,3 +23,6 @@ idea打开sbt文件，选择jdk1.8,不下载源码（会链接到内网，下载
 ## 资料
 * [武林外传—一灯大师与众弟子漫谈Api网关选型](https://mp.weixin.qq.com/s/jlfCFsItlfdplqEK9yMpng)
 * [微服务之总体架构篇](https://www.cnblogs.com/tlj2018/articles/10455552.html)
+
+## 依赖注入
+* [Google Guice 一个轻量级的依赖注入框架](https://www.jianshu.com/p/7fba7b43146a)

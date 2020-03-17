@@ -301,6 +301,8 @@
 * [灵活运用JS开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48)
 * [JavaScript 工具函数大全（新）](https://juejin.im/post/5da1a04ae51d45783d6122bf)
 * [js运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+* [书到用时方恨少，一大波JS开发工具函数来了](https://juejin.im/post/5e6cf42bf265da57397e3694)
+
 
 ### 正则表达式
 * [练完这篇就会写正则](https://juejin.im/post/5d89edb1518825097619ecfe)
