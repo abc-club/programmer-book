@@ -1,3 +1,9 @@
+## 2020
+* [全球崩盘背后真相（信息量巨大）](https://zhuanlan.zhihu.com/p/113016153)
+
+
+## 未归档
+
 * [把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
 * [我也有话要说](https://github.com/xiaolai/public-speaking-with-meaning)
 * [超强的学习能力是怎样练就的？](https://www.zhihu.com/question/35103080/answer/414223605)
@@ -32,7 +38,6 @@
 
 ## 时事
 * [这是一篇分析香港世界格局最透彻的雄文](https://mp.weixin.qq.com/s/1xPkw4D5DyEhWCE20-bzqw)
-
 ## 新型冠状病毒
 
 ### 工具

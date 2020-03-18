@@ -1066,7 +1066,8 @@ function _new() {
 * [阿里六面，挂在hrg，我真的不甘心](https://www.toutiao.com/a6753809422167835139)
 * [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
 * [进入大厂的面试经验（P7）](https://juejin.im/post/5e664bdd6fb9a07cd80f3192)
-  
+* [2020面试，已拿到头条跟阿里offer](https://juejin.im/post/5e6b05116fb9a07cb83e39c6)  
+
 
 ### 腾讯
 * [腾讯前端面试篇（一）](https://juejin.im/post/5c19c1b6e51d451d1e06c163)
@@ -1090,6 +1091,10 @@ function _new() {
 
 ### 头条
 * [两年前端头条面试记](https://juejin.im/post/5de5a2d0e51d451aec2b8883)
+
+### 拼多多
+* [金三银四魔都两年半前端面经 (拼多读、猫眼、B站等)](https://mp.weixin.qq.com/s/_qI0R15lrMwKildQ-6vY1w)
+
 
 ### 其他
 * [关于裸辞，关于前端面试](https://juejin.im/post/5cf3365ff265da1b9612ec78)

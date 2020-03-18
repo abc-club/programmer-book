@@ -39,13 +39,20 @@
 * [Node.JS 应用最佳实践：日志](https://zhuanlan.zhihu.com/p/81989446)
 * [使用verdaccio搭建npm私有仓库](https://www.jianshu.com/p/16b0a2f124fb)
 * [npm包管理和配置npm的nexus私服](https://www.jianshu.com/p/bc71053e644c)
-
-
+* [抛弃jenkins，使用node从零搭建自动化部署管理平台](https://mp.weixin.qq.com/s/UVcZh0QE8g52Iv5UB_61tQ)
+* [每天都在用 SSH，你知道 SSH 的原理吗？](https://juejin.im/post/5e4e30dfe51d4527107c8835)
 
 ### 开源项目
 * [Node.js 实现远程桌面监控](https://juejin.im/post/5d18d4c36fb9a07ecb0bbe7b)
 * [Egg + React 实战日记本（万字长文，望收藏点赞）](https://juejin.im/post/5e2a6215e51d454d50351f9b)
 
+
+### 微服务
+* [moleculerjs](https://github.com/moleculerjs/moleculer) (https://img.shields.io/github/stars/moleculerjs/moleculer.svg)
+* [nodejs 微服务 用什么框架](https://cnodejs.org/topic/5895870f800323b708f7bbf4)
+* [seneca](https://github.com/senecajs/seneca)  (https://img.shields.io/github/stars/senecajs/seneca.svg)
+* [microless](https://github.com/Authing/microless) (https://img.shields.io/github/stars/Authing/microless.svg)
+* [感觉Nodejs社区，在微服务架构层面的软件太少了啊！有没有类似于Spring Cloud这种的？](https://cnodejs.org/topic/59f6e8ff688da99d4fa91e11)
 
 ### 常用库
 * [winston](https://github.com/winstonjs/winston)(A logger for just about everything)

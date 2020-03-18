@@ -183,6 +183,8 @@
 * [收藏！送给React研发人员的22款超强工具](https://zhuanlan.zhihu.com/p/83675159)
 * [全栈 React + GraphQL 教程（一）](https://www.zcfy.cc/article/full-stack-react-graphql-tutorial-apollo-graphql-4341.html?t=new)
 * [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d)
+* [React之CLODOP实战：(一)手写并打印快递单](https://juejin.im/post/5e699522e51d4526c3591397)
+
 
 ### 常用库
 * [ant-design](https://ant.design/index-cn)
@@ -533,7 +535,7 @@
 * [一线大厂前端怎么做？百度资深前端工程师，带你手写微前端框架](https://www.toutiao.com/a6753519385958154763)
 * [字节跳动的微前端沙盒实践](https://juejin.im/post/5e4941d46fb9a07c8334d3e9)
 * [微前端在美团外卖的实践](https://juejin.im/post/5e57b6f0f265da57547794c9)
-
+* [未来魔法校的微前端实践](https://juejin.im/post/5e6a0428e51d4527110a9f61)
 
 ### WebAssembly
 * [花椒前端基于WebAssembly 的H.265播放器研发](https://mp.weixin.qq.com/s/cXbanMq93jyx5gCuaP2oTw)
@@ -767,6 +769,8 @@ e2e测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 * [一文看懂：网址，URL，域名，IP地址，DNS，域名解析](https://www.toutiao.com/a6751517219382886925)
 * [87个前端必备开发网站](https://zhuanlan.zhihu.com/p/86777413)
 * [前端开发的历史和趋势](https://www.toutiao.com/a6748272721014030862)
+* [什么是SEO](https://mp.weixin.qq.com/s/rGSNZDzhtQL87wm1hzeHxg)
+![](ASSETS/IMAGES/imgs/seo.png)
 
 
 ### 常用技术

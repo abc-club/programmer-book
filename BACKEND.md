@@ -20,6 +20,7 @@
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)  ![Github stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide.svg)
 
 ### 学习路线
+* [Java后端学习路线（适合科班、非科班和已工作的仔）](https://juejin.im/post/5e5bc9a66fb9a07c817619fb)
 * [Java入门第一季](https://www.imooc.com/learn/85)
 * [JAVA遇见HTML——Servlet篇](https://www.imooc.com/learn/269)
 * [Spring入门篇](https://www.imooc.com/learn/196)
@@ -35,6 +36,8 @@
 * [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
 * [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)(21K+ star)
 * [精通 Spring Boot 42 讲](https://gitbook.cn/gitchat/column/5b86228ce15aa17d68b5b55a/topic/5b864c65e15aa17d68b5db58)(收费)
+* [《今天面试了吗》-Spring](https://www.zhihu.com/question/56110328/answer/370752381)
+
 
 
 #### spring-boot(1)
@@ -45,6 +48,11 @@
 * [Github 上热门的 Spring Boot 项目实战推荐](https://juejin.im/post/5da3c3dce51d4578034d2dc3)
 
 ![](https://user-gold-cdn.xitu.io/2020/3/14/170d96d802c833d0?w=2124&h=1550&f=png&s=1306299)
+
+#### spring-Cloud
+* [一个不容错过的Spring Cloud实战项目！](https://juejin.im/post/5e68dd5651882549564b6c28)
+
+
 
 ### 开源
 * [史上最全的整合第三方登录的开源库JustAuth](https://github.com/justauth/JustAuth)
