@@ -41,6 +41,9 @@
 * [npm包管理和配置npm的nexus私服](https://www.jianshu.com/p/bc71053e644c)
 * [抛弃jenkins，使用node从零搭建自动化部署管理平台](https://mp.weixin.qq.com/s/UVcZh0QE8g52Iv5UB_61tQ)
 * [每天都在用 SSH，你知道 SSH 的原理吗？](https://juejin.im/post/5e4e30dfe51d4527107c8835)
+* [对node工程进行压力测试与性能分析](https://juejin.im/post/5b827cbbe51d4538c021f2da)
+* [使用Node.js构建API网关](https://blog.risingstack.com/building-an-api-gateway-using-nodejs/)
+
 
 ### 开源项目
 * [Node.js 实现远程桌面监控](https://juejin.im/post/5d18d4c36fb9a07ecb0bbe7b)
@@ -53,6 +56,10 @@
 * [seneca](https://github.com/senecajs/seneca)  (https://img.shields.io/github/stars/senecajs/seneca.svg)
 * [microless](https://github.com/Authing/microless) (https://img.shields.io/github/stars/Authing/microless.svg)
 * [感觉Nodejs社区，在微服务架构层面的软件太少了啊！有没有类似于Spring Cloud这种的？](https://cnodejs.org/topic/59f6e8ff688da99d4fa91e11)
+* [利用dubbo打造真正的nodejs端的微服务体系](https://juejin.im/post/5d60fec06fb9a06b19734382)
+* [risingstack](https://risingstack.com/)(用nodejs搭建微服务的公司)
+* [5 分钟搭建 Node.js 微服务原型](https://juejin.im/post/5e60aec0e51d45271d5d4382)
+
 
 ### 常用库
 * [winston](https://github.com/winstonjs/winston)(A logger for just about everything)

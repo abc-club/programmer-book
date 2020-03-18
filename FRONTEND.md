@@ -679,6 +679,8 @@
 * [万字长文总结前端测试体系建设与最佳实践](https://mp.weixin.qq.com/s?__biz=MzI5MjYyODYyNQ==&mid=2247483987&idx=1&sn=132aea5d5185a1e4fa2fab5037a2fb3e)
 * [花椒测试平台 - 接口篇](https://mp.weixin.qq.com/s/xDwEv8r_RfJ99CSir3kCfg)
 * [浅谈前端单元测试](https://juejin.im/post/5b2da89cf265da597f1c7cab)
+* [从0到1构建美团压测工具](https://tech.meituan.com/2016/01/08/loading-test.html)
+
 
 ### 单元测试
 站在程序员的角度测试
