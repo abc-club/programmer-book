@@ -20,6 +20,10 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 部署到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:abc-club/js-paradise.git master:gh-pages
+# git push -f git@github.com:abc-club/js-paradise.git master:gh-pages
+cd ../../
 
-cd -
+git init
+git add -A
+git commit -m 'deploy'
+git subtree push --prefix .vuepress/dist origin gh-pages
