@@ -26,4 +26,5 @@ cd ../../
 git init
 git add -A
 git commit -m 'deploy'
+git push
 git subtree push --prefix .vuepress/dist origin gh-pages
