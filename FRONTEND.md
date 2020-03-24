@@ -55,6 +55,8 @@
 - [vue-i18n](https://github.com/kazupon/vue-i18n)
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 - [vuepress](https://github.com/vuejs/vuepress)(静态网站生成器)
+- [jsx](https://github.com/vuejs/jsx)
+-
 
 ### 组件库或框架
 
@@ -379,6 +381,14 @@
 - [resume](https://github.com/resume/resume.github.com)(A service that creates a résumé based on your GitHub repos/activity.)
 - [10 个后台管理 UI 框架](https://www.jianshu.com/p/3e6c9ebbd8fd)
 - [muuri](https://github.com/haltu/muuri)(Responsive, sortable, filterable and draggable grid layouts)
+
+### 常用库
+
+- [velocity](https://github.com/julianshapiro/velocity)(js 动画库)
+- [TweenJS](https://github.com/CreateJS/TweenJS)
+- [tween.js](https://github.com/tweenjs/tween.js)
+- [GSAP](https://github.com/greensock/GSAP)(高性能 js 动画库)
+- [color-js](https://github.com/brehaut/color-js)(A color management API )
 
 ## es6
 
@@ -727,6 +737,12 @@
 - [从 0 到 1 构建美团压测工具](https://tech.meituan.com/2016/01/08/loading-test.html)
 
 ### 单元测试
+
+测试框架：
+
+- 推荐 jest,功能比较完善，包含断言
+- mocha + chai/expect
+- karma + mocha + chai
 
 站在程序员的角度测试
 unit 测试是把代码看成是一个个的组件。从而实现每一个组件的单独测试，测试内容主要是组件内每一个函数的返回结果是不是和期望值一样。
