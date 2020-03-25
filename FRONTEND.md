@@ -389,6 +389,7 @@
 - [tween.js](https://github.com/tweenjs/tween.js)
 - [GSAP](https://github.com/greensock/GSAP)(高性能 js 动画库)
 - [color-js](https://github.com/brehaut/color-js)(A color management API )
+- [path-to-regexp](https://github.com/pillarjs/path-to-regexp)(用正则匹配路径)
 
 ## es6
 
@@ -744,16 +745,19 @@
 - mocha + chai/expect
 - karma + mocha + chai
 
+用 sinonjs 生成函数
+
 站在程序员的角度测试
 unit 测试是把代码看成是一个个的组件。从而实现每一个组件的单独测试，测试内容主要是组件内每一个函数的返回结果是不是和期望值一样。
 
 #### 库
 
-- [jest](https://github.com/facebook/jest)
+- [jest](https://github.com/facebook/jest)(推荐)
 - [karma](https://github.com/karma-runner/karma)(Spectacular Test Runner for JavaScript )
 - [mocha](https://github.com/mochajs/mocha)(simple, flexible, fun javascript test framework for node.js & the browser)
 - [enzyme](https://github.com/airbnb/enzyme/)(JavaScript Testing utilities for React )
 - [vue-test-utils](https://vue-test-utils.vuejs.org/)(JavaScript Testing utilities for vue )
+- [sinonjs](https://sinonjs.org/)(模拟生成函数)
 
 #### 文章
 

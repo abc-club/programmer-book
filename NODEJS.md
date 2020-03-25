@@ -69,6 +69,7 @@
 - [中华人民共和国行政区划代码](https://www.npmjs.com/package/province-city-china)
 - [pinyin](https://github.com/hotoo/pinyin)
 - [jsdom](https://github.com/jsdom/jsdom)(一个 JavaScript 实现各种 web 标准,使用 node . js)
+- [connect-history-api-fallback](https://github.com/bripkens/connect-history-api-fallback)(服务端不匹配 index.html 回退)
 
 ## npm
 

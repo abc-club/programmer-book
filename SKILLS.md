@@ -52,3 +52,13 @@ git subtree push --prefix .vuepress/dist origin gh-pages
 npm link 不用安装依赖
 
 mac 录屏 使用 qq 提供的录屏工具 ctrl+command+r,或者 quicktime
+
+## 备份公司邮箱邮件
+
+### 查询企业邮箱的 POP、SMTP、IMAP 服务器地址设置
+
+https://qiye.163.com/help/client-profile.html
+
+### 如何将 outlook 邮件保存到本地
+
+https://zhidao.baidu.com/question/1604321182206045747.html

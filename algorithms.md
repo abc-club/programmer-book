@@ -1,9 +1,8 @@
-
 ## 算法
 
 ### 递归
-* [如何写递归](https://leetcode-cn.com/circle/article/koSrVI/)
 
+- [如何写递归](https://leetcode-cn.com/circle/article/koSrVI/)
 
 递归的套路
 
@@ -28,9 +27,12 @@ public int sum2(int n, int sum) {
 
 ```
 
+### 动态规划
+
+- [闫氏 DP 分析法，从此再也不怕 DP 问题！](https://www.bilibili.com/video/BV1X741127ZM/)
 
 ## 数学
 
 ### 求最大公约数
 
-* [js计算最大公约数和最小公倍数代码实例](https://www.jb51.net/article/169844.htm)
+- [js 计算最大公约数和最小公倍数代码实例](https://www.jb51.net/article/169844.htm)
