@@ -81,6 +81,7 @@
 * [vue-lazyload](https://github.com/hilongjw/vue-lazyload)
 * [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
 * [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
+* [vuex-router-sync]()
 
 ### 文章
 
