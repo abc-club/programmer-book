@@ -784,6 +784,7 @@ arguments不会自动反映函数参数的变化
 
 - [2020 年了,再不会 webpack 敲得代码就不香了(近万字实战)](https://juejin.im/post/5de87444518825124c50cd36)
 - [一步步从零开始用 webpack 搭建一个大型项目](https://juejin.im/post/5de06aa851882572d672c1ad)
+- [怎么优化 webpack 打包速度](https://webpack.docschina.org/guides/build-performance/)
 
 ### 浏览器
 

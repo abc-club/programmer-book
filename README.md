@@ -15,24 +15,28 @@ features:
 footer: MIT Licensed | Copyright © 2018-present Ping Ao
 ---
 
-
 ## 目录
 
-* [从面试前到终面，全面为您保驾护航](INTERVIEWMOCK.md)
-* [前端](FRONTEND.md)
-* [自己动手](DIY.md)
-* [前辈经验](EXPERIENCE.md)
-* [面试](INTERVIEW.md)
-* [源码解析](SOURCECODE.md)
-* [前端自检](CHECKLIST.md)
-* [装机必备及软件安装](SOFTWARE/README.md)
-* [精品系列](LIST.md)
-* [后端&运维](BACKEND.md)
-* [常用技巧](SKILLS.md)
-* [GITHUB优秀开源项目](GITHUB.md)
-* [你需要关注的公众号、博客、大神等](FOLLOW.md)
-* [行业新闻](NEWS.md)
-* [其他](OTHER.md)
-* [abc-club技术博客](BLOG/README.md)
-* [数学](MATH.md)
+- [从面试前到终面，全面为您保驾护航](INTERVIEWMOCK.md)
+- [前端](FRONTEND.md)
+- [自己动手](DIY.md)
+- [前辈经验](EXPERIENCE.md)
+- [面试](INTERVIEW.md)
+- [源码解析](SOURCECODE.md)
+- [前端自检](CHECKLIST.md)
+- [装机必备及软件安装](SOFTWARE/README.md)
+- [精品系列](LIST.md)
+- [后端&运维](BACKEND.md)
+- [常用技巧](SKILLS.md)
+- [GITHUB 优秀开源项目](GITHUB.md)
+- [你需要关注的公众号、博客、大神等](FOLLOW.md)
+- [行业新闻](NEWS.md)
+- [其他](OTHER.md)
+- [abc-club 技术博客](BLOG/README.md)
+- [数学](MATH.md)
 
+## buy me coffee
+
+<img src="ASSETS/IMAGES/wepay.jpg" width="30%" alt="weixin">
+<div style="display:inline-block;width:30%;"></div>
+<img src="ASSETS/IMAGES/alipay.jpg" width="30%" alt="weixin">

@@ -742,7 +742,7 @@
 
 测试框架：
 
-- 推荐 jest,功能比较完善，包含断言
+- 推荐 jest,功能比较完善，包含断言(facebook 开发)
 - mocha + chai/expect
 - karma + mocha + chai
 
