@@ -39,4 +39,4 @@ footer: MIT Licensed | Copyright © 2018-present Ping Ao
 
 <img src="ASSETS/IMAGES/wepay.jpg" width="30%" alt="weixin">
 <div style="display:inline-block;width:30%;"></div>
-<img src="ASSETS/IMAGES/alipay.jpg" width="30%" alt="weixin">
+<img src="ASSETS/IMAGES/alipay.jpg" width="30%" alt="alipay">
