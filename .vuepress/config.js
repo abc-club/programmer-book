@@ -50,6 +50,6 @@ module.exports = {
     ]
   ],
   configureWebpack: {
-    plugins: [new CopyPlugin([{ from: "../ASSETS", to: "./public/ASSETS" }])]
+    plugins: [new CopyPlugin([{ from: "./ASSETS", to: "../public/ASSETS" }])]
   }
 };
