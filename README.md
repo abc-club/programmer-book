@@ -37,6 +37,6 @@ footer: MIT Licensed | Copyright © 2018-present Ping Ao
 
 ## buy me coffee
 
-<img src="ASSETS/IMAGES/wechat.jpg" width="30%" alt="weixin">
+<img src="https://user-gold-cdn.xitu.io/2020/3/27/1711bb8c25e75a0f?w=1242&h=1686&f=png&s=451593" width="30%" alt="weixin">
 <div style="display:inline-block;width:30%;"></div>
-<img src="ASSETS/IMAGES/alibaba.jpg" width="30%" alt="alipay">
+<img src="https://user-gold-cdn.xitu.io/2020/3/27/1711bb8d7bf6237e?w=900&h=1350&f=png&s=403740" width="30%" alt="alipay">

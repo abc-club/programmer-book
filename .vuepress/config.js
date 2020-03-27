@@ -1,4 +1,4 @@
-const CopyPlugin = require("copy-webpack-plugin");
+// const CopyPlugin = require("copy-webpack-plugin");
 
 module.exports = {
   title: "前端乐园",
@@ -50,6 +50,7 @@ module.exports = {
     ]
   ],
   configureWebpack: {
-    plugins: [new CopyPlugin([{ from: "./ASSETS", to: "../public/ASSETS" }])]
+    // 注意这里的路径问题，from是相对执行命令的地方，to相对dist目录
+    // plugins: [new CopyPlugin([{ from: "./ASSETS", to: "../public/ASSETS" }])]
   }
 };
