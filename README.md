@@ -37,6 +37,6 @@ footer: MIT Licensed | Copyright © 2018-present Ping Ao
 
 ## buy me coffee
 
-<img src="https://user-gold-cdn.xitu.io/2020/3/27/1711bb8c25e75a0f?w=1242&h=1686&f=png&s=451593" width="30%" alt="weixin">
+<img src="https://camo.githubusercontent.com/ea9531f3faf680e7b3665f18a2938c615067103c/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323032302f332f32372f313731316262386332356537356130663f773d3132343226683d3136383626663d706e6726733d343531353933" width="30%" alt="weixin">
 <div style="display:inline-block;width:30%;"></div>
-<img src="https://user-gold-cdn.xitu.io/2020/3/27/1711bb8d7bf6237e?w=900&h=1350&f=png&s=403740" width="30%" alt="alipay">
+<img src="https://camo.githubusercontent.com/39250ebe4edd8b2284965ef217489fb093585b45/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323032302f332f32372f313731316262386437626636323337653f773d39303026683d3133353026663d706e6726733d343033373430" width="30%" alt="alipay">
