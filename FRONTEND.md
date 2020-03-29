@@ -382,6 +382,7 @@
 - [resume](https://github.com/resume/resume.github.com)(A service that creates a résumé based on your GitHub repos/activity.)
 - [10 个后台管理 UI 框架](https://www.jianshu.com/p/3e6c9ebbd8fd)
 - [muuri](https://github.com/haltu/muuri)(Responsive, sortable, filterable and draggable grid layouts)
+- [odoo](https://github.com/odoo/odoo)(免费开源的企业数智化管理平台)
 
 ### 常用库
 
