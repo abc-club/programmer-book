@@ -1175,6 +1175,7 @@ function _new() {
 ## 面试题仓库
 
 - [挑战一轮大厂后的面试总结 (含六个方向) - javascript 篇(万字长文)](https://juejin.im/post/5e523e726fb9a07c9a195a95)
+- [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 
 * https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 

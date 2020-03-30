@@ -452,6 +452,9 @@
 
 ### webpack
 
+- [webpack 源码阅读之主流程分析](https://segmentfault.com/a/1190000020264009)
+- [webpack 系列之一总览](https://juejin.im/post/5bf7c2186fb9a049fd0f7e8a)(滴滴)
+- [Webpack 源码（二）—— 如何阅读源码](https://segmentfault.com/a/1190000008060484)
 - [Webpack 源码解读：理清编译主流程](https://juejin.im/post/5dc01199f265da4d12067ebe)
 - [从 Webpack 源码探究打包流程，萌新也能看懂～](https://juejin.im/post/5c0206626fb9a049bc4c6540)
 - [webpack4.0 源码分析之 Tapable](https://juejin.im/post/5abf33f16fb9a028e46ec352)
