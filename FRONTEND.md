@@ -43,6 +43,7 @@
 - [框架](#框架)
 - [jquery](#jquery)
 - [学习网站](#学习网站)
+- [工程化](#工程化)
 
 ## vue
 
@@ -92,7 +93,6 @@
 - [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 - [VUE 单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
 - [一个 Vue 引发的性能问题](https://juejin.im/post/5c97691fe51d4522c55f9ead)
-- [【2019 前端进阶之路】Vue 组件间通信方式完整版](https://juejin.im/post/5c776ee4f265da2da53edfad)
 - [Vue.js 组件精讲](https://juejin.im/book/5bc844166fb9a05cd676ebca)
 - [剖析 Vue.js 内部运行机制](https://juejin.im/book/5a36661851882538e2259c0f)
 - [Vuejs 建议和最佳实践](https://juejin.im/post/5d48f3b7e51d4561e224a2c8)
@@ -688,6 +688,8 @@
 
 ### 机器学习
 
+- [tfjs](https://github.com/tensorflow/tfjs)(tensorflow.js)
+- [pipcook](https://github.com/alibaba/pipcook)(基于 tfjs-node 的前端算法工程框架)
 - [一文看尽 TensorFlow“奋斗史”！| CSDN 博文精选](https://mp.weixin.qq.com/s/iQ8azTcyW4oJLSacJ84w-g)
 - [tensorflow 中文](https://tensorflow.google.cn/)
 - [TensorFlow 如何入门，如何快速学习？](https://www.zhihu.com/question/49909565/answer/807076121)
@@ -918,5 +920,10 @@ Chrome DevTools
 - [阿里 9 年，我总结的前端架构演进 3 大阶段及团队管理心法](https://mp.weixin.qq.com/s/PK5eaBnSg0fG1RvPsbeJwQ)
 - [【第 1399 期】美菜无线前端架构模型 2018](https://mp.weixin.qq.com/s/2IjsJZY78FQcOdTI5JC7ow)
 - [前端插拔式 SPA 应用架构实现方案](https://juejin.im/post/5b768ffce51d45666f799ba2)
+
+## 工程化
+
+- [喜大普奔，Pont 1.0 发布了](https://juejin.im/post/5e82e7f1518825738a5ac1f3)(前后端数据服务层解决方案)
+- [为什么你在辛苦做项目国际化，而别人在喝茶？](https://juejin.im/post/5e7c6ce051882535e07a3d0f)(国际化全流程解决方案)
 
 [↑ 返回目录 ↑](#目录)

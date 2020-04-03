@@ -46,5 +46,5 @@ features:
     text-align: center;
     color: #4e6e8e;'>
     MIT Licensed | Copyright © 2019-present Ping Ao. 
-    ICP:<a href='http://beian.miit.gov.cn'>粤ICP备19152421号</a>
+    ICP:<a target='_blank' href='http://beian.miit.gov.cn'>粤ICP备19152421号</a>
 </p>

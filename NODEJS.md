@@ -49,6 +49,7 @@
 
 - [Node.js 实现远程桌面监控](https://juejin.im/post/5d18d4c36fb9a07ecb0bbe7b)
 - [Egg + React 实战日记本（万字长文，望收藏点赞）](https://juejin.im/post/5e2a6215e51d454d50351f9b)
+- [DoraCMS](https://github.com/doramart/DoraCMS)(DoraCMS 是基于 Nodejs+eggjs+mongodb 编写的一套内容管理系统)
 
 ### 微服务
 

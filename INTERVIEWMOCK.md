@@ -755,6 +755,7 @@ arguments不会自动反映函数参数的变化
 - [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
 - [Vue 3 中令人兴奋的新功能](https://juejin.im/post/5dc3cfce6fb9a04a665f100e)
 - [面试官: 实现双向绑定 Proxy 比 defineproperty 优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
+- [【2019 前端进阶之路】Vue 组件间通信方式完整版](https://juejin.im/post/5c776ee4f265da2da53edfad)
 
 #### vue-cli
 
