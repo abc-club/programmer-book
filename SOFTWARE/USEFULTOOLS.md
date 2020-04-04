@@ -204,3 +204,7 @@ https://www.rescuetime.com
 ### 免费开源项目
 
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)()
+
+### 下载电子书
+
+- [如何查看一本书有没有 PDF 版？](https://www.zhihu.com/question/372559104/answer/1060642489)
