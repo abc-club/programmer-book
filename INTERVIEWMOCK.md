@@ -1128,6 +1128,7 @@ function _new() {
 ### 头条
 
 - [两年前端头条面试记](https://juejin.im/post/5de5a2d0e51d451aec2b8883)
+- [艺术喵 2 年前端面试心路历程（字节跳动、YY、虎牙、BIGO）| 掘金技术征文](https://juejin.im/post/5e85ec79e51d4547153d0738)
 
 ### 拼多多
 
