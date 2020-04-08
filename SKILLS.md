@@ -62,3 +62,13 @@ https://qiye.163.com/help/client-profile.html
 ### 如何将 outlook 邮件保存到本地
 
 https://zhidao.baidu.com/question/1604321182206045747.html
+
+### 如何查看 fps
+
+如果你用的是 Chrome，只需几步，快速测试性能：
+
+打开开发者工具
+按 Command+Shift+P (Mac) or Control+Shift+P (Windows, Linux) 来打开命令菜单
+输入 render，下拉框中选择 Show Rendering。
+点击 render 页签，FPS Meter 前打钩。
+滚动列表

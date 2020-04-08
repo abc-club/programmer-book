@@ -962,6 +962,7 @@ function _new() {
 - [【面试题】js 各种源码实现](https://juejin.im/post/5e05c8a96fb9a016470c375e)
 - [23 行代码实现一个带并发数限制的 fetch 请求函数](https://juejin.im/post/5c89d447f265da2dd37c604c)
 - [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
+- [[译] 无尽滚动的复杂度 -- 来自 Google 大神的拆解](https://juejin.im/post/58a3c81e128fe10058c57a8b)
 
 ### 代码质量
 
