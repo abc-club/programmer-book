@@ -36,3 +36,13 @@ public int sum2(int n, int sum) {
 ### 求最大公约数
 
 - [js 计算最大公约数和最小公倍数代码实例](https://www.jb51.net/article/169844.htm)
+
+## 算法技巧
+
+### 小数靠近 0 取整
+
+```
+function f(n) {
+  return n | 0
+}
+```

@@ -1083,6 +1083,7 @@ function _new() {
 ## 面试经验
 
 - [记一次大厂的面试过程](https://juejin.im/post/5db556376fb9a0207a6ddce7)
+- [【新鲜面经】 四月面试不用慌，掘友攻略来帮忙| 掘金技术征文展（第一弹）](https://juejin.im/post/5e86e9da5188257391463c1d)
 
 ### 阿里
 
