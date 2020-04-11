@@ -46,3 +46,15 @@ function f(n) {
   return n | 0
 }
 ```
+
+### 二维数组初始化
+
+```
+var dp = new Array(nums.length)
+    for(var i=0;i<nums.length;i++) {
+        dp[i] = []
+        for (var sum = -1000; sum <= 1000; sum++) {
+            dp[i][sum+1000] = 0
+        }
+    }
+```
