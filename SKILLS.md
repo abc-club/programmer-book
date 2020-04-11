@@ -72,3 +72,19 @@ https://zhidao.baidu.com/question/1604321182206045747.html
 输入 render，下拉框中选择 Show Rendering。
 点击 render 页签，FPS Meter 前打钩。
 滚动列表
+
+### ssh
+
+- [每天都在用 SSH，你知道 SSH 的原理吗？](https://juejin.im/post/5e4e30dfe51d4527107c8835)
+- [SSH 协议基本原理及 wireshark 抓包分析](https://juejin.im/post/5baaf517e51d453df0442dce)
+
+使用`ssh-keygen`生成私钥`id_rsa`和公钥`id_rsa.pub`(目录为`~/.ssh`)
+
+把`id_rsa.pub`放到服务器（或 github）上
+
+TODO:不明白 session key 是什么时候生成的
+
+1. ssh 到服务器
+2. 服务器会用`公钥`加密一段信息，
+3. 如果我们的电脑能用`私钥`解密出来，然后再用`session key`加密返回给服务器，
+4. 服务器用`session key`解密后发现是自己原来发送的信息那么就建立连接，此后的信息都用`session key`加密传送
