@@ -399,6 +399,7 @@ docker image prune -a
 - [前端想要了解的 Nginx](https://juejin.im/post/5cae9de95188251ae2324ec3)
 - [一文弄懂 Nginx 的 location 匹配](https://juejin.im/post/5cbe89b6f265da0373718707)
 - [nginx 这一篇就够了](https://juejin.im/post/5d81906c518825300a3ec7ca)
+- [为 docker 中的 nginx 配置 https](https://www.cnblogs.com/sparkdev/p/9163162.html)
 
 ## 其他
 

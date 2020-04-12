@@ -88,3 +88,7 @@ TODO:不明白 session key 是什么时候生成的
 2. 服务器会用`公钥`加密一段信息，
 3. 如果我们的电脑能用`私钥`解密出来，然后再用`session key`加密返回给服务器，
 4. 服务器用`session key`解密后发现是自己原来发送的信息那么就建立连接，此后的信息都用`session key`加密传送
+
+## 服务器相关
+
+- [腾讯云实现全站 HTTPS 方案](https://cloud.tencent.com/document/product/400/6813)
