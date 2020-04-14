@@ -72,3 +72,98 @@ var dp = new Array(nums.length)
         }
     }
 ```
+
+### 求中间位置(偏左)
+
+```
+var mid = Math.floor((left+right)/2)
+
+// Prevent (left + right) overflow
+var mid = Math.floor(right+(right-left)/2)
+
+```
+
+### 二分查找
+
+模板一
+
+```js
+var search = function(nums, target) {
+  var left = 0,
+    right = nums.length - 1;
+  while (left <= right) {
+    var mid = Math.floor((left + right) / 2);
+    if (nums[mid] > target) right = mid - 1;
+    else if (nums[mid] < target) left = mid + 1;
+    else return mid;
+  }
+  return -1;
+};
+```
+
+模板二
+
+用于找分界点 left
+
+```js
+// 初始条件：left = 0, right = length-1
+// 终止：left == right
+// 向左查找：right = mid
+// 向右查找：left = mid+1
+var search = function(nums, target) {
+  var left = 0,
+    right = nums.length - 1;
+  while (left < right) {
+    var mid = Math.floor((left + right) / 2);
+    if (nums[mid] > target) right = mid;
+    else if (nums[mid] < target) left = mid + 1;
+    else return mid;
+  }
+  if (nums[left] === target) return left;
+  return -1;
+};
+search([1, 1, 1, 10, 10, 10], 9);
+```
+
+模板三
+
+```js
+var search = function(nums, target) {
+  var left = 0,
+    right = nums.length - 1;
+  while (left + 1 < right) {
+    var mid = Math.floor((left + right) / 2);
+    if (nums[mid] > target) right = mid;
+    else if (nums[mid] < target) left = mid;
+    else return mid;
+  }
+  if (nums[left] === target) return left;
+  if (nums[right] === target) return right;
+  return -1;
+};
+search([1, 2, 3], 3);
+```
+
+### 截取 index 周围 k 个元素
+
+```js
+var start = index - Math.floor(k / 2);
+if (start < 0) start = 0;
+return arr.slice(start, start + k);
+```
+
+理解 ArrayBuffer
+
+```
+const buffer = new ArrayBuffer(8);
+
+const arr1 = new Uint16Array(buffer);
+const arr2 = new Uint8Array(buffer);
+
+
+arr2[7] = 1;
+
+console.log(arr1); // [0, 0, 0, 256]  这里每两位反转一下
+console.log(arr2); // [0, 0, 0, 0, 0, 0, 0, 1]
+console.log(buffer);
+```
