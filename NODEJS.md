@@ -29,6 +29,7 @@
 
 ### 参考资料
 
+- [2020Node.js 开发者报告](https://github.com/NoderSurvey/reporters)
 - 七天学会 NodeJS 文档 http://nqdeng.github.io/7-days-nodejs/
 - node 面试题 https://github.com/ElemeFE/node-interview
 - Node 应用内存泄漏分析方法论与实战 https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/node-memory-leak.md

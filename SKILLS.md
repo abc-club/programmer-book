@@ -100,3 +100,11 @@ TODO:不明白 session key 是什么时候生成的
 ## 服务器相关
 
 - [腾讯云实现全站 HTTPS 方案](https://cloud.tencent.com/document/product/400/6813)
+
+## charles 抓不到包的原因
+
+可能是以下原因
+
+1. 没勾选 Proxy -> macOS Proxy，勾选上 macOS Proxy
+2. 浏览器装的插件拦截了
+3. 不支持对应的协议，如 https http2 等需要另外配置

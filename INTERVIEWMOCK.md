@@ -792,6 +792,9 @@ arguments不会自动反映函数参数的变化
 #### 网络请求
 
 - [七层网络结构](https://blog.csdn.net/u010359398/article/details/82142449)
+- [HTTP2 详解](https://juejin.im/post/5b88a4f56fb9a01a0b31a67e)
+- [深入研究：HTTP2 的真正性能到底如何](https://segmentfault.com/a/1190000007219256)
+- [Service Worker ——这应该是一个挺全面的整理](https://blog.csdn.net/huangpb123/article/details/89498418)
 
 #### 浏览器同源政策及跨域
 

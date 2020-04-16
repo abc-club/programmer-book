@@ -69,3 +69,4 @@ Do it yourself!!!
 * [前端开发常用工具](https://github.com/yimogit/metools-plugin)
 * [DIY 前端路由](https://github.com/biaochenxuying/route)(原生 js 实现的轻量级路由，且页面跳转间有缓存功能)
 * [自己动手实现 mvvm](https://github.com/DMQ/mvvm)
+* [easy-team](https://github.com/easy-team)(完整的前端脚手架示例)

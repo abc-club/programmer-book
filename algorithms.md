@@ -81,6 +81,8 @@ var mid = Math.floor((left+right)/2)
 // Prevent (left + right) overflow
 var mid = Math.floor(right+(right-left)/2)
 
+ l + r >>> 1;
+
 ```
 
 ### 二分查找
