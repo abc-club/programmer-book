@@ -57,7 +57,7 @@
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 - [vuepress](https://github.com/vuejs/vuepress)(静态网站生成器)
 - [jsx](https://github.com/vuejs/jsx)
--
+- [Vue3.0】尤雨溪 - 聊聊 Vue.js 3.0 Beta 官方直播完整版](https://www.bilibili.com/video/BV1Tg4y1z7FH?from=search&seid=4652270061519991619)
 
 ### 组件库或框架
 
