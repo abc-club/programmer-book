@@ -1182,6 +1182,7 @@ function _new() {
 
 ## 面试题仓库
 
+- [10 小时掌握前端面试题（2019 年最新版）](https://www.bilibili.com/video/BV1aE411C7pt)
 - [挑战一轮大厂后的面试总结 (含六个方向) - javascript 篇(万字长文)](https://juejin.im/post/5e523e726fb9a07c9a195a95)
 - [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 
