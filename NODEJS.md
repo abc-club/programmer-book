@@ -29,6 +29,7 @@
 
 ### 参考资料
 
+- [2 小时让你掌握 Node 基础（前端进阶必看）](https://www.bilibili.com/video/BV12541147Ag)
 - [2020Node.js 开发者报告](https://github.com/NoderSurvey/reporters)
 - 七天学会 NodeJS 文档 http://nqdeng.github.io/7-days-nodejs/
 - node 面试题 https://github.com/ElemeFE/node-interview

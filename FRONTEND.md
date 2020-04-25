@@ -66,6 +66,7 @@
 - [尤雨溪-VueConf 2019-上海演讲视频](https://www.bilibili.com/video/BV1N4411V7Wi)
 - [Vue 作者尤雨溪为你分享：Vue 3.0 进展@VueConf CN 2018](https://www.bilibili.com/video/BV1Lt411e75w)
 - [从零实现 Vue3.0 响应式源码(正式版)](https://www.bilibili.com/video/BV1nE411d7eW?p=1)
+- [Vue Composition API](https://composition-api.vuejs.org)
 
 ### 组件库或框架
 
@@ -385,6 +386,7 @@
 - [尾调用和尾递归](https://juejin.im/post/5acdd7486fb9a028ca53547c)
 - [js 中的 stopImmediatePropagation 方法和 stopPropagation 方法的区别](https://www.cnblogs.com/EnSnail/p/9796237.html)
 - [二进制(原码、反码、补码)](https://www.cnblogs.com/fuhaots2009/p/3476502.html)
+- [用 js 获取页面元素的位置图文总结](https://juejin.im/post/5b0eb6146fb9a009f74bf1a5)
 
 ### 开源项目
 
