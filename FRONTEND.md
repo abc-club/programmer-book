@@ -610,6 +610,7 @@
 - [serverless](https://github.com/serverless/serverless)
 - [Serverless——前端的 3.0 时代](https://zhuanlan.zhihu.com/p/84054729)
 - [基于 Serverless 的 VuePress 极简静态网站](https://zhuanlan.zhihu.com/p/110280999)
+- [webiny-js](https://github.com/webiny/webiny-js)
 
 ### web components
 
