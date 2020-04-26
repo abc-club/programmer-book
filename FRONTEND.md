@@ -169,6 +169,7 @@
 ### 参考资料
 
 - [React 源码解析](https://github.com/KieSun/react-interpretation)
+- [你真的了解 React 生命周期吗](https://juejin.im/post/5df648836fb9a016526eba01)
 
 * awesome https://github.com/enaqx/awesome-react
 * react-hook https://github.com/streamich/react-use
