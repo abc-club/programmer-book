@@ -4,6 +4,8 @@
 
 持续更新中……
 
+所有可以用 JavaScript 编写的应用程序最终都会用 JavaScript 编写 -- Jeff Atwood @2007
+
 ## 目录
 
 - [中后台](NODEJS.md)
@@ -50,11 +52,9 @@
 ### 官方
 
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
-- [nuxt](https://github.com/nuxt/nuxt.js)(vue 服务端渲染)
 - [mpvue](https://github.com/Meituan-Dianping/mpvue)(vue 小程序)
 - [vuepress](https://github.com/vuejs/vuepress)
 - [vue-i18n](https://github.com/kazupon/vue-i18n)
-- [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 - [vuepress](https://github.com/vuejs/vuepress)(静态网站生成器)
 - [jsx](https://github.com/vuejs/jsx)
 - [Vue Template Explorer (Vue version: 2.6.11)](https://template-explorer.vuejs.org)
@@ -149,6 +149,13 @@
 - [husky](https://github.com/typicode/husky)(git hook)
 - [yorkie](https://github.com/yyx990803/yorkie)(git hook)
 - [lerna]()(多个包在一起打包)
+
+### nuxt
+
+- [nuxt](https://github.com/nuxt/nuxt.js)(vue 服务端渲染)
+- [官网](https://nuxtjs.org/)
+- [中文官网](https://www.nuxtjs.cn/)
+- [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 
 ## react
 
@@ -416,6 +423,8 @@
 - [最后一次搞懂 Event Loop](https://juejin.im/post/5cbc0a9cf265da03b11f3505)
 - [深入浅出 Babel 上篇：架构和原理 + 实战](https://juejin.im/post/5d94bfbf5188256db95589be)
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
+
+### babel
 
 ## 移动端
 

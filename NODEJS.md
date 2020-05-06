@@ -22,6 +22,7 @@
 
 - 英文官网 https://nodejs.org/en/
 - 中文官网 http://nodejs.cn/
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 * [nvm](https://github.com/nvm-sh/nvm)(nodejs 管理工具)
 * [nvm-windows](https://github.com/coreybutler/nvm-windows)(nodejs 管理工具)
@@ -94,6 +95,12 @@
 
 - [spider-flow](https://gitee.com/jmxd/spider-flow)(新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫)
 
+## express
+
+- [expressjs 中文](https://www.expressjs.com.cn/)
+- [express 源码阅读（全）](https://segmentfault.com/a/1190000011090124)
+- [awesome-express](https://github.com/wabg/awesome-express)
+
 ## koa
 
 - [koa](https://github.com/koajs/koa)
@@ -102,6 +109,8 @@
 - [Koa2 进阶学习笔记](https://github.com/chenshenhai/koa2-note)
 - [koa example](https://github.com/koajs/examples)
 - [koa+jwt 实现 token 验证与刷新](https://segmentfault.com/a/1190000019338195)
+- [node 进阶——之事无巨细手写 koa 源码](https://juejin.im/post/5ba48fc4e51d450e704277fa)
+- [awesome-koa](https://github.com/ellerbrock/awesome-koa)
 
 ## fastify
 

@@ -680,6 +680,7 @@ for (var i in b) {
 } // b : 2 a : 1   循环遍历对象自身的和继承的可枚举属性(不含Symbol属性)
 
 Object.getOwnPropertyNames(obj); // ["b", "c"] 返回一个数组,包含对象自身的所有属性(不含Symbol属性,但是包括不可枚举属性).
+Object.getOwnPropertySymbols(obj); // [Symbol()]返回一个数组，包含对象自身的所有 Symbol 属性的键名。
 Reflect.ownKeys(b); // ["b", "c", Symbol()] 返回一个数组,包含对象自身的所有属性,不管属性名是Symbol或字符串,也不管是否可枚举.
 ```
 
