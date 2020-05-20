@@ -179,8 +179,8 @@ const obj = Object.create(
   {
     p: {
       value: 42,
-      enumerable: true
-    }
+      enumerable: true,
+    },
   }
 );
 Object.values(obj); // [42]
@@ -199,13 +199,13 @@ Object.values(obj); // [42]
 ```js
 var a = { a: 1 };
 Object.defineProperty(a, "aa", {
-  value: 3
+  value: 3,
 });
 var b = { b: 2 };
 b.__proto__ = a;
 
 Object.defineProperty(b, "c", {
-  value: 3
+  value: 3,
 });
 b[Symbol()] = 4;
 
@@ -231,26 +231,26 @@ var c = { ...b }; // {b: 2, Symbol(): 4}
 ```js
 // 报错
 const obj = {
-  foo: super.foo
+  foo: super.foo,
 };
 
 // 报错
 const obj = {
-  find: () => super.foo
+  find: () => super.foo,
 };
 
 // 报错
 const obj = {
   find: function() {
     return super.foo;
-  }
+  },
 };
 // 正确
 const obj = {
   foo: "world",
   find() {
     return super.foo;
-  }
+  },
 };
 ```
 
@@ -273,7 +273,7 @@ z; // 3
 const obj = {
   f() {
     this.foo = "bar";
-  }
+  },
 };
 
 new obj.f(); // 报错
@@ -284,7 +284,7 @@ new obj.f(); // 报错
 ```js
 const obj = {
   get foo() {},
-  set foo(x) {}
+  set foo(x) {},
 };
 
 obj.foo.name;
@@ -311,7 +311,7 @@ const key1 = Symbol("description");
 const key2 = Symbol();
 let obj = {
   [key1]() {},
-  [key2]() {}
+  [key2]() {},
 };
 obj[key1].name; // "[description]"
 obj[key2].name; // ""
@@ -328,7 +328,7 @@ obj[key2].name; // ""
 const source = {
   get foo() {
     return 1;
-  }
+  },
 };
 const target = {};
 
@@ -384,6 +384,24 @@ import { default as foo } from "modules";
 - [都 2020 了，还不懂 js 运算符优先级？](https://juejin.im/post/5e1eecf75188254dc022beea)
 - [「前端进阶」从多线程到 Event Loop 全面梳理](https://juejin.im/post/5d5b4c2df265da03dd3d73e5)(宏任务微任务 cup 进程线程)
 
+### Object.defineProperty
+
+先看 configurable，再看 writable
+configurable 为 false 表示不能修改属性描述符，不能删除属性
+configurable 和 writable 同时为 fasle 时，不可以修改任何描述符
+configurable 为 false 时，只可以修改 writable
+
+扩展：
+
+严格模式下 o.a 会报错
+
+Object.isExtensible()
+Object.seal() // 方法封闭一个对象，阻止添加新属性并将所有现有属性标记为不可配置。当前属性的值只要原来是可写的就可以改变。
+Object.isSealed()
+Object.freeze() // 方法可以冻结一个对象。一个被冻结的对象再也不能被修改；冻结了一个对象则不能向这个对象添加新的属性，不能删除已有属性，不能修改该对象已有属性的可枚举性、可配置性、可写性，以及不能修改已有属性的值。此外，冻结一个对象后该对象的原型也不能被修改。freeze() 返回和传入的参数相同的对象。
+Object.isFrozen()
+Object.preventExtensions() // 方法让一个对象变的不可扩展，也就是永远不能再添加新的属性。
+
 ## vue
 
 vue vue-router vuex vue-ssr nuxt
@@ -400,3 +418,13 @@ vue vue-router vuex vue-ssr nuxt
 ## webpack
 
 - [Webpack4+Babel7+ES6 兼容 IE8](https://juejin.im/post/5cabf7b0e51d456e8b07dd04)
+
+## 优化
+
+- 域名预解析
+
+  <meta http-equiv="x-dns-prefetch-control" content="on">
+  <link rel="dns-prefetch" href="//www.zhix.net">
+
+- 域名分散处理， 突破浏览器对单个域名的最大并发连接数
+  分散到 img0.guoweiwei.com/img1.guoweiwei.com/img2.guoweiwei.com/…等不同域名
