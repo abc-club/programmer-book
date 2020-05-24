@@ -165,6 +165,12 @@ to {top:200px;}
 
 ![](https://user-gold-cdn.xitu.io/2020/2/18/1705850abf39af4b?w=1554&h=962&f=png&s=250353)
 
+
+1. HTML5 和 CSS3 有哪些
+
+https://www.cnblogs.com/star91/p/5659134.html
+
+
 #### 如何清除浮动
 
 <details>
@@ -199,6 +205,18 @@ to {top:200px;}
 
 - [史上最全面、最透彻的 BFC 原理剖析](https://github.com/zuopf769/notebook/blob/master/fe/BFC%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90/README.md)
 - [学习 BFC (Block Formatting Context)](https://juejin.im/post/59b73d5bf265da064618731d)
+
+那什么时候会触发BFC呢？常见的情况如下：
+
+<html>根元素；
+
+float的值不为none； 
+
+overflow的值为auto、scroll或hidden； 
+
+display的值为table-cell、table-caption和inline-block中 的任何一个；
+
+position的值不为relative和static。
 
 #### css 盒模型
 
@@ -745,6 +763,7 @@ arguments不会自动反映函数参数的变化
 
 - [前端模块化：CommonJS,AMD,CMD,ES6](https://juejin.im/post/5aaa37c8f265da23945f365c)
 - [ES6 模块与 CommonJS 模块的差异](http://es6.ruanyifeng.com/#docs/module-loader#ES6-%E6%A8%A1%E5%9D%97%E4%B8%8E-CommonJS-%E6%A8%A1%E5%9D%97%E7%9A%84%E5%B7%AE%E5%BC%82)
+
 
 ### typescript
 

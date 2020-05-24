@@ -221,6 +221,96 @@ Reflect.ownKeys(b); // ["b", "c", Symbol()] 返回一个数组,包含对象自�
 var c = { ...b }; // {b: 2, Symbol(): 4}
 ```
 
+### Promise
+- [Promise 源码详解](https://juejin.im/post/5b32f552f265da59991155f0)
+- [捕获未处理的 Promise 错误方法](https://www.jb51.net/article/125664.htm)
+- [JavaScript 引擎是如何工作的？从调用栈到 Promise 你需要知道的一切](https://segmentfault.com/a/1190000019205065)
+* [面试精选之Promise](https://juejin.im/post/5b31a4b7f265da595725f322)
+* [面试官眼中的Promise](https://juejin.im/post/5c233a8ee51d450d5a01b712)
+- [Promise 必知必会（十道题）](https://juejin.im/post/5a04066351882517c416715d)
+- [你能手写一个Promise吗？Yes I promise。](https://juejin.im/post/5c41297cf265da613356d4ec)
+- [Promise之你看得懂的Promise](https://juejin.im/post/5b32f552f265da59991155f0)
+
+ ### async/await
+* [async/await 原理及执行顺序分析](https://juejin.im/post/5dc28ea66fb9a04a881d1ac0)
+- [【译】JavaScript 的工作原理：事件循环及异步编程的出现和 5 种更好的 async/await 编程方式](https://juejin.im/post/5c32b971f265da61407f1057)
+
+async继发与并发
+
+```js
+// 继发
+let foo = await getFoo();
+let bar = await getBar();
+
+
+// 并发
+// 写法一
+let [foo, bar] = await Promise.all([getFoo(), getBar()]);
+
+// 写法二
+let fooPromise = getFoo();
+let barPromise = getBar();
+let foo = await fooPromise;
+let bar = await barPromise;
+```
+
+```js
+
+// 继发
+// 方法一
+async function dbFuc(db) { //这里不需要 async
+  let docs = [{}, {}, {}];
+
+  for (let doc of docs) {
+    await db.post(doc);
+  }
+}
+
+// 方法二
+async function dbFuc(db) {
+  let docs = [{}, {}, {}];
+
+  await docs.reduce(async (_, doc) => {
+    await _;
+    await db.post(doc);
+  }, undefined);
+}
+
+// 并发
+function dbFuc(db) { //这里不需要 async
+  let docs = [{}, {}, {}];
+
+  // 可能得到错误结果
+  docs.forEach(async function (doc) {
+    await db.post(doc);
+  });
+}
+
+async function dbFuc(db) {
+  let docs = [{}, {}, {}];
+  let promises = docs.map((doc) => db.post(doc));
+
+  let results = await Promise.all(promises);
+  console.log(results);
+}
+
+// 或者使用下面的写法
+
+async function dbFuc(db) {
+  let docs = [{}, {}, {}];
+  let promises = docs.map((doc) => db.post(doc));
+
+  let results = [];
+  for (let promise of promises) {
+    results.push(await promise);
+  }
+  console.log(results);
+}
+```
+
+
+
+### class
 #### super
 
 `super`指向当前对象的原型对象
@@ -367,6 +457,41 @@ import { default as foo } from "modules";
 // import foo from 'modules';
 ```
 
+#### super
+
+* super的指向以及super中this的指向问题
+```
+super可以作为函数和对象使用
+作为函数时指向父类的构造函数，只能在构造函数中使用
+作为对象时，在普通方法中指向父类原型对象，在静态方法中指向父类
+super调用的方法中this指向，普通方法中this指向自身实例，静态方法中指向自身类
+
+```
+
+super在普通方法中等于this
+
+易错题
+
+```js
+class A {
+  constructor() {
+    this.x = 1;
+  }
+}
+
+class B extends A {
+  constructor() {
+    super();
+    this.x = 2;
+    super.x = 3; // super等于this
+    console.log(super.x); // undefined
+    console.log(this.x); // 3
+  }
+}
+
+let b = new B();
+```
+
 ## babel
 
 **注意 babel 只转换新的句法（语法），不会转换新的 API，比如 Iterator、Generator、Set、Map、Proxy、Reflect、Symbol、Promise 等全局对象，以及一些定义在全局对象上的方法（比如 Object.assign）都不会转码。**
@@ -411,6 +536,11 @@ vue vue-router vuex vue-ssr nuxt
 
 - [Vue 兼容 ie9 的全面解决方案](https://juejin.im/post/5b2868b46fb9a00e6f65f87e)
 
+### vue面试题
+* 描述下diff算法
+
+
+
 ## react
 
 实现一个 react
@@ -428,3 +558,6 @@ vue vue-router vuex vue-ssr nuxt
 
 - 域名分散处理， 突破浏览器对单个域名的最大并发连接数
   分散到 img0.guoweiwei.com/img1.guoweiwei.com/img2.guoweiwei.com/…等不同域名
+
+
+## 手写
