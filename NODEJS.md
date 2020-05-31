@@ -20,8 +20,8 @@
 
 ### 官网
 
-- 英文官网 https://nodejs.org/en/
-- 中文官网 http://nodejs.cn/
+- 官网 https://nodejs.org/zh-cn/
+- 中文官网(网友翻译) http://nodejs.cn/
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 * [nvm](https://github.com/nvm-sh/nvm)(nodejs 管理工具)

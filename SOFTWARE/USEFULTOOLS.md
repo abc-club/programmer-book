@@ -7,6 +7,8 @@
 - [gtmetrix](https://gtmetrix.com) (网站访问速度)
 - [zanePerfor](https://github.com/wangweianger/zanePerfor) (网站访问速度)
 - [pingdom](https://www.pingdom.com/) (网站状况监控)
+- [jsperf](https://jsperf.com/)(测试js性能)
+
 
 ## IDE
 
@@ -208,3 +210,11 @@ https://www.rescuetime.com
 ### 下载电子书
 
 - [如何查看一本书有没有 PDF 版？](https://www.zhihu.com/question/372559104/answer/1060642489)
+
+
+### cdn
+
+- [jsdelivr](http://www.jsdelivr.com/)(可以配合npm github使用)
+- [unpkg](https://unpkg.com/)(可以配合npm github使用)
+- [bootcdn](https://www.bootcdn.cn/)
+- [cdnjs](https://cdnjs.com/)

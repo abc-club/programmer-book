@@ -1,9 +1,23 @@
 ## NODEJS
 
-- [nodejs 官网](http://nodejs.cn)
+- [nodejs 官网](https://nodejs.org/zh-cn)
 - [NodeJS 从入门到精通](https://www.bilibili.com/video/BV15W411J7Uz)
   http https http2 的区别与实践
 
+### nodejs的特点
+
+单线程
+
+非阻塞IO
+
+事件驱动
+
+
+每个线程需要耗费大约2MB内存。也就是说，理论上，一个8GB内存的服务器可以同时连接的最大用户数为4000个左右。
+
+### 事件循环
+- [浏览器与Node的事件循环(Event Loop)有何区别?](https://juejin.im/post/5c337ae06fb9a049bc4cd218)
+- [剖析nodejs的事件循环](https://juejin.im/post/5af1413ef265da0b851cce80)
 ### 模块
 
 需要复习一下模块
@@ -73,6 +87,8 @@ npx create-egg --type=simple
 
 - [koa 官网](https://demopark.github.io/koa-docs-Zh-CN/)
 - [node 进阶——之事无巨细手写 koa 源码](https://juejin.im/post/5ba48fc4e51d450e704277fa)
+- [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc)
+- [koa+jwt 实现 token 验证与刷新](https://segmentfault.com/a/1190000019338195)
 
 ## express
 
@@ -509,6 +525,14 @@ let b = new B();
 - [都 2020 了，还不懂 js 运算符优先级？](https://juejin.im/post/5e1eecf75188254dc022beea)
 - [「前端进阶」从多线程到 Event Loop 全面梳理](https://juejin.im/post/5d5b4c2df265da03dd3d73e5)(宏任务微任务 cup 进程线程)
 
+### performance
+
+#### performance.timing
+
+https://developer.mozilla.org/zh-CN/docs/Web/API/PerformanceTiming
+- [前端性能监控：window.performance](https://www.cnblogs.com/libin-1/p/6501951.html)
+
+
 ### Object.defineProperty
 
 先看 configurable，再看 writable
@@ -527,6 +551,14 @@ Object.freeze() // 方法可以冻结一个对象。一个被冻结的对象再�
 Object.isFrozen()
 Object.preventExtensions() // 方法让一个对象变的不可扩展，也就是永远不能再添加新的属性。
 
+### 正则
+- [面试题之正则表达式解析一个完整的url](https://juejin.im/post/5aab72fd518825188038af9b)
+- [【收藏】常用JavaScript正则表达式汇编与示例](https://juejin.im/post/5cc2c1a3e51d456e31164a3c)
+- [[JS]正则精简教程](https://juejin.im/post/5e1d26dae51d4501fb53546b)
+- [2019 年 JS 正则大全(常用)](https://juejin.im/post/5d245d4151882555300feb77)
+
+
+
 ## vue
 
 vue vue-router vuex vue-ssr nuxt
@@ -540,6 +572,8 @@ vue vue-router vuex vue-ssr nuxt
 * 描述下diff算法
 
 
+### Vue 是如何监控到子组件修改了props属性并给出警告的
+
 
 ## react
 
@@ -548,6 +582,8 @@ vue vue-router vuex vue-ssr nuxt
 ## webpack
 
 - [Webpack4+Babel7+ES6 兼容 IE8](https://juejin.im/post/5cabf7b0e51d456e8b07dd04)
+- [minipack](https://github.com/ronami/minipack)(最小打包器)
+
 
 ## 优化
 
@@ -560,4 +596,63 @@ vue vue-router vuex vue-ssr nuxt
   分散到 img0.guoweiwei.com/img1.guoweiwei.com/img2.guoweiwei.com/…等不同域名
 
 
+## 浏览器
+
+### 缓存
+- [一文读懂前端缓存](https://juejin.im/post/5c22ee806fb9a049fb43b2c5)
+
+
+## css
+
+### BFC
+  什么是BFC？BFC的好处是什么？ 如何创建BFC?
+
+- [史上最全面、最透彻的 BFC 原理剖析](https://github.com/zuopf769/notebook/blob/master/fe/BFC%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90/README.md)
+- [学习 BFC (Block Formatting Context)](https://juejin.im/post/59b73d5bf265da064618731d)
+
+### 百分比
+
+- [css 中的百分比](https://zhuanlan.zhihu.com/p/93084661)
+
+### display: none 和visibility: hidden 和opacity: 0的区别
+
+display: none;
+DOM 结构：浏览器不会渲染 display 属性为 none 的元素，不占据空间；
+事件监听：无法进行 DOM 事件监听；
+性能：动态改变此属性时会引起重排，性能较差；
+继承：不会被子元素继承，毕竟子类也不会被渲染；
+transition：transition 不支持 display。
+
+visibility: hidden;
+DOM 结构：元素被隐藏，但是会被渲染不会消失，占据空间；
+事件监听：无法进行 DOM 事件监听；
+性 能：动态改变此属性时会引起重绘，性能较高；
+继 承：会被子元素继承，子元素可以通过设置 visibility: visible; 来取消隐藏；
+transition：transition 不支持 display。
+
+opacity: 0;
+DOM 结构：透明度为 100%，元素隐藏，占据空间；
+事件监听：可以进行 DOM 事件监听；
+性 能：提升为合成层，不会触发重绘，性能较高；
+继 承：会被子元素继承,且，子元素并不能通过 opacity: 1 来取消隐藏；
+transition：transition 支持 opacity。
+
+### flex grid布局
+- [flex 布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [grid 布局](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+
+
+### 水平垂直居中
+- [css 实现垂直水平居中] https://juejin.im/post/5854e137128fe100698e6271 https://demo.cssworld.cn/5/3-10.php
+
+### 选择器
+https://www.runoob.com/cssref/css-selectors.html
+
 ## 手写
+
+
+## hr面
+
+- [面试被问感情状况，怎样回答最加分？](https://zhuanlan.zhihu.com/p/75932700)
+  目前是单身状态，我觉得感情看缘分不要着急，先找到一份满意的工作，让自己经济独立才是最为重要。
+
