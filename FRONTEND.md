@@ -59,6 +59,8 @@
 - [jsx](https://github.com/vuejs/jsx)
 - [Vue Template Explorer (Vue version: 2.6.11)](https://template-explorer.vuejs.org)
 
+### vue3
+
 - [vue3](https://github.com/vuejs/vue-next)
 - [vue-next-template-explorer](https://vue-next-template-explorer.netlify.app)
 
@@ -67,6 +69,10 @@
 - [Vue 作者尤雨溪为你分享：Vue 3.0 进展@VueConf CN 2018](https://www.bilibili.com/video/BV1Lt411e75w)
 - [从零实现 Vue3.0 响应式源码(正式版)](https://www.bilibili.com/video/BV1nE411d7eW?p=1)
 - [Vue Composition API](https://composition-api.vuejs.org)
+- [Vue3 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)
+- [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
+- [Vue3 究竟好在哪里？（和 React Hook 的详细对比）](https://juejin.im/post/5e9ce011f265da47b8450c11)
+- [Vue3体验卡～](https://juejin.im/post/5e1451385188253ab54142e9)
 
 ### 组件库或框架
 
@@ -98,7 +104,6 @@
 - [逐行分析 vue](https://github.com/HcySunYang/vue-design)(vue 源码分析)
 - [learnVue](https://github.com/answershuto/learnVue)(vue 源码分析)
 - [vue-analysis](https://github.com/ustbhuangyi/vue-analysis)(vue 源码分析)
-- [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
 - [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 - [VUE 单页应用骨架屏方案](https://juejin.im/post/5c3d952ff265da616e4ca9ad)
 - [一个 Vue 引发的性能问题](https://juejin.im/post/5c97691fe51d4522c55f9ead)
@@ -114,7 +119,6 @@
 - [vue-router 源码分析-整体流程](https://juejin.im/post/584040e1ac502e006cbedb23)
 - [解密 vue-router: 从源码开始](https://juejin.im/post/5af108dc518825672565cf31)
 - [vue-router 源码：实现一个简单的 vue-router](https://juejin.im/post/5b35dcb5f265da59a117344d)
-- [Vue3 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)
 
 - [Github 上 36 个最实用的 Vue 开源库](https://www.toutiao.com/a6740807773254107651)
 - [利用 VuePress 快速搭建项目文档管理系统](https://www.toutiao.com/a6740976049183523341)
@@ -146,9 +150,18 @@
 
 ### 常用工具
 
+
+#### husky
 - [husky](https://github.com/typicode/husky)(git hook)
-- [yorkie](https://github.com/yyx990803/yorkie)(git hook)
-- [lerna]()(多个包在一起打包)
+- [yorkie](https://github.com/yyx990803/yorkie)(git hook与husky功能相同)
+注意：一定要使用 npm 安装 eslint 和 husky，因为在 windows 操作系统下, 用 yarn 安装依赖，不会触发 husky pre-commit 钩子命令。
+还有就是注意husky的版本，否则也可能不触发git钩子
+
+#### lerna
+- [lerna](https://github.com/lerna/lerna)(多个包在一起打包)
+- [基于 Lerna 管理 packages 的 Monorepo 项目最佳实践](https://juejin.im/post/5d4aa8905188250e4258249e)
+- [Vue CLI 3结合Lerna进行UI框架设计](https://juejin.im/post/5cb12844e51d456e7a303b64)
+
 
 ### nuxt
 
@@ -219,6 +232,7 @@
 - [ant-design](https://ant.design/index-cn)
 - [ant-design-mobile](https://mobile.ant.design/index-cn)
 
+- [redux-actions](https://github.com/redux-utilities/redux-actions)
 * react-intl
 * rc-form https://github.com/react-component/form
 

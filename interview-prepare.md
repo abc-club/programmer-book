@@ -73,6 +73,7 @@ readline
 cluster
 
 ## npm
+- [package.json字段全解](https://www.cnblogs.com/liaojie970/p/7155903.html)
 
 ### npm init
 
@@ -575,9 +576,18 @@ vue vue-router vuex vue-ssr nuxt
 ### Vue 是如何监控到子组件修改了props属性并给出警告的
 
 
+## vue3
+
+
 ## react
 
 实现一个 react
+- [你要的 React 面试知识点，都在这了](https://juejin.im/post/5cf0733de51d4510803ce34e)
+- [你真的了解 React 生命周期吗](https://juejin.im/post/5df648836fb9a016526eba01)
+- [React 源码解析](https://github.com/KieSun/react-interpretation)
+- [redux](https://www.redux.org.cn/)
+- [react-router](https://reacttraining.com/react-router/)
+
 
 ## webpack
 
@@ -600,6 +610,21 @@ vue vue-router vuex vue-ssr nuxt
 
 ### 缓存
 - [一文读懂前端缓存](https://juejin.im/post/5c22ee806fb9a049fb43b2c5)
+
+
+### prefetch preload
+prefetch(预取)：将来某些导航下可能需要的资源
+preload(预加载)：当前导航下可能需要资源
+
+与 prefetch 指令相比，preload 指令有许多不同之处：
+
+preload chunk 会在父 chunk 加载时，以并行方式开始加载。prefetch chunk 会在父 chunk 加载结束后开始加载。
+preload chunk 具有中等优先级，并立即下载。prefetch chunk 在浏览器闲置时下载。
+preload chunk 会在父 chunk 中立即请求，用于当下时刻。prefetch chunk 会用于未来的某个时刻。
+浏览器支持程度不同。
+
+### 网络
+- [一文看懂CDN加速原理](https://blog.csdn.net/xiangzhihong8/article/details/83147542)
 
 
 ## css
