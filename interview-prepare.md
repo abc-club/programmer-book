@@ -681,6 +681,9 @@ https://www.runoob.com/cssref/css-selectors.html
 ## 手写
 
 
+## 项目
+- [前端大文件上传](https://juejin.im/post/5cf765275188257c6b51775f)
+
 ## hr面
 
 - [面试被问感情状况，怎样回答最加分？](https://zhuanlan.zhihu.com/p/75932700)
