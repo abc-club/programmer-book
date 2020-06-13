@@ -1205,7 +1205,7 @@ function _new() {
 - [10 小时掌握前端面试题（2019 年最新版）](https://www.bilibili.com/video/BV1aE411C7pt)
 - [挑战一轮大厂后的面试总结 (含六个方向) - javascript 篇(万字长文)](https://juejin.im/post/5e523e726fb9a07c9a195a95)
 - [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
-
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
 * https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 
 - [2020 年从基础到进阶，测试你有多了解 JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc)

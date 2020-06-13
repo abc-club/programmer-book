@@ -74,6 +74,8 @@ cluster
 
 ## npm
 - [package.json字段全解](https://www.cnblogs.com/liaojie970/p/7155903.html)
+- [package.json 中 你还不清楚的 browser，module，main 字段优先级](https://segmentfault.com/a/1190000019438150)
+
 
 ### npm init
 
@@ -672,6 +674,9 @@ transition：transition 支持 opacity。
 
 ### 选择器
 https://www.runoob.com/cssref/css-selectors.html
+
+- [css选择器有哪些，选择器的权重的优先级](https://www.cnblogs.com/wuwangxiaochou/p/10856655.html)
+
 
 ## 算法
 - [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)

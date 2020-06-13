@@ -439,6 +439,7 @@
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
 
 ### babel
+- [你真的会用 Babel 吗?](https://juejin.im/post/59b9ffa8f265da06710d8e89)
 
 ## 移动端
 
