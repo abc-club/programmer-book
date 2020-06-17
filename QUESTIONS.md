@@ -449,6 +449,8 @@ iframe.contentWindow.Symbol.for('foo') === Symbol.for('foo')
 ```
 X-Frame-Options: SAMEORIGIN
 ```
+- [JS判断页面是否被iframe及禁止页面被iframe](https://www.cnblogs.com/bella-lin/p/9266994.html)
+
 
 ### http
 

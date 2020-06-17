@@ -47,3 +47,6 @@
 
 - [workbox](https://github.com/GoogleChrome/workbox)
 - [workbox-webpack-plugin](https://github.com/GoogleChrome/workbox/blob/master/packages/workbox-webpack-plugin)
+
+## xss
+- [xss](https://github.com/leizongmin/js-xss/blob/master/README.zh.md)(npm install xss)

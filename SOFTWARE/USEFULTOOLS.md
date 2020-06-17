@@ -219,3 +219,15 @@ https://www.rescuetime.com
 - [unpkg](https://unpkg.com/)(可以配合npm github使用)
 - [bootcdn](https://www.bootcdn.cn/)
 - [cdnjs](https://cdnjs.com/)
+
+
+### 缓存服务器
+- [Squid](http://www.squid-cache.org/Versions/)
+- [squidman](http://squidman.net/squidman/)
+- [mac代理软件squidman的安装及简单配置](https://www.jianshu.com/p/e85d7964486e)
+
+
+### 常用软件
+文献管理软件:zotero，mendely，endnote，papers
+笔记软件:one note，印象 ,liner
+脑图:xmind，mindmanager，mindmeister
