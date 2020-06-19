@@ -656,7 +656,7 @@ DOM 结构：元素被隐藏，但是会被渲染不会消失，占据空间；
 事件监听：无法进行 DOM 事件监听；
 性 能：动态改变此属性时会引起重绘，性能较高；
 继 承：会被子元素继承，子元素可以通过设置 visibility: visible; 来取消隐藏；
-transition：transition 不支持 display。
+transition：transition 不支持 visibility
 
 opacity: 0;
 DOM 结构：透明度为 100%，元素隐藏，占据空间；
