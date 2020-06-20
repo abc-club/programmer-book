@@ -522,6 +522,8 @@ let b = new B();
 ## typescript
 
 - [TypeScript 完全解读-26 课时](https://www.bilibili.com/video/BV12a4y1v7j9)
+- [as const](http://www.fly63.com/article/detial/3399)
+-  [unkonwn和any的区别](https://cloud.tencent.com/developer/article/1591256)
 
 ## JS
 
