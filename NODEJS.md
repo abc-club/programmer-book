@@ -75,6 +75,10 @@
 - [jsdom](https://github.com/jsdom/jsdom)(一个 JavaScript 实现各种 web 标准,使用 node . js)
 - [connect-history-api-fallback](https://github.com/bripkens/connect-history-api-fallback)(服务端不匹配 index.html 回退)
 
+
+### 高并发
+- [过完618！来看看 Node.js 如何实现秒杀系统](https://mp.weixin.qq.com/s/veK1nn_0O5HYwkvAEZJG9w)
+
 ## npm
 
 - [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
