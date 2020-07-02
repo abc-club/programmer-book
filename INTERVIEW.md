@@ -262,6 +262,8 @@
 * [入职字节跳动48小时后，我发现了抖音的秘密](https://www.toutiao.com/a6751311464365031948)
 * [一文揭秘BAT互联网大厂薪资](https://www.toutiao.com/a6750467774801248782)
 - [头条、美团、滴滴、阿里、腾讯、百度、华为、京东职级体系及对应薪酬](https://www.cnblogs.com/dhcn/p/11983157.html)
+- [百度、腾讯和阿里内部的级别和薪资待遇是什么样的](https://lusongsong.com/info/post/1015.html)
+- [字节跳动开始新一轮股权激励，上市的前奏么？](https://www.sohu.com/a/307140186_696911)
 
 
 ## 其他
