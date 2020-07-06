@@ -134,3 +134,13 @@ TODO:不明白 session key 是什么时候生成的
 1. 没勾选 Proxy -> macOS Proxy，勾选上 macOS Proxy
 2. 浏览器装的插件拦截了
 3. 不支持对应的协议，如 https http2 等需要另外配置
+
+
+## iterm2找不到nvm命令
+
+需要在iterm2离source
+
+## vscode按照code命令
+
+打开面板，输入install code安装
+
