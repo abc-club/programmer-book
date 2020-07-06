@@ -10,7 +10,7 @@
 
 * [nodejs](NODEJS.md)
 
-## 小程序
+## 微信小程序
 
 ### 文章
 * [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
@@ -51,3 +51,8 @@
 - https://github.com/huangjianke/Gitter
 - https://juejin.im/post/5d2a0774518825290726fa7a
 
+
+
+## 字节小程序
+
+- [头条号第三方平台](https://open.mp.toutiao.com/#/?_k=ly2kgs)

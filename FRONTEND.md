@@ -46,8 +46,12 @@
 - [jquery](#jquery)
 - [学习网站](#学习网站)
 - [工程化](#工程化)
+- [值得注意的库](#值得注意的库)
+
 
 ## vue
+
+- [benchmark](https://stefankrause.net/js-frameworks-benchmark8/table.html)(各个框架对比)
 
 ### 官方
 
@@ -187,7 +191,7 @@
 * [react-native-web](https://github.com/necolas/react-native-web)(rn 转 web)
 
 ### 参考资料
-
+- [React 技术揭秘](https://react.iamkasong.com)
 - [React 源码解析](https://github.com/KieSun/react-interpretation)
 - [你真的了解 React 生命周期吗](https://juejin.im/post/5df648836fb9a016526eba01)
 
@@ -967,5 +971,10 @@ Chrome DevTools
 
 - [喜大普奔，Pont 1.0 发布了](https://juejin.im/post/5e82e7f1518825738a5ac1f3)(前后端数据服务层解决方案)
 - [为什么你在辛苦做项目国际化，而别人在喝茶？](https://juejin.im/post/5e7c6ce051882535e07a3d0f)(国际化全流程解决方案)
+
+
+## 值得注意的库
+- [hyperapp](https://github.com/jorgebucaran/hyperapp)(类似react vue)
+
 
 [↑ 返回目录 ↑](#目录)
