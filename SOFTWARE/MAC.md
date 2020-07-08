@@ -39,19 +39,19 @@
 ### 开发环境
 
 1.  homebrew http://brew.sh/ √
-1.  iTerm2
-1.  Zsh
-1.  git √
-1.  nvm √ 一定要比 node 先安装
-1.  nrm √
-1.  node npm yarn √
-1.  arc
-1.  java √
-1.  python 2.7.13 √
-1.  ruby √
-1.  php -> vs studio 2017 要修改 php.ini 参考 http://blog.csdn.net/rilyu/article/details/37379873 √
-1. switchhosts
-1. oh-my-zsh https://github.com/robbyrussell/oh-my-zsh
+1.  iTerm2   [mac下终端iTerm2配置](https://www.jianshu.com/p/bb630ada1f02)
+2.  Zsh
+3.  git √
+4.  nvm √ 一定要比 node 先安装
+5.  nrm √
+6.  node npm yarn √
+7.  arc
+8.  java √
+9.  python 2.7.13 √
+10. ruby √
+11. php -> vs studio 2017 要修改 php.ini 参考 http://blog.csdn.net/rilyu/article/details/37379873 √
+12. switchhosts
+13. oh-my-zsh https://github.com/robbyrussell/oh-my-zsh
 
 
 #### 脚手架
