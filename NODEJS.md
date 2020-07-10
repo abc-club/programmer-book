@@ -38,6 +38,7 @@
 - nodejs 最佳实践 https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md
 
 * [深入理解 Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9)
+* [node debugger](http://www.ruanyifeng.com/blog/2018/03/node-debugger.html)
 * [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)
 * [Node.js 技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
 * [Node.JS 应用最佳实践：日志](https://zhuanlan.zhihu.com/p/81989446)

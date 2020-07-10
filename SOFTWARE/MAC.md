@@ -39,7 +39,7 @@
 ### 开发环境
 
 1.  homebrew http://brew.sh/ √
-1.  iTerm2   [mac下终端iTerm2配置](https://www.jianshu.com/p/bb630ada1f02)
+1.  iTerm2   [mac下终端iTerm2配置](https://www.jianshu.com/p/bb630ada1f02)   [Mac版iterm2如何设置热键悬浮窗口](https://jingyan.baidu.com/article/154b46313fee0e28ca8f41ad.html)  [Mac上iterm2分屏切换](https://www.jianshu.com/p/4a27bb4c216c)
 2.  Zsh
 3.  git √
 4.  nvm √ 一定要比 node 先安装
@@ -63,7 +63,7 @@
 ### 开发软件
 
 1.  gitkraken √
-2.  sourcetree √
+2.  sourcetree √  [source tree图谱和多分支开发 - 简书](https://www.jianshu.com/p/0e64ad60899e)
 3.  vscode √
 4.  cmder √
 5.  git bash √

@@ -65,7 +65,13 @@
 
 
 ## go
-
+- [Go 入门指南](https://learnku.com/docs/the-way-to-go)
+- [Go语言圣经（中文版)](https://yar999.gitbook.io/gopl-zh/)
+- [awesome-go](https://github.com/avelino/awesome-go)
+- [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+- [GO语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806)
+- [怎么学习 Golang](https://www.zhihu.com/question/23486344) https://zhuanlan.zhihu.com/p/25493806
+- [可能是国内最火的开源项目 —— Go 篇](https://my.oschina.net/editorial-story/blog/1546551)
 - [consul](https://www.consul.io/)
 - [Consul入门](https://book-consul-guide.vnzmi.com/)
 
