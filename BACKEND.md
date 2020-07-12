@@ -74,8 +74,18 @@
 - [可能是国内最火的开源项目 —— Go 篇](https://my.oschina.net/editorial-story/blog/1546551)
 - [consul](https://www.consul.io/)
 - [Consul入门](https://book-consul-guide.vnzmi.com/)
+- [Go开源项目速查表](https://www.ctolib.com/cheatsheets-go-project.html)
+
+### web框架
+
+- [beego](https://github.com/astaxie/beego)(https://beego.me/docs/mvc/)
 
 
+### 常遇到的问题
+
+- [beego 脚手架 安装错误提示](https://blog.csdn.net/longchenghui20/article/details/107251152/)
+- [unrecognized import path - install error](https://github.com/Rivalo/discord-cli/issues/33)
+- [cannot find module providing package或cannot find main module](https://www.cnblogs.com/jasonLiu2018/p/12935071.html)
 
 ## linux
 

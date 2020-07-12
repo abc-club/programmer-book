@@ -1,5 +1,6 @@
 - mac 关闭端口：
 
+ps -ef|grep mysqld”
 ```
 sudo lsof -i :8100
 sudo kill -9 8100

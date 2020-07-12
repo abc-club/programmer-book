@@ -58,7 +58,7 @@
 
 1.  hexo-cli √
 2.  weex-toolkit √
-3.
+3. tree  brew install tree
 
 ### 开发软件
 
@@ -80,7 +80,7 @@
 16. notepad++ √
 17. TortoiseSVN
 18. atom
-19. mysql
+19. mysql 官网下载安装，在系统偏好设置启动 https://www.cnblogs.com/nickchen121/p/11145123.html   [mysql提示The server quit without updating PID file /usr/local/mysql/data/localhost.localdomain.pid](https://blog.csdn.net/zhou75771217/article/details/82893997)
 20. IntelliJ IDEA 2017.1.2
 21.
 
