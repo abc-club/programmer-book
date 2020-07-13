@@ -652,6 +652,13 @@
 - [[译] 2018 来谈谈 Web Component](https://juejin.im/post/5b780a98e51d4538980bf5cf)
 - [JavaScript 是如何工作：Shadow DOM 的内部结构 + 如何编写独立的组件！](https://juejin.im/post/5c4fac7ef265da6147709696)
 
+### 打包
+
+- [vite](https://github.com/vitejs/vite)
+- [snowpack](https://github.com/pikapkg/snowpack)
+- [open-wc](https://github.com/open-wc/open-wc)
+
+
 ## 动效
 
 ### 工具库

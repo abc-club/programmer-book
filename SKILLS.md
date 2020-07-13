@@ -51,6 +51,8 @@ git subtree push --prefix .vuepress/dist origin gh-pages
 ```
 
 npm link 不用安装依赖
+- [npm link的使用](https://www.jianshu.com/p/aaa7db89a5b2)  npm unlink xxx
+- 
 npm publish 个人不允许发布@xxx/yyy这种名字的包  要加 `npm publish --access public`, 这里的xxx还必须和我们的用户名相同
 
 
