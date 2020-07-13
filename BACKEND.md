@@ -81,6 +81,10 @@
 - [beego](https://github.com/astaxie/beego)(https://beego.me/docs/mvc/)
 
 
+### rpc
+
+- [基于go的 rpc框架实践](https://blog.csdn.net/RA681t58CJxsgCkJ31/article/details/82455716)
+
 ### 常遇到的问题
 
 - [beego 脚手架 安装错误提示](https://blog.csdn.net/longchenghui20/article/details/107251152/)
