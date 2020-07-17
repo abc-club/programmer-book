@@ -80,7 +80,6 @@
 
 ### 组件库或框架
 
-- [electron-vue](https://github.com/SimulatedGREG/electron-vue)
 - [uni-app](https://github.com/dcloudio/uni-app)(uni-app 是一个使用 Vue.js 开发小程序、H5、App 的统一前端框架)
 - [chameleon](https://github.com/didi/chameleon)(滴滴一套代码运行多端，一端所见即多端所见)
 
@@ -855,6 +854,13 @@ e2e 测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 
 Chrome DevTools
 
+- [devtools-protocol/](https://chromedevtools.github.io/devtools-protocol/)
+- [chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
+- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
+- [Chrome DevTools 远程调试协议分析及实战](https://blog.csdn.net/LuckyWinty/article/details/105743305)
+- [Web调试技术详解](https://juejin.im/post/5cbe60fd6fb9a0324b27bda2)
+
+
 ### api 测试
 
 #### 库
@@ -983,5 +989,7 @@ Chrome DevTools
 ## 值得注意的库
 - [hyperapp](https://github.com/jorgebucaran/hyperapp)(类似react vue)
 
+
+- [开发者手册](https://cloud.tencent.com/developer/doc/1070)
 
 [↑ 返回目录 ↑](#目录)

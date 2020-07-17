@@ -164,6 +164,8 @@
 - execa：更友好的 child_process.exec。
 - arg: 类似 commander，arg is yet another command line option parser.
 
+
+
 #### 经常用
 
 - handlebars：一个 javascript 语以模版库。
@@ -178,6 +180,10 @@
 - ini: 格式转换
 - metalsmith；An extremely simple, pluggable static site generator。
 - slash: 把 windows 反斜线路径转换为斜线路径，foo\\bar ➔ foo/bar
+
+- cfonts: 打印文字
+- multispinner  加载
+- lowdb   small json数据库
 
 #### 跨平台
 

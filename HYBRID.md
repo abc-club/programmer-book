@@ -8,10 +8,22 @@
 
 ## 目录
 
-* [react-native](#react-native)
-* [weex](#weex)
-* [flutter](#flutter)
-* [electron](#electron)
+- [目录](#目录)
+- [react-native](#react-native)
+  - [组件库](#组件库)
+  - [参考资料](#参考资料)
+- [Weex](#weex)
+  - [文章](#文章)
+- [flutter](#flutter)
+  - [官方](#官方)
+  - [文章](#文章-1)
+  - [开源库](#开源库)
+  - [demo](#demo)
+- [electron](#electron)
+  - [项目](#项目)
+  - [demo](#demo-1)
+- [ios](#ios)
+- [android](#android)
 
 ## react-native
 
@@ -63,5 +75,25 @@
 
 ## electron
 
+- [electron](https://github.com/electron)
+- [electron中文](https://www.electronjs.org/docs)
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue)
+- [electron-vue中文](https://simulatedgreg.gitbooks.io/electron-vue/content/cn/)
+- [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
+- [Electron：PC 端多端融合方案](https://segmentfault.com/a/1190000022543101?utm_source=tag-newest)
+- [Chrome 远程调试协议原理](https://juejin.im/post/5db7b33ce51d452a1f3442c8)
+
+
+### 项目
+- [Vue 全家桶 + Electron 开发的一个跨三端的应用](https://juejin.im/post/5946af9661ff4b006cf40040)
+
 ### demo
 * [focus *81](https://github.com/HelKyle/focus)(一款离线，高颜值的🍅工作软件)
+
+
+## ios
+
+- [objccn](https://objccn.io/)
+
+## android
+

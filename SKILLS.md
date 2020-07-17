@@ -147,3 +147,8 @@ TODO:不明白 session key 是什么时候生成的
 
 打开面板，输入install code安装
 
+
+## 解决github提交commit,contributions不统计显示绿色的问题
+
+https://www.cnblogs.com/dongliu/p/5782329.html
+
