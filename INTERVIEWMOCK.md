@@ -1190,6 +1190,7 @@ function _new() {
 
 ## 待遇
 
+- [一文揭秘字节跳动、华为、京东的薪资职级](https://blog.csdn.net/c6E5UlI1N/article/details/105212641)
 - [阿里福利](https://campus.alibaba.com/welfare.htm)
 - [【阿里员工一年挣多少钱？聊一聊阿里薪酬职级体系】](https://m.toutiaocdn.com/a6724307251558875652)
 - [阿里的绩效考核：赏明星，杀白兔，野狗要示众](https://m.toutiaocdn.com/a6726291727654584839)
