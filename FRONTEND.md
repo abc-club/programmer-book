@@ -184,7 +184,6 @@
 - redux 中文 http://cn.redux.js.org/
 - umi https://umijs.org/
 - dva https://dvajs.com
-- immutable https://github.com/immutable-js/immutable-js
 
 * [react-devtools-tutorial](https://react-devtools-tutorial.now.sh/)
 * [react-native-web](https://github.com/necolas/react-native-web)(rn 转 web)
@@ -243,6 +242,8 @@
 - [react-virtualized](https://github.com/bvaughn/react-virtualized)(无尽列表)
 - [react-window](https://github.com/bvaughn/react-window)(无尽列表)
 - [immerjs](https://github.com/immerjs/immer)(数据不可变)
+- immutable https://github.com/immutable-js/immutable-js
+- [immer.js:也许更适合你的immutable js库](https://juejin.im/post/5e83e532f265da47e02a6d5a)
 
 ### 框架
 
@@ -854,6 +855,9 @@ e2e 测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 
 Chrome DevTools
 
+- [vivo快应用归档](https://quickapp.vivo.com.cn/archives)
+- [快应用 IDE 定制 Devtools 元素面板系列一：背景需求及方案分析](https://quickapp.vivo.com.cn/quickapp-ide-customize-devtools-element-panel-series-1/)
+- [devtools-frontend/wiki](https://github.com/ChromeDevTools/devtools-frontend/wiki)
 - [devtools-protocol/](https://chromedevtools.github.io/devtools-protocol/)
 - [chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
