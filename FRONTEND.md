@@ -92,6 +92,7 @@
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue)
 - [cube-ui](https://github.com/didi/cube-ui)
 - [kpc](https://github.com/ksc-fe/kpc)(同时支持 vue 和 react 的组件库)
+- [如何开发跨框架的组件](https://mp.weixin.qq.com/s/BehjH5xVXFWohQXFl3u-kQ)
 
 * [vue-echarts](https://github.com/ecomfe/vue-echarts)
 * [v-charts](https://github.com/ElemeFE/v-charts)
@@ -150,6 +151,8 @@
 - [KTV 点歌系统,含后台管理系统(完整版)](https://github.com/1046224544/ktv-select_music-system)
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)(Tool for visualizing GitHub profiles)
 - [Vue + Koa 从零打造一个 H5 页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)(适配pc 移动端)
+
 
 ### 常用工具
 
@@ -522,6 +525,9 @@
 - [【Cute-Webpack】Webpack4 入门手册（共 18 章）](https://segmentfault.com/a/1190000020063707)
 - [Webpack 实用技巧高效实战](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231994&idx=1&sn=17a344ef74809ddd7e8e5b13b00c5652&scene=1&srcid=0804usmqGwAu6Ih2HtQaeZj4#rd)
 - [一步步从零开始用 webpack 搭建一个大型项目](https://juejin.im/post/5de06aa851882572d672c1ad)
+- [手写webpack核心原理，再也不怕面试官问我webpack原理](https://juejin.im/post/5f1a2e226fb9a07eb1525d17)
+- [手写一个简易的Webpack](https://juejin.im/post/5ccfe03f51882541e37e6959)
+- [从0到1，手写webpack的开发之路](https://juejin.im/post/5e0ae192e51d454165776c7b)
 
 ## 性能与监控
 
@@ -674,17 +680,24 @@
 ### 库
 
 - [Echart](https://github.com/apache/incubator-echarts)
+- [zrender](https://github.com/ecomfe/zrender)(A lightweight canvas library which providing 2d draw for ECharts)
 - [chartjs](https://www.chartjs.org)
 - [D3](https://github.com/d3/d3)
 - [Highchart](https://github.com/highcharts/highcharts)
-- [Antv](https://github.com/antvis/)
+- [plotly](https://github.com/plotly/plotly.js)(基于d3的chart库)
 - [zdog](https://github.com/metafizzy/zdog)
 - [Leaflet](https://leafletjs.com/examples.html)
-- [BizCharts](https://github.com/alibaba/BizCharts)
 - [zeu](https://github.com/shzlw/zeu)
 - [SandDance](https://github.com/microsoft/SandDance)(microsoft 出品)
-- [zrender](https://github.com/ecomfe/zrender)(A lightweight canvas library which providing 2d draw for ECharts)
 
+
+- [Antv](https://github.com/antvis/)
+- [recharts](https://github.com/recharts/recharts)
+- [BizCharts](https://github.com/alibaba/BizCharts)
+
+
+* [vue-echarts](https://github.com/ecomfe/vue-echarts)
+* [v-charts](https://github.com/ElemeFE/v-charts)
 
 ### 开源项目
 - [Vue + Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
@@ -731,6 +744,7 @@
 
 #### 开源库
 
+- [和小浩学算法](https://github.com/geekxh/hello-algorithm)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [leetcode](https://github.com/azl397985856/leetcode)
 - [LeetCodeAnimation \*39k+](https://github.com/MisterBooo/LeetCodeAnimation)
@@ -777,6 +791,9 @@
 - [前端规范](http://ku.zzfriend.com/yanshi/qianduanguifan/)
 - [作为 CTO，我为什么必须要求代码进行 Code Review](https://www.toutiao.com/a6739679493524308487)
 - [Git 进阶：如何提交标准化的 Git Commit Message](https://www.toutiao.com/a6740794433769308684)
+
+
+- [sonarqube](https://www.sonarqube.org/)(代码检查)
 
 ## canvas
 
@@ -988,7 +1005,7 @@ Chrome DevTools
 
 - [喜大普奔，Pont 1.0 发布了](https://juejin.im/post/5e82e7f1518825738a5ac1f3)(前后端数据服务层解决方案)
 - [为什么你在辛苦做项目国际化，而别人在喝茶？](https://juejin.im/post/5e7c6ce051882535e07a3d0f)(国际化全流程解决方案)
-
+- [研发效能提升和敏捷实施 36 计 资料合集](https://developer.aliyun.com/article/715161)
 
 ## 值得注意的库
 - [hyperapp](https://github.com/jorgebucaran/hyperapp)(类似react vue)

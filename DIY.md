@@ -10,8 +10,10 @@ Do it yourself!!!
 
 ## 目录
 
+- [目录](#目录)
 - [源码系列](#源码系列)
 - [实战](#实战)
+- [开源项目](#开源项目)
 
 ## 源码系列
 
@@ -27,7 +29,7 @@ Do it yourself!!!
 - [9102 年：手写一个 React 脚手架 【优化极致版】](https://segmentfault.com/a/1190000019126657)
 - [9102 年：手写一个 Vue 的脚手架 【极致优化版】](https://segmentfault.com/a/1190000019207033)
 - [教你从零开始搭建一款前端脚手架工具](https://segmentfault.com/a/1190000006190814)
-- [从 0 搭建的一个 webpack 脚手架，支持 vue 单文件书写](https://juejin.im/post/5cc55c336fb9a032086dd701)
+- [面试官：自己搭建过vue开发环境吗？](https://juejin.im/post/5cc55c336fb9a032086dd701)
 - [【中高级前端必备】手摸手教你撸一个脚手架](https://juejin.im/post/5d37d982e51d45108c59a635)
 - [从零实现 Vue 的组件库](https://juejin.im/post/5c0b8ece5188254f9e2809fe)
 - 从零到一，撸一个在线斗地主

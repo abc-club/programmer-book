@@ -134,3 +134,6 @@ export PATH=$PATH:/usr/local/PHP/bin
 #### Mac系统如何显示隐藏文件
 在终端中输代码`defaults write com.apple.finder AppleShowAllFiles -boolean true;killall Finder`即可显示隐藏文件。
 https://jingyan.baidu.com/article/e8cdb32beec90337052bad89.html
+
+#### Open With VSCode----在Mac上右键菜单通过Visual Studio Code打开文件夹操作的设置
+https://blog.csdn.net/u013069892/article/details/83147239
