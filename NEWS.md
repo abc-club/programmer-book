@@ -7,7 +7,9 @@
 
 ## 目录
 
-* [201908](#201908)
+- [目录](#目录)
+- [201908](#201908)
+- [202007](#202007)
 
 
 
@@ -32,3 +34,6 @@
 * [字节跳动的崛起史](https://www.toutiao.com/a6720765999898968589)
 * [西西弗书店](https://www.toutiao.com/a6758748236548145671)
 * [400 亿买下成格力第一大股东，硬塞给刘强东 3 亿美元，他说最好的投资机会在于“傻 x 窗口”](https://mp.weixin.qq.com/s/IlPP44uB33hXhobGnPIFSg)
+
+## 202007
+* [头条、抖音后，谁是字节跳动的新引擎？](https://maimai.cn/article/detail?fid=1506774072&efid=_NAzDDewnCQR9Kezoo-fkA&use_rn=1)

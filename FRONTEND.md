@@ -918,6 +918,7 @@ Chrome DevTools
 ## 网络请求
 
 - [axios 中文文档翻译](https://segmentfault.com/a/1190000008470355)
+- [封装 axios 拦截器实现用户无感刷新 access_token](https://juejin.im/post/5f1ba98ae51d4534b73a9d7a)
 
 ## pwa
 
