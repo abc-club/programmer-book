@@ -152,3 +152,47 @@ TODO:不明白 session key 是什么时候生成的
 
 https://www.cnblogs.com/dongliu/p/5782329.html
 
+
+## 网页性能代码
+
+```js
+function getTiming() {
+  try {
+    var timing = performance.timing;
+    var timingObj = {};
+
+    var loadTime = (timing.loadEventEnd - timing.loadEventStart) / 1000;
+
+    if(loadTime < 0) {
+      setTimeout(function() {
+        getTiming();
+      }, 0);
+      return;
+    }
+
+    timingObj['重定向时间'] = (timing.redirectEnd - timing.redirectStart);
+    timingObj['DNS 解析时间'] = (timing.domainLookupEnd - timing.domainLookupStart);
+    timingObj['TCP 完成握手时间'] = (timing.connectEnd - timing.connectStart);
+    timingObj['HTTP 请求响应完成时间'] = (timing.responseEnd - timing.requestStart);
+    timingObj['DOM 开始加载前所花费时间'] = (timing.responseEnd - timing.navigationStart);
+    timingObj['DOM 加载完成时间'] = ((timing.domComplete || timing.domLoading) - timing.domLoading);
+    timingObj['DOM 结构解析完成时间'] = (timing.domInteractive - timing.domLoading);
+    timingObj['总体网络交互耗时，即开始跳转到服务器资源下载完成时间'] = (timing.responseEnd - timing.navigationStart);
+    timingObj['可交互的时间'] = (timing.domContentLoadedEventEnd - timing.domContentLoadedEventStart);
+    timingObj['首次出现内容'] = (timing.domLoading - timing.navigationStart);
+    timingObj['onload 事件时间'] = (timing.loadEventEnd - timing.loadEventStart);
+    timingObj['页面完全加载时间'] = (timingObj['重定向时间'] + timingObj['DNS 解析时间'] + timingObj['TCP 完成握手时间'] + timingObj['HTTP 请求响应完成时间'] + timingObj['DOM 结构解析完成时间'] + timingObj['DOM 加载完成时间']);
+
+    for(item in timingObj) {
+      console.log(item + ":" + timingObj[item] + '(ms)');
+    }
+
+    console.log(performance.timing);
+
+  } catch(e) {
+    console.log(performance.timing);
+  }
+}
+getTiming()
+
+```

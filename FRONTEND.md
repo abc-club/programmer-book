@@ -310,6 +310,7 @@
 ### 富文本编辑器
 
 - simditor https://github.com/mycolorway/simditor
+- https://mdnice.com/?from=juejin
 
 ### 时间
 
@@ -872,6 +873,7 @@ e2e 测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 
 Chrome DevTools
 
+- [脱离996，Chrome DevTools 面板全攻略！！！](https://juejin.im/post/5f1542e16fb9a07e6f7b80fe)
 - [vivo快应用归档](https://quickapp.vivo.com.cn/archives)
 - [快应用 IDE 定制 Devtools 元素面板系列一：背景需求及方案分析](https://quickapp.vivo.com.cn/quickapp-ide-customize-devtools-element-panel-series-1/)
 - [devtools-frontend/wiki](https://github.com/ChromeDevTools/devtools-frontend/wiki)
