@@ -534,6 +534,7 @@
 
 ### 文章
 
+- [悟空活动中台 - H5 活动加载优化](https://mp.weixin.qq.com/s/6gtVR0nVNcZvREjwftZgzA)
 - [前端性能优化原理与实践](https://juejin.im/book/5b936540f265da0a9624b04b)
 - [GMTC 大前端时代前端监控的最佳实践](https://segmentfault.com/a/1190000015426924)
 - [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
