@@ -154,6 +154,15 @@
 - [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)(适配pc 移动端)
 
 
+### vue ssr
+
+https://github.com/zbysir/go-vue-ssr
+- [实测Vue SSR的渲染性能：避开20倍耗时](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247485601&amp;idx=1&amp;sn=97a45254a771d13789faed81316b465a&source=41#wechat_redirect)
+- [SSR性能优化的误区](https://zhuanlan.zhihu.com/p/150259940)
+- [基于 VUE-SSR 的性能优化](https://segmentfault.com/a/1190000022257834?utm_source=tag-newest)
+- https://github.com/BFjacky/vue-ssr-template
+
+
 ### 常用工具
 
 
@@ -302,6 +311,9 @@
 - [一篇朴实的文章带你 30 分钟捋完 TypeScript,方法是正反对比](https://juejin.im/post/5d53a8895188257fad671cbc)
 
 ## 常用库
+
+- [core-js](https://github.com/zloirock/core-js)(es6垫片)
+
 
 ### 数据
 
@@ -637,6 +649,7 @@
 - [字节跳动的微前端沙盒实践](https://juejin.im/post/5e4941d46fb9a07c8334d3e9)
 - [微前端在美团外卖的实践](https://juejin.im/post/5e57b6f0f265da57547794c9)
 - [未来魔法校的微前端实践](https://juejin.im/post/5e6a0428e51d4527110a9f61)
+- [Berial，一个硬了的微前端框架](https://juejin.im/post/6856170280600109064)
 
 ### WebAssembly
 
@@ -679,6 +692,8 @@
 
 ## 可视化
 
+ - [数据可视化工具目录](https://datavizcatalogue.com/ZH/)
+  
 ### 库
 
 - [Echart](https://github.com/apache/incubator-echarts)

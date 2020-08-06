@@ -4,17 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        ul{
+            width: 300px;
+            background-color: aqua;
+            list-style: none;
+        }
+        li{
+            display: inline-block;
+            margin: 0 12px 12px 0;
+        }
+    </style>
 </head>
 <body>
-    <button id='btn'  onclick="b()">click me</button>
+    <ul id='ul'>
+        
+    </ul>
     <script>
-        var btn = document.getElementById('btn')
-        const a = 1
-        function b() {
-            const c = 2
-            console.log(c)
-            btn.style.color = 'red'
+        var ul = document.getElementById('ul')
+        var fragment = document.createDocumentFragment()
+        for(var i=0;i<10;i++) {
+            var li = document.createElement('li')
+            li.innerText = '耗时 ' + 'balba'.repeat(i)
+            fragment.appendChild(li)
         }
+        setTimeout(()=>{
+            ul.appendChild(fragment)
+        },1000)
     </script>
 </body>
 </html>

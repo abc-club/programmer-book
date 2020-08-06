@@ -11,3 +11,7 @@ https://github.com/taowen/awesome-lowcode
 
 ## 字体压缩
 https://github.com/ecomfe/fontmin
+
+## 机器学习
+- [trackingjs](https://trackingjs.com/)
+- 

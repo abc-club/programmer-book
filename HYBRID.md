@@ -94,6 +94,7 @@
 
 ### 项目
 - [Vue 全家桶 + Electron 开发的一个跨三端的应用](https://juejin.im/post/5946af9661ff4b006cf40040)
+- [Sugar-Electron 基于Electron的轻量级开发框架](https://juejin.im/post/6857402778122190856)
 
 ### demo
 * [focus *81](https://github.com/HelKyle/focus)(一款离线，高颜值的🍅工作软件)
