@@ -178,6 +178,9 @@ https://github.com/zbysir/go-vue-ssr
 - [Vue CLI 3结合Lerna进行UI框架设计](https://juejin.im/post/5cb12844e51d456e7a303b64)
 
 
+#### 常用组件或工具
+- [vue-count-to](http://panjiachen.github.io/countTo/demo/)
+
 ### nuxt
 
 - [nuxt](https://github.com/nuxt/nuxt.js)(vue 服务端渲染)
@@ -672,6 +675,8 @@ https://github.com/zbysir/go-vue-ssr
 - [深度介绍：💾 你听说过原生 HTML 组件吗？](https://juejin.im/post/5bc7ead7f265da0afc2c2c6b)
 - [[译] 2018 来谈谈 Web Component](https://juejin.im/post/5b780a98e51d4538980bf5cf)
 - [JavaScript 是如何工作：Shadow DOM 的内部结构 + 如何编写独立的组件！](https://juejin.im/post/5c4fac7ef265da6147709696)
+- [再加150行代码教你实现一个低配版的web component库](https://segmentfault.com/a/1190000011015980)
+
 
 ### 打包
 
@@ -802,12 +807,15 @@ https://github.com/zbysir/go-vue-ssr
 
 ## 代码规范
 
+- [前端小纠结--集成gitflow和standard-version使用](https://juejin.im/post/6844903847924596743)
 - [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 - [【译】Google 官方文章——如何去做 coder review](https://juejin.im/post/5d84b93f5188251d482413c8)
 - [如何保证前端项目代码质量](https://zhuanlan.zhihu.com/p/82546272)
 - [前端规范](http://ku.zzfriend.com/yanshi/qianduanguifan/)
 - [作为 CTO，我为什么必须要求代码进行 Code Review](https://www.toutiao.com/a6739679493524308487)
 - [Git 进阶：如何提交标准化的 Git Commit Message](https://www.toutiao.com/a6740794433769308684)
+- [让你的 commit 更有价值(规范)](https://mp.weixin.qq.com/s/PscfzgKYV7vK1ESQ-XVWpA)
+- [Git 在团队中的最佳实践--如何正确使用Git Flow](https://www.cnblogs.com/cnblogsfans/p/5075073.html)
 
 
 - [sonarqube](https://www.sonarqube.org/)(代码检查)

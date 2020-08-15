@@ -64,7 +64,8 @@
 
 
 
-## go
+## golang
+- [Golang标准库文档](https://studygolang.com/pkgdoc)
 - [Go 入门指南](https://learnku.com/docs/the-way-to-go)
 - [Go语言圣经（中文版)](https://yar999.gitbook.io/gopl-zh/)
 - [awesome-go](https://github.com/avelino/awesome-go)
@@ -75,6 +76,9 @@
 - [consul](https://www.consul.io/)
 - [Consul入门](https://book-consul-guide.vnzmi.com/)
 - [Go开源项目速查表](https://www.ctolib.com/cheatsheets-go-project.html)
+
+### 微服务
+- [go-micro](https://github.com/micro/go-micro)
 
 ### web框架
 
