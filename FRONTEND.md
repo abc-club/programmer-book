@@ -48,7 +48,6 @@
 - [工程化](#工程化)
 - [值得注意的库](#值得注意的库)
 
-
 ## vue
 
 - [benchmark](https://stefankrause.net/js-frameworks-benchmark8/table.html)(各个框架对比)
@@ -76,7 +75,7 @@
 - [Vue3 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)
 - [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
 - [Vue3 究竟好在哪里？（和 React Hook 的详细对比）](https://juejin.im/post/5e9ce011f265da47b8450c11)
-- [Vue3体验卡～](https://juejin.im/post/5e1451385188253ab54142e9)
+- [Vue3 体验卡～](https://juejin.im/post/5e1451385188253ab54142e9)
 
 ### 组件库或框架
 
@@ -151,35 +150,37 @@
 - [KTV 点歌系统,含后台管理系统(完整版)](https://github.com/1046224544/ktv-select_music-system)
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)(Tool for visualizing GitHub profiles)
 - [Vue + Koa 从零打造一个 H5 页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)(适配pc 移动端)
-
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)(适配 pc 移动端)
 
 ### vue ssr
 
 https://github.com/zbysir/go-vue-ssr
-- [实测Vue SSR的渲染性能：避开20倍耗时](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247485601&amp;idx=1&amp;sn=97a45254a771d13789faed81316b465a&source=41#wechat_redirect)
-- [SSR性能优化的误区](https://zhuanlan.zhihu.com/p/150259940)
+
+- [实测 Vue SSR 的渲染性能：避开 20 倍耗时](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247485601&idx=1&sn=97a45254a771d13789faed81316b465a&=41#wechat_redirect)
+- [SSR 性能优化的误区](https://zhuanlan.zhihu.com/p/150259940)
 - [基于 VUE-SSR 的性能优化](https://segmentfault.com/a/1190000022257834?utm_source=tag-newest)
 - https://github.com/BFjacky/vue-ssr-template
 
-
 ### 常用工具
 
-
 #### husky
+
 - [husky](https://github.com/typicode/husky)(git hook)
-- [yorkie](https://github.com/yyx990803/yorkie)(git hook与husky功能相同)
-注意：一定要使用 npm 安装 eslint 和 husky，因为在 windows 操作系统下, 用 yarn 安装依赖，不会触发 husky pre-commit 钩子命令。
-还有就是注意husky的版本，否则也可能不触发git钩子
+- [yorkie](https://github.com/yyx990803/yorkie)(git hook 与 husky 功能相同)
+  注意：一定要使用 npm 安装 eslint 和 husky，因为在 windows 操作系统下, 用 yarn 安装依赖，不会触发 husky pre-commit 钩子命令。
+  还有就是注意 husky 的版本，否则也可能不触发 git 钩子
 
 #### lerna
+
 - [lerna](https://github.com/lerna/lerna)(多个包在一起打包)
 - [基于 Lerna 管理 packages 的 Monorepo 项目最佳实践](https://juejin.im/post/5d4aa8905188250e4258249e)
-- [Vue CLI 3结合Lerna进行UI框架设计](https://juejin.im/post/5cb12844e51d456e7a303b64)
-
+- [Vue CLI 3 结合 Lerna 进行 UI 框架设计](https://juejin.im/post/5cb12844e51d456e7a303b64)
 
 #### 常用组件或工具
+
 - [vue-count-to](http://panjiachen.github.io/countTo/demo/)
+- [vue-cookieconsent-component](https://www.npmjs.com/package/vue-cookieconsent-component)
+- [vue-if-bot](https://www.npmjs.com/package/vue-if-bot)(防止机器人看到)
 
 ### nuxt
 
@@ -204,6 +205,7 @@ https://github.com/zbysir/go-vue-ssr
 * [react-native-web](https://github.com/necolas/react-native-web)(rn 转 web)
 
 ### 参考资料
+
 - [React 技术揭秘](https://react.iamkasong.com)
 - [React 源码解析](https://github.com/KieSun/react-interpretation)
 - [你真的了解 React 生命周期吗](https://juejin.im/post/5df648836fb9a016526eba01)
@@ -250,6 +252,7 @@ https://github.com/zbysir/go-vue-ssr
 - [ant-design-mobile](https://mobile.ant.design/index-cn)
 
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
+
 * react-intl
 * rc-form https://github.com/react-component/form
 
@@ -258,7 +261,7 @@ https://github.com/zbysir/go-vue-ssr
 - [react-window](https://github.com/bvaughn/react-window)(无尽列表)
 - [immerjs](https://github.com/immerjs/immer)(数据不可变)
 - immutable https://github.com/immutable-js/immutable-js
-- [immer.js:也许更适合你的immutable js库](https://juejin.im/post/5e83e532f265da47e02a6d5a)
+- [immer.js:也许更适合你的 immutable js 库](https://juejin.im/post/5e83e532f265da47e02a6d5a)
 
 ### 框架
 
@@ -315,8 +318,7 @@ https://github.com/zbysir/go-vue-ssr
 
 ## 常用库
 
-- [core-js](https://github.com/zloirock/core-js)(es6垫片)
-
+- [core-js](https://github.com/zloirock/core-js)(es6 垫片)
 
 ### 数据
 
@@ -462,6 +464,7 @@ https://github.com/zbysir/go-vue-ssr
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
 
 ### babel
+
 - [你真的会用 Babel 吗?](https://juejin.im/post/59b9ffa8f265da06710d8e89)
 
 ## 移动端
@@ -541,11 +544,13 @@ https://github.com/zbysir/go-vue-ssr
 - [【Cute-Webpack】Webpack4 入门手册（共 18 章）](https://segmentfault.com/a/1190000020063707)
 - [Webpack 实用技巧高效实战](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231994&idx=1&sn=17a344ef74809ddd7e8e5b13b00c5652&scene=1&srcid=0804usmqGwAu6Ih2HtQaeZj4#rd)
 - [一步步从零开始用 webpack 搭建一个大型项目](https://juejin.im/post/5de06aa851882572d672c1ad)
-- [手写webpack核心原理，再也不怕面试官问我webpack原理](https://juejin.im/post/5f1a2e226fb9a07eb1525d17)
-- [手写一个简易的Webpack](https://juejin.im/post/5ccfe03f51882541e37e6959)
-- [从0到1，手写webpack的开发之路](https://juejin.im/post/5e0ae192e51d454165776c7b)
+- [手写 webpack 核心原理，再也不怕面试官问我 webpack 原理](https://juejin.im/post/5f1a2e226fb9a07eb1525d17)
+- [手写一个简易的 Webpack](https://juejin.im/post/5ccfe03f51882541e37e6959)
+- [从 0 到 1，手写 webpack 的开发之路](https://juejin.im/post/5e0ae192e51d454165776c7b)
 
 ## 性能与监控
+
+- [quicklink](https://github.com/GoogleChromeLabs/quicklink)(prefetch 视野内的链接)
 
 ### 文章
 
@@ -675,15 +680,13 @@ https://github.com/zbysir/go-vue-ssr
 - [深度介绍：💾 你听说过原生 HTML 组件吗？](https://juejin.im/post/5bc7ead7f265da0afc2c2c6b)
 - [[译] 2018 来谈谈 Web Component](https://juejin.im/post/5b780a98e51d4538980bf5cf)
 - [JavaScript 是如何工作：Shadow DOM 的内部结构 + 如何编写独立的组件！](https://juejin.im/post/5c4fac7ef265da6147709696)
-- [再加150行代码教你实现一个低配版的web component库](https://segmentfault.com/a/1190000011015980)
-
+- [再加 150 行代码教你实现一个低配版的 web component 库](https://segmentfault.com/a/1190000011015980)
 
 ### 打包
 
 - [vite](https://github.com/vitejs/vite)
 - [snowpack](https://github.com/pikapkg/snowpack)
 - [open-wc](https://github.com/open-wc/open-wc)
-
 
 ## 动效
 
@@ -697,8 +700,8 @@ https://github.com/zbysir/go-vue-ssr
 
 ## 可视化
 
- - [数据可视化工具目录](https://datavizcatalogue.com/ZH/)
-  
+- [数据可视化工具目录](https://datavizcatalogue.com/ZH/)
+
 ### 库
 
 - [Echart](https://github.com/apache/incubator-echarts)
@@ -706,23 +709,22 @@ https://github.com/zbysir/go-vue-ssr
 - [chartjs](https://www.chartjs.org)
 - [D3](https://github.com/d3/d3)
 - [Highchart](https://github.com/highcharts/highcharts)
-- [plotly](https://github.com/plotly/plotly.js)(基于d3的chart库)
+- [plotly](https://github.com/plotly/plotly.js)(基于 d3 的 chart 库)
 - [zdog](https://github.com/metafizzy/zdog)
 - [Leaflet](https://leafletjs.com/examples.html)
 - [zeu](https://github.com/shzlw/zeu)
 - [SandDance](https://github.com/microsoft/SandDance)(microsoft 出品)
 
+* [Antv](https://github.com/antvis/)
+* [recharts](https://github.com/recharts/recharts)
+* [BizCharts](https://github.com/alibaba/BizCharts)
 
-- [Antv](https://github.com/antvis/)
-- [recharts](https://github.com/recharts/recharts)
-- [BizCharts](https://github.com/alibaba/BizCharts)
-
-
-* [vue-echarts](https://github.com/ecomfe/vue-echarts)
-* [v-charts](https://github.com/ElemeFE/v-charts)
+- [vue-echarts](https://github.com/ecomfe/vue-echarts)
+- [v-charts](https://github.com/ElemeFE/v-charts)
 
 ### 开源项目
-- [Vue + Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
+
+- [Vue + Koa 从零打造一个 H5 页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
 
 ### 文章
 
@@ -807,7 +809,7 @@ https://github.com/zbysir/go-vue-ssr
 
 ## 代码规范
 
-- [前端小纠结--集成gitflow和standard-version使用](https://juejin.im/post/6844903847924596743)
+- [前端小纠结--集成 gitflow 和 standard-version 使用](https://juejin.im/post/6844903847924596743)
 - [前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 - [【译】Google 官方文章——如何去做 coder review](https://juejin.im/post/5d84b93f5188251d482413c8)
 - [如何保证前端项目代码质量](https://zhuanlan.zhihu.com/p/82546272)
@@ -815,9 +817,9 @@ https://github.com/zbysir/go-vue-ssr
 - [作为 CTO，我为什么必须要求代码进行 Code Review](https://www.toutiao.com/a6739679493524308487)
 - [Git 进阶：如何提交标准化的 Git Commit Message](https://www.toutiao.com/a6740794433769308684)
 - [让你的 commit 更有价值(规范)](https://mp.weixin.qq.com/s/PscfzgKYV7vK1ESQ-XVWpA)
-- [Git 在团队中的最佳实践--如何正确使用Git Flow](https://www.cnblogs.com/cnblogsfans/p/5075073.html)
+- [Git 在团队中的最佳实践--如何正确使用 Git Flow](https://www.cnblogs.com/cnblogsfans/p/5075073.html)
 
-
+- [解决 vscode eslint 与 prettier 冲突 - 知乎](https://zhuanlan.zhihu.com/p/101241781?from_voters_page=true)
 - [sonarqube](https://www.sonarqube.org/)(代码检查)
 
 ## canvas
@@ -897,16 +899,15 @@ e2e 测试是把我们的程序堪称是一个黑盒子，我不懂你内部是�
 
 Chrome DevTools
 
-- [脱离996，Chrome DevTools 面板全攻略！！！](https://juejin.im/post/5f1542e16fb9a07e6f7b80fe)
-- [vivo快应用归档](https://quickapp.vivo.com.cn/archives)
+- [脱离 996，Chrome DevTools 面板全攻略！！！](https://juejin.im/post/5f1542e16fb9a07e6f7b80fe)
+- [vivo 快应用归档](https://quickapp.vivo.com.cn/archives)
 - [快应用 IDE 定制 Devtools 元素面板系列一：背景需求及方案分析](https://quickapp.vivo.com.cn/quickapp-ide-customize-devtools-element-panel-series-1/)
 - [devtools-frontend/wiki](https://github.com/ChromeDevTools/devtools-frontend/wiki)
 - [devtools-protocol/](https://chromedevtools.github.io/devtools-protocol/)
 - [chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
 - [Chrome DevTools 远程调试协议分析及实战](https://blog.csdn.net/LuckyWinty/article/details/105743305)
-- [Web调试技术详解](https://juejin.im/post/5cbe60fd6fb9a0324b27bda2)
-
+- [Web 调试技术详解](https://juejin.im/post/5cbe60fd6fb9a0324b27bda2)
 
 ### api 测试
 
@@ -948,6 +949,7 @@ Chrome DevTools
 
 ## pwa
 
+- [progressive-web-apps](https://web.dev/progressive-web-apps/)
 - [饿了么的 PWA 升级实践](https://huangxuan.me/2017/07/12/upgrading-eleme-to-pwa/)
 
 ## 其他必备知识
@@ -980,7 +982,7 @@ Chrome DevTools
 
 ## 框架
 
-### 编译器compiler
+### 编译器 compiler
 
 - [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)
 - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
@@ -1035,9 +1037,9 @@ Chrome DevTools
 - [研发效能提升和敏捷实施 36 计 资料合集](https://developer.aliyun.com/article/715161)
 
 ## 值得注意的库
-- [hyperapp](https://github.com/jorgebucaran/hyperapp)(类似react vue)
 
+- [hyperapp](https://github.com/jorgebucaran/hyperapp)(类似 react vue)
 
-- [开发者手册](https://cloud.tencent.com/developer/doc/1070)
+* [开发者手册](https://cloud.tencent.com/developer/doc/1070)
 
 [↑ 返回目录 ↑](#目录)

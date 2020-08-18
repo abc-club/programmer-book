@@ -48,6 +48,10 @@
 ## 框架
 
 - [bulma](https://github.com/jgthms/bulma/)(Modern CSS framework based on Flexbox)
+- [tailwindcss](https://tailwindcss.com/)
+- [purgecss](https://purgecss.com/)(清理未用的 css)
+
+- [style-resources-module](https://github.com/nuxt-community/style-resources-module)(Share variables, mixins, functions across all style files (no @import needed))
 
 ## 常用库
 
