@@ -189,6 +189,11 @@ https://github.com/zbysir/go-vue-ssr
 - [中文官网](https://www.nuxtjs.cn/)
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 
+### 常见问题
+
+- [vue 项目使用 svg 图片（svg-sprite-loader 以及 vue2-svg-icon 的使用）](https://blog.csdn.net/txfyteen/article/details/84865157)
+- [VUE-cli3 使用 svg-sprite-loader](https://juejin.im/post/6844903695478439949)
+
 ## react
 
 ### 官网
