@@ -43,7 +43,7 @@
 10. RedisDesktopManager
 11. android studio
 12. Charles
-13. Genymotion
+13. Genymotion   android模拟器
 14. mysql-workbench
 15. sublimeText √
 16. notepad++ √
