@@ -181,6 +181,7 @@ https://github.com/zbysir/go-vue-ssr
 - [vue-count-to](http://panjiachen.github.io/countTo/demo/)
 - [vue-cookieconsent-component](https://www.npmjs.com/package/vue-cookieconsent-component)
 - [vue-if-bot](https://www.npmjs.com/package/vue-if-bot)(防止机器人看到)
+- [vue-cropperjs](https://www.npmjs.com/package/vue-cropperjs)
 
 ### nuxt
 
