@@ -736,6 +736,8 @@ https://github.com/zbysir/go-vue-ssr
 ### 开源项目
 
 - [Vue + Koa 从零打造一个 H5 页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
+- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
+- [luban-h5](https://github.com/ly525/luban-h5)(类似易企秀的H5制作、建站工具)
 
 ### 文章
 
@@ -832,6 +834,8 @@ https://github.com/zbysir/go-vue-ssr
 
 - [解决 vscode eslint 与 prettier 冲突 - 知乎](https://zhuanlan.zhihu.com/p/101241781?from_voters_page=true)
 - [sonarqube](https://www.sonarqube.org/)(代码检查)
+- [字节研发设施下的 Git 工作流](https://juejin.im/post/6875874533228838925)
+- [Introduction to GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html)
 
 ## canvas
 
