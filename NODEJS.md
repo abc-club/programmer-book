@@ -237,6 +237,8 @@
 - [sequelize](https://github.com/sequelize/sequelize)(An easy-to-use multi SQL dialect ORM for Node.js )
 - [sequelize 官网](https://sequelize.org/master/)
 - [Sequelize Docs 中文版](https://github.com/demopark/sequelize-docs-Zh-CN/tree/master)
+- [sequelize-auto](https://github.com/sequelize/sequelize-auto)
+
 
 #### 客户端
 

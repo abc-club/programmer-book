@@ -28,6 +28,7 @@
 * 全能解压
 * Handshaker(mac与Android文件互传)
 * [mos for mac](https://mac.softpedia.com/get/System-Utilities/Mos.shtml#download)(让第三方鼠标滚轮丝滑顺畅)
+* https://github.com/iina/iina (最好的播放器)
 
 ## 办公软件
 * [drawio](https://github.com/jgraph/drawio-desktop/releases)(画各种图)
