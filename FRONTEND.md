@@ -494,6 +494,12 @@ https://github.com/zbysir/go-vue-ssr
 
 - lib-flexible https://github.com/amfe/lib-flexible
 
+
+### 常见问题
+- [iOS 上拉边界 下拉出现 白色空白](https://segmentfault.com/a/1190000023512164)
+- [12个前端必会 H5 问题及解决方法](https://zhuanlan.zhihu.com/p/181212066)
+- [VUE前端界面在iOS中遇到的坑](https://www.jianshu.com/p/dcdec7572987)
+
 ## h5 游戏
 
 ### 开源项目
