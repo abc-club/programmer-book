@@ -497,6 +497,7 @@ https://github.com/zbysir/go-vue-ssr
 
 ### 常见问题
 - [iOS 上拉边界 下拉出现 白色空白](https://segmentfault.com/a/1190000023512164)
+- [ios input输入时弹出键盘框 页面整体上移键盘框消失后页面不能回弹的问题](https://blog.csdn.net/zhangkeke_/article/details/88739521)
 - [12个前端必会 H5 问题及解决方法](https://zhuanlan.zhihu.com/p/181212066)
 - [VUE前端界面在iOS中遇到的坑](https://www.jianshu.com/p/dcdec7572987)
 
