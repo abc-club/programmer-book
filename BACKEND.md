@@ -144,6 +144,8 @@
 #### nodejs
 * [seneca](https://github.com/senecajs/seneca)(微服务框架)
 * [nest](https://github.com/nestjs/nest)
+* [nestjs中文官网](https://docs.nestjs.cn/)
+* [nestjs官网](https://docs.nestjs.com/)
 * [hprose-nodejs](https://github.com/hprose/hprose-nodejs)
 
 
