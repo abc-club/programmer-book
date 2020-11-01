@@ -1017,6 +1017,7 @@ Chrome DevTools
 - [高级前端基础-JavaScript 抽象语法树 AST](https://juejin.im/post/5c8d3c48f265da2d8763bdaf)
 - [astexplorer](https://astexplorer.net/)
 - [面试官: 你了解过 Babel 吗？写过 Babel 插件吗? 答: 没有。卒](https://juejin.im/post/5a9315e46fb9a0633a711f25)
+- [动态模板生成小技巧](https://mp.weixin.qq.com/s/Yd7WNO8Ix8CaOM2APoeUgg)
 
 #### html
 
