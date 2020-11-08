@@ -64,6 +64,8 @@
 
 ### vue3
 
+- [vue3官网](https://v3.vuejs.org/)
+- [vue3中文官网](https://v3.cn.vuejs.org)
 - [vue3](https://github.com/vuejs/vue-next)
 - [vue-next-template-explorer](https://vue-next-template-explorer.netlify.app)
 
