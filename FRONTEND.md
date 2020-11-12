@@ -177,6 +177,8 @@ https://github.com/zbysir/go-vue-ssr
 - [lerna](https://github.com/lerna/lerna)(多个包在一起打包)
 - [基于 Lerna 管理 packages 的 Monorepo 项目最佳实践](https://juejin.im/post/5d4aa8905188250e4258249e)
 - [Vue CLI 3 结合 Lerna 进行 UI 框架设计](https://juejin.im/post/5cb12844e51d456e7a303b64)
+- [lerna帮助项目多包管理](https://www.zhangjinglin.cn/blog/d3dd7adfcdbaeb5f7adb7d78ded8ad95.html)
+
 
 #### 常用组件或工具
 
