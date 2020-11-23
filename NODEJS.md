@@ -231,6 +231,7 @@
 - [官网](https://www.mysql.com/)
 - [mysqljs](https://github.com/mysqljs/mysql)
 - [21 分钟 MySQL 基础入门](https://segmentfault.com/a/1190000006876419)
+- [15000 字的 SQL 语句大全](https://zhuanlan.zhihu.com/p/179168307)
 - [2019-01-11 亲测 Navicat Premium for Mac 破解](https://www.jianshu.com/p/4e93b48f9f63)
 - [MySQL 命令，一篇文章替你全部搞定](https://juejin.im/post/5ae55861f265da0ba062ec71)
 - [bookshelf](https://github.com/bookshelf/bookshelf)(A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js)

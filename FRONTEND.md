@@ -47,6 +47,7 @@
 - [学习网站](#学习网站)
 - [工程化](#工程化)
 - [值得注意的库](#值得注意的库)
+- [效率](效率)
 
 ## vue
 
@@ -1073,5 +1074,9 @@ Chrome DevTools
 - [hyperapp](https://github.com/jorgebucaran/hyperapp)(类似 react vue)
 
 * [开发者手册](https://cloud.tencent.com/developer/doc/1070)
+
+## 效率
+- [【告别复制粘贴】动态模板生成小技巧](https://mp.weixin.qq.com/s/Yd7WNO8Ix8CaOM2APoeUgg)
+
 
 [↑ 返回目录 ↑](#目录)
