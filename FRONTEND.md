@@ -348,6 +348,13 @@ https://github.com/zbysir/go-vue-ssr
 
 - simditor https://github.com/mycolorway/simditor
 - https://mdnice.com/?from=juejin
+- [ueditor]([ueditor](https://github.com/fex-team/ueditor))
+- [wangEditor](https://github.com/wangeditor-team/wangEditor)
+- [prosemirror](https://prosemirror.net/)
+
+#### 文章
+- [富文本编辑器初探](https://juejin.cn/post/6844903555900375048)
+- [富文本原理了解一下？](https://juejin.cn/post/6844903871110709256)
 
 ### 时间
 
@@ -1077,6 +1084,6 @@ Chrome DevTools
 
 ## 效率
 - [【告别复制粘贴】动态模板生成小技巧](https://mp.weixin.qq.com/s/Yd7WNO8Ix8CaOM2APoeUgg)
-
+- [bit](https://github.com/teambit/bit)(搭建组件平台)
 
 [↑ 返回目录 ↑](#目录)
