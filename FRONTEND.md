@@ -416,6 +416,9 @@ https://github.com/zbysir/go-vue-ssr
 - [JavaScript 工具函数大全（新）](https://juejin.im/post/5da1a04ae51d45783d6122bf)
 - [js 运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - [书到用时方恨少，一大波 JS 开发工具函数来了](https://juejin.im/post/5e6cf42bf265da57397e3694)
+- [JavaScript 20 年](https://github.com/doodlewind/jshistory-cn)
+- [mocha1995](https://github.com/doodlewind/mocha1995)
+
 
 ### 正则表达式
 
