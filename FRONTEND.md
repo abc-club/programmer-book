@@ -351,6 +351,7 @@ https://github.com/zbysir/go-vue-ssr
 - [ueditor]([ueditor](https://github.com/fex-team/ueditor))
 - [wangEditor](https://github.com/wangeditor-team/wangEditor)
 - [prosemirror](https://prosemirror.net/)
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)(里面的文本编辑器)
 
 #### 文章
 - [富文本编辑器初探](https://juejin.cn/post/6844903555900375048)
