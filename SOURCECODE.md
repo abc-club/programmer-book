@@ -32,6 +32,8 @@
 ## vscode
 * [VSCode 是怎么运行起来的？](https://www.barretlee.com/blog/2019/08/03/vscode-source-code-reading-notes/)
 * [微软 VSCode IDE 源码分析揭秘](https://zhuanlan.zhihu.com/p/99587182)
+- [VSCode 工作区切换](https://geek-docs.com/vscode/vscode-tutorials/vscode-workspace-switch.html)
+
 
 ## weex
 * [Weex 中别具匠心的 JS Framework](https://halfrost.com/weex_js_framework/)
