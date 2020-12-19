@@ -244,6 +244,9 @@
 - [typeorm](https://github.com/typeorm/typeorm)
 
 
+### sqlite
+- [sqlite](https://www.runoob.com/sqlite/sqlite-installation.html)
+
 #### 客户端
 
 - [navicat-premium](https://www.navicat.com.cn/download/navicat-premium)
