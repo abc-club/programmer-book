@@ -53,6 +53,9 @@
 11. php -> vs studio 2017 要修改 php.ini 参考 http://blog.csdn.net/rilyu/article/details/37379873 √
 12. switchhosts
 13. oh-my-zsh https://github.com/robbyrussell/oh-my-zsh
+14. termius https://www.termius.com/mac-os
+
+
 
 
 #### 脚手架
