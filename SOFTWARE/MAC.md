@@ -56,7 +56,18 @@
 14. termius https://www.termius.com/mac-os
 
 
+#### shell
+- Tree
+- Autojump  `brew install autojump`
+- Extract
+- colorls
 
+
+#### vim 插件
+- easymotion/vim-easymotion
+- Yggdroot/LeaderF
+- preservim/nerdtree
+- tpope/vim-surround
 
 #### 脚手架
 
