@@ -141,3 +141,6 @@ https://prettier.io/
 ### 安装 code 命令
 
 打开命令面板　输入 code 选择安装
+
+## 周边
+* [code-server](https://github.com/cdr/code-server)(Run VS Code on a remote server)
