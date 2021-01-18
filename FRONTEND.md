@@ -786,6 +786,13 @@ https://github.com/zbysir/go-vue-ssr
 - [[第 1 期] H5 海报生成 核心原理解析](https://mp.weixin.qq.com/s/wpSYdWmYYxd-Qyib-tOJvA)
 - [一篇文章彻底搞定富文本原理 + 实战](https://mp.weixin.qq.com/s/kmqT6x-59vkHMdPa8vY4tQ)
 
+
+微软power apps
+google app maker
+阿里妈妈创意中心
+云凤蝶
+imgcook
+
 ## 数据结构与算法
 
 ### 算法
