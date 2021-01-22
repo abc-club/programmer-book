@@ -23,6 +23,7 @@
 - [JavaScript 数据结构与算法之美](https://github.com/biaochenxuying/blog)
 - [stateofjs](https://stateofjs.com/)
 - [2018js 生态趋势](https://2018.stateofjs.com/cn/introduction/)
+- [2020js 生态趋势](https://2020.stateofjs.com/zh-Hans/)
 
 - [前端技术栈干货文章链接（精品）](https://zhuanlan.zhihu.com/p/76184208)
 - [掘金排行前 5000 大佬 | 掘金文章排行 看这里](https://juejin.im/post/5d57f9a6f265da03b1204953)
