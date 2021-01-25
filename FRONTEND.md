@@ -287,6 +287,11 @@ https://github.com/zbysir/go-vue-ssr
 
 * [Vulcan.js](https://github.com/vulcanjs/vulcan)(The full-stack React+GraphQL framework)
 
+
+### 解决方案
+
+- [react-templates](https://github.com/wix/react-templates)(类似vue的写法)
+
 ## 服务端渲染
 
 - next.js https://github.com/zeit/next.js
@@ -766,6 +771,7 @@ https://github.com/zbysir/go-vue-ssr
 - [Vue + Koa 从零打造一个 H5 页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
 - [luban-h5](https://github.com/ly525/luban-h5)(类似易企秀的H5制作、建站工具)
+- [Vue-Layout](https://github.com/jaweii/Vue-Layout)(vue可视化搭建)
 
 ### 文章
 
@@ -793,6 +799,8 @@ google app maker
 阿里妈妈创意中心
 云凤蝶
 imgcook
+飞冰
+
 
 ## 数据结构与算法
 
