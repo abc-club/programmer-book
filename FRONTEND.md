@@ -80,6 +80,7 @@
 - [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.im/post/5d0259f2518825405d15ae62)
 - [Vue3 究竟好在哪里？（和 React Hook 的详细对比）](https://juejin.im/post/5e9ce011f265da47b8450c11)
 - [Vue3 体验卡～](https://juejin.im/post/5e1451385188253ab54142e9)
+- [mini-vue](https://github.com/cuixiaorui/mini-vue)
 
 ### 组件库或框架
 
@@ -425,7 +426,7 @@ https://github.com/zbysir/go-vue-ssr
 - [书到用时方恨少，一大波 JS 开发工具函数来了](https://juejin.im/post/5e6cf42bf265da57397e3694)
 - [JavaScript 20 年](https://github.com/doodlewind/jshistory-cn)
 - [mocha1995](https://github.com/doodlewind/mocha1995)
-
+- [freecodecamp](https://learn.freecodecamp.one/)
 
 ### 正则表达式
 
@@ -515,6 +516,8 @@ https://github.com/zbysir/go-vue-ssr
 - [前端基础知识概述 -- 移动端开发的屏幕、图像、字体与布局的兼容适配](https://juejin.im/post/5d70747cf265da03e16897c8)
 - [移动端 1px 细线解决方案总结](https://www.cnblogs.com/lunarorbitx/p/5287309.html)
 - [稍微整理了几个经常在 H5 移动端开发遇到的东西](https://juejin.im/post/5d6e1899e51d453b1e478b29)
+- [中高级前端必须注意的40条移动端H5坑位指南 | 网易三年实践](https://juejin.cn/post/6921886428158754829)
+
 
 ### 常用库
 
@@ -532,6 +535,7 @@ https://github.com/zbysir/go-vue-ssr
 ### 开源项目
 
 - [Hilo - HTML5 互动游戏引擎](https://github.com/hiloteam/Hilo)
+- [github games](https://github.com/leereilly/games)
 
 ### demo
 
