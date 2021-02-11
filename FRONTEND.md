@@ -84,6 +84,7 @@
 
 ### 组件库或框架
 
+- [vue-tailwind](https://github.com/alfonsobries/vue-tailwind)(tailwind规范组件)
 - [uni-app](https://github.com/dcloudio/uni-app)(uni-app 是一个使用 Vue.js 开发小程序、H5、App 的统一前端框架)
 - [chameleon](https://github.com/didi/chameleon)(滴滴一套代码运行多端，一端所见即多端所见)
 
