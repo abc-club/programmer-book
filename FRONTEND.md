@@ -190,6 +190,8 @@ https://github.com/zbysir/go-vue-ssr
 - [vue-cookieconsent-component](https://www.npmjs.com/package/vue-cookieconsent-component)
 - [vue-if-bot](https://www.npmjs.com/package/vue-if-bot)(防止机器人看到)
 - [vue-cropperjs](https://www.npmjs.com/package/vue-cropperjs)
+- [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) (无尽列表) - Recommend
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) (无尽列表) - Easy to use
 
 ### nuxt
 
