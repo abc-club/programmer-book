@@ -142,5 +142,11 @@ https://prettier.io/
 
 打开命令面板　输入 code 选择安装
 
+
+## 开发插件
+
+- [[手把手系列] 开发一个 VS Code 业务插件](https://segmentfault.com/a/1190000022914807)
+
+
 ## 周边
 * [code-server](https://github.com/cdr/code-server)(Run VS Code on a remote server)
