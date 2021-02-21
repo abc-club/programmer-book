@@ -430,6 +430,8 @@ https://github.com/zbysir/go-vue-ssr
 - [JavaScript 20 年](https://github.com/doodlewind/jshistory-cn)
 - [mocha1995](https://github.com/doodlewind/mocha1995)
 - [freecodecamp](https://learn.freecodecamp.one/)
+- [网页端「应用跳转」技术实现演变](https://zhuanlan.zhihu.com/p/33170734)
+
 
 ### 正则表达式
 
