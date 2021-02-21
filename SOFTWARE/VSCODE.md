@@ -153,3 +153,7 @@ https://prettier.io/
 * [如何在浏览器中运行VS Code？](https://blog.fundebug.com/2019/08/05/run-vscode-in-browser/)
 - [monaco-editor](https://github.com/Microsoft/monaco-editor)(vscode网页版)
 - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
+
+
+## 文章
+- [url打开vscode](https://code.visualstudio.com/docs/editor/command-line#_opening-vs-code-with-urls)
