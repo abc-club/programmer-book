@@ -76,7 +76,8 @@
 - [jsdom](https://github.com/jsdom/jsdom)(一个 JavaScript 实现各种 web 标准,使用 node . js)
 - [connect-history-api-fallback](https://github.com/bripkens/connect-history-api-fallback)(服务端不匹配 index.html 回退)
 - [joi](https://joi.dev/api/?v=17.3.0)(nodejs参数校验)
-- 
+- [fdir](https://github.com/thecodrr/fdir)(The Fastest Directory Crawler & Globber for NodeJS)
+- [nodegit](https://github.com/nodegit/nodegit)(nodegit操作)
 
 
 ### 高并发
