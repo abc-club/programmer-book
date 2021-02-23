@@ -23,7 +23,7 @@
 ### 开源项目
 * [微信小程序商城](https://github.com/EastWorld/wechat-app-mall)
 * [口罩全家福 - 求帮头像 P 上 N95口罩](https://mp.weixin.qq.com/s/V_gNCAZlI6-UoZhM6WLvZQ)
-
+- [list-of-wechat-mini-program-list](https://github.com/JackonYang/list-of-wechat-mini-program-list)(开源微信小程序列表)
 
 ## Taro
 ### 参考资料
