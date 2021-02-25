@@ -82,7 +82,8 @@
 
 ### 高并发
 - [过完618！来看看 Node.js 如何实现秒杀系统](https://mp.weixin.qq.com/s/veK1nn_0O5HYwkvAEZJG9w)
-
+- [性能优化](https://juejin.cn/post/6932290083794583566)
+- 
 ## npm
 
 - [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
