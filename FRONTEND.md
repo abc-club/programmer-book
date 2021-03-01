@@ -601,6 +601,8 @@ https://github.com/zbysir/go-vue-ssr
 - [手写一个简易的 Webpack](https://juejin.im/post/5ccfe03f51882541e37e6959)
 - [从 0 到 1，手写 webpack 的开发之路](https://juejin.im/post/5e0ae192e51d454165776c7b)
 - [带你深度解锁Webpack系列(优化篇)](https://segmentfault.com/a/1190000022205477)
+- [聊一聊 webpack 的打包优化实践](https://juejin.cn/post/6844904105031237645)
+
 ## 性能与监控
 
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink)(prefetch 视野内的链接)
