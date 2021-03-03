@@ -262,6 +262,9 @@ https://github.com/zbysir/go-vue-ssr
 - [全栈 React + GraphQL 教程（一）](https://www.zcfy.cc/article/full-stack-react-graphql-tutorial-apollo-graphql-4341.html?t=new)
 - [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d)
 - [React 之 CLODOP 实战：(一)手写并打印快递单](https://juejin.im/post/5e699522e51d4526c3591397)
+- [Redux - redux-toolkit](https://juejin.cn/post/6927665767651966990)
+- [使用redux-toolkit 改造你的redux](https://juejin.cn/post/6844904129178009613)
+- [redux-toolkit 黑魔法](https://juejin.cn/post/6906401963655561223)
 
 ### 常用库
 
@@ -269,6 +272,7 @@ https://github.com/zbysir/go-vue-ssr
 - [ant-design-mobile](https://mobile.ant.design/index-cn)
 
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
+- [redux-toolkit](https://redux-toolkit.js.org/) (Redux官方出品)
 
 * react-intl
 * rc-form https://github.com/react-component/form
