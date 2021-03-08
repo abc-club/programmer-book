@@ -695,7 +695,7 @@ https://www.runoob.com/cssref/css-selectors.html
 ## hr面
 
 - [面试被问感情状况，怎样回答最加分？](https://zhuanlan.zhihu.com/p/75932700)
-  目前是单身状态，我觉得感情看缘分不要着急，先找到一份满意的工作，让自己经济独立才是最为重要。
+  先找到一份满意的工作，让自己经济独立才是最为重要。
 
 
 ## 面试题
