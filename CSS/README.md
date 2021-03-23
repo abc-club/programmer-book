@@ -22,6 +22,7 @@
 - [CSS 的未来已来](https://juejin.im/post/5dcb9c126fb9a04aba52bdf4)
 - [CSS 简单的继承](https://juejin.im/post/5dcb89186fb9a04a752ba034)
 - [CSS module 入门](https://segmentfault.com/a/1190000014722978)
+- [1.5 万字 CSS 基础拾遗（核心知识、常见需求）](https://juejin.cn/post/6941206439624966152)
 
 ### demo
 
