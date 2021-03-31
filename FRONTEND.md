@@ -270,6 +270,9 @@ https://github.com/zbysir/go-vue-ssr
 - [Redux - redux-toolkit](https://juejin.cn/post/6927665767651966990)
 - [使用redux-toolkit 改造你的redux](https://juejin.cn/post/6844904129178009613)
 - [redux-toolkit 黑魔法](https://juejin.cn/post/6906401963655561223)
+- [最受欢迎的5个React动画库](https://juejin.cn/post/6945015156933918734)
+- [「react进阶」一文吃透react-hooks原理](https://juejin.cn/post/6944863057000529933)
+
 
 ### 常用库
 
