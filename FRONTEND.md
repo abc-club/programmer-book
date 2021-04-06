@@ -881,12 +881,17 @@ imgcook
 
 - [QuickJS](https://github.com/quickjs-zh/QuickJS)
 
+
+
 ### 文章
 
 - [JavaScriptCore 全面解析](https://juejin.im/post/5c46ecec6fb9a049d1327821)
 - [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 - [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
 - [JavaScript 引擎是如何工作的？从调用栈到 Promise 你需要知道的一切](https://segmentfault.com/a/1190000019205065)
+- [🤔 移动端 JS 引擎哪家强？美国硅谷找......](https://mp.weixin.qq.com/s/2cxe1L9_vyB8oNg2jr2rkg)
+
+
 
 ## 代码规范
 
