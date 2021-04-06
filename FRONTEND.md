@@ -789,6 +789,8 @@ https://github.com/zbysir/go-vue-ssr
 - [vue-echarts](https://github.com/ecomfe/vue-echarts)
 - [v-charts](https://github.com/ElemeFE/v-charts)
 
+- [LogicFlow](https://github.com/didi/LogicFlow)(滴滴开源的流程可视化前端框架)
+- 
 ### 开源项目
 
 - [Vue + Koa 从零打造一个 H5 页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
