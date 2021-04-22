@@ -65,6 +65,13 @@
 
 
 ## golang
+
+### 文章
+
+- [对Golang一知半解？这里是上百篇掘金Golang优质文章｜ Go主题月](https://juejin.cn/post/6953073994383753223)
+
+### 书
+
 - [Golang标准库文档](https://studygolang.com/pkgdoc)
 - [Go 入门指南](https://learnku.com/docs/the-way-to-go)
 - [Go语言圣经（中文版)](https://yar999.gitbook.io/gopl-zh/)

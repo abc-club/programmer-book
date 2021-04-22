@@ -429,6 +429,8 @@ https://github.com/zbysir/go-vue-ssr
 
 ## js
 
+- [2020年 JavaScript 明星项目](https://risingstars.js.org/2020/zh)(bestofjs)
+
 - [JS 官方教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [JS 代码片段](./JS/JS代码片段.md)
 - [JavaScript 八张思维导图](https://zhuanlan.zhihu.com/p/60003120)
