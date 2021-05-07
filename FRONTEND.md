@@ -374,6 +374,7 @@ https://github.com/zbysir/go-vue-ssr
 - [wangEditor](https://github.com/wangeditor-team/wangEditor)
 - [prosemirror](https://prosemirror.net/)
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)(里面的文本编辑器)
+- [monaco-editor](https://github.com/microsoft/monaco-editor)(代码编辑器)
 
 #### 文章
 - [富文本编辑器初探](https://juejin.cn/post/6844903555900375048)
