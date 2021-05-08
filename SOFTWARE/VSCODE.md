@@ -157,3 +157,5 @@ https://prettier.io/
 
 ## 文章
 - [url打开vscode](https://code.visualstudio.com/docs/editor/command-line#_opening-vs-code-with-urls)
+- [launch-editor](https://github.com/yyx990803/launch-editor)(打开代码编辑器)
+- 

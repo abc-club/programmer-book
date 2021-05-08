@@ -20,6 +20,8 @@ Do it yourself!!!
 - [跟 underscore 一起学如何写函数库](https://juejin.im/post/5c7e9680e51d451581086bc4)
 - [「中高级前端面试」JavaScript 手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6)
 - [如何用不到 200 行代码写一款属于自己的 js 类库](https://juejin.im/post/5d1e26a2e51d45595319e3a9)
+- [学习 sentry 源码整体架构，打造属于自己的前端异常监控SDK](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650744551&idx=1&sn=4d79c2fa97d7c737aab70055c7ec7fa3&chksm=8866256bbf11ac7d9e2269f3638a705d5e5f45056d53ad2faf17b814e4c46ec6b0ba52571bde&scene=21#wechat_redirect)
+
 
 ## 实战
 
