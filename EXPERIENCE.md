@@ -74,3 +74,4 @@
 * [阿里6年多程序员的经验总结，写给还在迷茫中的朋友](https://www.toutiao.com/a6735313188658610702)
 * [感觉自己不会的东西太多了，不知道如何下手？](https://juejin.im/post/5da3d6a16fb9a04dfd26728f)
 - [我在阿里半年收获的成长](https://juejin.cn/post/6923016622273724430)
+- [浅谈：前端如何赋能业务](https://zhuanlan.zhihu.com/p/62722892)(职业规划)
