@@ -19,6 +19,7 @@
 14. gitbook
 15. iThoughtsX
 * [Alfred](https://www.jianshu.com/p/6d08c95b7f36)
+  * [alfy](https://github.com/sindresorhus/alfy#readme)(nodejs开发alfred)
 
 * BetterZip
 * AppZapper
