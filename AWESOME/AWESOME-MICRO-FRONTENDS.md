@@ -27,6 +27,10 @@
 * [nut](https://github.com/nut-project/nut)(网易出品)
 * [puzzle-js](https://github.com/puzzle-js/puzzle-js)(Micro frontend framework for scalable and blazing fast websites)
 * [Ara Framework](https://ara-framework.github.io/website/)
+* [module-federation-examples](https://github.com/module-federation/module-federation-examples)(微前端开源框架)
+* [emp](https://github.com/efoxTeam/emp)(欢聚时代微前端开源框架)
+
+
 
 ## demo
 * [vue Microfrontends](https://github.com/joeldenning/coexisting-vue-microfrontends)
