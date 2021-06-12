@@ -728,6 +728,22 @@ https://github.com/zbysir/go-vue-ssr
 - [微前端在美团外卖的实践](https://juejin.im/post/5e57b6f0f265da57547794c9)
 - [未来魔法校的微前端实践](https://juejin.im/post/5e6a0428e51d4527110a9f61)
 - [Berial，一个硬了的微前端框架](https://juejin.im/post/6856170280600109064)
+- [你必须知道的11个微前端框架](https://cloud.tencent.com/developer/news/709687)
+
+
+#### 标准
+
+- [polymer](https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview)
+
+#### 框架
+
+- [magic-microservices](https://github.com/bytedance/magic-microservices)(字节开源)
+- [qiankun](https://qiankun.umijs.org/zh/guide)(阿里开源)
+- [garfish](https://github.com/bytedance/garfish)(字节开源)
+- [emp](https://github.com/efoxTeam/emp)(yy开源)
+- [icestark](https://github.com/ice-lab/icestark/)
+- 
+
 
 ### WebAssembly
 
@@ -751,6 +767,11 @@ https://github.com/zbysir/go-vue-ssr
 - [[译] 2018 来谈谈 Web Component](https://juejin.im/post/5b780a98e51d4538980bf5cf)
 - [JavaScript 是如何工作：Shadow DOM 的内部结构 + 如何编写独立的组件！](https://juejin.im/post/5c4fac7ef265da6147709696)
 - [再加 150 行代码教你实现一个低配版的 web component 库](https://segmentfault.com/a/1190000011015980)
+
+#### 组件
+- [omi](https://github.com/Tencent/omi)(前端跨框架跨平台框架)
+
+
 
 ### 打包
 
