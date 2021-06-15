@@ -731,7 +731,6 @@ https://github.com/zbysir/go-vue-ssr
 - [你必须知道的11个微前端框架](https://cloud.tencent.com/developer/news/709687)
 - [万字长文+图文并茂+全面解析微前端框架 qiankun 源码 - qiankun 篇](https://segmentfault.com/a/1190000022275991)
 - [微前端连载 6/7：微前端框架 - qiankun 大法好](https://juejin.cn/post/6846687602439897101)
-- [沙箱Sandbox优化-技术方案](https://bytedance.feishu.cn/wiki/wikcn3LgCff0snN98d0tiWj4jGw#YfnLAn)
 - [阿里云开放平台微前端方案的沙箱实现](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484715&idx=1&sn=7412b30838d652df5bdbc058e790bae2&scene=21#wechat_redirect)
 
 
