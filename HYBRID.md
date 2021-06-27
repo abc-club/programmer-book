@@ -74,6 +74,11 @@
 * [flutter-go *16k+](https://github.com/alibaba/flutter-go)
 * [awesome-fluttercn](https://github.com/fluttercnclub/awesome-fluttercn)
 * [material design](https://material-io.cn/)
+* [thresh](https://github.com/ymm-tech/thresh)(运满满开源flutter方案) https://github.com/ymm-tech/thresh-template https://github.com/ymm-tech/thresh-cli
+* 
+
+
+
 
 
 ### demo
