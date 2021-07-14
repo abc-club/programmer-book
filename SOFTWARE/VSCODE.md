@@ -158,4 +158,6 @@ https://prettier.io/
 ## 文章
 - [url打开vscode](https://code.visualstudio.com/docs/editor/command-line#_opening-vs-code-with-urls)
 - [launch-editor](https://github.com/yyx990803/launch-editor)(打开代码编辑器)
-- 
+- - [vscode 定制开发 —— Workbench 源码解读及实战](https://zhaomenghuan.js.org/blog/vscode-workbench-source-code-interpretation.html#%E5%89%8D%E8%A8%80)
+- [VSCode源码分析](https://www.bookstack.cn/read/VSCode-sourcecode-analysis/README.md)
+- [带你开发和调试 VS Code 源码](https://www.barretlee.com/blog/2019/11/01/vscode-study-02-debugging/)
