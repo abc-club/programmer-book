@@ -82,6 +82,16 @@
 - [Vue3 体验卡～](https://juejin.im/post/5e1451385188253ab54142e9)
 - [mini-vue](https://github.com/cuixiaorui/mini-vue)
 
+
+### vite
+
+- [Vue 2 系统如何快速迁移 Vite 作为开发工具](https://juejin.cn/post/6981626324880195614)
+- [vue-cli 迁移 vite2 实践小结](https://juejin.cn/post/6934316962952544269)
+- [wp2vite](https://github.com/tnfe/wp2vite)(webpack转vite)
+- [add-vue-suffix](https://github.com/BryanAdamss/add-vue-suffix)(加.vue)
+- [vue2迁移vite(vue2+ vite2 + ts)](https://juejin.cn/post/6975094506915889160)
+
+
 ### 组件库或框架
 
 - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind)(tailwind规范组件)
