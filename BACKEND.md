@@ -102,6 +102,12 @@
 - [unrecognized import path - install error](https://github.com/Rivalo/discord-cli/issues/33)
 - [cannot find module providing package或cannot find main module](https://www.cnblogs.com/jasonLiu2018/p/12935071.html)
 
+
+
+
+## cmake
+
+- [CMake从入门到精通系列链接整理](https://zhuanlan.zhihu.com/p/393316878)
 ## linux
 
 - [6w字搞定Linux基本操作，建议收藏](https://juejin.cn/post/6917096816118857736)
