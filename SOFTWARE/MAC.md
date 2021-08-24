@@ -41,7 +41,13 @@
 ### 开发环境
 
 1.  homebrew http://brew.sh/ √
-1.  iTerm2   https://juejin.im/post/5d480e5ee51d4561f64a07b1 [mac下终端iTerm2配置](https://www.jianshu.com/p/bb630ada1f02)   [Mac版iterm2如何设置热键悬浮窗口](https://jingyan.baidu.com/article/154b46313fee0e28ca8f41ad.html)  [Mac上iterm2分屏切换](https://www.jianshu.com/p/4a27bb4c216c)
+1.  iTerm2   https://juejin.im/post/5d480e5ee51d4561f64a07b1 
+    1.  [mac下终端iTerm2配置](https://www.jianshu.com/p/bb630ada1f02)   
+    2.  [Mac版iterm2如何设置热键悬浮窗口](https://jingyan.baidu.com/article/154b46313fee0e28ca8f41ad.html)  
+    3.  [Mac上iterm2分屏切换](https://www.jianshu.com/p/4a27bb4c216c)
+    4.  [10 个 Terminal 主题，让你的 macOS 终端更好看](https://sspai.com/post/53008)
+
+
 2.  Zsh
 3.  git √
 4.  nvm √ 一定要比 node 先安装
