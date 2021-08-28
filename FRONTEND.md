@@ -214,6 +214,8 @@ https://github.com/zbysir/go-vue-ssr
 - [官网](https://nuxtjs.org/)
 - [中文官网](https://www.nuxtjs.cn/)
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
+- [nuxt+pm2 自动化部署及打包后文件自动上传阿里云 oss](http://quanzhan.applemei.com/webStack/TkRjNU5BPT0=)
+
 
 ### 常见问题
 
