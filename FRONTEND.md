@@ -151,7 +151,6 @@
 
 ### 开源项目
 
-- [marktext](https://github.com/marktext/marktext)(markdown editor)
 - [vue-sell](https://github.com/ustbhuangyi/vue-sell)
 - [vue2-elm \*29k+](https://github.com/bailicangdu/vue2-elm)
 - [iview-admin](https://github.com/iview/iview-admin)
@@ -391,6 +390,13 @@ https://github.com/zbysir/go-vue-ssr
 #### 文章
 - [富文本编辑器初探](https://juejin.cn/post/6844903555900375048)
 - [富文本原理了解一下？](https://juejin.cn/post/6844903871110709256)
+
+
+### markdown
+- [marktext](https://github.com/marktext/marktext)(markdown editor)
+- [bytemd](https://github.com/bytedance/bytemd)(字节开源的md编辑器)
+- 
+
 
 ### 时间
 
