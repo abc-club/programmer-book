@@ -407,6 +407,8 @@ https://github.com/zbysir/go-vue-ssr
 ### 网络请求
 
 - [axios](https://github.com/axios/axios)
+- [mande](https://github.com/posva/mande)(fetch链式工具库)
+- [fetch/node-fetch]
 
 ### 图片
 
@@ -754,7 +756,6 @@ https://github.com/zbysir/go-vue-ssr
 
 #### 标准
 
-- [polymer](https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview)
 
 #### 框架
 
@@ -782,15 +783,23 @@ https://github.com/zbysir/go-vue-ssr
 - [w3c webcomponents](https://github.com/w3c/webcomponents)
 - [Web Components 是个什么样的东西](https://juejin.im/post/57c40fd3128fe1005fd4629a)
 - [Web Components 入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html)
-- [lit-element](https://github.com/polymer/lit-element)(下一代 polymer)
-- [polymer](https://github.com/Polymer/polymer)
 - [深度介绍：💾 你听说过原生 HTML 组件吗？](https://juejin.im/post/5bc7ead7f265da0afc2c2c6b)
 - [[译] 2018 来谈谈 Web Component](https://juejin.im/post/5b780a98e51d4538980bf5cf)
 - [JavaScript 是如何工作：Shadow DOM 的内部结构 + 如何编写独立的组件！](https://juejin.im/post/5c4fac7ef265da6147709696)
 - [再加 150 行代码教你实现一个低配版的 web component 库](https://segmentfault.com/a/1190000011015980)
+- [使用web-component搭建企业级组件库](https://juejin.cn/post/6844903602746556429)
+
+#### 框架
+- [stenciljs](https://stenciljs.com/docs/getting-started)
+- [lit-element](https://github.com/polymer/lit-element)(下一代 polymer)
+- [polymer](https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview)
+- [polymer](https://github.com/Polymer/polymer)
 
 #### 组件
 - [omi](https://github.com/Tencent/omi)(前端跨框架跨平台框架)
+- [shoelace](https://github.com/shoelace-style/shoelace)
+- [xy-ui](https://github.com/XboxYan/xy-ui)
+- [duiba-components](https://github.com/azl397985856/duiba-components)(脚手架)
 
 
 
