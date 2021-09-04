@@ -47,7 +47,7 @@
 - [学习网站](#学习网站)
 - [工程化](#工程化)
 - [值得注意的库](#值得注意的库)
-- [效率](效率)
+- [效率](#效率)
 
 ## vue
 
@@ -467,6 +467,14 @@ https://github.com/zbysir/go-vue-ssr
 - [freecodecamp](https://learn.freecodecamp.one/)
 - [网页端「应用跳转」技术实现演变](https://zhuanlan.zhihu.com/p/33170734)
 
+
+### console
+- [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend)
+- [eruda](https://github.com/liriliri/eruda)
+- [vConsole](https://github.com/Tencent/vConsole)
+- [WeConsole](https://github.com/weimobGroup/WeConsole)(微信小程序console)
+- [mdebug](https://github.com/tnfe/mdebug)(腾讯开源)
+- 
 
 ### 正则表达式
 
