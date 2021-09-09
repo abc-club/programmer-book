@@ -171,6 +171,7 @@
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)(Tool for visualizing GitHub profiles)
 - [Vue + Koa 从零打造一个 H5 页面可视化编辑器——Quark-h5](https://juejin.im/post/5dc81428e51d4523632ee793)
 - [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)(适配 pc 移动端)
+- 
 
 ### vue ssr
 
@@ -859,6 +860,7 @@ https://github.com/zbysir/go-vue-ssr
 - [luban-h5](https://github.com/ly525/luban-h5)(类似易企秀的H5制作、建站工具)
 - [Vue-Layout](https://github.com/jaweii/Vue-Layout)(vue可视化搭建)
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)(react)
+- [可视化生成页面](https://juejin.cn/post/7005051399100710949)(react)
 
 ### 文章
 
