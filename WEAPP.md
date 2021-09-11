@@ -50,6 +50,7 @@
  * [dva+ts+taro 小程序构建-资料总汇](https://juejin.im/post/5d1041436fb9a07eeb13b2fa)
  * [Taro撸一个简版的微信读书小程序](https://juejin.im/post/5d1e16676fb9a07ebd48f488)
  * [Abraham - 用Taro写个垃圾分类微信小程序](https://juejin.im/post/5d2a0774518825290726fa7a)
+ * [小程序跨框架开发的探索与实践](https://mp.weixin.qq.com/s?__biz=MzU3NDkzMTI3MA==&mid=2247483770&idx=1&sn=ba2cdea5256e1c4e7bb513aa4c837834)(taro架构)
 
 
 ### 精选demo
