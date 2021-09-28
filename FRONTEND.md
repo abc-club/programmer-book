@@ -48,6 +48,7 @@
 - [工程化](#工程化)
 - [值得注意的库](#值得注意的库)
 - [效率](#效率)
+- [web ide](#web ide)
 
 ## vue
 
@@ -371,6 +372,7 @@ https://github.com/zbysir/go-vue-ssr
 
 - [core-js](https://github.com/zloirock/core-js)(es6 垫片)
 - [driver.js](https://kamranahmed.info/driver.js/)(新手指引)
+- [responsively](https://responsively.app/)(开发响应式网站效率)
 
 
 
@@ -1195,6 +1197,9 @@ Chrome DevTools
 - [hyperapp](https://github.com/jorgebucaran/hyperapp)(类似 react vue)
 
 * [开发者手册](https://cloud.tencent.com/developer/doc/1070)
+
+# web ide
+- [如何在团队内快速落地WebIDE](https://zhuanlan.zhihu.com/p/411030285)
 
 ## 效率
 - [【告别复制粘贴】动态模板生成小技巧](https://mp.weixin.qq.com/s/Yd7WNO8Ix8CaOM2APoeUgg)
