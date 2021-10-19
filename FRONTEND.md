@@ -1175,6 +1175,7 @@ Chrome DevTools
 ## 学习网站
 
 - [frontendmasters](https://frontendmasters.com)(各种大牛视频 英文)
+- [all-of-frontend](https://github.com/KieSun/all-of-frontend)
 
 ## 架构
 
