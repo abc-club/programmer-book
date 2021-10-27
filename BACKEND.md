@@ -67,7 +67,7 @@
 ## golang
 
 ### 文章
-
+- [500 + Go 语言开源项目合集（2021版）](https://zhuanlan.zhihu.com/p/424624289)
 - [对Golang一知半解？这里是上百篇掘金Golang优质文章｜ Go主题月](https://juejin.cn/post/6953073994383753223)
 
 ### 书
