@@ -1195,6 +1195,7 @@ Chrome DevTools
 
 ## 值得注意的库
 
+-[技术选型](https://open.mizhousoft.com/artifact/list.action?cid=3)
 - [hyperapp](https://github.com/jorgebucaran/hyperapp)(类似 react vue)
 
 * [开发者手册](https://cloud.tencent.com/developer/doc/1070)
