@@ -49,6 +49,7 @@
 - [值得注意的库](#值得注意的库)
 - [效率](#效率)
 - [web ide](#web ide)
+- [书](#书)
 
 ## vue
 
@@ -1206,5 +1207,9 @@ Chrome DevTools
 ## 效率
 - [【告别复制粘贴】动态模板生成小技巧](https://mp.weixin.qq.com/s/Yd7WNO8Ix8CaOM2APoeUgg)
 - [bit](https://github.com/teambit/bit)(搭建组件平台)
+
+# 书
+
+
 
 [↑ 返回目录 ↑](#目录)
