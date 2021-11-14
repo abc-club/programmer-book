@@ -15,6 +15,11 @@ features:
 # footer: MIT Licensed | Copyright © 2019-present Ping Ao. ICP:[粤ICP备19152421号](http://beian.miit.gov.cn)
 ---
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/abc-club/js-paradise.svg)](https://starchart.cc/abc-club/js-paradise)
+
+
 ## 目录
 
 - [从面试前到终面，全面为您保驾护航](INTERVIEWMOCK.md)

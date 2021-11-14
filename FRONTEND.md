@@ -341,6 +341,7 @@ https://github.com/zbysir/go-vue-ssr
 
 ## typescript
 
+
 ### 官网
 
 ### 参考资料
@@ -353,6 +354,9 @@ https://github.com/zbysir/go-vue-ssr
 - awesome https://github.com/dzharii/awesome-typescript
 - TypeScript 入门指南（基础篇） https://juejin.im/post/5d3bb567f265da1b8f1b09c1
 - TypeScript 入门指南 https://mp.weixin.qq.com/s/Oyawvb5BD-OKvMuF2tQ0pw?
+- [你不知道的 TypeScript 高级类型](https://segmentfault.com/a/1190000023800536)
+
+
 
 ### react+typescript demo
 
