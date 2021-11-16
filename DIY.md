@@ -25,6 +25,8 @@ Do it yourself!!!
 
 ## 实战
 
+- [从零实现react](https://pomb.us/build-your-own-react/)(react)
+- [从零自己编写一个React框架 【中高级前端杀手锏级别技能】](https://segmentfault.com/a/1190000020034137)
 - [手把手教你使用 nodejs 编写 cli(命令行)](https://juejin.im/post/5bd90d3ce51d4579362b0390)
 - [手摸手，带你用 vue 撸后台 系列五(v4.0 新版本)](https://juejin.im/post/5c92ff94f265da6128275a85)
 - [从零开始编写一个 React 框架 【彻底了解 React 的设计思想】](https://segmentfault.com/a/1190000020034137#articleHeader0)
