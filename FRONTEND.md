@@ -32,6 +32,7 @@
 - [趋势](#趋势)
 - [动效](#动效)
 - [可视化](#可视化)
+- [低代码](#低代码)
 - [数据结构与算法 机器学习](#数据结构与算法)
 - [js core](#js-core)
 - [代码规范](#代码规范)
@@ -249,9 +250,7 @@ https://github.com/zbysir/go-vue-ssr
 * react-hook https://github.com/streamich/react-use
 * React.js 小书 https://juejin.im/post/58c7a16e2f301e006bd03dbe
 * React 入门看这篇就够了 https://segmentfault.com/a/1190000012921279#articleHeader0
-* 掘金最污的 React16.x 图文视频教程(2 万 5 千字长文-慎入) https://juejin.im/post/5d085be0f265da1bac401937?utm_source=gold_browser_extension
 * react demo https://gist.github.com/sAbakumoff/7b8510adcb16bded189d747e34f5e114
-* 一文速览 React 全栈 https://juejin.im/post/5d0ee2906fb9a07ea33c1f8b
 * React 同构与极致的性能优化 https://segmentfault.com/a/1190000012464033
 * 阿里开源项目 https://segmentfault.com/a/1190000016773002
 
@@ -322,7 +321,7 @@ https://github.com/zbysir/go-vue-ssr
 
 - [react-templates](https://github.com/wix/react-templates)(类似vue的写法)
 
-## 服务端渲染
+### 服务端渲染
 
 - next.js https://github.com/zeit/next.js
 - [nextjs 官网](https://nextjs.org/)
@@ -896,6 +895,9 @@ google app maker
 云凤蝶
 imgcook
 飞冰
+
+## 低代码
+- [🔥 重磅推荐，Github上一批优秀的「低代码」项目 ，点赞收藏按需取用](https://zhuanlan.zhihu.com/p/435316515)
 
 
 ## 数据结构与算法
