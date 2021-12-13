@@ -60,4 +60,5 @@
 ## 经济
 
 - [重读《一本书读懂财报》](https://zhuanlan.zhihu.com/p/131573559)
+- [税前2万4，到手1万4，心态崩了！](https://mp.weixin.qq.com/s/ggc0YtHHqCyEIQrjYIVXPA)
 
