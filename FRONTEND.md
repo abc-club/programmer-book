@@ -242,6 +242,7 @@ https://github.com/zbysir/go-vue-ssr
 
 ### 参考资料
 
+- [三天精通 React](https://bytedance.feishu.cn/docs/doccnmgIb5KcV3F0zeE47o6PvCh#)
 - [React 技术揭秘](https://react.iamkasong.com)
 - [React 源码解析](https://github.com/KieSun/react-interpretation)
 - [你真的了解 React 生命周期吗](https://juejin.im/post/5df648836fb9a016526eba01)
