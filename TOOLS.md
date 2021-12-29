@@ -50,3 +50,6 @@
 
 ## xss
 - [xss](https://github.com/leizongmin/js-xss/blob/master/README.zh.md)(npm install xss)
+
+# 工具
+- [json转ts工具](https://apihelper.jccore.cn/jsontool)
