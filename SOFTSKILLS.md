@@ -69,3 +69,53 @@
 
 # 成长
 -[前端架构师亲述：前端工程师成长之路的 N 问 及 回答](https://juejin.cn/post/6844903872108953613)
+
+# 研发效率
+
+## 工具
+- [粉丝推荐 7 个 GitHub 项目，果然 yyds](https://juejin.cn/post/7046260884158562317)
+
+
+# 专业技能
+
+
+
+## 计算机基础
+- [计算机自学之旅](https://github.com/ossu/computer-science)
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)
+
+
+## 前端
+
+### 微前端
+- []()
+
+
+## 服务端
+
+### java
+- [微服务实战教程](https://github.com/sqshq/piggymetrics)
+
+## 前沿
+
+### 跨平台
+flutter
+Tauri
+
+
+### web3.0
+
+
+### ar
+@react-three/xr
+react-force-graph
+
+
+### vr
+
+
+### 区块链
+
+
+### webgl threejs
+
