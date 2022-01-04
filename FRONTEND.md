@@ -903,6 +903,7 @@ imgcook
 - [🔥 重磅推荐，Github上一批优秀的「低代码」项目 ，点赞收藏按需取用](https://zhuanlan.zhihu.com/p/435316515)
 - [前端页面可视化搭建工具业界的轮子](https://juejin.cn/post/6858881797490098190)
 - [Low code 之从零搭建一个h5可视化平台](https://juejin.cn/post/7015890033622646792)
+- [前端可视化搭建整理--所见即所得](https://juejin.cn/post/7021024517019402270)
 
 
 ## 数据结构与算法

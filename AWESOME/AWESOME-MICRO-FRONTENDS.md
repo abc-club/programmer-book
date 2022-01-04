@@ -19,6 +19,8 @@
 * [了解什么是微前端]( https://juejin.im/post/5d1f19e3f265da1bab29ce5f)
 * [微前端实践](https://juejin.im/post/5cadd7835188251b2f3a4bb0)
 * [前端微服务化解决方案2 - Single-SPA](https://alili.tech/archive/11052bf4/)
+* [从零开始写一个微前端框架-数据通信篇](https://juejin.cn/post/6993210363072217096)
+* [从零到一实现企业级微前端框架，保姆级教学](https://juejin.cn/post/7004661323124441102)
 
 
 ## 开源库
