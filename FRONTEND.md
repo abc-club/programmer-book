@@ -305,6 +305,10 @@ https://github.com/zbysir/go-vue-ssr
 - [immerjs](https://github.com/immerjs/immer)(数据不可变)
 - immutable https://github.com/immutable-js/immutable-js
 - [immer.js:也许更适合你的 immutable js 库](https://juejin.im/post/5e83e532f265da47e02a6d5a)
+- [rxjs](https://rxjs.dev/guide/overview)(函数响应式编程)(https://cn.rx.js.org/manual/overview.html)
+- [rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks)(力扣开源)
+
+
 
 ### 框架
 
@@ -494,7 +498,7 @@ https://github.com/zbysir/go-vue-ssr
 - [JS 正则表达式完整教程（略长）](https://juejin.im/post/5965943ff265da6c30653879)
 
 ### 函数式编程
-
+- [函数式编程，真香](https://juejin.cn/post/6844903743117361165)
 - [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS)(English)
 - [JavaScript 轻量级函数式编程](https://segmentfault.com/a/1190000010887890)(中文翻译)
 - [「前端进阶」彻底弄懂函数组合](https://juejin.im/post/5d50bfebf265da03cb122b6f)
