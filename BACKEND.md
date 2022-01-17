@@ -3,7 +3,9 @@
 ## rust
 - [rust中文官网](https://www.rust-lang.org/zh-CN/)
 - [RUST 是 JavaScript 基建的未来](https://juejin.cn/post/7030997083582627870)
-- []()
+- [写给前端看的Rust教程](https://juejin.cn/post/7038877104175824909)
+
+
 
 
 ## python

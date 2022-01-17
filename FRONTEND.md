@@ -350,6 +350,7 @@ https://github.com/zbysir/go-vue-ssr
 
 ### 参考资料
 
+- [2021 TypeScript史上最强学习入门文章 ( 2w 字)](https://zhuanlan.zhihu.com/p/455991366)(看这篇就够了)
 - 深入理解 TypeScript https://github.com/jkchao/typescript-book-chinese https://jkchao.github.io/typescript-book-chinese/ https://github.com/basarat/typescript-book/
 - typescript 中文 https://www.tslang.cn/
 - typescript 中文 https://ts.xcatliu.com/ https://zhongsp.gitbooks.io/typescript-handbook/content/doc/handbook/Advanced%20Types.html
