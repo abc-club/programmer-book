@@ -51,7 +51,7 @@ github: https://github.com/YMFE/yapi
 
 
 ```
-npm install -g yapi-cli --registry https://registry.npm.taobao.org
+npm install -g yapi-cli --registry https://registry.npmmirror.com
 yapi server
 
 ```
