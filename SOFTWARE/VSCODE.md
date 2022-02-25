@@ -13,6 +13,7 @@
 ### 总览
 
 * prettier 格式化代码
+* fileheader 生成文件头
 * Auto Close Tag 自动闭合 HTML 标签
 * Auto Import Typescript 自动 import 提示
 * Auto Rename Tag 修改 HTML 标签时，自动修改匹配的标签
