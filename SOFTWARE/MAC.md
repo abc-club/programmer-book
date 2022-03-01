@@ -159,3 +159,10 @@ https://jingyan.baidu.com/article/e8cdb32beec90337052bad89.html
 
 #### Open With VSCode----在Mac上右键菜单通过Visual Studio Code打开文件夹操作的设置
 https://blog.csdn.net/u013069892/article/details/83147239
+
+### 工具
+
+- []()
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)(notion)
+- [autocomplete](https://github.com/withfig/autocomplete)(终端自动补全)
+
