@@ -194,12 +194,7 @@ https://github.com/zbysir/go-vue-ssr
   注意：一定要使用 npm 安装 eslint 和 husky，因为在 windows 操作系统下, 用 yarn 安装依赖，不会触发 husky pre-commit 钩子命令。
   还有就是注意 husky 的版本，否则也可能不触发 git 钩子
 
-#### lerna
 
-- [lerna](https://github.com/lerna/lerna)(多个包在一起打包)
-- [基于 Lerna 管理 packages 的 Monorepo 项目最佳实践](https://juejin.im/post/5d4aa8905188250e4258249e)
-- [Vue CLI 3 结合 Lerna 进行 UI 框架设计](https://juejin.im/post/5cb12844e51d456e7a303b64)
-- [lerna帮助项目多包管理](https://www.zhangjinglin.cn/blog/d3dd7adfcdbaeb5f7adb7d78ded8ad95.html)
 
 
 #### 常用组件或工具
@@ -225,6 +220,22 @@ https://github.com/zbysir/go-vue-ssr
 - [vue 项目使用 svg 图片（svg-sprite-loader 以及 vue2-svg-icon 的使用）](https://blog.csdn.net/txfyteen/article/details/84865157)
 - [VUE-cli3 使用 svg-sprite-loader](https://juejin.im/post/6844903695478439949)
 
+
+## monorepo
+
+
+### lerna
+
+- [lerna](https://github.com/lerna/lerna)(多个包在一起打包)
+- [基于 Lerna 管理 packages 的 Monorepo 项目最佳实践](https://juejin.im/post/5d4aa8905188250e4258249e)
+- [Vue CLI 3 结合 Lerna 进行 UI 框架设计](https://juejin.im/post/5cb12844e51d456e7a303b64)
+- [lerna帮助项目多包管理](https://www.zhangjinglin.cn/blog/d3dd7adfcdbaeb5f7adb7d78ded8ad95.html)
+
+### turborepo
+- [turborepo](https://github.com/vercel/turborepo)
+
+
+
 ## react
 
 ### 官网
@@ -242,6 +253,7 @@ https://github.com/zbysir/go-vue-ssr
 
 ### 参考资料
 
+- [86张脑图，一口气看完 React 🎉](https://juejin.cn/post/7085145274200358949)
 - [三天精通 React](https://bytedance.feishu.cn/docs/doccnmgIb5KcV3F0zeE47o6PvCh#)
 - [React 技术揭秘](https://react.iamkasong.com)
 - [React 源码解析](https://github.com/KieSun/react-interpretation)
